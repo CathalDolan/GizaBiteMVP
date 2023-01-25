@@ -45,7 +45,7 @@
                     <h2 class="ms-3">Ingredients</h2>
                 </div>
                 <div id="ingredient_group_1">
-                    <div class="container" id="add_ingredient_container">
+                    <div class="container" id="add_ingredient_container_1">
                         <!-- Ingredient Details -->
                         <div class="row mx-2" id="add_ingredient_row_1">
                             <div class="col-md-6 mt-3 col-12">
@@ -67,22 +67,45 @@
                         </div>
                     </div>
                     <!-- Cooking Method -->
-                    <div class="container" id="add_cooking_method_row_1"></div>
-                    <div id="post_cooking_method_hr"></div>
+                    <div class="container" id="add_cooking_method_container_1">
+                        <div class="row mx-2" id="add_cooking_method_row_1">
+                            <div class="col-md-6 mt-2 col-12">
+                                <select class="form-select" name="cooking_method">
+                                    <option value="" disabled selected>Cooking Method</option>
+                                    <option value="Boiled">Boiled</option>
+                                    <option value="Deep Fried">Deep Fried</option>
+                                    <option value="Baked">Baked</option>
+                                </select>
+                            </div>
+                            <div class="col-md-6 mt-2 col-12">
+                                <select class="form-select" name="substrate">
+                                    <option value="" disabled selected>Substrate</option>
+                                    <option value="Vegetable Oil">Vegetable Oil</option>
+                                    <option value="Stock">Stock</option>
+                                    <option value="Butter">Butter</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Add Ingredients & Cooking Section -->
+                    <div class="container element-container mx-auto">
+                        <div class="row mt-3 mb-2 mx-2">
+                            <div class="col-2 col-md-1 col-css">
+                                <button id="add_ingredient_button_1" type="button" onclick="add_ingredient(this)">Add Ingredient</button>
+                            </div>
+                        </div>
+                    </div>
+                    <hr class="max_width_500">
                 </div>
-                <div id="ingredient_group_2"></div>
             </div>
         </form>
     </div>
 
-    <!-- Add Ingredients & Cooking Section -->
+    <!-- Add New Ingredient Group -->
     <div class="container element-container mx-auto">
         <div class="row mt-3 mb-2 mx-2">
-            <div class="col-2 col-md-1 col-css">
-                <button><img src="{% static 'images/add_ingredient.png' %}" alt="add ingredient icon" class="non-round-icon" height="25px" onclick="add_ingredient()"></button>
-            </div>
             <div class="col-2 col-mb-1 col-css">
-                <button><img src="{% static 'images/cooking_method.png' %}" alt="cooking method icon" class="non-round-icon" height="25px" onclick="add_cooking_method()"></button>
+                <button onclick="add_ingredient_group()">Add Ingredient Group</button>
             </div>
         </div>
     </div>
