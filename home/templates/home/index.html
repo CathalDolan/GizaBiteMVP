@@ -12,6 +12,28 @@
 {% endblock %}
 
 {% block content %}
+<!-- {% for item in product %}
+<h5>Product</h5>
+<ul>
+    <li>Name: {{ item.product_name }}</li>
+    <li>EnergyKjoules: {{ item.EnergyKjoules }}</li>
+    <li>EnergyKcal: {{ item.EnergyKcal }}</li>
+    <li>Fat: {{ item.Fat }}</li>
+    <li>Protein: {{ item.Protein }}</li>
+    <li>Carbohydrates: {{ item.Carbohydrates }}</li>
+    <li>Salt: {{ item.Salt }}</li>
+    <li>Sugars: {{ item.Sugars }}</li>
+    <li>Fibre: {{ item.Fibre }}</li>
+    <li>Allergens: 
+        <ul>
+            {% for allergen in item.Allergens.all %}
+            <li>{{ allergen.index }}, </li> 
+            {% endfor %}
+        </ul>
+    </li>
+</ul>
+
+{% endfor %} -->
     <div class="container mx-auto">
         <h1 class="text-center mt-3">GizaBite M.V.P.</h1>
         <!-- Start of Form -->

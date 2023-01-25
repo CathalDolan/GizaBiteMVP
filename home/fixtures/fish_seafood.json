@@ -1,0 +1,1756 @@
+[{
+    "pk": 777,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vannamei Prawn Peeled Tail Off Peeled & Deveined 16/20 1x1 K",
+        "EnergyKjoules": 249,
+        "EnergyKcal": 59,
+        "Fat": 0.3,
+        "Protein": 13.7,
+        "Carbohydrates": 0.5,
+        "Salt": 2.4,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": [2]
+    }
+}, {
+    "pk": 778,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Squid Tubes 1x1 KG",
+        "EnergyKjoules": 294,
+        "EnergyKcal": 70,
+        "Fat": 1.5,
+        "Protein": 13.1,
+        "Carbohydrates": 1,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [2, 4, 14]
+    }
+}, {
+    "pk": 779,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Argentinian Red Prawns Raw, Peeled & Deveined 40/80 1x1 KG",
+        "EnergyKjoules": 97,
+        "EnergyKcal": 23.2,
+        "Fat": 1.8,
+        "Protein": 20,
+        "Carbohydrates": 0.2,
+        "Salt": 0.37,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [2, 4]
+    }
+}, {
+    "pk": 780,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tempura Battered King Prawns (25 pieces) 1x500 GM",
+        "EnergyKjoules": 1110,
+        "EnergyKcal": 260,
+        "Fat": 16,
+        "Protein": 12,
+        "Carbohydrates": 19,
+        "Salt": 1.25,
+        "Sugars": 1.7,
+        "Fibre": 0.1,
+        "Allergens": [2, 1]
+    }
+}, {
+    "pk": 781,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Seafood Chowder Mix 1x1 KG",
+        "EnergyKjoules": 485,
+        "EnergyKcal": 116,
+        "Fat": 4.7,
+        "Protein": 18.3,
+        "Carbohydrates": 0,
+        "Salt": 0.625,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 782,
+    "model": "home.products",
+    "fields": {
+        "product_name": "M&J Omega 3 Breaded MSC Cod Fish Finger 1x60x25 GM",
+        "EnergyKjoules": 810,
+        "EnergyKcal": 193,
+        "Fat": 8.4,
+        "Protein": 13.1,
+        "Carbohydrates": 16,
+        "Salt": 0.3,
+        "Sugars": 1.9,
+        "Fibre": 0.28,
+        "Allergens": [4, 1]
+    }
+}, {
+    "pk": 783,
+    "model": "home.products",
+    "fields": {
+        "product_name": "MSC Breaded Haddock Fillets Skinless & Boneless 15x190-210 G",
+        "EnergyKjoules": 880,
+        "EnergyKcal": 210,
+        "Fat": 8.5,
+        "Protein": 12.3,
+        "Carbohydrates": 20.5,
+        "Salt": 0.8,
+        "Sugars": 0.4,
+        "Fibre": 1,
+        "Allergens": [4, 1]
+    }
+}, {
+    "pk": 784,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked & Peeled Cold Water Prawns 90/120 1x2 KG",
+        "EnergyKjoules": 288,
+        "EnergyKcal": 68,
+        "Fat": 0.8,
+        "Protein": 15.2,
+        "Carbohydrates": 0.1,
+        "Salt": 2,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [2]
+    }
+}, {
+    "pk": 785,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Prawn Vannamei Peeled & Deveined 21/25 1x1 KG",
+        "EnergyKjoules": 129.4,
+        "EnergyKcal": 70,
+        "Fat": 2.4,
+        "Protein": 21.2,
+        "Carbohydrates": 0,
+        "Salt": 0.44,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 786,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Argentinian Red Prawn Raw Peeled & Deveined 70/90 1x1 KG",
+        "EnergyKjoules": 330,
+        "EnergyKcal": 79,
+        "Fat": 1,
+        "Protein": 17,
+        "Carbohydrates": 0,
+        "Salt": 0.5975,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 787,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vannamei Prawn HLSO Block 31-40 1x1.2 KG",
+        "EnergyKjoules": 281.77,
+        "EnergyKcal": 67.3,
+        "Fat": 0.45,
+        "Protein": 15.3,
+        "Carbohydrates": 0.5,
+        "Salt": 0.46,
+        "Sugars": 0,
+        "Fibre": 0.46,
+        "Allergens": [2]
+    }
+}, {
+    "pk": 788,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Breaded Torpedo Prawns 26/30 1x500 GM",
+        "EnergyKjoules": 750,
+        "EnergyKcal": 179,
+        "Fat": 2,
+        "Protein": 12,
+        "Carbohydrates": 29,
+        "Salt": 1.25,
+        "Sugars": 2,
+        "Fibre": 0,
+        "Allergens": [2, 1]
+    }
+}, {
+    "pk": 789,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Supremes Skinned & Pinned 10x140-170 GM",
+        "EnergyKjoules": 757,
+        "EnergyKcal": 182,
+        "Fat": 12,
+        "Protein": 20,
+        "Carbohydrates": 0,
+        "Salt": 2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 790,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pangasius Fillet (skinless& boneless) 185-210g 1x4.54 KG",
+        "EnergyKjoules": 254,
+        "EnergyKcal": 60,
+        "Fat": 0.7,
+        "Protein": 13.4,
+        "Carbohydrates": 1,
+        "Salt": 0.51,
+        "Sugars": 0.4,
+        "Fibre": 0.6,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 791,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Atlantic Cod Fillet (skinless& boneless) 200-230g 1x4.54 KG",
+        "EnergyKjoules": 337,
+        "EnergyKcal": 80,
+        "Fat": 0.7,
+        "Protein": 18.3,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 792,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Battered Cod Fillets 24x140-170 GM",
+        "EnergyKjoules": 906,
+        "EnergyKcal": 216,
+        "Fat": 7.8,
+        "Protein": 12.5,
+        "Carbohydrates": 23.3,
+        "Salt": 0.6,
+        "Sugars": 0.1,
+        "Fibre": 1.1,
+        "Allergens": [4, 1, 7]
+    }
+}, {
+    "pk": 793,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Daly's Sliced Smoked Salmon 1x700-900 GM",
+        "EnergyKjoules": 811,
+        "EnergyKcal": 194,
+        "Fat": 9.3,
+        "Protein": 22.4,
+        "Carbohydrates": 0.7,
+        "Salt": 2.55,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 794,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Haddock Fillets IQF 30x95-105 GM",
+        "EnergyKjoules": 376,
+        "EnergyKcal": 90,
+        "Fat": 0.6,
+        "Protein": 20,
+        "Carbohydrates": 0,
+        "Salt": 0.6525,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 795,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Atlantic Cod Fillets IQF (skinless&boneless) 230-290g 1x4.54",
+        "EnergyKjoules": 337,
+        "EnergyKcal": 80,
+        "Fat": 0.7,
+        "Protein": 18.3,
+        "Carbohydrates": 0,
+        "Salt": 0.15,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 796,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vannamei Prawn PD Block 31-40 1x1.2 KG",
+        "EnergyKjoules": 281.77,
+        "EnergyKcal": 67.3,
+        "Fat": 0.45,
+        "Protein": 15.3,
+        "Carbohydrates": 0.5,
+        "Salt": 0.46,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [2]
+    }
+}, {
+    "pk": 797,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beer Battered MSC Cod Fillet 20x170-200 GM",
+        "EnergyKjoules": 883,
+        "EnergyKcal": 211,
+        "Fat": 9.9,
+        "Protein": 9.8,
+        "Carbohydrates": 20.7,
+        "Salt": 0.695,
+        "Sugars": 2.2,
+        "Fibre": 0,
+        "Allergens": [4, 1, 7]
+    }
+}, {
+    "pk": 798,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Battered Cod Fillets 15x200-230 GM",
+        "EnergyKjoules": 906,
+        "EnergyKcal": 216,
+        "Fat": 7.8,
+        "Protein": 12.5,
+        "Carbohydrates": 23.3,
+        "Salt": 0.6,
+        "Sugars": 0.1,
+        "Fibre": 1.1,
+        "Allergens": [4, 1, 7]
+    }
+}, {
+    "pk": 799,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cod Fillets Skinless & Boneless IQF 8-10oz 1x4.54 KG",
+        "EnergyKjoules": 320,
+        "EnergyKcal": 75,
+        "Fat": 0.6,
+        "Protein": 17.5,
+        "Carbohydrates": 0,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 800,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cod Fillet (skinless&bless) 200-230g (19-22 fillets approx)",
+        "EnergyKjoules": 292,
+        "EnergyKcal": 70,
+        "Fat": 0.5,
+        "Protein": 14,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 801,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Tiger King Prawns Tail Off 31/40 1x1 KG",
+        "EnergyKjoules": 418,
+        "EnergyKcal": 99,
+        "Fat": 0.9,
+        "Protein": 22.6,
+        "Carbohydrates": 0,
+        "Salt": 1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [2, 4]
+    }
+}, {
+    "pk": 802,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Panko Coated Squid Rings (130 pieces) 1x4.2 KG",
+        "EnergyKjoules": 481,
+        "EnergyKcal": 115,
+        "Fat": 1.7,
+        "Protein": 9.8,
+        "Carbohydrates": 15.1,
+        "Salt": 0.85,
+        "Sugars": 1.3,
+        "Fibre": 0,
+        "Allergens": [9, 1, 14, 6]
+    }
+}, {
+    "pk": 803,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Atlantic Cod Fillet (skinned&pinned) 140-170g 1x4.54 KG",
+        "EnergyKjoules": 337,
+        "EnergyKcal": 80,
+        "Fat": 0.7,
+        "Protein": 18.3,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 804,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vannamei Prawn HLSO Block 16-20 1x1.2 KG",
+        "EnergyKjoules": 294,
+        "EnergyKcal": 69,
+        "Fat": 0.6,
+        "Protein": 16,
+        "Carbohydrates": 0,
+        "Salt": 1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [2]
+    }
+}, {
+    "pk": 805,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Whiting Fillets IQF (skinless& boneless) 30x85-110 GM",
+        "EnergyKjoules": 272,
+        "EnergyKcal": 64,
+        "Fat": 0.2,
+        "Protein": 15,
+        "Carbohydrates": 0.3,
+        "Salt": 0.5,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 806,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vannamei Prawn Peeled Tail Off Peeled & Deveined  13/15 1x1",
+        "EnergyKjoules": 249,
+        "EnergyKcal": 59,
+        "Fat": 0.3,
+        "Protein": 13.7,
+        "Carbohydrates": 0.5,
+        "Salt": 2.4,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": [2]
+    }
+}, {
+    "pk": 807,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Smoked Coley Fillets 450-900g 1x6.35 KG",
+        "EnergyKjoules": 348,
+        "EnergyKcal": 80,
+        "Fat": 0.1,
+        "Protein": 19,
+        "Carbohydrates": 0,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 808,
+    "model": "home.products",
+    "fields": {
+        "product_name": "MSC Breaded Haddock Portions 60x85 GM",
+        "EnergyKjoules": 906,
+        "EnergyKcal": 216,
+        "Fat": 7.8,
+        "Protein": 12.5,
+        "Carbohydrates": 23.3,
+        "Salt": 0.65,
+        "Sugars": 0.1,
+        "Fibre": 0.9,
+        "Allergens": [4, 1]
+    }
+}, {
+    "pk": 809,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Seafood Chowder Mix 1x2 KG",
+        "EnergyKjoules": 523,
+        "EnergyKcal": 125,
+        "Fat": 5.5,
+        "Protein": 20,
+        "Carbohydrates": 0,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 810,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Sides Skin On Pinned 4x1.4-1.7 KG",
+        "EnergyKjoules": 485,
+        "EnergyKcal": 116,
+        "Fat": 3,
+        "Protein": 20,
+        "Carbohydrates": 2,
+        "Salt": 1.875,
+        "Sugars": 2,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 811,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Smoked Salmon 1x250 GM",
+        "EnergyKjoules": 770,
+        "EnergyKcal": 184,
+        "Fat": 10,
+        "Protein": 23,
+        "Carbohydrates": 0.5,
+        "Salt": 3.25,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 812,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Supremes Skinned & Pinned 10x140 GM",
+        "EnergyKjoules": 750,
+        "EnergyKcal": 180,
+        "Fat": 11,
+        "Protein": 20.2,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 813,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Organic Mussels (Rope) 1x5 KG",
+        "EnergyKjoules": 312,
+        "EnergyKcal": 74,
+        "Fat": 1.8,
+        "Protein": 12.1,
+        "Carbohydrates": 2.5,
+        "Salt": 0.725,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [2, 4]
+    }
+}, {
+    "pk": 814,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Haddock Fillets Skinned & Pinned 200-330g 1x2 KG",
+        "EnergyKjoules": 345,
+        "EnergyKcal": 81,
+        "Fat": 0.6,
+        "Protein": 19,
+        "Carbohydrates": 0,
+        "Salt": 0.1675,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 815,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hake Fillet (Skin On) 330-400g 1x2 KG",
+        "EnergyKjoules": 387,
+        "EnergyKcal": 92,
+        "Fat": 2.2,
+        "Protein": 18,
+        "Carbohydrates": 0,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 816,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Superior Crab Meat 1x454 GM",
+        "EnergyKjoules": 345,
+        "EnergyKcal": 81,
+        "Fat": 0.4,
+        "Protein": 19.4,
+        "Carbohydrates": 0.1,
+        "Salt": 0.5,
+        "Sugars": 0.1,
+        "Fibre": 0.6,
+        "Allergens": [2]
+    }
+}, {
+    "pk": 817,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Supremes Skinned & Pinned 10x170 GM",
+        "EnergyKjoules": 750,
+        "EnergyKcal": 180,
+        "Fat": 11,
+        "Protein": 20.2,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 818,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hake Portion (skinon) 20x180-200 GM",
+        "EnergyKjoules": 343,
+        "EnergyKcal": 82,
+        "Fat": 0.67,
+        "Protein": 17.8,
+        "Carbohydrates": 0,
+        "Salt": 0.135,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 819,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Fillet Skin On (Scaled & Pinned) Vac Pc 1x1.1-1.4 KG",
+        "EnergyKjoules": 750,
+        "EnergyKcal": 180,
+        "Fat": 11,
+        "Protein": 20.2,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 820,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Seabass Fillets (Skin On & Scaled) 140-180g 1x2 KG",
+        "EnergyKjoules": 528,
+        "EnergyKcal": 125,
+        "Fat": 3,
+        "Protein": 24,
+        "Carbohydrates": 0,
+        "Salt": 0.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4, 1, 10]
+    }
+}, {
+    "pk": 821,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Supremes Skinned & Pinned 10x200 GM",
+        "EnergyKjoules": 750,
+        "EnergyKcal": 180,
+        "Fat": 11,
+        "Protein": 20.2,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 822,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Smoked Coley Fillets 250-667g 1x2-2.4KG",
+        "EnergyKjoules": 418,
+        "EnergyKcal": 99,
+        "Fat": 0.6,
+        "Protein": 23,
+        "Carbohydrates": 0,
+        "Salt": 3,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 823,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hake Fillets Medium (skinon& pbo) 330-500g 1x5 KG",
+        "EnergyKjoules": 351,
+        "EnergyKcal": 83,
+        "Fat": 2,
+        "Protein": 16,
+        "Carbohydrates": 0,
+        "Salt": 0.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 824,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Fillets Skinned&Pinned C Trim Variable 3x1.35-1.65 KG",
+        "EnergyKjoules": 870,
+        "EnergyKcal": 208,
+        "Fat": 13,
+        "Protein": 20,
+        "Carbohydrates": 0,
+        "Salt": 0.15,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 825,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tuna Loin 1x1.5-2 KG",
+        "EnergyKjoules": 452,
+        "EnergyKcal": 108,
+        "Fat": 0.9,
+        "Protein": 23.4,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 826,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Haddock Fillets (Skin On) 330-400g 1x2 KG Variable",
+        "EnergyKjoules": 345,
+        "EnergyKcal": 81,
+        "Fat": 0.6,
+        "Protein": 19,
+        "Carbohydrates": 0,
+        "Salt": 0.1675,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 827,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Monkfish Fillets Medium 400-500g 1x2 KG",
+        "EnergyKjoules": 318,
+        "EnergyKcal": 76,
+        "Fat": 1.5,
+        "Protein": 14.5,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 828,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cod Portion Skin On & Pinned 200-227g 1x2 KG",
+        "EnergyKjoules": 425,
+        "EnergyKcal": 100,
+        "Fat": 0.5,
+        "Protein": 23.9,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 829,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cod Loin Supreme (skinoff) 10x170-200 GM",
+        "EnergyKjoules": 425,
+        "EnergyKcal": 100,
+        "Fat": 0.5,
+        "Protein": 23.9,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 830,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Seabass Fillets (PBI & Scaled) 90-120g 1x3 KG",
+        "EnergyKjoules": 670,
+        "EnergyKcal": 160,
+        "Fat": 9.2,
+        "Protein": 19.4,
+        "Carbohydrates": 0,
+        "Salt": 0.1875,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 831,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fresh King Scallops (roe on) 60/80 1x2 KG",
+        "EnergyKjoules": 373,
+        "EnergyKcal": 88,
+        "Fat": 1.2,
+        "Protein": 17.4,
+        "Carbohydrates": 1.9,
+        "Salt": 0.1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [14]
+    }
+}, {
+    "pk": 832,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sea Trout Fillets (Skin On) 200-250g 1x2 KG",
+        "EnergyKjoules": 620,
+        "EnergyKcal": 148,
+        "Fat": 6.6,
+        "Protein": 20.8,
+        "Carbohydrates": 0,
+        "Salt": 0.13,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 833,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Daly's Hot Smoked Salmon (BBQ) 1x700 GM",
+        "EnergyKjoules": 971.3,
+        "EnergyKcal": 233.1,
+        "Fat": 15.5,
+        "Protein": 23.4,
+        "Carbohydrates": 1.7,
+        "Salt": 2.65,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 834,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Supremes (Skin On & Scaled) 10x200 GM",
+        "EnergyKjoules": 750,
+        "EnergyKcal": 180,
+        "Fat": 11,
+        "Protein": 20.2,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 835,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hake Portion 10x170 GM Variable",
+        "EnergyKjoules": 387,
+        "EnergyKcal": 92,
+        "Fat": 2.2,
+        "Protein": 18,
+        "Carbohydrates": 0,
+        "Salt": 0.3,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 836,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Seatrout Fillets Skinned & Pinned Variable Weight",
+        "EnergyKjoules": 620,
+        "EnergyKcal": 148,
+        "Fat": 7,
+        "Protein": 21,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 837,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cod Portion Skinned Pinned 10x200 GM",
+        "EnergyKjoules": 343,
+        "EnergyKcal": 82,
+        "Fat": 0.7,
+        "Protein": 18,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 838,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Monkfish Tails on the Bone 500-670g 1x2 KG",
+        "EnergyKjoules": 318,
+        "EnergyKcal": 76,
+        "Fat": 1.5,
+        "Protein": 14.5,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 839,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cod Fillet (skinned& pinned) 330-400g 1x2 KG",
+        "EnergyKjoules": 337,
+        "EnergyKcal": 90,
+        "Fat": 0.7,
+        "Protein": 18.3,
+        "Carbohydrates": 0,
+        "Salt": 0.15,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 840,
+    "model": "home.products",
+    "fields": {
+        "product_name": "King Scallops 1x2 KG",
+        "EnergyKjoules": 395,
+        "EnergyKcal": 89,
+        "Fat": 1.4,
+        "Protein": 19,
+        "Carbohydrates": 0,
+        "Salt": 0.1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [14]
+    }
+}, {
+    "pk": 841,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Tuna Chunks in Brine 1x800 GM",
+        "EnergyKjoules": 422,
+        "EnergyKcal": 99,
+        "Fat": 0.6,
+        "Protein": 23.5,
+        "Carbohydrates": 0,
+        "Salt": 0.8,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 842,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Tuna Chunks in Brine 1x1.88 KG",
+        "EnergyKjoules": 422,
+        "EnergyKcal": 99,
+        "Fat": 0.6,
+        "Protein": 23.5,
+        "Carbohydrates": 0,
+        "Salt": 0.8,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 843,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vannamei Prawns PD Block 26-30 6x1.3 KG",
+        "EnergyKjoules": 293,
+        "EnergyKcal": 70,
+        "Fat": 0.5,
+        "Protein": 15,
+        "Carbohydrates": 0,
+        "Salt": 2.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [2, 12]
+    }
+}, {
+    "pk": 844,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Premium Crab Meat 1x454 GM",
+        "EnergyKjoules": 393,
+        "EnergyKcal": 93,
+        "Fat": 1,
+        "Protein": 21.4,
+        "Carbohydrates": 1,
+        "Salt": 0.625,
+        "Sugars": 0.6,
+        "Fibre": 0.6,
+        "Allergens": [2]
+    }
+}, {
+    "pk": 845,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Portico Cold Smoked Salmon Sliced VacPac 1x1.25 KG Approx",
+        "EnergyKjoules": 971.3,
+        "EnergyKcal": 233.1,
+        "Fat": 15.5,
+        "Protein": 23.4,
+        "Carbohydrates": 1.7,
+        "Salt": 2.65,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 846,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Smoked Salmon Trimmings 1x1 KG",
+        "EnergyKjoules": 717,
+        "EnergyKcal": 172,
+        "Fat": 9.5,
+        "Protein": 21,
+        "Carbohydrates": 0.5,
+        "Salt": 2.5,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 847,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Anchovy Fillets in Sunflower Oil 1x720 GM",
+        "EnergyKjoules": 928,
+        "EnergyKcal": 222,
+        "Fat": 11.8,
+        "Protein": 28.9,
+        "Carbohydrates": 0,
+        "Salt": 12.6,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 848,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Crab Meat 1x500 GM",
+        "EnergyKjoules": 367,
+        "EnergyKcal": 86,
+        "Fat": 0.4,
+        "Protein": 20.7,
+        "Carbohydrates": 0.1,
+        "Salt": 0.95,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": [2, 4, 14]
+    }
+}, {
+    "pk": 849,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Crab Sticks 1x500 GM",
+        "EnergyKjoules": 458,
+        "EnergyKcal": 108,
+        "Fat": 1.8,
+        "Protein": 6.7,
+        "Carbohydrates": 16.3,
+        "Salt": 1.6,
+        "Sugars": 5,
+        "Fibre": 0,
+        "Allergens": [2, 4, 1, 6]
+    }
+}, {
+    "pk": 850,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Smoked Salmon Trimmings Skinless 1x1 KG",
+        "EnergyKjoules": 770,
+        "EnergyKcal": 184,
+        "Fat": 10,
+        "Protein": 23,
+        "Carbohydrates": 0.5,
+        "Salt": 3.25,
+        "Sugars": 0,
+        "Fibre": 0.5,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 851,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tuna Chunks in Brine Pouch 10x1.025 KG",
+        "EnergyKjoules": 422,
+        "EnergyKcal": 99,
+        "Fat": 0.6,
+        "Protein": 23.5,
+        "Carbohydrates": 0,
+        "Salt": 0.81,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 852,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Crayfish Tail Meat in Brine 1x1.5 KG",
+        "EnergyKjoules": 308,
+        "EnergyKcal": 90,
+        "Fat": 1.5,
+        "Protein": 19,
+        "Carbohydrates": 0,
+        "Salt": 1.55,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": [2]
+    }
+}, {
+    "pk": 853,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Goma Wakame Salad 10x1 KG",
+        "EnergyKjoules": 445,
+        "EnergyKcal": 106,
+        "Fat": 4.2,
+        "Protein": 2,
+        "Carbohydrates": 13.6,
+        "Salt": 2.48,
+        "Sugars": 13.6,
+        "Fibre": 0,
+        "Allergens": [11]
+    }
+}, {
+    "pk": 854,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tuna Chunks In Brine 6x1.88 KG",
+        "EnergyKjoules": 422,
+        "EnergyKcal": 99,
+        "Fat": 0.6,
+        "Protein": 23.5,
+        "Carbohydrates": 0,
+        "Salt": 0.81,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 855,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tuna in Brine 12x1 KG",
+        "EnergyKjoules": 426,
+        "EnergyKcal": 104,
+        "Fat": 1,
+        "Protein": 22,
+        "Carbohydrates": 0,
+        "Salt": 1.5,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 856,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Unagi Kabayaki Eel Fillet 1x255 GM",
+        "EnergyKjoules": 1226,
+        "EnergyKcal": 293,
+        "Fat": 21,
+        "Protein": 23,
+        "Carbohydrates": 3.1,
+        "Salt": 1.3,
+        "Sugars": 1.2,
+        "Fibre": 0,
+        "Allergens": [4, 1, 6]
+    }
+}, {
+    "pk": 857,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sunny South Tuna Chunks in Brine 24x160 GM",
+        "EnergyKjoules": 472,
+        "EnergyKcal": 111,
+        "Fat": 0.5,
+        "Protein": 25,
+        "Carbohydrates": 1.8,
+        "Salt": 2.5,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 858,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Masago Orange 1x500 GM",
+        "EnergyKjoules": 433,
+        "EnergyKcal": 102,
+        "Fat": 0.3,
+        "Protein": 8.8,
+        "Carbohydrates": 16,
+        "Salt": 5,
+        "Sugars": 16,
+        "Fibre": 0,
+        "Allergens": [4, 1, 6]
+    }
+}, {
+    "pk": 859,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballycotton Oak Smoked Salmon Sliced (2 sides) 2x1.25 KG",
+        "EnergyKjoules": 490,
+        "EnergyKcal": 117,
+        "Fat": 4.3,
+        "Protein": 18,
+        "Carbohydrates": 0,
+        "Salt": 1.96,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 860,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Darns 10x100 GM",
+        "EnergyKjoules": 902,
+        "EnergyKcal": 217,
+        "Fat": 15,
+        "Protein": 20.4,
+        "Carbohydrates": 0,
+        "Salt": 0.1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 861,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Portion Skin on (Scaled/Boneless) 20x180-200 GM",
+        "EnergyKjoules": 848,
+        "EnergyKcal": 204,
+        "Fat": 14.1,
+        "Protein": 19.1,
+        "Carbohydrates": 0.3,
+        "Salt": 0.25,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 862,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Delice Angle Cut (Skin on & Scaled) 10x170-200 GM",
+        "EnergyKjoules": 969,
+        "EnergyKcal": 232,
+        "Fat": 14.6,
+        "Protein": 25.2,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 863,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Portion Square Cut (Skin On & Scaled) 10x140-170 GM",
+        "EnergyKjoules": 969,
+        "EnergyKcal": 232,
+        "Fat": 14.6,
+        "Protein": 25.2,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 864,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Tail Trim (skinoff) 10x200 GM",
+        "EnergyKjoules": 969,
+        "EnergyKcal": 232,
+        "Fat": 14.6,
+        "Protein": 25.2,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 865,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Buttermilk Chicken Goujons 1x2 KG",
+        "EnergyKjoules": 894,
+        "EnergyKcal": 213,
+        "Fat": 9.5,
+        "Protein": 16.1,
+        "Carbohydrates": 15.8,
+        "Salt": 2,
+        "Sugars": 1.3,
+        "Fibre": 0,
+        "Allergens": [9, 1, 7]
+    }
+}, {
+    "pk": 866,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Roasted Chicken Strips 7mm 1x2.5 KG",
+        "EnergyKjoules": 514,
+        "EnergyKcal": 122,
+        "Fat": 1.8,
+        "Protein": 25.1,
+        "Carbohydrates": 1.2,
+        "Salt": 0.76,
+        "Sugars": 1.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 867,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Cooked Breaded Chicken Goujons 10x1 KG",
+        "EnergyKjoules": 868,
+        "EnergyKcal": 207,
+        "Fat": 9.4,
+        "Protein": 15.1,
+        "Carbohydrates": 15.8,
+        "Salt": 1.15,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 868,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Master Carve Cooked Turkey & Ham Portions 24x7-8 OZ",
+        "EnergyKjoules": 671,
+        "EnergyKcal": 159,
+        "Fat": 4.8,
+        "Protein": 17.4,
+        "Carbohydrates": 11.6,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 869,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Tangy BBQ Cooked Chicken Wings 1x1 KG",
+        "EnergyKjoules": 803,
+        "EnergyKcal": 193,
+        "Fat": 12.2,
+        "Protein": 19.6,
+        "Carbohydrates": 1.1,
+        "Salt": 0.55,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 870,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Long Sliced Roast Chicken Fillet 1x2.5 KG",
+        "EnergyKjoules": 514,
+        "EnergyKcal": 122,
+        "Fat": 1.8,
+        "Protein": 25.1,
+        "Carbohydrates": 1.2,
+        "Salt": 0.76,
+        "Sugars": 1.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 871,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Southern Fried Chicken Goujons 10x1 KG",
+        "EnergyKjoules": 875,
+        "EnergyKcal": 209,
+        "Fat": 8.6,
+        "Protein": 14.4,
+        "Carbohydrates": 18,
+        "Salt": 1.725,
+        "Sugars": 0.3,
+        "Fibre": 0.7,
+        "Allergens": [9, 1]
+    }
+}, {
+    "pk": 872,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pulled Chicken 1x1 KG",
+        "EnergyKjoules": 514,
+        "EnergyKcal": 122,
+        "Fat": 1.8,
+        "Protein": 25.1,
+        "Carbohydrates": 1.2,
+        "Salt": 0.76,
+        "Sugars": 1.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 873,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Wings Hot BBQ Cooked 1x5 KG",
+        "EnergyKjoules": 803,
+        "EnergyKcal": 193,
+        "Fat": 12.2,
+        "Protein": 19.6,
+        "Carbohydrates": 1.1,
+        "Salt": 2.3,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 874,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Diamond Dragon Vegetable Spring Rolls 1x750 GM",
+        "EnergyKjoules": 827,
+        "EnergyKcal": 197,
+        "Fat": 3.88,
+        "Protein": 10.48,
+        "Carbohydrates": 31.22,
+        "Salt": 0.53,
+        "Sugars": 1.2,
+        "Fibre": 0,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 875,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Cooked Breaded Chicken Fillet 140-160g 1x9.6 KG",
+        "EnergyKjoules": 911,
+        "EnergyKcal": 217,
+        "Fat": 10.2,
+        "Protein": 12.5,
+        "Carbohydrates": 18.9,
+        "Salt": 1.15,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 876,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Steams Cooked Chicken Wings 4x2.5 KG",
+        "EnergyKjoules": 678,
+        "EnergyKcal": 163,
+        "Fat": 10.8,
+        "Protein": 15.7,
+        "Carbohydrates": 0.7,
+        "Salt": 1.15,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 877,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Meatballs 357x14 GM",
+        "EnergyKjoules": 1000,
+        "EnergyKcal": 240,
+        "Fat": 19,
+        "Protein": 9.6,
+        "Carbohydrates": 7.6,
+        "Salt": 1.65,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 878,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Diggers Breaded Garlic Mushrooms 1x1 KG",
+        "EnergyKjoules": 734,
+        "EnergyKcal": 173,
+        "Fat": 7.4,
+        "Protein": 5,
+        "Carbohydrates": 20.9,
+        "Salt": 0.9,
+        "Sugars": 1.2,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 879,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hot'N'Kickin Chicken Wings 1x2.27 KG",
+        "EnergyKjoules": 997,
+        "EnergyKcal": 238,
+        "Fat": 13,
+        "Protein": 17,
+        "Carbohydrates": 14,
+        "Salt": 1,
+        "Sugars": 0.3,
+        "Fibre": 0.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 880,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Frankfurters 1x12x70 GM",
+        "EnergyKjoules": 880,
+        "EnergyKcal": 120,
+        "Fat": 15.5,
+        "Protein": 15,
+        "Carbohydrates": 2.7,
+        "Salt": 2,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 881,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Pigs in Blankets 1x1.5 KG",
+        "EnergyKjoules": 1065,
+        "EnergyKcal": 261,
+        "Fat": 17.8,
+        "Protein": 15.7,
+        "Carbohydrates": 9.1,
+        "Salt": 2.2,
+        "Sugars": 0.9,
+        "Fibre": 0,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 882,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hot Dogs 1x12x70 GM",
+        "EnergyKjoules": 880,
+        "EnergyKcal": 210,
+        "Fat": 15.5,
+        "Protein": 15,
+        "Carbohydrates": 2.7,
+        "Salt": 1.5,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 883,
+    "model": "home.products",
+    "fields": {
+        "product_name": "New Leaf Kentucky Crunch Wingers 1x2.5 KG",
+        "EnergyKjoules": 951,
+        "EnergyKcal": 228,
+        "Fat": 15,
+        "Protein": 14,
+        "Carbohydrates": 8.8,
+        "Salt": 1.5,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": [9, 1]
+    }
+}, {
+    "pk": 884,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mississippi Southern Fried Cooked Chicken Goujons 1x2.2 KG",
+        "EnergyKjoules": 705,
+        "EnergyKcal": 168,
+        "Fat": 6,
+        "Protein": 17,
+        "Carbohydrates": 10,
+        "Salt": 1.25,
+        "Sugars": 0.6,
+        "Fibre": 0.3,
+        "Allergens": [1, 7, 10]
+    }
+}, {
+    "pk": 885,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cheese & Tomato Omelette 24x120 GM",
+        "EnergyKjoules": 614,
+        "EnergyKcal": 147,
+        "Fat": 10,
+        "Protein": 11,
+        "Carbohydrates": 2.3,
+        "Salt": 0.93,
+        "Sugars": 1.4,
+        "Fibre": 0,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 886,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Steak & Kidney Pie 24x150 GM",
+        "EnergyKjoules": 1265,
+        "EnergyKcal": 301,
+        "Fat": 19.8,
+        "Protein": 7.9,
+        "Carbohydrates": 22.9,
+        "Salt": 0.9,
+        "Sugars": 0.8,
+        "Fibre": 1,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 887,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken & Mushroom Pie 24x150 GM",
+        "EnergyKjoules": 1201,
+        "EnergyKcal": 286,
+        "Fat": 17.9,
+        "Protein": 7.9,
+        "Carbohydrates": 23.4,
+        "Salt": 0.9,
+        "Sugars": 1.3,
+        "Fibre": 1,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 888,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Minced Beef & Onion Pie 24x150 GM",
+        "EnergyKjoules": 1244,
+        "EnergyKcal": 296,
+        "Fat": 19,
+        "Protein": 7.3,
+        "Carbohydrates": 23.8,
+        "Salt": 0.8,
+        "Sugars": 1.5,
+        "Fibre": 1.1,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 889,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Battered Chicken Nuggets 4x2.5 KG",
+        "EnergyKjoules": 720,
+        "EnergyKcal": 170,
+        "Fat": 7,
+        "Protein": 12,
+        "Carbohydrates": 14,
+        "Salt": 1.175,
+        "Sugars": 0,
+        "Fibre": 2,
+        "Allergens": [9, 3, 1, 7]
+    }
+}, {
+    "pk": 890,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken & Ham Pie 24x150 GM",
+        "EnergyKjoules": 1285,
+        "EnergyKcal": 308,
+        "Fat": 19,
+        "Protein": 9.1,
+        "Carbohydrates": 24.6,
+        "Salt": 0.86,
+        "Sugars": 0.8,
+        "Fibre": 1.1,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 891,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenhaven Gourmet Kiev 25x176 GM",
+        "EnergyKjoules": 1150,
+        "EnergyKcal": 275,
+        "Fat": 14.7,
+        "Protein": 16.6,
+        "Carbohydrates": 18.6,
+        "Salt": 1.2,
+        "Sugars": 1.5,
+        "Fibre": 1,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 892,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Poultry Liver Mousse 1x1.25 KG",
+        "EnergyKjoules": 1225,
+        "EnergyKcal": 296,
+        "Fat": 27,
+        "Protein": 8.8,
+        "Carbohydrates": 5.5,
+        "Salt": 1.8,
+        "Sugars": 2.9,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 893,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tempura Shrimps 1x800 GM",
+        "EnergyKjoules": 837,
+        "EnergyKcal": 200,
+        "Fat": 9,
+        "Protein": 14,
+        "Carbohydrates": 15,
+        "Salt": 1.2,
+        "Sugars": 0.5,
+        "Fibre": 1,
+        "Allergens": [2, 3, 1, 6]
+    }
+}]

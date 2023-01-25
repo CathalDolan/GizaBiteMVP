@@ -1,0 +1,6271 @@
+[{
+    "pk": 1393,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Basmati Rice 1x5 KG",
+        "EnergyKjoules": 529,
+        "EnergyKcal": 125,
+        "Fat": 0.7,
+        "Protein": 2.8,
+        "Carbohydrates": 26.5,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1394,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Easy Cook Long Grain Rice 1x5 KG",
+        "EnergyKjoules": 1509,
+        "EnergyKcal": 355,
+        "Fat": 0.8,
+        "Protein": 7.3,
+        "Carbohydrates": 79,
+        "Salt": 0,
+        "Sugars": 0.3,
+        "Fibre": 1.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1395,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Whites Porridge Oat Flakes 1x2 KG",
+        "EnergyKjoules": 1540,
+        "EnergyKcal": 365.3,
+        "Fat": 5.5,
+        "Protein": 7.8,
+        "Carbohydrates": 64.2,
+        "Salt": 0.1,
+        "Sugars": 0.8,
+        "Fibre": 10.7,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1396,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flahavans Porridge Oats 1x4 KG",
+        "EnergyKjoules": 1566,
+        "EnergyKcal": 371,
+        "Fat": 5.8,
+        "Protein": 11,
+        "Carbohydrates": 64,
+        "Salt": 0.01,
+        "Sugars": 0.9,
+        "Fibre": 8.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1397,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Easy Cook Parboiled Basmati Rice 1x5 KG",
+        "EnergyKjoules": 622,
+        "EnergyKcal": 146,
+        "Fat": 0.4,
+        "Protein": 3.5,
+        "Carbohydrates": 32.2,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1398,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lizi's Original Granola 1x500 GM",
+        "EnergyKjoules": 2140,
+        "EnergyKcal": 513,
+        "Fat": 29.3,
+        "Protein": 10.9,
+        "Carbohydrates": 46.2,
+        "Salt": 0.03,
+        "Sugars": 9.1,
+        "Fibre": 10.6,
+        "Allergens": [1, 8]
+    }
+}, {
+    "pk": 1399,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flahavans Porridge Oats 1x25 KG",
+        "EnergyKjoules": 1566,
+        "EnergyKcal": 371,
+        "Fat": 5.8,
+        "Protein": 11,
+        "Carbohydrates": 64,
+        "Salt": 0,
+        "Sugars": 0.9,
+        "Fibre": 8.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1400,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Granola 1x2 KG",
+        "EnergyKjoules": 18.8,
+        "EnergyKcal": 430,
+        "Fat": 12.5,
+        "Protein": 10.8,
+        "Carbohydrates": 64.6,
+        "Salt": 0,
+        "Sugars": 16.4,
+        "Fibre": 8,
+        "Allergens": [1, 8]
+    }
+}, {
+    "pk": 1401,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bulgur Cracked Wheat 1x1 KG",
+        "EnergyKjoules": 1412,
+        "EnergyKcal": 328,
+        "Fat": 2,
+        "Protein": 12.6,
+        "Carbohydrates": 73.4,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 18.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1402,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Swiss Style Muesli 1x2 KG",
+        "EnergyKjoules": 1549,
+        "EnergyKcal": 367,
+        "Fat": 6.2,
+        "Protein": 9.1,
+        "Carbohydrates": 64.8,
+        "Salt": 0.025,
+        "Sugars": 25.1,
+        "Fibre": 7.9,
+        "Allergens": [1, 7, 8]
+    }
+}, {
+    "pk": 1403,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Couscous 1x5 KG",
+        "EnergyKjoules": 1557,
+        "EnergyKcal": 366,
+        "Fat": 0.64,
+        "Protein": 12.76,
+        "Carbohydrates": 77.43,
+        "Salt": 0,
+        "Sugars": 0.1,
+        "Fibre": 5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1404,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Cornflakes 8x500 GM",
+        "EnergyKjoules": 1633,
+        "EnergyKcal": 385,
+        "Fat": 1.1,
+        "Protein": 7.6,
+        "Carbohydrates": 84.6,
+        "Salt": 0.7,
+        "Sugars": 7.1,
+        "Fibre": 3.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1405,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kelloggs Cornflakes 40x24 GM",
+        "EnergyKjoules": 1604,
+        "EnergyKcal": 383,
+        "Fat": 0.9,
+        "Protein": 7,
+        "Carbohydrates": 84,
+        "Salt": 1.25,
+        "Sugars": 8,
+        "Fibre": 3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1406,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Quinoa White 1x1 KG",
+        "EnergyKjoules": 1539,
+        "EnergyKcal": 343,
+        "Fat": 5.8,
+        "Protein": 13.6,
+        "Carbohydrates": 66.6,
+        "Salt": 0,
+        "Sugars": 2.7,
+        "Fibre": 1.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1407,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Weetabix Catering B 48x2'S",
+        "EnergyKjoules": 1485,
+        "EnergyKcal": 335,
+        "Fat": 3,
+        "Protein": 10.9,
+        "Carbohydrates": 66.2,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 11.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1408,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Marrowfat Peas 1x3 KG",
+        "EnergyKjoules": 1396,
+        "EnergyKcal": 333,
+        "Fat": 2.4,
+        "Protein": 22.1,
+        "Carbohydrates": 58.2,
+        "Salt": 0.025,
+        "Sugars": 1.9,
+        "Fibre": 8.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1409,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Oatflakes 4x2 KG",
+        "EnergyKjoules": 1545,
+        "EnergyKcal": 366,
+        "Fat": 6.2,
+        "Protein": 12.3,
+        "Carbohydrates": 60.5,
+        "Salt": 0,
+        "Sugars": 1.2,
+        "Fibre": 9.7,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1410,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Semolina 1x3 KG",
+        "EnergyKjoules": 1553,
+        "EnergyKcal": 367,
+        "Fat": 2.4,
+        "Protein": 15,
+        "Carbohydrates": 68.9,
+        "Salt": 0,
+        "Sugars": 2,
+        "Fibre": 4.7,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1411,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Weetabix Individually Wrapped 1x96'S",
+        "EnergyKjoules": 1516,
+        "EnergyKcal": 358,
+        "Fat": 2,
+        "Protein": 11.5,
+        "Carbohydrates": 68.6,
+        "Salt": 0.65,
+        "Sugars": 4.4,
+        "Fibre": 10,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1412,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Odlums Wheat Bran 8x600 GM",
+        "EnergyKjoules": 872,
+        "EnergyKcal": 208,
+        "Fat": 14.1,
+        "Protein": 14.1,
+        "Carbohydrates": 26.8,
+        "Salt": 0.025,
+        "Sugars": 3.8,
+        "Fibre": 36.4,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1413,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kelloggs Cornflakes 4x500 GM",
+        "EnergyKjoules": 1604,
+        "EnergyKcal": 378,
+        "Fat": 0.9,
+        "Protein": 7,
+        "Carbohydrates": 84,
+        "Salt": 1.25,
+        "Sugars": 8,
+        "Fibre": 3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1414,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kelloggs Coco Pops 40x35 GM",
+        "EnergyKjoules": 1638,
+        "EnergyKcal": 387,
+        "Fat": 5.5,
+        "Protein": 1,
+        "Carbohydrates": 84,
+        "Salt": 0.23,
+        "Sugars": 0,
+        "Fibre": 0.75,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1415,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kelloggs Rice Krispies 4x400 GM",
+        "EnergyKjoules": 1626,
+        "EnergyKcal": 383,
+        "Fat": 1,
+        "Protein": 6,
+        "Carbohydrates": 87,
+        "Salt": 1.125,
+        "Sugars": 10,
+        "Fibre": 1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1416,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Primeal Organic Quinoa Trio (white red & black) 6x500 GM",
+        "EnergyKjoules": 1440,
+        "EnergyKcal": 341,
+        "Fat": 6,
+        "Protein": 12.1,
+        "Carbohydrates": 59,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1417,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PaddyO's Granola Fruit Toasted 1x5 KG",
+        "EnergyKjoules": 1482,
+        "EnergyKcal": 354,
+        "Fat": 9.7,
+        "Protein": 8.1,
+        "Carbohydrates": 57.8,
+        "Salt": 0,
+        "Sugars": 17,
+        "Fibre": 8.7,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 1418,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kelloggs Crunchy Nut Cornflakes 40x35 GM",
+        "EnergyKjoules": 1701,
+        "EnergyKcal": 402,
+        "Fat": 5,
+        "Protein": 6,
+        "Carbohydrates": 82,
+        "Salt": 0.88,
+        "Sugars": 35,
+        "Fibre": 2.5,
+        "Allergens": [1, 5]
+    }
+}, {
+    "pk": 1419,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Odlums Porridge Oatflakes 10x1.5 KG",
+        "EnergyKjoules": 1551,
+        "EnergyKcal": 365,
+        "Fat": 5,
+        "Protein": 11,
+        "Carbohydrates": 66,
+        "Salt": 0.025,
+        "Sugars": 1.1,
+        "Fibre": 9.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1420,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kelloggs Fruit n Fibre 40x45 GM",
+        "EnergyKjoules": 1603,
+        "EnergyKcal": 383,
+        "Fat": 6,
+        "Protein": 8,
+        "Carbohydrates": 69,
+        "Salt": 1,
+        "Sugars": 24,
+        "Fibre": 9,
+        "Allergens": [1, 8]
+    }
+}, {
+    "pk": 1421,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Pearl Barley 1x3 KG",
+        "EnergyKjoules": 1431,
+        "EnergyKcal": 339,
+        "Fat": 2.8,
+        "Protein": 9.2,
+        "Carbohydrates": 64.5,
+        "Salt": 0.1,
+        "Sugars": 0.5,
+        "Fibre": 9.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1422,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kelloggs Coco Pops 1x10 KG",
+        "EnergyKjoules": 1647,
+        "EnergyKcal": 393,
+        "Fat": 2.5,
+        "Protein": 5.5,
+        "Carbohydrates": 85,
+        "Salt": 0.75,
+        "Sugars": 35,
+        "Fibre": 2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1423,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kelloggs Bran Flakes 4x500 GM",
+        "EnergyKjoules": 1383,
+        "EnergyKcal": 330,
+        "Fat": 2,
+        "Protein": 10,
+        "Carbohydrates": 67,
+        "Salt": 1.25,
+        "Sugars": 22,
+        "Fibre": 15,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1424,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Essential Baked Beans in Tomato Sauce 1x2.6 KG",
+        "EnergyKjoules": 317,
+        "EnergyKcal": 76,
+        "Fat": 1.5,
+        "Protein": 4.5,
+        "Carbohydrates": 8.5,
+        "Salt": 0.7,
+        "Sugars": 4.3,
+        "Fibre": 5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1425,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Chick Peas in Water 1x2.5 KG",
+        "EnergyKjoules": 487,
+        "EnergyKcal": 115,
+        "Fat": 0.9,
+        "Protein": 7.2,
+        "Carbohydrates": 16.1,
+        "Salt": 0.6,
+        "Sugars": 0.4,
+        "Fibre": 4.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1426,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Baked Beans in Tomato Sauce 1x3.12 KG",
+        "EnergyKjoules": 384,
+        "EnergyKcal": 91,
+        "Fat": 1.4,
+        "Protein": 4.5,
+        "Carbohydrates": 12.8,
+        "Salt": 0.7,
+        "Sugars": 6.8,
+        "Fibre": 4.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1427,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Baked Beans in Tomato Sauce 1x840 GM",
+        "EnergyKjoules": 384,
+        "EnergyKcal": 91,
+        "Fat": 1.4,
+        "Protein": 4.5,
+        "Carbohydrates": 12.8,
+        "Salt": 0.7,
+        "Sugars": 6.8,
+        "Fibre": 4.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1428,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Roasted Sweet Red Peppers 1x4.2 KG",
+        "EnergyKjoules": 125,
+        "EnergyKcal": 30,
+        "Fat": 0,
+        "Protein": 1,
+        "Carbohydrates": 6.1,
+        "Salt": 0,
+        "Sugars": 0.2,
+        "Fibre": 2.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1429,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Green Jalapenos in Brine 1x3 KG",
+        "EnergyKjoules": 33,
+        "EnergyKcal": 8,
+        "Fat": 0.34,
+        "Protein": 0.41,
+        "Carbohydrates": 0.03,
+        "Salt": 3,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1430,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Chick Peas In Water 1x800 GM",
+        "EnergyKjoules": 564,
+        "EnergyKcal": 134,
+        "Fat": 2.1,
+        "Protein": 8.4,
+        "Carbohydrates": 18.2,
+        "Salt": 0.025,
+        "Sugars": 1,
+        "Fibre": 4.3,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1431,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Mushy Processed Peas 1x2.5 KG",
+        "EnergyKjoules": 405,
+        "EnergyKcal": 96,
+        "Fat": 0,
+        "Protein": 6.1,
+        "Carbohydrates": 15.8,
+        "Salt": 0.5,
+        "Sugars": 4.5,
+        "Fibre": 4.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1432,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Mushy Processed Peas 1x850 GM",
+        "EnergyKjoules": 405,
+        "EnergyKcal": 96,
+        "Fat": 0,
+        "Protein": 6.1,
+        "Carbohydrates": 15.8,
+        "Salt": 0.5,
+        "Sugars": 4.5,
+        "Fibre": 4.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1433,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Red Kidney Beans in Water 1x2.5 KG",
+        "EnergyKjoules": 424,
+        "EnergyKcal": 100,
+        "Fat": 0.6,
+        "Protein": 6.9,
+        "Carbohydrates": 17.8,
+        "Salt": 0.975,
+        "Sugars": 3.6,
+        "Fibre": 6.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1434,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Julienne Peppers in Oil 1x800 GM",
+        "EnergyKjoules": 827,
+        "EnergyKcal": 198,
+        "Fat": 20.2,
+        "Protein": 0.7,
+        "Carbohydrates": 3.4,
+        "Salt": 1.0025,
+        "Sugars": 3.3,
+        "Fibre": 1.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1435,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Batchelors Baked Beans in Tomato Sauce 6x2.61 KG",
+        "EnergyKjoules": 415,
+        "EnergyKcal": 97,
+        "Fat": 0.4,
+        "Protein": 4,
+        "Carbohydrates": 17.5,
+        "Salt": 0,
+        "Sugars": 4.9,
+        "Fibre": 3.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1436,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Baked Beans 1x415 GM",
+        "EnergyKjoules": 329,
+        "EnergyKcal": 78,
+        "Fat": 0.2,
+        "Protein": 4.7,
+        "Carbohydrates": 12.5,
+        "Salt": 0.6,
+        "Sugars": 4.7,
+        "Fibre": 3.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1437,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Capers 1x850 GM",
+        "EnergyKjoules": 153.2,
+        "EnergyKcal": 36.4,
+        "Fat": 0.6,
+        "Protein": 3,
+        "Carbohydrates": 4,
+        "Salt": 0,
+        "Sugars": 7,
+        "Fibre": 1.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1438,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gherkins 1x4 KG",
+        "EnergyKjoules": 70,
+        "EnergyKcal": 16,
+        "Fat": 0.4,
+        "Protein": 1.1,
+        "Carbohydrates": 2.1,
+        "Salt": 2,
+        "Sugars": 0,
+        "Fibre": 1.9,
+        "Allergens": [10, 12]
+    }
+}, {
+    "pk": 1439,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Sweetcorn In Water 1x2.1 KG",
+        "EnergyKjoules": 514,
+        "EnergyKcal": 122,
+        "Fat": 2.3,
+        "Protein": 4.2,
+        "Carbohydrates": 20,
+        "Salt": 0,
+        "Sugars": 2.3,
+        "Fibre": 2.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1440,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Mushy Peas 1x2.5 KG",
+        "EnergyKjoules": 358,
+        "EnergyKcal": 85,
+        "Fat": 0.5,
+        "Protein": 5.4,
+        "Carbohydrates": 12.8,
+        "Salt": 0.9,
+        "Sugars": 2,
+        "Fibre": 3.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1441,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Essential Sliced Black Olives in Brine 1x2.35 KG",
+        "EnergyKjoules": 549,
+        "EnergyKcal": 132,
+        "Fat": 9.5,
+        "Protein": 1,
+        "Carbohydrates": 9.7,
+        "Salt": 2.1,
+        "Sugars": 0.1,
+        "Fibre": 2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1442,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Chick Peas in Water (Tin) 1x800 GM",
+        "EnergyKjoules": 479,
+        "EnergyKcal": 114,
+        "Fat": 2.4,
+        "Protein": 6.3,
+        "Carbohydrates": 13.1,
+        "Salt": 0.03,
+        "Sugars": 0,
+        "Fibre": 7.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1443,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beetroot Diced (Tin) 1x4 KG",
+        "EnergyKjoules": 142,
+        "EnergyKcal": 34,
+        "Fat": 0.1,
+        "Protein": 0.9,
+        "Carbohydrates": 6.1,
+        "Salt": 1.5,
+        "Sugars": 5.7,
+        "Fibre": 2.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1444,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Harissa Paste 1x760 GM",
+        "EnergyKjoules": 260,
+        "EnergyKcal": 62,
+        "Fat": 1.8,
+        "Protein": 3.1,
+        "Carbohydrates": 7.8,
+        "Salt": 2.5,
+        "Sugars": 4.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1445,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Baked Beans 6x2.7 KG",
+        "EnergyKjoules": 346,
+        "EnergyKcal": 82,
+        "Fat": 0,
+        "Protein": 5,
+        "Carbohydrates": 16,
+        "Salt": 1,
+        "Sugars": 5.3,
+        "Fibre": 4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1446,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Batchelors Baked Beans 24x420 GM",
+        "EnergyKjoules": 412,
+        "EnergyKcal": 97,
+        "Fat": 0.4,
+        "Protein": 4,
+        "Carbohydrates": 17.5,
+        "Salt": 0.8,
+        "Sugars": 4.9,
+        "Fibre": 3.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1447,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Capers In Brine 1x2.38 KG",
+        "EnergyKjoules": 146,
+        "EnergyKcal": 35,
+        "Fat": 0.6,
+        "Protein": 2.1,
+        "Carbohydrates": 4.2,
+        "Salt": 5.8,
+        "Sugars": 0.4,
+        "Fibre": 2.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1448,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sweet Whole Red Peppers Drops 1x793 GM",
+        "EnergyKjoules": 360,
+        "EnergyKcal": 90,
+        "Fat": 0,
+        "Protein": 2,
+        "Carbohydrates": 19,
+        "Salt": 0.48,
+        "Sugars": 15,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1449,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sweetcorn Tin 1x2.12 KG",
+        "EnergyKjoules": 377,
+        "EnergyKcal": 90,
+        "Fat": 2.4,
+        "Protein": 2.9,
+        "Carbohydrates": 12,
+        "Salt": 1.075,
+        "Sugars": 4.9,
+        "Fibre": 4.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1450,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Pinto Beans 1x2.5 KG",
+        "EnergyKjoules": 424,
+        "EnergyKcal": 101,
+        "Fat": 0.1,
+        "Protein": 7,
+        "Carbohydrates": 15,
+        "Salt": 0.025,
+        "Sugars": 0.8,
+        "Fibre": 6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1451,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Butter Beans (Tin) 6x800 GM",
+        "EnergyKjoules": 285,
+        "EnergyKcal": 68,
+        "Fat": 0.5,
+        "Protein": 4.3,
+        "Carbohydrates": 9.1,
+        "Salt": 1,
+        "Sugars": 0,
+        "Fibre": 4.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1452,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sauerkraut Natural 1x4.1 KG",
+        "EnergyKjoules": 113,
+        "EnergyKcal": 27,
+        "Fat": 0.3,
+        "Protein": 1.5,
+        "Carbohydrates": 4,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 1.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1453,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixed Wild & Cultivated Mushrooms 1x800 GM",
+        "EnergyKjoules": 839,
+        "EnergyKcal": 201,
+        "Fat": 19.9,
+        "Protein": 1.8,
+        "Carbohydrates": 3.1,
+        "Salt": 1.2,
+        "Sugars": 3.1,
+        "Fibre": 0,
+        "Allergens": [9, 7, 8]
+    }
+}, {
+    "pk": 1454,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Mixed Herbs 1x140 GM",
+        "EnergyKjoules": 1101,
+        "EnergyKcal": 265,
+        "Fat": 6.1,
+        "Protein": 13.7,
+        "Carbohydrates": 19.9,
+        "Salt": 0.3,
+        "Sugars": 3.6,
+        "Fibre": 38,
+        "Allergens": []
+    }
+}, {
+    "pk": 1455,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Maldon Sea Salt 1x1.4 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 97.5,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1456,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Cajun Seasoning 1x650 GM",
+        "EnergyKjoules": 1064,
+        "EnergyKcal": 254,
+        "Fat": 6.7,
+        "Protein": 6.1,
+        "Carbohydrates": 34.6,
+        "Salt": 43.4,
+        "Sugars": 5.7,
+        "Fibre": 15.3,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 1457,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Salt 1x6 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 9.5,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1458,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coriander (fresh herb) 1x50 GM",
+        "EnergyKjoules": 110,
+        "EnergyKcal": 28,
+        "Fat": 0.6,
+        "Protein": 2.4,
+        "Carbohydrates": 1.7,
+        "Salt": 0.1,
+        "Sugars": 1.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1459,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Smoked Paprika 1x230 GM",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 13,
+        "Protein": 16,
+        "Carbohydrates": 56,
+        "Salt": 0,
+        "Sugars": 10,
+        "Fibre": 37,
+        "Allergens": []
+    }
+}, {
+    "pk": 1460,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fine Sea Salt 1x5 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 100,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1461,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coarse Sea Salt 1x1 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 100,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1462,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Garlic Powder 1x550 GM",
+        "EnergyKjoules": 1461,
+        "EnergyKcal": 345,
+        "Fat": 0.8,
+        "Protein": 16.8,
+        "Carbohydrates": 62.8,
+        "Salt": 0.025,
+        "Sugars": 24.3,
+        "Fibre": 9.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1463,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Ground Turmeric 1x430 GM",
+        "EnergyKjoules": 1223,
+        "EnergyKcal": 292,
+        "Fat": 3.3,
+        "Protein": 9.7,
+        "Carbohydrates": 44.4,
+        "Salt": 0.07,
+        "Sugars": 3.2,
+        "Fibre": 22.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1464,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Dried Parsley 1x110 GM",
+        "EnergyKjoules": 1150,
+        "EnergyKcal": 275,
+        "Fat": 4.4,
+        "Protein": 22.4,
+        "Carbohydrates": 21.3,
+        "Salt": 2.75,
+        "Sugars": 7.3,
+        "Fibre": 30.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1465,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Salt Sachets 1x2000'S",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 100,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1466,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mint (fresh herb) 1x50 GM",
+        "EnergyKjoules": 235,
+        "EnergyKcal": 57,
+        "Fat": 0.7,
+        "Protein": 3.8,
+        "Carbohydrates": 5.3,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1467,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Dried Oregano 1x130 GM",
+        "EnergyKjoules": 1276,
+        "EnergyKcal": 308,
+        "Fat": 10.3,
+        "Protein": 11,
+        "Carbohydrates": 21.6,
+        "Salt": 0,
+        "Sugars": 4.1,
+        "Fibre": 42.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1468,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Schwartz Paprika 1x425 GM",
+        "EnergyKjoules": 1341,
+        "EnergyKcal": 324,
+        "Fat": 12.95,
+        "Protein": 14.76,
+        "Carbohydrates": 18.34,
+        "Salt": 0.075,
+        "Sugars": 10.34,
+        "Fibre": 37.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1469,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Ground White Pepper 1x600 GM",
+        "EnergyKjoules": 1186,
+        "EnergyKcal": 283,
+        "Fat": 2.1,
+        "Protein": 10.4,
+        "Carbohydrates": 42.4,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 26.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1470,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Ground Cumin 1x430 GM",
+        "EnergyKjoules": 1785,
+        "EnergyKcal": 428,
+        "Fat": 22,
+        "Protein": 18,
+        "Carbohydrates": 34,
+        "Salt": 1.05,
+        "Sugars": 2.3,
+        "Fibre": 11,
+        "Allergens": []
+    }
+}, {
+    "pk": 1471,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Madras Curry Powder 1x500 GM",
+        "EnergyKjoules": 1779,
+        "EnergyKcal": 425,
+        "Fat": 13.2,
+        "Protein": 11.2,
+        "Carbohydrates": 52.9,
+        "Salt": 4.5,
+        "Sugars": 1.8,
+        "Fibre": 25.3,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 1472,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chef William Table Salt 1x6 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 97.9,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1473,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Schwartz Mixed Herbs 1x100 GM",
+        "EnergyKjoules": 871,
+        "EnergyKcal": 208,
+        "Fat": 6.49,
+        "Protein": 13.7,
+        "Carbohydrates": 23.74,
+        "Salt": 0.425,
+        "Sugars": 3.83,
+        "Fibre": 35.93,
+        "Allergens": []
+    }
+}, {
+    "pk": 1474,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Bay Leaves 1x50 GM",
+        "EnergyKjoules": 1476,
+        "EnergyKcal": 353,
+        "Fat": 8.4,
+        "Protein": 7.6,
+        "Carbohydrates": 48.7,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 26.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1475,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Cinnamon Sticks 1x180 GM",
+        "EnergyKjoules": 1006,
+        "EnergyKcal": 243,
+        "Fat": 1.2,
+        "Protein": 4,
+        "Carbohydrates": 27.5,
+        "Salt": 0,
+        "Sugars": 2.2,
+        "Fibre": 53.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1476,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Star Anise 1x160 GM",
+        "EnergyKjoules": 1039,
+        "EnergyKcal": 253,
+        "Fat": 6.2,
+        "Protein": 4.1,
+        "Carbohydrates": 16,
+        "Salt": 0.05,
+        "Sugars": 1.5,
+        "Fibre": 58,
+        "Allergens": []
+    }
+}, {
+    "pk": 1477,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Baking Powder 1x850 GM",
+        "EnergyKjoules": 892,
+        "EnergyKcal": 210,
+        "Fat": 0.8,
+        "Protein": 4.9,
+        "Carbohydrates": 45.1,
+        "Salt": 33.6,
+        "Sugars": 0.8,
+        "Fibre": 1.8,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1478,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Ground Cinnamon 1x470 GM",
+        "EnergyKjoules": 1005,
+        "EnergyKcal": 243,
+        "Fat": 1.2,
+        "Protein": 4,
+        "Carbohydrates": 27,
+        "Salt": 0.025,
+        "Sugars": 2.2,
+        "Fibre": 53,
+        "Allergens": []
+    }
+}, {
+    "pk": 1479,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Whole Black Pepper 1x600 GM",
+        "EnergyKjoules": 1188,
+        "EnergyKcal": 284,
+        "Fat": 3.3,
+        "Protein": 12,
+        "Carbohydrates": 38.3,
+        "Salt": 0.025,
+        "Sugars": 0.6,
+        "Fibre": 26.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1480,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Black Pepper Sachets 1x2000'S",
+        "EnergyKjoules": 1603,
+        "EnergyKcal": 381,
+        "Fat": 3.3,
+        "Protein": 10.9,
+        "Carbohydrates": 64,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 26,
+        "Allergens": []
+    }
+}, {
+    "pk": 1481,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Dried Thyme 1x210 GM",
+        "EnergyKjoules": 1184,
+        "EnergyKcal": 285,
+        "Fat": 7.4,
+        "Protein": 9.1,
+        "Carbohydrates": 26.9,
+        "Salt": 0.25,
+        "Sugars": 1.7,
+        "Fibre": 37,
+        "Allergens": []
+    }
+}, {
+    "pk": 1482,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Schwartz Chilli Flakes 1x260 GM",
+        "EnergyKjoules": 1561,
+        "EnergyKcal": 373,
+        "Fat": 17.3,
+        "Protein": 12,
+        "Carbohydrates": 29.4,
+        "Salt": 0.025,
+        "Sugars": 10.3,
+        "Fibre": 27.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1483,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Cayenne Pepper 1x450 GM",
+        "EnergyKjoules": 1562,
+        "EnergyKcal": 376,
+        "Fat": 17,
+        "Protein": 12,
+        "Carbohydrates": 29,
+        "Salt": 0.5,
+        "Sugars": 10,
+        "Fibre": 27,
+        "Allergens": []
+    }
+}, {
+    "pk": 1484,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Curry Madras Powder 1x435 GM",
+        "EnergyKjoules": 1376,
+        "EnergyKcal": 331,
+        "Fat": 11,
+        "Protein": 14,
+        "Carbohydrates": 29,
+        "Salt": 0.3,
+        "Sugars": 1.8,
+        "Fibre": 30,
+        "Allergens": []
+    }
+}, {
+    "pk": 1485,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Demoulding Spray 1x600 ML",
+        "EnergyKjoules": 3394,
+        "EnergyKcal": 825,
+        "Fat": 92,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1486,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Olive Oil Pomace 1x5 LT",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1487,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sunflower Oil Bottle 1x1 LT",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1488,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sunflower Oil 1x5 LT",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1489,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Extra Virgin Olive Oil Tub 1x5 LT",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1490,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sundried Tomatoes in Oil 1x200 GM",
+        "EnergyKjoules": 247,
+        "EnergyKcal": 83,
+        "Fat": 4,
+        "Protein": 2,
+        "Carbohydrates": 13,
+        "Salt": 0.625,
+        "Sugars": 10,
+        "Fibre": 3,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1491,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vegetable Oil 1x20 LT",
+        "EnergyKjoules": 3696,
+        "EnergyKcal": 899,
+        "Fat": 99.9,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 1492,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Truffle Flavoured Extra Virgin Olive Oil 1x250 ML",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1493,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Extended Life Rapeseed Oil 1x5 LT",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1494,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Golden Swan Sesame Oil 1x650 ML",
+        "EnergyKjoules": 3776,
+        "EnergyKcal": 899,
+        "Fat": 99.9,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [11, 6]
+    }
+}, {
+    "pk": 1495,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Extra Virgin Olive Oil Glass 1x1 LT",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1496,
+    "model": "home.products",
+    "fields": {
+        "product_name": "KTC Soya Vegetable Cooking Oil 1x20 LT",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 1497,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Vegetable Oil 1x5 LT",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 99.9,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1498,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Golden Swan Blended Sesame Oil 1x2 LT",
+        "EnergyKjoules": 3776,
+        "EnergyKcal": 899,
+        "Fat": 99.9,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [11, 6]
+    }
+}, {
+    "pk": 1499,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cold Pressed Rapeseed Oil 1x5 LT",
+        "EnergyKjoules": 3690,
+        "EnergyKcal": 898,
+        "Fat": 99.9,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1500,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rapeseed Oil 1x10 LT",
+        "EnergyKjoules": 3696,
+        "EnergyKcal": 899,
+        "Fat": 99.9,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.25,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1501,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Golden Swan Blended Sesame Oil 1x5 LT",
+        "EnergyKjoules": 3776,
+        "EnergyKcal": 899,
+        "Fat": 99.9,
+        "Protein": 0.1,
+        "Carbohydrates": 0.5,
+        "Salt": 0.1,
+        "Sugars": 0.5,
+        "Fibre": 0.2,
+        "Allergens": [11, 6]
+    }
+}, {
+    "pk": 1502,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Italian Extra Virgin Olive Oil 1x750 ML",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1503,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Seasoning Rapeseed & Extra Virgin Oil Tub 1x5 LT",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1504,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Dripping 1x12.5 KG",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1505,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Extended Rapeseed Oil (box) 1x20 LT",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1506,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Grapeseed Oil 1x1 KG",
+        "EnergyKjoules": 3765,
+        "EnergyKcal": 900,
+        "Fat": 99,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1507,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Biona Organic Virgin Coconut Oil 6x400 GM",
+        "EnergyKjoules": 3768,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1508,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cold Pressed Rapeseed Oil 1x2 LT",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 0,
+        "Fat": 100.2,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1509,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wicklow Rapeseed Extra Virgin Oil 1x5 LT",
+        "EnergyKjoules": 3367,
+        "EnergyKcal": 819,
+        "Fat": 91,
+        "Protein": 0.5,
+        "Carbohydrates": 1.5,
+        "Salt": 0.03,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1510,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Biona Raw Coconut Oil 6x800 GM",
+        "EnergyKjoules": 3768,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1511,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lime Oil 1x500 ML",
+        "EnergyKjoules": 3765,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1512,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Walnut Oil 6x500 ML",
+        "EnergyKjoules": 3765,
+        "EnergyKcal": 900,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1513,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hazelnut Oil 6x500 ML",
+        "EnergyKjoules": 3765,
+        "EnergyKcal": 900,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1514,
+    "model": "home.products",
+    "fields": {
+        "product_name": "1Poen 1Poen Sesame Oil Blended 1x1.85 LT",
+        "EnergyKjoules": 3404,
+        "EnergyKcal": 828,
+        "Fat": 92,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [11, 6]
+    }
+}, {
+    "pk": 1515,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cold Pressed Rapeseed Oil 6x500 ML",
+        "EnergyKjoules": 3690,
+        "EnergyKcal": 898,
+        "Fat": 99.9,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1516,
+    "model": "home.products",
+    "fields": {
+        "product_name": "De Cecco Extra Virgin Oil Classico 1x250 ML",
+        "EnergyKjoules": 3389,
+        "EnergyKcal": 824,
+        "Fat": 91.6,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1517,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Penne Pasta Cooked 4x2 KG",
+        "EnergyKjoules": 714,
+        "EnergyKcal": 169,
+        "Fat": 1.48,
+        "Protein": 6.51,
+        "Carbohydrates": 31.39,
+        "Salt": 0,
+        "Sugars": 0.59,
+        "Fibre": 1.88,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1518,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasta Zara Penne Rigate 2x5 KG",
+        "EnergyKjoules": 1483,
+        "EnergyKcal": 350,
+        "Fat": 1.2,
+        "Protein": 12,
+        "Carbohydrates": 71,
+        "Salt": 0.025,
+        "Sugars": 3.2,
+        "Fibre": 3.5,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 1519,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Surgital Precooked Lasagne Sheets 1x2 KG",
+        "EnergyKjoules": 721,
+        "EnergyKcal": 170,
+        "Fat": 2.1,
+        "Protein": 6.9,
+        "Carbohydrates": 30.8,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 1520,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasta Zara Lasagne Sheets 12x500 GM",
+        "EnergyKjoules": 1553,
+        "EnergyKcal": 367,
+        "Fat": 3.2,
+        "Protein": 13.4,
+        "Carbohydrates": 39.6,
+        "Salt": 0.025,
+        "Sugars": 2.5,
+        "Fibre": 2.9,
+        "Allergens": [3, 1, 10]
+    }
+}, {
+    "pk": 1521,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Spinach & Ricotta Tortelloni 3x1 KG",
+        "EnergyKjoules": 907,
+        "EnergyKcal": 215,
+        "Fat": 5,
+        "Protein": 7.2,
+        "Carbohydrates": 35,
+        "Salt": 0.5,
+        "Sugars": 0.7,
+        "Fibre": 0.6,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1522,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Macaroni Pasta 1x3 KG",
+        "EnergyKjoules": 1472,
+        "EnergyKcal": 352,
+        "Fat": 1.5,
+        "Protein": 11.5,
+        "Carbohydrates": 73,
+        "Salt": 0,
+        "Sugars": 3,
+        "Fibre": 2.2,
+        "Allergens": [3, 1, 10]
+    }
+}, {
+    "pk": 1523,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasta Zara Tagliatelle 8x500 GM",
+        "EnergyKjoules": 1483,
+        "EnergyKcal": 350,
+        "Fat": 1.2,
+        "Protein": 12,
+        "Carbohydrates": 71,
+        "Salt": 0,
+        "Sugars": 3.2,
+        "Fibre": 3.5,
+        "Allergens": [3, 1, 6]
+    }
+}, {
+    "pk": 1524,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Medium Egg Noodles 1x3 KG",
+        "EnergyKjoules": 1526,
+        "EnergyKcal": 360,
+        "Fat": 2.6,
+        "Protein": 15,
+        "Carbohydrates": 67.3,
+        "Salt": 1.5,
+        "Sugars": 3,
+        "Fibre": 3.8,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 1525,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vermicelli Glass Noodles 1x250 GM",
+        "EnergyKjoules": 1360,
+        "EnergyKcal": 325,
+        "Fat": 0.1,
+        "Protein": 2.5,
+        "Carbohydrates": 79,
+        "Salt": 0.0225,
+        "Sugars": 0,
+        "Fibre": 1.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1526,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lucky Boat Noodles No1 Chop Suey Dried 1x9 KG",
+        "EnergyKjoules": 1493,
+        "EnergyKcal": 352,
+        "Fat": 1.1,
+        "Protein": 14.2,
+        "Carbohydrates": 69.6,
+        "Salt": 1.8,
+        "Sugars": 2.5,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1527,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasta Zara Linguini 20x500 GM",
+        "EnergyKjoules": 1483,
+        "EnergyKcal": 350,
+        "Fat": 1.2,
+        "Protein": 12,
+        "Carbohydrates": 71,
+        "Salt": 0.025,
+        "Sugars": 3.2,
+        "Fibre": 3.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1528,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasta Zara Penne Rigate 20x500 GM",
+        "EnergyKjoules": 1483,
+        "EnergyKcal": 350,
+        "Fat": 1.2,
+        "Protein": 12,
+        "Carbohydrates": 71,
+        "Salt": 0.025,
+        "Sugars": 3.2,
+        "Fibre": 3.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1529,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ravioli Ricotta & Spinach 1x4 KG",
+        "EnergyKjoules": 737,
+        "EnergyKcal": 175,
+        "Fat": 4.8,
+        "Protein": 8.3,
+        "Carbohydrates": 23.2,
+        "Salt": 0.65,
+        "Sugars": 0.7,
+        "Fibre": 3,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1530,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lucky Boat No.2 Golden Fine Noodles 1x7.7 KG",
+        "EnergyKjoules": 1508,
+        "EnergyKcal": 355,
+        "Fat": 1.8,
+        "Protein": 13.9,
+        "Carbohydrates": 71.9,
+        "Salt": 2.07,
+        "Sugars": 2.5,
+        "Fibre": 2.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1531,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Penne 1x3 KG",
+        "EnergyKjoules": 1500,
+        "EnergyKcal": 350,
+        "Fat": 1.5,
+        "Protein": 12,
+        "Carbohydrates": 73,
+        "Salt": 0,
+        "Sugars": 4,
+        "Fibre": 2.5,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 1532,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasta Zara Spaghetti 2x5 KG",
+        "EnergyKjoules": 1483,
+        "EnergyKcal": 350,
+        "Fat": 1.2,
+        "Protein": 12,
+        "Carbohydrates": 71,
+        "Salt": 0.025,
+        "Sugars": 3.2,
+        "Fibre": 3.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1533,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fini Fresh Tagliatelle Pasta 8x250 GM",
+        "EnergyKjoules": 1239,
+        "EnergyKcal": 293,
+        "Fat": 3.4,
+        "Protein": 10.6,
+        "Carbohydrates": 54,
+        "Salt": 0.025,
+        "Sugars": 1.7,
+        "Fibre": 2.4,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 1534,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Macaroni 1x5 KG",
+        "EnergyKjoules": 1502,
+        "EnergyKcal": 354,
+        "Fat": 1.3,
+        "Protein": 12,
+        "Carbohydrates": 72,
+        "Salt": 0,
+        "Sugars": 3.2,
+        "Fibre": 3.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1535,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Surgital Tagliatelle Egg Pasta 3x1 KG",
+        "EnergyKjoules": 871,
+        "EnergyKcal": 206,
+        "Fat": 2,
+        "Protein": 8.6,
+        "Carbohydrates": 37.3,
+        "Salt": 0.625,
+        "Sugars": 0.4,
+        "Fibre": 2.1,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 1536,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasta Zara Fusilli 2x5 KG",
+        "EnergyKjoules": 1483,
+        "EnergyKcal": 350,
+        "Fat": 1.2,
+        "Protein": 12,
+        "Carbohydrates": 71,
+        "Salt": 0.025,
+        "Sugars": 3.2,
+        "Fibre": 3.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1537,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fini Tortelloni Ricotta and Spinach 8x250 GM",
+        "EnergyKjoules": 1105,
+        "EnergyKcal": 262,
+        "Fat": 6.4,
+        "Protein": 11,
+        "Carbohydrates": 39,
+        "Salt": 0.9,
+        "Sugars": 4.8,
+        "Fibre": 1.7,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1538,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Linguine 1x5 KG",
+        "EnergyKjoules": 1502,
+        "EnergyKcal": 354,
+        "Fat": 1.3,
+        "Protein": 12,
+        "Carbohydrates": 72,
+        "Salt": 0,
+        "Sugars": 3.2,
+        "Fibre": 3.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1539,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Tagliatelle 1x3 KG",
+        "EnergyKjoules": 1500,
+        "EnergyKcal": 358,
+        "Fat": 1.5,
+        "Protein": 12,
+        "Carbohydrates": 73,
+        "Salt": 0,
+        "Sugars": 4,
+        "Fibre": 0,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 1540,
+    "model": "home.products",
+    "fields": {
+        "product_name": "De Cecco Pappardelle Dried Pasta 8x500 GM",
+        "EnergyKjoules": 1490,
+        "EnergyKcal": 351,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1541,
+    "model": "home.products",
+    "fields": {
+        "product_name": "De Cecco Penne Rigate Dried Pasta 24x500 GM",
+        "EnergyKjoules": 1490,
+        "EnergyKcal": 355,
+        "Fat": 1.5,
+        "Protein": 13,
+        "Carbohydrates": 70.2,
+        "Salt": 0.025,
+        "Sugars": 3.4,
+        "Fibre": 2.9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1542,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Non Pre Cook Lasagne 1x3 KG",
+        "EnergyKjoules": 1500,
+        "EnergyKcal": 350,
+        "Fat": 1.5,
+        "Protein": 12,
+        "Carbohydrates": 73,
+        "Salt": 0.1,
+        "Sugars": 4,
+        "Fibre": 2.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1543,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Egg Noodles 1x3 KG",
+        "EnergyKjoules": 1495,
+        "EnergyKcal": 353,
+        "Fat": 2.6,
+        "Protein": 15,
+        "Carbohydrates": 67.3,
+        "Salt": 1.5,
+        "Sugars": 3,
+        "Fibre": 3.8,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 1544,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Jumbo White Jumbo Hotdog Rolls 8.5 1x54'S",
+        "EnergyKjoules": 1106,
+        "EnergyKcal": 262,
+        "Fat": 3.5,
+        "Protein": 8.8,
+        "Carbohydrates": 47.1,
+        "Salt": 0.9,
+        "Sugars": 4.8,
+        "Fibre": 3.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1545,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasta Zara Spaghetti 20x500 GM",
+        "EnergyKjoules": 1483,
+        "EnergyKcal": 350,
+        "Fat": 1.2,
+        "Protein": 12,
+        "Carbohydrates": 71,
+        "Salt": 0.025,
+        "Sugars": 3.2,
+        "Fibre": 3.5,
+        "Allergens": [3, 1, 10]
+    }
+}, {
+    "pk": 1546,
+    "model": "home.products",
+    "fields": {
+        "product_name": "De Cecco Egg Tagliatelle Dried Pasta 8x500 GM",
+        "EnergyKjoules": 1555,
+        "EnergyKcal": 367,
+        "Fat": 4.2,
+        "Protein": 15,
+        "Carbohydrates": 66,
+        "Salt": 0.13,
+        "Sugars": 2.4,
+        "Fibre": 2.8,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1547,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ricotta & Spinach Tortelloni 3x1 KG",
+        "EnergyKjoules": 798,
+        "EnergyKcal": 189,
+        "Fat": 3.6,
+        "Protein": 6.6,
+        "Carbohydrates": 31.3,
+        "Salt": 1,
+        "Sugars": 2,
+        "Fibre": 2.5,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1548,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fini Gnocchi Di Patate 12x500 GM",
+        "EnergyKjoules": 633,
+        "EnergyKcal": 151,
+        "Fat": 0.3,
+        "Protein": 2.9,
+        "Carbohydrates": 33.7,
+        "Salt": 1,
+        "Sugars": 0.1,
+        "Fibre": 1.9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1549,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chopped Tomatoes 6x2.5 KG",
+        "EnergyKjoules": 77,
+        "EnergyKcal": 18,
+        "Fat": 0.1,
+        "Protein": 1,
+        "Carbohydrates": 3,
+        "Salt": 0.025,
+        "Sugars": 2.8,
+        "Fibre": 0.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1550,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vine Tomatoes 1x5 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 18,
+        "Fat": 0.2,
+        "Protein": 0.88,
+        "Carbohydrates": 3.92,
+        "Salt": 0,
+        "Sugars": 2.63,
+        "Fibre": 1.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1551,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Tomato Paste 1x800 GM",
+        "EnergyKjoules": 360,
+        "EnergyKcal": 85,
+        "Fat": 0.3,
+        "Protein": 5,
+        "Carbohydrates": 14.2,
+        "Salt": 0.025,
+        "Sugars": 14.1,
+        "Fibre": 2.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1552,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Besco Chopped Tomatoes 6x2.55 KG",
+        "EnergyKjoules": 97,
+        "EnergyKcal": 23,
+        "Fat": 0.5,
+        "Protein": 1.2,
+        "Carbohydrates": 3,
+        "Salt": 0.025,
+        "Sugars": 3,
+        "Fibre": 0.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1553,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Tomato Paste GF 6x800 GM",
+        "EnergyKjoules": 398,
+        "EnergyKcal": 94,
+        "Fat": 0.4,
+        "Protein": 4.5,
+        "Carbohydrates": 17,
+        "Salt": 1.5,
+        "Sugars": 17,
+        "Fibre": 2.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1554,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Tomato Paste 1x4.5 KG",
+        "EnergyKjoules": 398,
+        "EnergyKcal": 94,
+        "Fat": 0.4,
+        "Protein": 4.5,
+        "Carbohydrates": 17,
+        "Salt": 1.4,
+        "Sugars": 17,
+        "Fibre": 2.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1555,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sundried Tomatoes 1x1 KG",
+        "EnergyKjoules": 1079,
+        "EnergyKcal": 258,
+        "Fat": 3,
+        "Protein": 14,
+        "Carbohydrates": 56,
+        "Salt": 5,
+        "Sugars": 38,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1556,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Semi Dry Cherry Tomatoes in Sunflower Oil 2x1150 GM",
+        "EnergyKjoules": 184,
+        "EnergyKcal": 0,
+        "Fat": 10.7,
+        "Protein": 3.9,
+        "Carbohydrates": 18,
+        "Salt": 0.84,
+        "Sugars": 11.3,
+        "Fibre": 5.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1557,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Whole Peeled Plum Tomatoes 6x2.55 KG",
+        "EnergyKjoules": 73,
+        "EnergyKcal": 17,
+        "Fat": 0.1,
+        "Protein": 1.1,
+        "Carbohydrates": 3,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1558,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Semi Dried Tomatoes in Oil 1x780 GM",
+        "EnergyKjoules": 1960,
+        "EnergyKcal": 468,
+        "Fat": 37.6,
+        "Protein": 8.3,
+        "Carbohydrates": 25.7,
+        "Salt": 5,
+        "Sugars": 8.4,
+        "Fibre": 5.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1559,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tomato Paste 12x800 GM",
+        "EnergyKjoules": 398,
+        "EnergyKcal": 94,
+        "Fat": 0.4,
+        "Protein": 4.5,
+        "Carbohydrates": 1,
+        "Salt": 4,
+        "Sugars": 17,
+        "Fibre": 2.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1560,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Tower Tomato Paste 1x4550 GM",
+        "EnergyKjoules": 420,
+        "EnergyKcal": 100,
+        "Fat": 0.1,
+        "Protein": 5,
+        "Carbohydrates": 19,
+        "Salt": 0.07,
+        "Sugars": 14.6,
+        "Fibre": 4.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1561,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Roma Chopped Tomatoes 12x400 GM",
+        "EnergyKjoules": 69,
+        "EnergyKcal": 16,
+        "Fat": 0.1,
+        "Protein": 1,
+        "Carbohydrates": 3,
+        "Salt": 0.025,
+        "Sugars": 2.8,
+        "Fibre": 0.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1562,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chopped Tomatoes Bag In Box 1x20 KG",
+        "EnergyKjoules": 77,
+        "EnergyKcal": 18,
+        "Fat": 0.5,
+        "Protein": 1,
+        "Carbohydrates": 3,
+        "Salt": 0.025,
+        "Sugars": 2.8,
+        "Fibre": 0.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1563,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tomato Pulp 6x2.5 KG",
+        "EnergyKjoules": 125,
+        "EnergyKcal": 30,
+        "Fat": 0.5,
+        "Protein": 1.2,
+        "Carbohydrates": 4.7,
+        "Salt": 0.03,
+        "Sugars": 4.7,
+        "Fibre": 1.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1564,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Strawberry Jam 96x20 GM",
+        "EnergyKjoules": 992,
+        "EnergyKcal": 237,
+        "Fat": 0.14,
+        "Protein": 0.28,
+        "Carbohydrates": 60,
+        "Salt": 0,
+        "Sugars": 53.8,
+        "Fibre": 0.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1565,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Marmalade Orange 96x20 GM",
+        "EnergyKjoules": 1028,
+        "EnergyKcal": 242,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 60,
+        "Salt": 0.025,
+        "Sugars": 43.03,
+        "Fibre": 0.96,
+        "Allergens": []
+    }
+}, {
+    "pk": 1566,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Raspberry Jam GF 1x3.5 KG",
+        "EnergyKjoules": 1078,
+        "EnergyKcal": 257,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 65.5,
+        "Salt": 0,
+        "Sugars": 62.1,
+        "Fibre": 2.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1567,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Raspberry Jam 96x20 GM",
+        "EnergyKjoules": 970,
+        "EnergyKcal": 231,
+        "Fat": 0.11,
+        "Protein": 0.47,
+        "Carbohydrates": 60,
+        "Salt": 0.025,
+        "Sugars": 53.8,
+        "Fibre": 2.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1568,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Assorted Jams 96x20 GM",
+        "EnergyKjoules": 907,
+        "EnergyKcal": 216,
+        "Fat": 0,
+        "Protein": 0.33,
+        "Carbohydrates": 60,
+        "Salt": 0.025,
+        "Sugars": 54.6,
+        "Fibre": 2.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1569,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lyles Treacle 1x7.26 KG",
+        "EnergyKjoules": 1230,
+        "EnergyKcal": 290,
+        "Fat": 0,
+        "Protein": 1.7,
+        "Carbohydrates": 64,
+        "Salt": 0,
+        "Sugars": 64,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1570,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Strawberry Jam GF 1x3.5 KG",
+        "EnergyKjoules": 919,
+        "EnergyKcal": 277,
+        "Fat": 0.1,
+        "Protein": 0.5,
+        "Carbohydrates": 56,
+        "Salt": 0.01,
+        "Sugars": 54.1,
+        "Fibre": 0.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1571,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Strawberry Jam 1x2.72 KG",
+        "EnergyKjoules": 1119,
+        "EnergyKcal": 263,
+        "Fat": 0,
+        "Protein": 0.3,
+        "Carbohydrates": 65.4,
+        "Salt": 0,
+        "Sugars": 55.2,
+        "Fibre": 0.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1572,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Orange Marmalade 1x3.5 KG",
+        "EnergyKjoules": 984,
+        "EnergyKcal": 235,
+        "Fat": 0,
+        "Protein": 0.16,
+        "Carbohydrates": 60.8,
+        "Salt": 0.025,
+        "Sugars": 59.9,
+        "Fibre": 0.41,
+        "Allergens": []
+    }
+}, {
+    "pk": 1573,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Blackcurrant Jam 96x20 GM",
+        "EnergyKjoules": 907,
+        "EnergyKcal": 216,
+        "Fat": 0,
+        "Protein": 0.33,
+        "Carbohydrates": 60,
+        "Salt": 0.025,
+        "Sugars": 54.6,
+        "Fibre": 2.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1574,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Redcurrant Jelly 1x2.72 KG",
+        "EnergyKjoules": 1083,
+        "EnergyKcal": 255,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 63,
+        "Salt": 0.025,
+        "Sugars": 46.7,
+        "Fibre": 0.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1575,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G's Gourmet Raspberry Jam Mini Jars 60x30 GM",
+        "EnergyKjoules": 1055,
+        "EnergyKcal": 252,
+        "Fat": 0.4,
+        "Protein": 0.69,
+        "Carbohydrates": 64.3,
+        "Salt": 0.025,
+        "Sugars": 59.95,
+        "Fibre": 3.74,
+        "Allergens": []
+    }
+}, {
+    "pk": 1576,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G's Gourmet Raspberry Jam 1x3.5 KG",
+        "EnergyKjoules": 1055,
+        "EnergyKcal": 252,
+        "Fat": 0.4,
+        "Protein": 0.69,
+        "Carbohydrates": 64.3,
+        "Salt": 0.025,
+        "Sugars": 59.95,
+        "Fibre": 3.74,
+        "Allergens": []
+    }
+}, {
+    "pk": 1577,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G's Gourmet Strawberry Jam 60x30 GM",
+        "EnergyKjoules": 929,
+        "EnergyKcal": 219,
+        "Fat": 0.3,
+        "Protein": 0.47,
+        "Carbohydrates": 64,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1578,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Caramelised Onion Relish 4x1.2 KG",
+        "EnergyKjoules": 772,
+        "EnergyKcal": 182,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 44.9,
+        "Salt": 0,
+        "Sugars": 33.7,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1579,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G's Gourmet Redcurrant Jelly 1x1 KG",
+        "EnergyKjoules": 929,
+        "EnergyKcal": 222,
+        "Fat": 0.1,
+        "Protein": 0.7,
+        "Carbohydrates": 57.03,
+        "Salt": 0.025,
+        "Sugars": 53.77,
+        "Fibre": 2.16,
+        "Allergens": []
+    }
+}, {
+    "pk": 1580,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hartley's Strawberry Jam 1x3.18 KG",
+        "EnergyKjoules": 1122,
+        "EnergyKcal": 268,
+        "Fat": 0,
+        "Protein": 0.3,
+        "Carbohydrates": 65.7,
+        "Salt": 0,
+        "Sugars": 54.9,
+        "Fibre": 0.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1581,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bonne Maman Jam Strawberry Glass Jar 60x30 GM",
+        "EnergyKjoules": 1036,
+        "EnergyKcal": 244,
+        "Fat": 0.2,
+        "Protein": 0.5,
+        "Carbohydrates": 60,
+        "Salt": 0,
+        "Sugars": 60,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1582,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bonne Maman Marmalade Orange Glass Jar 60x30 GM",
+        "EnergyKjoules": 1036,
+        "EnergyKcal": 244,
+        "Fat": 0.2,
+        "Protein": 0.5,
+        "Carbohydrates": 60,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1583,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Onion Marmalade 1x2.5 KG",
+        "EnergyKjoules": 644,
+        "EnergyKcal": 154,
+        "Fat": 0.03,
+        "Protein": 0.65,
+        "Carbohydrates": 37.55,
+        "Salt": 0,
+        "Sugars": 36.29,
+        "Fibre": 0.79,
+        "Allergens": []
+    }
+}, {
+    "pk": 1584,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Duerrs Blackcurrant Jam Portions 96x20 GM",
+        "EnergyKjoules": 1161,
+        "EnergyKcal": 273,
+        "Fat": 0,
+        "Protein": 0.3,
+        "Carbohydrates": 68,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1585,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G's Gourmet Raspberry Jam 1x1 KG",
+        "EnergyKjoules": 1055,
+        "EnergyKcal": 252,
+        "Fat": 0.4,
+        "Protein": 0.69,
+        "Carbohydrates": 64.3,
+        "Salt": 0.025,
+        "Sugars": 59.95,
+        "Fibre": 3.74,
+        "Allergens": []
+    }
+}, {
+    "pk": 1586,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G's Gourmet Seville Marmalade Mini Jars 60x30 GM",
+        "EnergyKjoules": 965,
+        "EnergyKcal": 231,
+        "Fat": 0,
+        "Protein": 0.27,
+        "Carbohydrates": 59.5,
+        "Salt": 0,
+        "Sugars": 58.78,
+        "Fibre": 0.67,
+        "Allergens": []
+    }
+}, {
+    "pk": 1587,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bakers Jam 1x12.5 KG",
+        "EnergyKjoules": 1084,
+        "EnergyKcal": 255,
+        "Fat": 0.31,
+        "Protein": 0.1,
+        "Carbohydrates": 63.77,
+        "Salt": 0,
+        "Sugars": 57.16,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1588,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G's Gourmet Redcurrant Jelly 1x3 KG",
+        "EnergyKjoules": 929,
+        "EnergyKcal": 222,
+        "Fat": 0.1,
+        "Protein": 0.7,
+        "Carbohydrates": 57.03,
+        "Salt": 0.025,
+        "Sugars": 53.77,
+        "Fibre": 2.16,
+        "Allergens": []
+    }
+}, {
+    "pk": 1589,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Fine Cut Marmalade 1x2.72 KG",
+        "EnergyKjoules": 1117,
+        "EnergyKcal": 263,
+        "Fat": 0,
+        "Protein": 0.3,
+        "Carbohydrates": 65.1,
+        "Salt": 0,
+        "Sugars": 57.5,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1590,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G's Gourmet Mixed Berry Compote 6x1 KG",
+        "EnergyKjoules": 846,
+        "EnergyKcal": 202,
+        "Fat": 0.19,
+        "Protein": 0.56,
+        "Carbohydrates": 51.76,
+        "Salt": 0,
+        "Sugars": 49.15,
+        "Fibre": 2.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1591,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Blackcurrant Jam GF 1x3.5 KG",
+        "EnergyKjoules": 1079,
+        "EnergyKcal": 257,
+        "Fat": 0.5,
+        "Protein": 0.4,
+        "Carbohydrates": 64.8,
+        "Salt": 0,
+        "Sugars": 62.7,
+        "Fibre": 1.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1592,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G's Gourmet Seville Marmalade 1x3.5 KG",
+        "EnergyKjoules": 965,
+        "EnergyKcal": 231,
+        "Fat": 0,
+        "Protein": 0.27,
+        "Carbohydrates": 59.5,
+        "Salt": 0,
+        "Sugars": 58.78,
+        "Fibre": 0.67,
+        "Allergens": []
+    }
+}, {
+    "pk": 1593,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G's Gourmet Strawberry Jam 1x3.5 KG",
+        "EnergyKjoules": 1006,
+        "EnergyKcal": 240,
+        "Fat": 0.17,
+        "Protein": 0.38,
+        "Carbohydrates": 61.72,
+        "Salt": 0.025,
+        "Sugars": 60.08,
+        "Fibre": 1.15,
+        "Allergens": []
+    }
+}, {
+    "pk": 1594,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Orange Marmalade No Added Sugar 1x1.25 KG",
+        "EnergyKjoules": 647,
+        "EnergyKcal": 142,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 38.2,
+        "Salt": 0,
+        "Sugars": 36.9,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1595,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Mixed Fruit Jam 1x2.72 KG",
+        "EnergyKjoules": 1115,
+        "EnergyKcal": 262,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 65,
+        "Salt": 0.1,
+        "Sugars": 54.8,
+        "Fibre": 0.8,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1596,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dried Cranberries 1x1 KG",
+        "EnergyKjoules": 1403,
+        "EnergyKcal": 335,
+        "Fat": 0.9,
+        "Protein": 0.15,
+        "Carbohydrates": 82.8,
+        "Salt": 0.025,
+        "Sugars": 76.6,
+        "Fibre": 4.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1597,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fried & Dried Onions 1x1 KG",
+        "EnergyKjoules": 2446,
+        "EnergyKcal": 584,
+        "Fat": 44,
+        "Protein": 6,
+        "Carbohydrates": 40,
+        "Salt": 1,
+        "Sugars": 0,
+        "Fibre": 4.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1598,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Sultanas 1x3 KG",
+        "EnergyKjoules": 1184,
+        "EnergyKcal": 282,
+        "Fat": 0.9,
+        "Protein": 2.7,
+        "Carbohydrates": 69.1,
+        "Salt": 0.025,
+        "Sugars": 69.1,
+        "Fibre": 2.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1599,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Dried Stoneless Dates 1x1 KG",
+        "EnergyKjoules": 1151,
+        "EnergyKcal": 270,
+        "Fat": 0,
+        "Protein": 3,
+        "Carbohydrates": 68,
+        "Salt": 0,
+        "Sugars": 68,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1600,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Whole Dried Apricots 1x1 KG",
+        "EnergyKjoules": 802,
+        "EnergyKcal": 188,
+        "Fat": 0.7,
+        "Protein": 4.8,
+        "Carbohydrates": 43.4,
+        "Salt": 0,
+        "Sugars": 43.4,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1601,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Raisins 1x3 KG",
+        "EnergyKjoules": 1172,
+        "EnergyKcal": 280,
+        "Fat": 0.9,
+        "Protein": 2.1,
+        "Carbohydrates": 69,
+        "Salt": 0.025,
+        "Sugars": 69,
+        "Fibre": 2.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1602,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Pitted Dates 1x3 KG",
+        "EnergyKjoules": 1287,
+        "EnergyKcal": 304,
+        "Fat": 0.4,
+        "Protein": 3.4,
+        "Carbohydrates": 68.4,
+        "Salt": 0,
+        "Sugars": 66,
+        "Fibre": 6.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1603,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Golden Raisins 1x1 KG",
+        "EnergyKjoules": 1268,
+        "EnergyKcal": 302,
+        "Fat": 0.4,
+        "Protein": 2.1,
+        "Carbohydrates": 69.3,
+        "Salt": 0.025,
+        "Sugars": 69.3,
+        "Fibre": 2,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1604,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Cracked Black Pepper 1x1 KG",
+        "EnergyKjoules": 1050,
+        "EnergyKcal": 251,
+        "Fat": 3.26,
+        "Protein": 10.39,
+        "Carbohydrates": 63.95,
+        "Salt": 0.05,
+        "Sugars": 0.64,
+        "Fibre": 25.3,
+        "Allergens": [8, 11]
+    }
+}, {
+    "pk": 1605,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Fruit Cake Mix (Dried Sultanas Currants & Raisins) 1x3 K",
+        "EnergyKjoules": 1275,
+        "EnergyKcal": 304,
+        "Fat": 0.3,
+        "Protein": 2.1,
+        "Carbohydrates": 71.1,
+        "Salt": 0,
+        "Sugars": 65.9,
+        "Fibre": 2.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1606,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Desiccated Coconut 1x2 KG",
+        "EnergyKjoules": 2608,
+        "EnergyKcal": 633,
+        "Fat": 62,
+        "Protein": 5.6,
+        "Carbohydrates": 6.4,
+        "Salt": 0.1,
+        "Sugars": 6.4,
+        "Fibre": 13.7,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1607,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Turkish Sultanas 1x12.5 KG",
+        "EnergyKjoules": 1226,
+        "EnergyKcal": 292,
+        "Fat": 0.4,
+        "Protein": 2.7,
+        "Carbohydrates": 69.4,
+        "Salt": 0.025,
+        "Sugars": 69.4,
+        "Fibre": 2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1608,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Glace Cherries 4x1 KG",
+        "EnergyKjoules": 1244,
+        "EnergyKcal": 297,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 72.5,
+        "Salt": 0.375,
+        "Sugars": 63.9,
+        "Fibre": 1.36,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1609,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glace Cherries (Whole & Broken) 1x10 KG",
+        "EnergyKjoules": 1226,
+        "EnergyKcal": 293,
+        "Fat": 0.2,
+        "Protein": 0.4,
+        "Carbohydrates": 73.3,
+        "Salt": 0.025,
+        "Sugars": 52.9,
+        "Fibre": 1.1,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1610,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Ground Nutmeg 1x440 GM",
+        "EnergyKjoules": 2093,
+        "EnergyKcal": 506,
+        "Fat": 36,
+        "Protein": 5.8,
+        "Carbohydrates": 3,
+        "Salt": 0.1,
+        "Sugars": 3,
+        "Fibre": 21,
+        "Allergens": []
+    }
+}, {
+    "pk": 1611,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sun Maid Raisins 12x18'S",
+        "EnergyKjoules": 1172,
+        "EnergyKcal": 275,
+        "Fat": 0.9,
+        "Protein": 2.1,
+        "Carbohydrates": 69,
+        "Salt": 0.06,
+        "Sugars": 69,
+        "Fibre": 2.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1612,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Caster Sugar 1x3 KG",
+        "EnergyKjoules": 1680,
+        "EnergyKcal": 394,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0.01,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1613,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Sugar Stick 1000x2.5 GM",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1614,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Icing Sugar 1x3 KG",
+        "EnergyKjoules": 1649,
+        "EnergyKcal": 399,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 99.6,
+        "Salt": 0.0055,
+        "Sugars": 96.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1615,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Demerara Sugar 1x3 KG",
+        "EnergyKjoules": 1690,
+        "EnergyKcal": 398,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 99.4,
+        "Salt": 0.025,
+        "Sugars": 99.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1616,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brown Sugar Stick 1000x2.5 GM",
+        "EnergyKjoules": 1590,
+        "EnergyKcal": 380,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 98.1,
+        "Salt": 1.25,
+        "Sugars": 97,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1617,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Sugar Sachets 1000x2.5 GM",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1618,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Canderel Red Granular Sticks 1x1000'S",
+        "EnergyKjoules": 1540,
+        "EnergyKcal": 362,
+        "Fat": 0,
+        "Protein": 1.6,
+        "Carbohydrates": 88.96,
+        "Salt": 0,
+        "Sugars": 88.56,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1619,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brown Sugar Sachets 1000x2.5 GM",
+        "EnergyKjoules": 1687,
+        "EnergyKcal": 397,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 99.3,
+        "Salt": 0,
+        "Sugars": 99.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1620,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Icing Sugar 1x25 KG",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1621,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Soft Light Brown Sugar 1x25 KG",
+        "EnergyKjoules": 1680,
+        "EnergyKcal": 394,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0.012,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1622,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gold Seal Granulated Sugar 15x1 KG",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 99.7,
+        "Salt": 0.025,
+        "Sugars": 99.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1623,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Jam Sugar 10x1 KG",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1624,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Granulated Sugar 1x10 KG",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1625,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lavazza White Sugar Sticks 1x1000'S",
+        "EnergyKjoules": 1680,
+        "EnergyKcal": 394,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 105,
+        "Salt": 0.025,
+        "Sugars": 105,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1626,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lavazza Brown Sugar Sticks 1x1000'S",
+        "EnergyKjoules": 1681,
+        "EnergyKcal": 394,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 104.5,
+        "Salt": 0.025,
+        "Sugars": 104.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1627,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Pure Maple Syrup 1x620 GM",
+        "EnergyKjoules": 1076,
+        "EnergyKcal": 253,
+        "Fat": 0.1,
+        "Protein": 0,
+        "Carbohydrates": 63,
+        "Salt": 0,
+        "Sugars": 61.5,
+        "Fibre": 0.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1628,
+    "model": "home.products",
+    "fields": {
+        "product_name": "SunPat Crunchy Peanut Butter 1x300 GM",
+        "EnergyKjoules": 2530,
+        "EnergyKcal": 611,
+        "Fat": 48.7,
+        "Protein": 24.8,
+        "Carbohydrates": 14.5,
+        "Salt": 1.1,
+        "Sugars": 6.7,
+        "Fibre": 7.3,
+        "Allergens": [5]
+    }
+}, {
+    "pk": 1629,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nutella Hazelnut & Chocolate Spread Tub 2x3 KG",
+        "EnergyKjoules": 2273,
+        "EnergyKcal": 544,
+        "Fat": 31.6,
+        "Protein": 6,
+        "Carbohydrates": 57.3,
+        "Salt": 1,
+        "Sugars": 55,
+        "Fibre": 3.4,
+        "Allergens": [7, 8, 6]
+    }
+}, {
+    "pk": 1630,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nutella Hazelnut & Chocolate Spread Jar 1x750 GM",
+        "EnergyKjoules": 2273,
+        "EnergyKcal": 544,
+        "Fat": 31.6,
+        "Protein": 6,
+        "Carbohydrates": 57.3,
+        "Salt": 1.125,
+        "Sugars": 56.7,
+        "Fibre": 3.4,
+        "Allergens": [7, 8, 6]
+    }
+}, {
+    "pk": 1631,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nutella Hazelnut & Chocolate Spread Portions 120x15 GM",
+        "EnergyKjoules": 2273,
+        "EnergyKcal": 554,
+        "Fat": 31.6,
+        "Protein": 6,
+        "Carbohydrates": 57.3,
+        "Salt": 1.125,
+        "Sugars": 56.7,
+        "Fibre": 0,
+        "Allergens": [7, 8, 6]
+    }
+}, {
+    "pk": 1632,
+    "model": "home.products",
+    "fields": {
+        "product_name": "SunPat Smooth Peanut Butter 1x340 GM",
+        "EnergyKjoules": 2546,
+        "EnergyKcal": 614,
+        "Fat": 48.9,
+        "Protein": 25,
+        "Carbohydrates": 15.2,
+        "Salt": 1.2,
+        "Sugars": 5.1,
+        "Fibre": 7.3,
+        "Allergens": [5]
+    }
+}, {
+    "pk": 1633,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Duerrs Smooth Peanut Butter 6x340 GM",
+        "EnergyKjoules": 2763,
+        "EnergyKcal": 668,
+        "Fat": 58.2,
+        "Protein": 26.9,
+        "Carbohydrates": 6.8,
+        "Salt": 0.85,
+        "Sugars": 4.6,
+        "Fibre": 4.7,
+        "Allergens": [5]
+    }
+}, {
+    "pk": 1634,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bisto Original Gravy Powder 1x40 LT",
+        "EnergyKjoules": 1037,
+        "EnergyKcal": 244,
+        "Fat": 0.5,
+        "Protein": 1.3,
+        "Carbohydrates": 59.5,
+        "Salt": 25.75,
+        "Sugars": 0.5,
+        "Fibre": 1.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1635,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Farmer Rice Stick 3mm 1x400 GM",
+        "EnergyKjoules": 1520,
+        "EnergyKcal": 358,
+        "Fat": 0.8,
+        "Protein": 7,
+        "Carbohydrates": 81,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1636,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Farmer Rice Stick 5mm 1x400 GM",
+        "EnergyKjoules": 1520,
+        "EnergyKcal": 358,
+        "Fat": 0.8,
+        "Protein": 7,
+        "Carbohydrates": 81,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1637,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Cooked Long Grain Rice 4x2 KG",
+        "EnergyKjoules": 618,
+        "EnergyKcal": 146,
+        "Fat": 1.3,
+        "Protein": 2.6,
+        "Carbohydrates": 30.9,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1638,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Arborio Rice (Risotto) 1x5 KG",
+        "EnergyKjoules": 1525,
+        "EnergyKcal": 359,
+        "Fat": 0.4,
+        "Protein": 8.9,
+        "Carbohydrates": 79.8,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1639,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bens Long Grain Rice 1x5 KG",
+        "EnergyKjoules": 501,
+        "EnergyKcal": 118,
+        "Fat": 0.5,
+        "Protein": 2.5,
+        "Carbohydrates": 26,
+        "Salt": 0.01,
+        "Sugars": 0.5,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1640,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Easy Cook Long Grain Rice 1x15 KG",
+        "EnergyKjoules": 1509,
+        "EnergyKcal": 355,
+        "Fat": 0.8,
+        "Protein": 7.3,
+        "Carbohydrates": 79,
+        "Salt": 0,
+        "Sugars": 0.3,
+        "Fibre": 1.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1641,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wai Wai Rice Vermicelli 1x500 GM",
+        "EnergyKjoules": 1550,
+        "EnergyKcal": 365,
+        "Fat": 0,
+        "Protein": 7,
+        "Carbohydrates": 82,
+        "Salt": 0.03,
+        "Sugars": 0,
+        "Fibre": 1.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1642,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Easy Cook Long Grain Rice 1x3 KG",
+        "EnergyKjoules": 1509,
+        "EnergyKcal": 355,
+        "Fat": 0.8,
+        "Protein": 7.3,
+        "Carbohydrates": 79,
+        "Salt": 0,
+        "Sugars": 0.3,
+        "Fibre": 1.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1643,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Pearl Rice 1x3 KG",
+        "EnergyKjoules": 1502,
+        "EnergyKcal": 358,
+        "Fat": 0.5,
+        "Protein": 7.4,
+        "Carbohydrates": 79.8,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1644,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Rice 1x1 KG",
+        "EnergyKjoules": 1502,
+        "EnergyKcal": 357,
+        "Fat": 1.1,
+        "Protein": 15,
+        "Carbohydrates": 75,
+        "Salt": 0,
+        "Sugars": 2.5,
+        "Fibre": 6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1645,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Pearl Barley 1x3 KG",
+        "EnergyKjoules": 1473,
+        "EnergyKcal": 352,
+        "Fat": 1.16,
+        "Protein": 9.91,
+        "Carbohydrates": 77.72,
+        "Salt": 0.025,
+        "Sugars": 0.8,
+        "Fibre": 15.6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1646,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Eurostar Premium Grade Long Grain Rice 1x20 KG",
+        "EnergyKjoules": 1504,
+        "EnergyKcal": 354,
+        "Fat": 0.4,
+        "Protein": 6.7,
+        "Carbohydrates": 80.4,
+        "Salt": 0.01,
+        "Sugars": 0.2,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1647,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Eurostar Brown Rice 1x20 KG",
+        "EnergyKjoules": 1440,
+        "EnergyKcal": 339,
+        "Fat": 0.5,
+        "Protein": 8,
+        "Carbohydrates": 76,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1648,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Shinode Japanese Sushi Rice 1x10 KG",
+        "EnergyKjoules": 1479,
+        "EnergyKcal": 348,
+        "Fat": 0.7,
+        "Protein": 7,
+        "Carbohydrates": 78,
+        "Salt": 0.01,
+        "Sugars": 0.3,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1649,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bens Original Wholegrain Rice 1x5 KG",
+        "EnergyKjoules": 495,
+        "EnergyKcal": 117,
+        "Fat": 0.7,
+        "Protein": 2.7,
+        "Carbohydrates": 24,
+        "Salt": 0.01,
+        "Sugars": 0.5,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1650,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Farmer Rice Stick 10mm 1x400 GM",
+        "EnergyKjoules": 1520,
+        "EnergyKcal": 358,
+        "Fat": 0.8,
+        "Protein": 7,
+        "Carbohydrates": 81,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1651,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Shinode Japanese Sushi Rice 1x1 KG",
+        "EnergyKjoules": 1471,
+        "EnergyKcal": 346,
+        "Fat": 0.9,
+        "Protein": 7.2,
+        "Carbohydrates": 77.3,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1652,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Red Drago Rice Sticks 3mm 1x375 GM",
+        "EnergyKjoules": 1497,
+        "EnergyKcal": 353,
+        "Fat": 0.6,
+        "Protein": 6,
+        "Carbohydrates": 80,
+        "Salt": 0.5,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1653,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Riso Scotti Pudding Rice 1x5 KG",
+        "EnergyKjoules": 1496,
+        "EnergyKcal": 353,
+        "Fat": 1,
+        "Protein": 7.8,
+        "Carbohydrates": 77.6,
+        "Salt": 0.02,
+        "Sugars": 0.2,
+        "Fibre": 0.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1654,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Girolomoni Organic Carnaroli Risotto Rice 6x1 KG",
+        "EnergyKjoules": 1481,
+        "EnergyKcal": 349,
+        "Fat": 0.55,
+        "Protein": 8.23,
+        "Carbohydrates": 79,
+        "Salt": 0.025,
+        "Sugars": 0.2,
+        "Fibre": 0.32,
+        "Allergens": []
+    }
+}, {
+    "pk": 1655,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Long Grain Rice 36x167 GM",
+        "EnergyKjoules": 618,
+        "EnergyKcal": 146,
+        "Fat": 1.3,
+        "Protein": 2.6,
+        "Carbohydrates": 30.9,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1656,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Confucius Fragrant Rice Bag 1x10 KG",
+        "EnergyKjoules": 1470,
+        "EnergyKcal": 350,
+        "Fat": 0.5,
+        "Protein": 7.1,
+        "Carbohydrates": 72,
+        "Salt": 0.01,
+        "Sugars": 0.2,
+        "Fibre": 2.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1657,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rice Wild 1x10 KG",
+        "EnergyKjoules": 647,
+        "EnergyKcal": 152,
+        "Fat": 0.4,
+        "Protein": 3.5,
+        "Carbohydrates": 33.1,
+        "Salt": 0,
+        "Sugars": 0.2,
+        "Fibre": 1.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1658,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Red Drago Rice Sticks 10mm 1x375 GM",
+        "EnergyKjoules": 1497,
+        "EnergyKcal": 353,
+        "Fat": 0,
+        "Protein": 6,
+        "Carbohydrates": 80,
+        "Salt": 0.5,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1659,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Confucius Fragrant Rice 1x20 KG",
+        "EnergyKjoules": 1464,
+        "EnergyKcal": 350,
+        "Fat": 0.5,
+        "Protein": 7.1,
+        "Carbohydrates": 72,
+        "Salt": 0.01,
+        "Sugars": 0.2,
+        "Fibre": 2.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1660,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Riso Scotti Hakumaki Sushi Rice 1x20 KG",
+        "EnergyKjoules": 1462,
+        "EnergyKcal": 345,
+        "Fat": 1.1,
+        "Protein": 7.1,
+        "Carbohydrates": 76.1,
+        "Salt": 0.01,
+        "Sugars": 0.3,
+        "Fibre": 0.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1661,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Royal Umbrella Glutinous Rice 1x10 LBS",
+        "EnergyKjoules": 1492,
+        "EnergyKcal": 351,
+        "Fat": 0.5,
+        "Protein": 6.8,
+        "Carbohydrates": 79,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1662,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Red Drago Rice Sticks 5mm 1x375 GM",
+        "EnergyKjoules": 1497,
+        "EnergyKcal": 353,
+        "Fat": 0.6,
+        "Protein": 6,
+        "Carbohydrates": 80,
+        "Salt": 0.5,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1663,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Garlic Puree 1x1 KG",
+        "EnergyKjoules": 375,
+        "EnergyKcal": 89,
+        "Fat": 1.2,
+        "Protein": 4.3,
+        "Carbohydrates": 13.8,
+        "Salt": 3,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1664,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Peach Slices In Light Syrup 1x2.6 KG",
+        "EnergyKjoules": 253,
+        "EnergyKcal": 60,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 14,
+        "Salt": 0,
+        "Sugars": 14,
+        "Fibre": 0.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1665,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Pear Halves in Syrup 1x2.5 KG",
+        "EnergyKjoules": 239,
+        "EnergyKcal": 57,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 14,
+        "Salt": 0,
+        "Sugars": 12,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1666,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Peach Slices In Juice 1x822 GM",
+        "EnergyKjoules": 181,
+        "EnergyKcal": 43,
+        "Fat": 0,
+        "Protein": 0.6,
+        "Carbohydrates": 9.7,
+        "Salt": 0,
+        "Sugars": 9.7,
+        "Fibre": 0.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1667,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Solid Pack Apples 1x2.65 KG",
+        "EnergyKjoules": 138,
+        "EnergyKcal": 33.6,
+        "Fat": 0.1,
+        "Protein": 1.59,
+        "Carbohydrates": 8.1,
+        "Salt": 0,
+        "Sugars": 8.1,
+        "Fibre": 0.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1668,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Whole Grapefruit Segments in Light Syrup 1x3 KG",
+        "EnergyKjoules": 277,
+        "EnergyKcal": 65,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 15.5,
+        "Salt": 0,
+        "Sugars": 15.5,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1669,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Mandarin Segments Whole in Light Syrup 1x2.6 KG",
+        "EnergyKjoules": 241,
+        "EnergyKcal": 57,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 13.6,
+        "Salt": 0.5,
+        "Sugars": 13.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1670,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Fruit Cocktail in Light Syrup 1x2.65 KG",
+        "EnergyKjoules": 263,
+        "EnergyKcal": 62,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 14.5,
+        "Salt": 0,
+        "Sugars": 13.8,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1671,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Pineapple Pieces in Light Syrup 1x3 KG",
+        "EnergyKjoules": 279,
+        "EnergyKcal": 70,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 17,
+        "Salt": 0,
+        "Sugars": 14,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1672,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Prepared Rhubarb 1x10 KG",
+        "EnergyKjoules": 44,
+        "EnergyKcal": 10,
+        "Fat": 0.1,
+        "Protein": 0.9,
+        "Carbohydrates": 0.8,
+        "Salt": 0.025,
+        "Sugars": 0.8,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1673,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Amarena Cherries In Syrup 1x1 KG",
+        "EnergyKjoules": 1195,
+        "EnergyKcal": 281,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 69.9,
+        "Salt": 0.025,
+        "Sugars": 45.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1674,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Apple Pie & Tart Filling 1x2.7 KG",
+        "EnergyKjoules": 424,
+        "EnergyKcal": 101,
+        "Fat": 0,
+        "Protein": 0.26,
+        "Carbohydrates": 25,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1675,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sunny South Sliced Pineapple in Juice 12x567 GM",
+        "EnergyKjoules": 252,
+        "EnergyKcal": 60,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 14.2,
+        "Salt": 0.25,
+        "Sugars": 14.7,
+        "Fibre": 1.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1676,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Apricot Halves 1x2.65 KG",
+        "EnergyKjoules": 279,
+        "EnergyKcal": 66,
+        "Fat": 0,
+        "Protein": 1,
+        "Carbohydrates": 15.6,
+        "Salt": 0,
+        "Sugars": 15.6,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1677,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Peach Halves in Light Syrup 1x2.6 KG",
+        "EnergyKjoules": 253,
+        "EnergyKcal": 60,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 14,
+        "Salt": 0,
+        "Sugars": 14,
+        "Fibre": 0.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1678,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sunny South Sliced Pineapple in Light Syrup 12x567 GM",
+        "EnergyKjoules": 273,
+        "EnergyKcal": 65,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 15.7,
+        "Salt": 0.7,
+        "Sugars": 14.7,
+        "Fibre": 0.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1679,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sunny South Pineapple Chunks 12x567 GM",
+        "EnergyKjoules": 243,
+        "EnergyKcal": 58,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 13.9,
+        "Salt": 0.1,
+        "Sugars": 12.4,
+        "Fibre": 0.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1680,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Peach Slices in Natural Juice 1x411 GM",
+        "EnergyKjoules": 188,
+        "EnergyKcal": 44,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 10,
+        "Salt": 0,
+        "Sugars": 10,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1681,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lustre Grapefruit Segments in Juice 12x410 GM",
+        "EnergyKjoules": 120,
+        "EnergyKcal": 28,
+        "Fat": 0,
+        "Protein": 0.6,
+        "Carbohydrates": 7.3,
+        "Salt": 0,
+        "Sugars": 7.3,
+        "Fibre": 0.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1682,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lustre Fruit Cocktail 6x2.5 KG",
+        "EnergyKjoules": 212,
+        "EnergyKcal": 51,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 12.3,
+        "Salt": 0.025,
+        "Sugars": 12.3,
+        "Fibre": 0.8,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1683,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Crop's Pineapple Pieces 1x10 KG",
+        "EnergyKjoules": 248,
+        "EnergyKcal": 58,
+        "Fat": 0.15,
+        "Protein": 0.46,
+        "Carbohydrates": 13.12,
+        "Salt": 0.025,
+        "Sugars": 12.73,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1684,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sunny South Strawberries in Light Syrup 12x410 GM",
+        "EnergyKjoules": 263,
+        "EnergyKcal": 62,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 15,
+        "Salt": 0,
+        "Sugars": 12.75,
+        "Fibre": 0.75,
+        "Allergens": []
+    }
+}, {
+    "pk": 1685,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Chopped Dates 1x12.5 KG",
+        "EnergyKjoules": 1151,
+        "EnergyKcal": 270,
+        "Fat": 0.2,
+        "Protein": 3.3,
+        "Carbohydrates": 68,
+        "Salt": 0,
+        "Sugars": 68,
+        "Fibre": 4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1686,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fu Xing Lychees 1x567 GM",
+        "EnergyKjoules": 385,
+        "EnergyKcal": 80,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 19.5,
+        "Salt": 0.01,
+        "Sugars": 19.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1687,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sunny South Peach Slices in Juice 12x410 GM",
+        "EnergyKjoules": 203,
+        "EnergyKcal": 48,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 11.2,
+        "Salt": 0.025,
+        "Sugars": 11,
+        "Fibre": 0.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1688,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sunny South Prunes In Syrup 12x425 GM",
+        "EnergyKjoules": 657,
+        "EnergyKcal": 157,
+        "Fat": 0.1,
+        "Protein": 1.5,
+        "Carbohydrates": 35.5,
+        "Salt": 0,
+        "Sugars": 26.2,
+        "Fibre": 3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1689,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lustre Sliced Peaches 6x2.6 KG",
+        "EnergyKjoules": 210,
+        "EnergyKcal": 50,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 17,
+        "Salt": 0.025,
+        "Sugars": 16,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1690,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Peach Slices 6x2.6 KG",
+        "EnergyKjoules": 255,
+        "EnergyKcal": 60,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 14.6,
+        "Salt": 0,
+        "Sugars": 14.6,
+        "Fibre": 1.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1691,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Whole Baby Apples in Light Syrup 12x425 GM",
+        "EnergyKjoules": 285,
+        "EnergyKcal": 68,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 16.2,
+        "Salt": 0,
+        "Sugars": 16.2,
+        "Fibre": 1.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1692,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chaokoh Jackfruit in Syrup 24x560 GM",
+        "EnergyKjoules": 418,
+        "EnergyKcal": 100,
+        "Fat": 0,
+        "Protein": 1,
+        "Carbohydrates": 24.5,
+        "Salt": 0.0225,
+        "Sugars": 23.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1693,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Princes Prunes in Syrup 6x2.62 KG",
+        "EnergyKjoules": 373,
+        "EnergyKcal": 89,
+        "Fat": 0.2,
+        "Protein": 0.7,
+        "Carbohydrates": 19.7,
+        "Salt": 0.025,
+        "Sugars": 19.7,
+        "Fibre": 2.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1694,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Crop's Peach Segments 1x10 KG",
+        "EnergyKjoules": 191,
+        "EnergyKcal": 45,
+        "Fat": 0.11,
+        "Protein": 0.76,
+        "Carbohydrates": 9.44,
+        "Salt": 0.025,
+        "Sugars": 9.16,
+        "Fibre": 1.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1695,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chaokoh Coconut Milk 1x2900 ML",
+        "EnergyKjoules": 778,
+        "EnergyKcal": 185,
+        "Fat": 18.7,
+        "Protein": 2.1,
+        "Carbohydrates": 2.2,
+        "Salt": 0,
+        "Sugars": 2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1696,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Cracked Black Pepper 1x500 GM",
+        "EnergyKjoules": 1157,
+        "EnergyKcal": 276,
+        "Fat": 3.3,
+        "Protein": 10,
+        "Carbohydrates": 39,
+        "Salt": 0.05,
+        "Sugars": 0.6,
+        "Fibre": 25,
+        "Allergens": []
+    }
+}, {
+    "pk": 1697,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Fajita Spice Mix 1x532 GM",
+        "EnergyKjoules": 1127,
+        "EnergyKcal": 268,
+        "Fat": 4.4,
+        "Protein": 14,
+        "Carbohydrates": 36,
+        "Salt": 18.1,
+        "Sugars": 11,
+        "Fibre": 14,
+        "Allergens": []
+    }
+}, {
+    "pk": 1698,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Obento Udon Noodle 30x200 GM",
+        "EnergyKjoules": 585,
+        "EnergyKcal": 140,
+        "Fat": 0.6,
+        "Protein": 3.5,
+        "Carbohydrates": 29.1,
+        "Salt": 0.6,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1699,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Meridian Crunchy Peanut Butter 100% 1x1 KG",
+        "EnergyKjoules": 2470,
+        "EnergyKcal": 596,
+        "Fat": 46,
+        "Protein": 30,
+        "Carbohydrates": 12,
+        "Salt": 0,
+        "Sugars": 5.9,
+        "Fibre": 8.5,
+        "Allergens": [5]
+    }
+}, {
+    "pk": 1700,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sharwoods Poppadoms 1x1 KG",
+        "EnergyKjoules": 1413,
+        "EnergyKcal": 333,
+        "Fat": 1.4,
+        "Protein": 21.1,
+        "Carbohydrates": 58.3,
+        "Salt": 4.225,
+        "Sugars": 0.5,
+        "Fibre": 1.4,
+        "Allergens": [14]
+    }
+}, {
+    "pk": 1701,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Thai Exotic Food Coconut Milk Tin 1x400 ML",
+        "EnergyKjoules": 739,
+        "EnergyKcal": 176,
+        "Fat": 18,
+        "Protein": 1,
+        "Carbohydrates": 3.3,
+        "Salt": 0.025,
+        "Sugars": 2.3,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1702,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Thai Exotic Food Coconut Cream Tin 1x400 ML",
+        "EnergyKjoules": 862,
+        "EnergyKcal": 206,
+        "Fat": 21,
+        "Protein": 1.1,
+        "Carbohydrates": 3.9,
+        "Salt": 0.125,
+        "Sugars": 2.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1703,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Meade Farm Irish Potato Starch 1x25 KG",
+        "EnergyKjoules": 1398,
+        "EnergyKcal": 329,
+        "Fat": 0.5,
+        "Protein": 0.2,
+        "Carbohydrates": 81,
+        "Salt": 0.05,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1704,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Meridian Smooth Peanut Butter 100% 1x1 KG",
+        "EnergyKjoules": 2470,
+        "EnergyKcal": 596,
+        "Fat": 46,
+        "Protein": 30,
+        "Carbohydrates": 12,
+        "Salt": 0,
+        "Sugars": 5.9,
+        "Fibre": 8.5,
+        "Allergens": [5]
+    }
+}, {
+    "pk": 1705,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Giant Cous Cous 1x1 KG",
+        "EnergyKjoules": 759,
+        "EnergyKcal": 178,
+        "Fat": 1,
+        "Protein": 7.2,
+        "Carbohydrates": 37.5,
+        "Salt": 0.01,
+        "Sugars": 1,
+        "Fibre": 2.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1706,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Meridian Smooth Almond Butter 100% 1x170 GM",
+        "EnergyKjoules": 2688,
+        "EnergyKcal": 650,
+        "Fat": 56,
+        "Protein": 25,
+        "Carbohydrates": 6.5,
+        "Salt": 0,
+        "Sugars": 4,
+        "Fibre": 12,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1707,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Avebe Potato Starch 1x25 KG",
+        "EnergyKjoules": 1360,
+        "EnergyKcal": 320,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 80,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1708,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Juniper Berries 1x290 GM",
+        "EnergyKjoules": 1613,
+        "EnergyKcal": 285,
+        "Fat": 15,
+        "Protein": 20,
+        "Carbohydrates": 37,
+        "Salt": 0,
+        "Sugars": 7.5,
+        "Fibre": 13,
+        "Allergens": []
+    }
+}, {
+    "pk": 1709,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Whole Skin On Pistachio Nuts 1x1 KG",
+        "EnergyKjoules": 2360,
+        "EnergyKcal": 562,
+        "Fat": 45.39,
+        "Protein": 20.27,
+        "Carbohydrates": 27.51,
+        "Salt": 0,
+        "Sugars": 7.66,
+        "Fibre": 10.3,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1710,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mae Ploy Massaman Curry Paste (Pouch) 1x1 KG",
+        "EnergyKjoules": 694,
+        "EnergyKcal": 165,
+        "Fat": 2.2,
+        "Protein": 6,
+        "Carbohydrates": 24.3,
+        "Salt": 14.3,
+        "Sugars": 3.8,
+        "Fibre": 12.4,
+        "Allergens": [2, 4, 1, 10, 6]
+    }
+}, {
+    "pk": 1711,
+    "model": "home.products",
+    "fields": {
+        "product_name": "MC Plum Sauce 1x350 ML",
+        "EnergyKjoules": 945.3,
+        "EnergyKcal": 225.1,
+        "Fat": 2.42,
+        "Protein": 0.5,
+        "Carbohydrates": 50.82,
+        "Salt": 5.9,
+        "Sugars": 44.24,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1712,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Erin Hotcup Original Vegetable 49g 12x3'S",
+        "EnergyKjoules": 1491,
+        "EnergyKcal": 355,
+        "Fat": 12.6,
+        "Protein": 6.5,
+        "Carbohydrates": 48.8,
+        "Salt": 12,
+        "Sugars": 15.8,
+        "Fibre": 10.4,
+        "Allergens": [9, 7]
+    }
+}, {
+    "pk": 1713,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Erin Hotcup Original Chicken 67g",
+        "EnergyKjoules": 1729,
+        "EnergyKcal": 415,
+        "Fat": 22.6,
+        "Protein": 4.1,
+        "Carbohydrates": 43.5,
+        "Salt": 11.3,
+        "Sugars": 15.5,
+        "Fibre": 10.5,
+        "Allergens": [9, 1, 7, 6]
+    }
+}, {
+    "pk": 1714,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chaokoh Coconut Milk 24x400 ML",
+        "EnergyKjoules": 778,
+        "EnergyKcal": 185,
+        "Fat": 18.7,
+        "Protein": 2.1,
+        "Carbohydrates": 2.2,
+        "Salt": 0,
+        "Sugars": 2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1715,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Erin Hotcup Creamy Potato & Leek 72g 12x3'S",
+        "EnergyKjoules": 1671,
+        "EnergyKcal": 399,
+        "Fat": 15.4,
+        "Protein": 5.6,
+        "Carbohydrates": 55.2,
+        "Salt": 6.1,
+        "Sugars": 14.2,
+        "Fibre": 8.4,
+        "Allergens": [9, 1, 7]
+    }
+}, {
+    "pk": 1716,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tuna Chunks in Brine 12x185 GM",
+        "EnergyKjoules": 422,
+        "EnergyKcal": 99,
+        "Fat": 0.6,
+        "Protein": 23.5,
+        "Carbohydrates": 0,
+        "Salt": 0.8,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [4]
+    }
+}, {
+    "pk": 1717,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Yutaka Soba Noodles 250g 1x10'S",
+        "EnergyKjoules": 1483,
+        "EnergyKcal": 350,
+        "Fat": 0.7,
+        "Protein": 14.6,
+        "Carbohydrates": 68.9,
+        "Salt": 1.16,
+        "Sugars": 5.9,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1718,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Erin Hotcup Original Oxtail 48g 12x3'S",
+        "EnergyKjoules": 1376,
+        "EnergyKcal": 326,
+        "Fat": 5.6,
+        "Protein": 7.2,
+        "Carbohydrates": 59.7,
+        "Salt": 11.1,
+        "Sugars": 22.4,
+        "Fibre": 4,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1719,
+    "model": "home.products",
+    "fields": {
+        "product_name": "J-Basket LL Yakisoba Noodles 36x150 GM",
+        "EnergyKjoules": 594,
+        "EnergyKcal": 142,
+        "Fat": 0,
+        "Protein": 4.4,
+        "Carbohydrates": 30,
+        "Salt": 0.31,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1720,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Golden Lotus Prawn Crackers 1x2 KG",
+        "EnergyKjoules": 1470,
+        "EnergyKcal": 351,
+        "Fat": 0,
+        "Protein": 0.75,
+        "Carbohydrates": 86.4,
+        "Salt": 2.35,
+        "Sugars": 12.3,
+        "Fibre": 1,
+        "Allergens": [2, 12]
+    }
+}, {
+    "pk": 1721,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mae Ploy Chilli Paste in Oil 1x1 KG",
+        "EnergyKjoules": 2109,
+        "EnergyKcal": 508,
+        "Fat": 36.2,
+        "Protein": 4.4,
+        "Carbohydrates": 38.6,
+        "Salt": 2.4,
+        "Sugars": 27.6,
+        "Fibre": 4.9,
+        "Allergens": [2, 4, 1, 10, 6]
+    }
+}, {
+    "pk": 1722,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dried Mushroom Morelle 1x100 GM",
+        "EnergyKjoules": 958,
+        "EnergyKcal": 227,
+        "Fat": 3.7,
+        "Protein": 30.5,
+        "Carbohydrates": 43,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1723,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Squeezy Clear Honey 1x680 GM",
+        "EnergyKjoules": 1304,
+        "EnergyKcal": 307,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 76,
+        "Salt": 0.03,
+        "Sugars": 76,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1724,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Clear Honey 1x3.17 KG",
+        "EnergyKjoules": 1304,
+        "EnergyKcal": 307,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 76.3,
+        "Salt": 0,
+        "Sugars": 76.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1725,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mileeven Pure Clear Honey 1x1 KG",
+        "EnergyKjoules": 1575,
+        "EnergyKcal": 372,
+        "Fat": 5.3,
+        "Protein": 0.18,
+        "Carbohydrates": 80.9,
+        "Salt": 0.01,
+        "Sugars": 65.9,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1726,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Pure Clear Honey 1x454 GM",
+        "EnergyKjoules": 1304,
+        "EnergyKcal": 307,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 76.3,
+        "Salt": 0,
+        "Sugars": 76.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1727,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Honey Portions 96x20 GM",
+        "EnergyKjoules": 1262,
+        "EnergyKcal": 301,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 75.1,
+        "Salt": 0,
+        "Sugars": 75.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1728,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lune De Miel Honey Tub 1x1 KG",
+        "EnergyKjoules": 1360,
+        "EnergyKcal": 320,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 80,
+        "Salt": 0,
+        "Sugars": 80,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1729,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mileeven Honey Pure Squeezy Honey Bottle 12x340 GM",
+        "EnergyKjoules": 1575,
+        "EnergyKcal": 372,
+        "Fat": 5.3,
+        "Protein": 0.18,
+        "Carbohydrates": 80.9,
+        "Salt": 0,
+        "Sugars": 65.9,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1730,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boyne Valley Honey Squeezy Bottles 12x500 GM",
+        "EnergyKjoules": 1229,
+        "EnergyKcal": 293,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 76.4,
+        "Salt": 0.025,
+        "Sugars": 76.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1731,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lune De Miel Honey Plastic Pouch 6x1 KG",
+        "EnergyKjoules": 1360,
+        "EnergyKcal": 320,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 80,
+        "Salt": 0.025,
+        "Sugars": 80,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1732,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G's Gourmet Honey Mini Jars 60x30 GM",
+        "EnergyKjoules": 1362,
+        "EnergyKcal": 321,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 79.8,
+        "Salt": 0,
+        "Sugars": 78.7,
+        "Fibre": 0.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1733,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mileeven Pure Clear Honey 1x5 KG",
+        "EnergyKjoules": 1575,
+        "EnergyKcal": 372,
+        "Fat": 5.3,
+        "Protein": 0.18,
+        "Carbohydrates": 80.9,
+        "Salt": 0.025,
+        "Sugars": 65.9,
+        "Fibre": 0,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1734,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mileeven Pure Honey 1x1.5 KG",
+        "EnergyKjoules": 1575,
+        "EnergyKcal": 372,
+        "Fat": 5.3,
+        "Protein": 0.18,
+        "Carbohydrates": 80.9,
+        "Salt": 0,
+        "Sugars": 65.9,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1735,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mileeven Organic Pure Honey 1x1.5 KG",
+        "EnergyKjoules": 1304,
+        "EnergyKcal": 310,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 81,
+        "Salt": 0,
+        "Sugars": 76,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1736,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lune De Miel Honey Squeezy Bottles 12x500 GM",
+        "EnergyKjoules": 1360,
+        "EnergyKcal": 310,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 80,
+        "Salt": 0.025,
+        "Sugars": 80,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1737,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ground Almonds 1x1 KG",
+        "EnergyKjoules": 2585,
+        "EnergyKcal": 623,
+        "Fat": 52.52,
+        "Protein": 21.94,
+        "Carbohydrates": 18.67,
+        "Salt": 0,
+        "Sugars": 4.63,
+        "Fibre": 9.9,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1738,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Walnut Halves 1x1 KG",
+        "EnergyKjoules": 2837,
+        "EnergyKcal": 688,
+        "Fat": 68.5,
+        "Protein": 14.7,
+        "Carbohydrates": 3.3,
+        "Salt": 0,
+        "Sugars": 2.6,
+        "Fibre": 3.5,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1739,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Duerrs Peanut Butter Smooth 1x2.5 KG",
+        "EnergyKjoules": 2488,
+        "EnergyKcal": 600,
+        "Fat": 47.1,
+        "Protein": 28.1,
+        "Carbohydrates": 12,
+        "Salt": 0.69,
+        "Sugars": 6.6,
+        "Fibre": 8.1,
+        "Allergens": [5, 12]
+    }
+}, {
+    "pk": 1740,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Blanched Hazelnuts (Lightly Toasted) 1x1 KG",
+        "EnergyKjoules": 2685,
+        "EnergyKcal": 650,
+        "Fat": 63.5,
+        "Protein": 14.1,
+        "Carbohydrates": 6,
+        "Salt": 0,
+        "Sugars": 4,
+        "Fibre": 6.5,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1741,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Desiccated Coconut 1x1 KG",
+        "EnergyKjoules": 2492,
+        "EnergyKcal": 604,
+        "Fat": 62,
+        "Protein": 5.6,
+        "Carbohydrates": 6.4,
+        "Salt": 0,
+        "Sugars": 6.4,
+        "Fibre": 18.3,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1742,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cashew Nuts Broken 1x1 KG",
+        "EnergyKjoules": 2422,
+        "EnergyKcal": 584,
+        "Fat": 48.2,
+        "Protein": 20.9,
+        "Carbohydrates": 16.7,
+        "Salt": 0,
+        "Sugars": 4.4,
+        "Fibre": 3.2,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1743,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pecan Nut Halves 1x1 KG",
+        "EnergyKjoules": 2902,
+        "EnergyKcal": 691,
+        "Fat": 71.97,
+        "Protein": 9.17,
+        "Carbohydrates": 13.86,
+        "Salt": 0,
+        "Sugars": 3.97,
+        "Fibre": 9.6,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1744,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Walnut Pieces 1x1 KG",
+        "EnergyKjoules": 2747,
+        "EnergyKcal": 654,
+        "Fat": 65.21,
+        "Protein": 15.23,
+        "Carbohydrates": 13.71,
+        "Salt": 0,
+        "Sugars": 2.61,
+        "Fibre": 6.7,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1745,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cashew Nuts Whole 1x1 KG",
+        "EnergyKjoules": 2410,
+        "EnergyKcal": 574,
+        "Fat": 46.35,
+        "Protein": 15.31,
+        "Carbohydrates": 32.6,
+        "Salt": 0,
+        "Sugars": 4.6,
+        "Fibre": 3,
+        "Allergens": [8, 5, 11]
+    }
+}, {
+    "pk": 1746,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Whole Almonds (Skin On) 1x1 KG",
+        "EnergyKjoules": 2534,
+        "EnergyKcal": 612,
+        "Fat": 55.8,
+        "Protein": 21.1,
+        "Carbohydrates": 6.9,
+        "Salt": 0,
+        "Sugars": 4.2,
+        "Fibre": 7.4,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1747,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Banana Chips 1x750 GM",
+        "EnergyKjoules": 2171,
+        "EnergyKcal": 519,
+        "Fat": 34,
+        "Protein": 2,
+        "Carbohydrates": 58,
+        "Salt": 0,
+        "Sugars": 15,
+        "Fibre": 8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1748,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hazelnuts (Skin On) 1x1 KG",
+        "EnergyKjoules": 2685,
+        "EnergyKcal": 650,
+        "Fat": 63.5,
+        "Protein": 14.1,
+        "Carbohydrates": 6,
+        "Salt": 0,
+        "Sugars": 4,
+        "Fibre": 6.5,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1749,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Whole Blanched Almonds 1x1 KG",
+        "EnergyKjoules": 2534,
+        "EnergyKcal": 612,
+        "Fat": 55.8,
+        "Protein": 21.1,
+        "Carbohydrates": 6.9,
+        "Salt": 0,
+        "Sugars": 4.2,
+        "Fibre": 7.4,
+        "Allergens": [13, 8, 11]
+    }
+}, {
+    "pk": 1750,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ground Almonds 1x10 KG",
+        "EnergyKjoules": 2409,
+        "EnergyKcal": 576,
+        "Fat": 52.52,
+        "Protein": 21.4,
+        "Carbohydrates": 18.67,
+        "Salt": 0,
+        "Sugars": 4.36,
+        "Fibre": 9.9,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1751,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nibbed Almonds 1x1 KG",
+        "EnergyKjoules": 2534,
+        "EnergyKcal": 612,
+        "Fat": 55.8,
+        "Protein": 21.1,
+        "Carbohydrates": 6.9,
+        "Salt": 0,
+        "Sugars": 4.2,
+        "Fibre": 7.4,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1752,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pistachio Nuts (Skin Off) 1x1 KG",
+        "EnergyKjoules": 2334,
+        "EnergyKcal": 558,
+        "Fat": 44.5,
+        "Protein": 20.4,
+        "Carbohydrates": 27.9,
+        "Salt": 0,
+        "Sugars": 7.77,
+        "Fibre": 10.24,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1753,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brazil Nuts 1x1 KG",
+        "EnergyKjoules": 2813,
+        "EnergyKcal": 682,
+        "Fat": 68.2,
+        "Protein": 14.1,
+        "Carbohydrates": 3.1,
+        "Salt": 0,
+        "Sugars": 2.4,
+        "Fibre": 4.3,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1754,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Buchanans Blanched Unsalted Peanuts 1x25 KG",
+        "EnergyKjoules": 2353,
+        "EnergyKcal": 567,
+        "Fat": 46.1,
+        "Protein": 25.6,
+        "Carbohydrates": 12.5,
+        "Salt": 0.01,
+        "Sugars": 6.2,
+        "Fibre": 0,
+        "Allergens": [5]
+    }
+}, {
+    "pk": 1755,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Biona Organic Coconut Cream 1x400 GM",
+        "EnergyKjoules": 899,
+        "EnergyKcal": 218,
+        "Fat": 22,
+        "Protein": 2,
+        "Carbohydrates": 2.6,
+        "Salt": 0.02,
+        "Sugars": 1.5,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1756,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vinegar Balsamic Reduction Glaze 1x500 ML",
+        "EnergyKjoules": 1069,
+        "EnergyKcal": 255,
+        "Fat": 0,
+        "Protein": 1.9,
+        "Carbohydrates": 58.8,
+        "Salt": 0.025,
+        "Sugars": 53.3,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1757,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes White Wine Vinegar 1x5 LT",
+        "EnergyKjoules": 5,
+        "EnergyKcal": 1,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0.3,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1758,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Wine Vinegar 1x5 LT",
+        "EnergyKjoules": 10,
+        "EnergyKcal": 2,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0.1,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1759,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Narcissus Rice Vinegar 1x600 ML",
+        "EnergyKjoules": 139,
+        "EnergyKcal": 33,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 5.3,
+        "Salt": 1.8,
+        "Sugars": 5.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1760,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vinegar Balsamic Modena Aged 6 Years Tub 1x5 LT",
+        "EnergyKjoules": 308,
+        "EnergyKcal": 74,
+        "Fat": 0.1,
+        "Protein": 0.78,
+        "Carbohydrates": 13,
+        "Salt": 0.025,
+        "Sugars": 13,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1761,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Balsamic Glaze 1x400 ML",
+        "EnergyKjoules": 834,
+        "EnergyKcal": 196,
+        "Fat": 0,
+        "Protein": 1,
+        "Carbohydrates": 45,
+        "Salt": 0,
+        "Sugars": 40,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1762,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Vinegar Sachets 1x200'S",
+        "EnergyKjoules": 42,
+        "EnergyKcal": 10,
+        "Fat": 0.2,
+        "Protein": 0.4,
+        "Carbohydrates": 1.4,
+        "Salt": 1.1,
+        "Sugars": 0.3,
+        "Fibre": 0.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1763,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cider Vinegar 1x5 LT",
+        "EnergyKjoules": 6,
+        "EnergyKcal": 24,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 0.6,
+        "Salt": 0.025,
+        "Sugars": 0.2,
+        "Fibre": 0.4,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1764,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Balsamic Vinegar 1x500 ML",
+        "EnergyKjoules": 435,
+        "EnergyKcal": 102,
+        "Fat": 0,
+        "Protein": 1,
+        "Carbohydrates": 20,
+        "Salt": 0,
+        "Sugars": 19,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1765,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Malt Vinegar Sachets 200x8 ML",
+        "EnergyKjoules": 129,
+        "EnergyKcal": 30,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 0.6,
+        "Salt": 0,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1766,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sherry Vinegar  (2 year aged) 1x1 LT",
+        "EnergyKjoules": 17,
+        "EnergyKcal": 4,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 0.2,
+        "Salt": 0.04,
+        "Sugars": 0.2,
+        "Fibre": 0.4,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1767,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Vinaigrette Dressing 1x2.27 LT",
+        "EnergyKjoules": 356,
+        "EnergyKcal": 84,
+        "Fat": 0,
+        "Protein": 0.3,
+        "Carbohydrates": 19.8,
+        "Salt": 2.4,
+        "Sugars": 18.9,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1768,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Apple Cider Vinegar 1x1 LT",
+        "EnergyKjoules": 24,
+        "EnergyKcal": 6,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 0.6,
+        "Salt": 0.025,
+        "Sugars": 0.2,
+        "Fibre": 0.4,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1769,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Malt Vinegar Sachets 200x7 ML",
+        "EnergyKjoules": 92,
+        "EnergyKcal": 21,
+        "Fat": 0,
+        "Protein": 0.3,
+        "Carbohydrates": 1,
+        "Salt": 0.4,
+        "Sugars": 0.3,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1770,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Red Wine Vinegar 1x5 LT",
+        "EnergyKjoules": 21,
+        "EnergyKcal": 5,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 0.4,
+        "Salt": 0.025,
+        "Sugars": 0.1,
+        "Fibre": 0.4,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1771,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Distilled Clear Malt Vinegar 1x5 LT",
+        "EnergyKjoules": 28,
+        "EnergyKcal": 7,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 1,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1772,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Red Wine Vinegar 1x5 LT",
+        "EnergyKjoules": 5,
+        "EnergyKcal": 1,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0.3,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1773,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Wine Vinegar 1x1 LT",
+        "EnergyKjoules": 110,
+        "EnergyKcal": 36,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 0.12,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0.12,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1774,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Capers in Vinegar (Tub) 1x1.5 KG",
+        "EnergyKjoules": 115,
+        "EnergyKcal": 28,
+        "Fat": 0.5,
+        "Protein": 2.4,
+        "Carbohydrates": 5.3,
+        "Salt": 21.25,
+        "Sugars": 0.16,
+        "Fibre": 3.8,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1775,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Red Wine Vinegar 1x1 LT",
+        "EnergyKjoules": 21,
+        "EnergyKcal": 5,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 0.4,
+        "Salt": 0.03,
+        "Sugars": 0.1,
+        "Fibre": 0.4,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1776,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Raspberry Vinegar 1x1 LT",
+        "EnergyKjoules": 36,
+        "EnergyKcal": 8,
+        "Fat": 0.4,
+        "Protein": 0.1,
+        "Carbohydrates": 0.9,
+        "Salt": 0.025,
+        "Sugars": 0.3,
+        "Fibre": 0.4,
+        "Allergens": [3, 7, 12]
+    }
+}, {
+    "pk": 1777,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Wine Tarragon Vinegar 1x1 LT",
+        "EnergyKjoules": 151,
+        "EnergyKcal": 35,
+        "Fat": 0.12,
+        "Protein": 0.43,
+        "Carbohydrates": 0.12,
+        "Salt": 0.025,
+        "Sugars": 0.12,
+        "Fibre": 0.37,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1778,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Malt Vinegar Sticks 200x5 GM",
+        "EnergyKjoules": 77,
+        "EnergyKcal": 18,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 0.6,
+        "Salt": 0,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1779,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Malt Brown Vinegar 2x5 LT",
+        "EnergyKjoules": 146,
+        "EnergyKcal": 34,
+        "Fat": 0.1,
+        "Protein": 0,
+        "Carbohydrates": 1.7,
+        "Salt": 0.025,
+        "Sugars": 0.5,
+        "Fibre": 0.1,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 1780,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chef Malt Vinegar 12x284 ML",
+        "EnergyKjoules": 15,
+        "EnergyKcal": 4,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 0.35,
+        "Salt": 0,
+        "Sugars": 0.2,
+        "Fibre": 0.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1781,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chef White Vinegar 2x5 LT",
+        "EnergyKjoules": 8,
+        "EnergyKcal": 1,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1782,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mizkan Suehiro Vinegar 1x20 LT",
+        "EnergyKjoules": 78,
+        "EnergyKcal": 18,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 1.4,
+        "Salt": 0.65,
+        "Sugars": 1.2,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1783,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixed Seed Blend (Sunflower Pumpkin & Linseed) 1x1 KG",
+        "EnergyKjoules": 2666,
+        "EnergyKcal": 637,
+        "Fat": 49.1,
+        "Protein": 23.7,
+        "Carbohydrates": 20.3,
+        "Salt": 0,
+        "Sugars": 1.5,
+        "Fibre": 9.7,
+        "Allergens": [11]
+    }
+}, {
+    "pk": 1784,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sesame Seeds 1x1 KG",
+        "EnergyKjoules": 2470,
+        "EnergyKcal": 573,
+        "Fat": 49.67,
+        "Protein": 17.73,
+        "Carbohydrates": 23.45,
+        "Salt": 0.1875,
+        "Sugars": 0.3,
+        "Fibre": 11.8,
+        "Allergens": [11]
+    }
+}, {
+    "pk": 1785,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Pumpkin Seeds 1x1 KG",
+        "EnergyKjoules": 2380,
+        "EnergyKcal": 569,
+        "Fat": 45.6,
+        "Protein": 24.4,
+        "Carbohydrates": 18.6,
+        "Salt": 0.025,
+        "Sugars": 7,
+        "Fibre": 7.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1786,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Sunflower Seeds 1x1 KG",
+        "EnergyKjoules": 2410,
+        "EnergyKcal": 581,
+        "Fat": 47.5,
+        "Protein": 19.8,
+        "Carbohydrates": 18.6,
+        "Salt": 0,
+        "Sugars": 1.7,
+        "Fibre": 8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1787,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Dark Green Speckled Lentils 1x1 KG",
+        "EnergyKjoules": 1368,
+        "EnergyKcal": 327,
+        "Fat": 1.9,
+        "Protein": 24.1,
+        "Carbohydrates": 49,
+        "Salt": 0.025,
+        "Sugars": 1.2,
+        "Fibre": 8.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1788,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Chick Peas 1x1 KG",
+        "EnergyKjoules": 1355,
+        "EnergyKcal": 320,
+        "Fat": 5.4,
+        "Protein": 21.3,
+        "Carbohydrates": 49.6,
+        "Salt": 0.24375,
+        "Sugars": 2.6,
+        "Fibre": 14.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1789,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Biona Organic Black Beans 6x400 GM",
+        "EnergyKjoules": 474,
+        "EnergyKcal": 113,
+        "Fat": 0.8,
+        "Protein": 8.2,
+        "Carbohydrates": 18.4,
+        "Salt": 0.025,
+        "Sugars": 2.1,
+        "Fibre": 16,
+        "Allergens": []
+    }
+}, {
+    "pk": 1790,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Black Turtle Beans 1x1 KG",
+        "EnergyKjoules": 552,
+        "EnergyKcal": 132,
+        "Fat": 0.5,
+        "Protein": 8.9,
+        "Carbohydrates": 23.7,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 24.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1791,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Red Lentils 1x3 KG",
+        "EnergyKjoules": 847,
+        "EnergyKcal": 200,
+        "Fat": 1.1,
+        "Protein": 24.7,
+        "Carbohydrates": 22,
+        "Salt": 0,
+        "Sugars": 2,
+        "Fibre": 1.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1792,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chia Seeds 1x1 KG",
+        "EnergyKjoules": 2034,
+        "EnergyKcal": 486,
+        "Fat": 30.74,
+        "Protein": 16.54,
+        "Carbohydrates": 42.12,
+        "Salt": 0.04,
+        "Sugars": 0,
+        "Fibre": 34.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1793,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Biona Organic Mixed Beans 6x400 GM",
+        "EnergyKjoules": 398,
+        "EnergyKcal": 95,
+        "Fat": 0.6,
+        "Protein": 6.6,
+        "Carbohydrates": 12.6,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 6.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1794,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Pumpkin Seeds 1x550 GM",
+        "EnergyKjoules": 2404,
+        "EnergyKcal": 580,
+        "Fat": 46.5,
+        "Protein": 31.1,
+        "Carbohydrates": 5.5,
+        "Salt": 0.025,
+        "Sugars": 2.6,
+        "Fibre": 7.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1795,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Pinto Beans 1x1 KG",
+        "EnergyKjoules": 548,
+        "EnergyKcal": 131,
+        "Fat": 0.5,
+        "Protein": 7.7,
+        "Carbohydrates": 24.56,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 9,
+        "Allergens": [8, 5, 11]
+    }
+}, {
+    "pk": 1796,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Red Lentils 1x1 KG",
+        "EnergyKjoules": 1430,
+        "EnergyKcal": 342,
+        "Fat": 1.3,
+        "Protein": 24,
+        "Carbohydrates": 56,
+        "Salt": 0.025,
+        "Sugars": 2.4,
+        "Fibre": 4.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1797,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pine Nuts 1x1 KG",
+        "EnergyKjoules": 2480,
+        "EnergyKcal": 688,
+        "Fat": 68.6,
+        "Protein": 14,
+        "Carbohydrates": 4,
+        "Salt": 0,
+        "Sugars": 3.9,
+        "Fibre": 2.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1798,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander White Haricot Beans 1x1 KG",
+        "EnergyKjoules": 1218,
+        "EnergyKcal": 291,
+        "Fat": 1.6,
+        "Protein": 21.4,
+        "Carbohydrates": 49.7,
+        "Salt": 0.025,
+        "Sugars": 2.8,
+        "Fibre": 25.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1799,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Cannellini Beans 1x1 KG",
+        "EnergyKjoules": 1394,
+        "EnergyKcal": 333,
+        "Fat": 0.8,
+        "Protein": 23.6,
+        "Carbohydrates": 60,
+        "Salt": 0.025,
+        "Sugars": 3,
+        "Fibre": 24.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1800,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Biona Organic Puy Lentils 6x400 GM",
+        "EnergyKjoules": 376,
+        "EnergyKcal": 90,
+        "Fat": 0.5,
+        "Protein": 6.7,
+        "Carbohydrates": 14.6,
+        "Salt": 0,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1801,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Biona Organic Haricot White Beans 6x400 GM",
+        "EnergyKjoules": 398,
+        "EnergyKcal": 94,
+        "Fat": 0.5,
+        "Protein": 6.6,
+        "Carbohydrates": 15.7,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1802,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Biona Organic Lentils 6x400 GM",
+        "EnergyKjoules": 362,
+        "EnergyKcal": 86,
+        "Fat": 0.4,
+        "Protein": 6.5,
+        "Carbohydrates": 12.2,
+        "Salt": 0,
+        "Sugars": 0.4,
+        "Fibre": 3.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1803,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Caraway Seeds Whole 1x420 GM",
+        "EnergyKjoules": 1383,
+        "EnergyKcal": 334,
+        "Fat": 15,
+        "Protein": 20,
+        "Carbohydrates": 12,
+        "Salt": 0.025,
+        "Sugars": 0.6,
+        "Fibre": 38,
+        "Allergens": []
+    }
+}, {
+    "pk": 1804,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Blackeyed Beans 1x1 KG",
+        "EnergyKjoules": 1324,
+        "EnergyKcal": 316,
+        "Fat": 1.6,
+        "Protein": 23.5,
+        "Carbohydrates": 54.1,
+        "Salt": 0.025,
+        "Sugars": 2.9,
+        "Fibre": 8.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1805,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Biona Organic Blackeyed Beans 6x400 GM",
+        "EnergyKjoules": 455,
+        "EnergyKcal": 107,
+        "Fat": 0.1,
+        "Protein": 7,
+        "Carbohydrates": 18.5,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1806,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Cannellini Beans in Water 1x800 GM",
+        "EnergyKjoules": 462,
+        "EnergyKcal": 110,
+        "Fat": 0.6,
+        "Protein": 7.3,
+        "Carbohydrates": 15.3,
+        "Salt": 0.025,
+        "Sugars": 0.4,
+        "Fibre": 7,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1807,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Black Turtle Beans in Water (Tin) 6x2.5 KG",
+        "EnergyKjoules": 430,
+        "EnergyKcal": 102,
+        "Fat": 0.6,
+        "Protein": 7,
+        "Carbohydrates": 13.4,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 7.6,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1808,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rustic Seed Mix (Sesame Linseed Pumpkin & Sunflower) 1x25 KG",
+        "EnergyKjoules": 2471,
+        "EnergyKcal": 591,
+        "Fat": 46.35,
+        "Protein": 21.34,
+        "Carbohydrates": 22.05,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 11.4,
+        "Allergens": [11]
+    }
+}, {
+    "pk": 1809,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Biona Organic Pinto Beans 6x400 GM",
+        "EnergyKjoules": 454,
+        "EnergyKcal": 102,
+        "Fat": 0.7,
+        "Protein": 7.7,
+        "Carbohydrates": 17.5,
+        "Salt": 0.025,
+        "Sugars": 2.1,
+        "Fibre": 16,
+        "Allergens": []
+    }
+}, {
+    "pk": 1810,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Split Green Peas 1x3 KG",
+        "EnergyKjoules": 1396,
+        "EnergyKcal": 328,
+        "Fat": 2.4,
+        "Protein": 22.1,
+        "Carbohydrates": 58.2,
+        "Salt": 0.025,
+        "Sugars": 1.9,
+        "Fibre": 8.4,
+        "Allergens": []
+    }
+}]

@@ -1,0 +1,4906 @@
+[{
+    "pk": 1,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Angus Beef Striploin Irish 1x6-7.8 KG",
+        "EnergyKjoules": 855,
+        "EnergyKcal": 205,
+        "Fat": 13,
+        "Protein": 22,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Bavette 1x1.5-2 KG",
+        "EnergyKjoules": 559,
+        "EnergyKcal": 133,
+        "Fat": 5.5,
+        "Protein": 21,
+        "Carbohydrates": 0.1,
+        "Salt": 0.1,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 3,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Bone In Loin (Cattle Under 30months) 1x13-14.5G",
+        "EnergyKjoules": 641,
+        "EnergyKcal": 153,
+        "Fat": 6.8,
+        "Protein": 22.3,
+        "Carbohydrates": 0.6,
+        "Salt": 0.16,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 4,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Boneless Bulk Forequarter 2x10 KG",
+        "EnergyKjoules": 931,
+        "EnergyKcal": 127,
+        "Fat": 6,
+        "Protein": 16.7,
+        "Carbohydrates": 1.5,
+        "Salt": 0.27,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 5,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Burger Mini Irish GF 120x44 GM",
+        "EnergyKjoules": 1065.99,
+        "EnergyKcal": 183.02,
+        "Fat": 9.18,
+        "Protein": 20.79,
+        "Carbohydrates": 3.94,
+        "Salt": 1.18,
+        "Sugars": 1.89,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 6,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Burgers GF 4oz 36x113 GM",
+        "EnergyKjoules": 1000,
+        "EnergyKcal": 241,
+        "Fat": 18.1,
+        "Protein": 16.6,
+        "Carbohydrates": 2.5,
+        "Salt": 2.4,
+        "Sugars": 2.3,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 7,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Burgers GF 6oz 36x170 GM",
+        "EnergyKjoules": 1000,
+        "EnergyKcal": 241,
+        "Fat": 18.1,
+        "Protein": 16.6,
+        "Carbohydrates": 2.5,
+        "Salt": 2.4,
+        "Sugars": 2.3,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 8,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Burgers GF 8oz 36x227 GM",
+        "EnergyKjoules": 1000,
+        "EnergyKcal": 241,
+        "Fat": 16.6,
+        "Protein": 16.6,
+        "Carbohydrates": 2.5,
+        "Salt": 0,
+        "Sugars": 2.3,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 9,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Cheek Irish 1x10x600 GM",
+        "EnergyKjoules": 760,
+        "EnergyKcal": 183,
+        "Fat": 12.9,
+        "Protein": 16.1,
+        "Carbohydrates": 0.5,
+        "Salt": 0.75,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 10,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Continental Cut Eye Round 1x2.5-4.2 KG",
+        "EnergyKjoules": 498,
+        "EnergyKcal": 118,
+        "Fat": 2.8,
+        "Protein": 22.4,
+        "Carbohydrates": 0,
+        "Salt": 0.96,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 11,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Corned Silverside Halved 1x2.4-3.6 KG",
+        "EnergyKjoules": 444,
+        "EnergyKcal": 106,
+        "Fat": 4.2,
+        "Protein": 17,
+        "Carbohydrates": 0,
+        "Salt": 2,
+        "Sugars": 0,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 12,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Cube Roll (Rib Eye) 1x2.6-3.9 KG",
+        "EnergyKjoules": 994,
+        "EnergyKcal": 237,
+        "Fat": 18.1,
+        "Protein": 18.8,
+        "Carbohydrates": 0.3,
+        "Salt": 0.025,
+        "Sugars": 8.65,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 13,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Cube Roll (Ribeye) 1x2.8-3 KG",
+        "EnergyKjoules": 994,
+        "EnergyKcal": 239,
+        "Fat": 18.1,
+        "Protein": 18.8,
+        "Carbohydrates": 0.3,
+        "Salt": 0.4,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 14,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Cubed Ex Chuck Roll 1x2.5 KG",
+        "EnergyKjoules": 398,
+        "EnergyKcal": 94,
+        "Fat": 0.7,
+        "Protein": 20.6,
+        "Carbohydrates": 1.3,
+        "Salt": 0,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 15,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Diced Extra Lean 1x10 KG",
+        "EnergyKjoules": 426,
+        "EnergyKcal": 101,
+        "Fat": 1.5,
+        "Protein": 20.9,
+        "Carbohydrates": 0,
+        "Salt": 0.2,
+        "Sugars": 0,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 16,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Diced Irish Nature 1x2.5 KG",
+        "EnergyKjoules": 611,
+        "EnergyKcal": 146,
+        "Fat": 7.3,
+        "Protein": 20,
+        "Carbohydrates": 0.1,
+        "Salt": 0.2,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 17,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Diced Round Extra Lean 1x2.5 KG",
+        "EnergyKjoules": 475,
+        "EnergyKcal": 113,
+        "Fat": 2.6,
+        "Protein": 21.5,
+        "Carbohydrates": 0.8,
+        "Salt": 0.15,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 18,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Feather Blade 1x2.5-3.5 KG",
+        "EnergyKjoules": 775,
+        "EnergyKcal": 186,
+        "Fat": 11.7,
+        "Protein": 20.1,
+        "Carbohydrates": 0.1,
+        "Salt": 0.21,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 19,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Feather Blade Steaks Irish 10x227 GM",
+        "EnergyKjoules": 573,
+        "EnergyKcal": 137,
+        "Fat": 6,
+        "Protein": 20,
+        "Carbohydrates": 0,
+        "Salt": 0.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 20,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Feather Blade Steaks Irish 10x255 GM",
+        "EnergyKjoules": 491,
+        "EnergyKcal": 116,
+        "Fat": 2.6,
+        "Protein": 23.2,
+        "Carbohydrates": 0,
+        "Salt": 0.6,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 21,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Fillet Barrel Centre Cut 1x900-1200 GM",
+        "EnergyKjoules": 648,
+        "EnergyKcal": 155,
+        "Fat": 7.9,
+        "Protein": 21,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 22,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Fillet Chain Off 1.5-2.6 KG",
+        "EnergyKjoules": 581,
+        "EnergyKcal": 138,
+        "Fat": 5.5,
+        "Protein": 21.5,
+        "Carbohydrates": 1.7,
+        "Salt": 0.18,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 23,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Fillet Chain On 1x3.1-3.7 KG",
+        "EnergyKjoules": 581,
+        "EnergyKcal": 138,
+        "Fat": 5.5,
+        "Protein": 21.5,
+        "Carbohydrates": 1.7,
+        "Salt": 0.2,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 24,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Fillet Heads Bulk Packed Variable 1x20 KG",
+        "EnergyKjoules": 581,
+        "EnergyKcal": 138,
+        "Fat": 5.5,
+        "Protein": 21.5,
+        "Carbohydrates": 1.7,
+        "Salt": 0.18,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 25,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Fillet Heads Full Irish Nature 8x900 GM",
+        "EnergyKjoules": 586,
+        "EnergyKcal": 140,
+        "Fat": 6.1,
+        "Protein": 21.2,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 26,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Fillet Pieces 1x2.5 KG",
+        "EnergyKjoules": 581,
+        "EnergyKcal": 138,
+        "Fat": 5.5,
+        "Protein": 21.5,
+        "Carbohydrates": 1.7,
+        "Salt": 0.2,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 27,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Fillet Steaks 1x12x227 GM",
+        "EnergyKjoules": 581,
+        "EnergyKcal": 138,
+        "Fat": 5.5,
+        "Protein": 21.5,
+        "Carbohydrates": 0.7,
+        "Salt": 2,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 28,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Fillet Steaks 1x12x283 GM",
+        "EnergyKjoules": 586,
+        "EnergyKcal": 140,
+        "Fat": 6.1,
+        "Protein": 21.2,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 29,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Fillet Steaks Irish Nature 1x12x170 GM",
+        "EnergyKjoules": 586,
+        "EnergyKcal": 140,
+        "Fat": 6.1,
+        "Protein": 21.2,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 30,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Fillets 50x170-200 GM",
+        "EnergyKjoules": 464,
+        "EnergyKcal": 110,
+        "Fat": 1.8,
+        "Protein": 23,
+        "Carbohydrates": 0,
+        "Salt": 0.1325,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 31,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Fillets Skinless 230g+ Halal 2x5 KG",
+        "EnergyKjoules": 464,
+        "EnergyKcal": 110,
+        "Fat": 1.8,
+        "Protein": 23,
+        "Carbohydrates": 0,
+        "Salt": 0.1325,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 32,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Buttermilk Chicken Goujons 1x2 KG",
+        "EnergyKjoules": 894,
+        "EnergyKcal": 213,
+        "Fat": 9.5,
+        "Protein": 16.1,
+        "Carbohydrates": 15.8,
+        "Salt": 2,
+        "Sugars": 1.3,
+        "Fibre": 0,
+        "Allergens": [9, 1, 7]
+    }
+}, {
+    "pk": 33,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Wings (fresh mids & primes mixed) 2x5 KG",
+        "EnergyKjoules": 905,
+        "EnergyKcal": 218,
+        "Fat": 16,
+        "Protein": 18,
+        "Carbohydrates": 0,
+        "Salt": 0.185,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 34,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Fillets Skinless Vac Pac 1x25x170-190 GM",
+        "EnergyKjoules": 464,
+        "EnergyKcal": 110,
+        "Fat": 1.8,
+        "Protein": 23,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 35,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Supreme Skin On 1x20x230-260 GM",
+        "EnergyKjoules": 954,
+        "EnergyKcal": 230,
+        "Fat": 17.7,
+        "Protein": 17.6,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 36,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Inner Fillets 1x5 KG",
+        "EnergyKjoules": 464,
+        "EnergyKcal": 110,
+        "Fat": 1.8,
+        "Protein": 23,
+        "Carbohydrates": 0,
+        "Salt": 0.1325,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 37,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Diced Chicken Breastmeat 1x2.5 KG",
+        "EnergyKjoules": 456,
+        "EnergyKcal": 108,
+        "Fat": 11,
+        "Protein": 23.5,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 38,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Fillets 50x170-200 GM",
+        "EnergyKjoules": 440,
+        "EnergyKcal": 105,
+        "Fat": 2,
+        "Protein": 23,
+        "Carbohydrates": 0.5,
+        "Salt": 0.1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 39,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Southern Fried Chicken Fillet 4x16x150 GM",
+        "EnergyKjoules": 1026,
+        "EnergyKcal": 245,
+        "Fat": 12.8,
+        "Protein": 17.2,
+        "Carbohydrates": 15.7,
+        "Salt": 1.075,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": [9, 1]
+    }
+}, {
+    "pk": 40,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Supreme Skin On 1x25x200-230 GM",
+        "EnergyKjoules": 755,
+        "EnergyKcal": 180,
+        "Fat": 8,
+        "Protein": 26.6,
+        "Carbohydrates": 0,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 41,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Fillets 40x210-230 GM",
+        "EnergyKjoules": 464,
+        "EnergyKcal": 110,
+        "Fat": 1.8,
+        "Protein": 23,
+        "Carbohydrates": 0,
+        "Salt": 0.1325,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 42,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glinvalley Chicken Legs 1x10 KG",
+        "EnergyKjoules": 187,
+        "EnergyKcal": 44,
+        "Fat": 12,
+        "Protein": 18,
+        "Carbohydrates": 0,
+        "Salt": 0.175,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 43,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Steams Cooked Chicken Wings 4x2.5 KG",
+        "EnergyKjoules": 678,
+        "EnergyKcal": 163,
+        "Fat": 10.8,
+        "Protein": 15.7,
+        "Carbohydrates": 0.7,
+        "Salt": 1.15,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 44,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glinvalley Chicken Thighs 1x10 KG",
+        "EnergyKjoules": 502,
+        "EnergyKcal": 119,
+        "Fat": 8.7,
+        "Protein": 10,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 45,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Deelvale Chicken Inner Fillets 2x5 KG",
+        "EnergyKjoules": 440,
+        "EnergyKcal": 105,
+        "Fat": 2,
+        "Protein": 25,
+        "Carbohydrates": 0.5,
+        "Salt": 0.1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 46,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glinvalley Chicken Wings Mids & Primes 4x2.5 KG",
+        "EnergyKjoules": 954,
+        "EnergyKcal": 230,
+        "Fat": 17.7,
+        "Protein": 17.6,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 47,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glinvalley Fresh Whole Chicken 10x1000 GM",
+        "EnergyKjoules": 535,
+        "EnergyKcal": 127,
+        "Fat": 3.3,
+        "Protein": 22,
+        "Carbohydrates": 0,
+        "Salt": 0.625,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 48,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Uncalibrated Chicken Fillets 2x5 KG",
+        "EnergyKjoules": 464,
+        "EnergyKcal": 110,
+        "Fat": 1.8,
+        "Protein": 23.3,
+        "Carbohydrates": 0,
+        "Salt": 0.13,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 49,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Liver 1x2.5 KG",
+        "EnergyKjoules": 486,
+        "EnergyKcal": 116,
+        "Fat": 4.8,
+        "Protein": 17,
+        "Carbohydrates": 0,
+        "Salt": 0.18,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 50,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Battered Chicken Chunks 1x1 KG",
+        "EnergyKjoules": 810,
+        "EnergyKcal": 192,
+        "Fat": 5.7,
+        "Protein": 15.7,
+        "Carbohydrates": 19.2,
+        "Salt": 1.02,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 51,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenhaven Hot & Spicy Chicken Fillet 4x8x155 GM",
+        "EnergyKjoules": 952,
+        "EnergyKcal": 227,
+        "Fat": 10.9,
+        "Protein": 17.1,
+        "Carbohydrates": 14.8,
+        "Salt": 1.9,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 52,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fresh Chicken Fillet 170-200g 1x2.5 KG",
+        "EnergyKjoules": 464,
+        "EnergyKcal": 110,
+        "Fat": 1.8,
+        "Protein": 23.3,
+        "Carbohydrates": 0,
+        "Salt": 0.125,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 53,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Fillets 50x190-210 GM",
+        "EnergyKjoules": 464,
+        "EnergyKcal": 110,
+        "Fat": 1.8,
+        "Protein": 23,
+        "Carbohydrates": 0,
+        "Salt": 0.125,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 54,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glinvalley Chicken Crown 15x1100 GM",
+        "EnergyKjoules": 955,
+        "EnergyKcal": 228,
+        "Fat": 17.6,
+        "Protein": 17.6,
+        "Carbohydrates": 0,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 55,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Smoked Chicken Fillets 1x1 KG",
+        "EnergyKjoules": 521,
+        "EnergyKcal": 123,
+        "Fat": 1.3,
+        "Protein": 27.8,
+        "Carbohydrates": 0.1,
+        "Salt": 0.8,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 56,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glinvalley Chicken Bones 1x10 KG",
+        "EnergyKjoules": 480,
+        "EnergyKcal": 114,
+        "Fat": 7.2,
+        "Protein": 11,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 57,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glinvalley Chicken Wings 3 Joint 2x5 KG",
+        "EnergyKjoules": 531,
+        "EnergyKcal": 126,
+        "Fat": 8.2,
+        "Protein": 13,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 58,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Smoked Chicken Fillet Skin On 1x8x181 GM",
+        "EnergyKjoules": 622,
+        "EnergyKcal": 148,
+        "Fat": 5,
+        "Protein": 24,
+        "Carbohydrates": 1.7,
+        "Salt": 0,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 59,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenhaven Cooked Breaded Chicken Goujons 5x1 KG",
+        "EnergyKjoules": 1004,
+        "EnergyKcal": 240,
+        "Fat": 11.4,
+        "Protein": 16.1,
+        "Carbohydrates": 19.6,
+        "Salt": 1.3,
+        "Sugars": 1.6,
+        "Fibre": 0.9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 60,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Liver 1x2 KG",
+        "EnergyKjoules": 539,
+        "EnergyKcal": 128,
+        "Fat": 5.4,
+        "Protein": 19.1,
+        "Carbohydrates": 1,
+        "Salt": 0.26,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 61,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Gyoza 1x800 GM",
+        "EnergyKjoules": 706,
+        "EnergyKcal": 168,
+        "Fat": 3.6,
+        "Protein": 9.2,
+        "Carbohydrates": 24.4,
+        "Salt": 1,
+        "Sugars": 2.7,
+        "Fibre": 1.4,
+        "Allergens": [1, 11]
+    }
+}, {
+    "pk": 62,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rindless Back Rashers 1x2.27 KG",
+        "EnergyKjoules": 707,
+        "EnergyKcal": 169,
+        "Fat": 1.02,
+        "Protein": 18.8,
+        "Carbohydrates": 0.6,
+        "Salt": 2.7,
+        "Sugars": 0.6,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 63,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Smoked Bacon Pieces (Lardons Fume) 1x1 KG",
+        "EnergyKjoules": 1054,
+        "EnergyKcal": 254,
+        "Fat": 20,
+        "Protein": 17,
+        "Carbohydrates": 1,
+        "Salt": 2.3,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 64,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Streaky Bacon 1x1 KG",
+        "EnergyKjoules": 1898,
+        "EnergyKcal": 457,
+        "Fat": 37,
+        "Protein": 33.7,
+        "Carbohydrates": 1,
+        "Salt": 5,
+        "Sugars": 1.3,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 65,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Oakpark Smoked Rindless Streaky Rashers 1x500 GM",
+        "EnergyKjoules": 985,
+        "EnergyKcal": 235,
+        "Fat": 18.17,
+        "Protein": 18.1,
+        "Carbohydrates": 0.1,
+        "Salt": 2.5,
+        "Sugars": 0.1,
+        "Fibre": 0.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 66,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Rindless Back Bacon Rashers 1x2.27 KG",
+        "EnergyKjoules": 916,
+        "EnergyKcal": 220,
+        "Fat": 16.3,
+        "Protein": 18.4,
+        "Carbohydrates": 0,
+        "Salt": 2.02,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 67,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bawnbua Cooked Streaky Bacon 1x1 KG",
+        "EnergyKjoules": 1541,
+        "EnergyKcal": 371,
+        "Fat": 28.4,
+        "Protein": 28.7,
+        "Carbohydrates": 0.1,
+        "Salt": 4.69,
+        "Sugars": 0.2,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 68,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McCarrens Thick Cut Back Bacon Rashers 6mm Irish 1x2.27 KG",
+        "EnergyKjoules": 809,
+        "EnergyKcal": 195,
+        "Fat": 14.2,
+        "Protein": 16,
+        "Carbohydrates": 0.7,
+        "Salt": 3.9,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 69,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Streaky Bacon Rashers 1x2.27 KG",
+        "EnergyKjoules": 1328,
+        "EnergyKcal": 321,
+        "Fat": 29.2,
+        "Protein": 14.6,
+        "Carbohydrates": 0.1,
+        "Salt": 1.225,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 70,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Smoked Pancetta 1x500 GM",
+        "EnergyKjoules": 1680,
+        "EnergyKcal": 406,
+        "Fat": 2,
+        "Protein": 3,
+        "Carbohydrates": 0.1,
+        "Salt": 0.325,
+        "Sugars": 0.1,
+        "Fibre": 3,
+        "Allergens": []
+    }
+}, {
+    "pk": 71,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Oakpark Smoked Maple American Style Streaky Bacon 1x510 GM",
+        "EnergyKjoules": 839,
+        "EnergyKcal": 202,
+        "Fat": 15.9,
+        "Protein": 14.3,
+        "Carbohydrates": 0.5,
+        "Salt": 2.67,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 72,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rindless Bacon Loin 1x4.8-6.5 KG",
+        "EnergyKjoules": 782,
+        "EnergyKcal": 188,
+        "Fat": 13.53,
+        "Protein": 16.5,
+        "Carbohydrates": 0,
+        "Salt": 2.6,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 73,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McCarrens Smoked Rindless Streaky Bacon Rashers 1x2.5 KG",
+        "EnergyKjoules": 1139,
+        "EnergyKcal": 275,
+        "Fat": 0,
+        "Protein": 15.4,
+        "Carbohydrates": 0.1,
+        "Salt": 2.25,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 74,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Oakpark Smoked Rindless Back Bacon Rashers 1x2 KG",
+        "EnergyKjoules": 468,
+        "EnergyKcal": 111,
+        "Fat": 4.92,
+        "Protein": 16.8,
+        "Carbohydrates": 0,
+        "Salt": 3.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 75,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bawnbua Cooked Crispy Streaky Bacon 1x1 KG",
+        "EnergyKjoules": 1687,
+        "EnergyKcal": 406,
+        "Fat": 31.1,
+        "Protein": 31.4,
+        "Carbohydrates": 0.1,
+        "Salt": 5.13,
+        "Sugars": 0.2,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 76,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block and Barrel Bacon Back Rashers Cooked",
+        "EnergyKjoules": 1334,
+        "EnergyKcal": 321,
+        "Fat": 25.2,
+        "Protein": 23.6,
+        "Carbohydrates": 0.5,
+        "Salt": 3.7,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 77,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rindless Bacon Loin Irish 1x5-6.5 KG",
+        "EnergyKjoules": 514,
+        "EnergyKcal": 122,
+        "Fat": 3.7,
+        "Protein": 20.6,
+        "Carbohydrates": 1.6,
+        "Salt": 0.15675,
+        "Sugars": 0.14,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 78,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Oakpark Rindless Smoked C-Cut Back Bacon Rashers 1x2 KG",
+        "EnergyKjoules": 736,
+        "EnergyKcal": 177,
+        "Fat": 12,
+        "Protein": 18,
+        "Carbohydrates": 0.5,
+        "Salt": 1.75,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 79,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rindless Bacon Loin 1x4.8-6.5 KG",
+        "EnergyKjoules": 820,
+        "EnergyKcal": 190,
+        "Fat": 14.9,
+        "Protein": 15.7,
+        "Carbohydrates": 0,
+        "Salt": 3.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 80,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bacon Hocks 1x2x1.25 KG",
+        "EnergyKjoules": 500,
+        "EnergyKcal": 119,
+        "Fat": 5.4,
+        "Protein": 17.6,
+        "Carbohydrates": 0.1,
+        "Salt": 2.95,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 81,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McCarrens Dry Cured Back Bacon Rashers Irish 1x2.27 KG",
+        "EnergyKjoules": 514,
+        "EnergyKcal": 122,
+        "Fat": 3.7,
+        "Protein": 20.6,
+        "Carbohydrates": 1.6,
+        "Salt": 1.5675,
+        "Sugars": 0,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 82,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Oakpark Smoked Irish Bacon Lardons 1x1 KG",
+        "EnergyKjoules": 545,
+        "EnergyKcal": 130,
+        "Fat": 6.2,
+        "Protein": 16.5,
+        "Carbohydrates": 1.9,
+        "Salt": 2.8,
+        "Sugars": 1.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 83,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Oakpark Maple Cure Back Bacon Rashers 1x2 KG",
+        "EnergyKjoules": 468,
+        "EnergyKcal": 111,
+        "Fat": 4.92,
+        "Protein": 16.8,
+        "Carbohydrates": 0,
+        "Salt": 3.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 84,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bacon French Rack 1x2x1.2-1.4 KG",
+        "EnergyKjoules": 641,
+        "EnergyKcal": 153,
+        "Fat": 8.2,
+        "Protein": 19.4,
+        "Carbohydrates": 0.2,
+        "Salt": 1.25625,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 85,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McCarrens Thin Cut Back Bacon Back Rashers 1x2.27 KG",
+        "EnergyKjoules": 1046,
+        "EnergyKcal": 252,
+        "Fat": 19.6,
+        "Protein": 18.8,
+        "Carbohydrates": 0,
+        "Salt": 1.72,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 86,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rindless Cooked Gammon 1x5.25 KG",
+        "EnergyKjoules": 575,
+        "EnergyKcal": 138,
+        "Fat": 7.5,
+        "Protein": 17.5,
+        "Carbohydrates": 0,
+        "Salt": 2.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 87,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bacon Chops Rindless 1x10x227 GM",
+        "EnergyKjoules": 514,
+        "EnergyKcal": 122,
+        "Fat": 3.7,
+        "Protein": 20.6,
+        "Carbohydrates": 1.6,
+        "Salt": 1.5675,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 88,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McCarrens Pale Back Bacon Rashers Irish 1x360 GM",
+        "EnergyKjoules": 1010,
+        "EnergyKcal": 244,
+        "Fat": 0,
+        "Protein": 18.4,
+        "Carbohydrates": 0,
+        "Salt": 1.99,
+        "Sugars": 0,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 89,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rind Off Back Rasher 1x2.27 KG",
+        "EnergyKjoules": 1046,
+        "EnergyKcal": 252,
+        "Fat": 19.2,
+        "Protein": 18.8,
+        "Carbohydrates": 0.1,
+        "Salt": 1.72,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 90,
+    "model": "home.products",
+    "fields": {
+        "product_name": "BR Minced Bacon 1x2 KG",
+        "EnergyKjoules": 757,
+        "EnergyKcal": 182,
+        "Fat": 13,
+        "Protein": 16,
+        "Carbohydrates": 0.5,
+        "Salt": 2.88,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 91,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McCarrens Pork Belly Boneless 5x3-4 KG",
+        "EnergyKjoules": 969,
+        "EnergyKcal": 233,
+        "Fat": 18.1,
+        "Protein": 17.3,
+        "Carbohydrates": 0.1,
+        "Salt": 0.14,
+        "Sugars": 0.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 92,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Hind Shank Medium 2x340-500g",
+        "EnergyKjoules": 683,
+        "EnergyKcal": 200,
+        "Fat": 13.4,
+        "Protein": 19,
+        "Carbohydrates": 0.5,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 93,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Leg Carvery Boned Rolled & Tied 1x2.4-3 K",
+        "EnergyKjoules": 796,
+        "EnergyKcal": 187,
+        "Fat": 12,
+        "Protein": 19,
+        "Carbohydrates": 0,
+        "Salt": 0.15,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 94,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Fore Shank 1x2x310 GM",
+        "EnergyKjoules": 778.9,
+        "EnergyKcal": 187,
+        "Fat": 14.6,
+        "Protein": 14.1,
+        "Carbohydrates": 0,
+        "Salt": 0.125,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 95,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley RTC Lamb Rump 1x4x275 GM",
+        "EnergyKjoules": 923,
+        "EnergyKcal": 222,
+        "Fat": 16,
+        "Protein": 19,
+        "Carbohydrates": 0.5,
+        "Salt": 1.25,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 96,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Diced Lamb 1x2.5 KG",
+        "EnergyKjoules": 640,
+        "EnergyKcal": 153,
+        "Fat": 14,
+        "Protein": 20,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 97,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Traditional Irish Stew Diced (Lamb) 1x2.5 KG",
+        "EnergyKjoules": 976,
+        "EnergyKcal": 233,
+        "Fat": 18,
+        "Protein": 18,
+        "Carbohydrates": 0.5,
+        "Salt": 0.15,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 98,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Ready to Cook Lamb Rump 1x4x275 GM",
+        "EnergyKjoules": 1242,
+        "EnergyKcal": 297,
+        "Fat": 23,
+        "Protein": 18,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 99,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Leg Boned & Rolled &Tied Variable Weight",
+        "EnergyKjoules": 778,
+        "EnergyKcal": 185,
+        "Fat": 12,
+        "Protein": 19,
+        "Carbohydrates": 0.5,
+        "Salt": 0.15,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 100,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Boneless Lamb Shoulder 1x1.2-1.3 KG",
+        "EnergyKjoules": 679,
+        "EnergyKcal": 162,
+        "Fat": 11,
+        "Protein": 12,
+        "Carbohydrates": 0.5,
+        "Salt": 0.2,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 101,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Mince 1x2.5 KG",
+        "EnergyKjoules": 820,
+        "EnergyKcal": 196,
+        "Fat": 13.3,
+        "Protein": 19.1,
+        "Carbohydrates": 0,
+        "Salt": 0.1725,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 102,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Easy Carve Lamb Shoulder 1x1.4-2 KG",
+        "EnergyKjoules": 679,
+        "EnergyKcal": 162,
+        "Fat": 11,
+        "Protein": 12,
+        "Carbohydrates": 0.5,
+        "Salt": 0.2,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 103,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Large Lamb Hind Shank 1x2x500-650 GM",
+        "EnergyKjoules": 869,
+        "EnergyKcal": 209,
+        "Fat": 14.6,
+        "Protein": 17.3,
+        "Carbohydrates": 1.3,
+        "Salt": 1.1,
+        "Sugars": 1,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 104,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Diced Lamb 90vl (Irish Stew) 1x2.5 KG",
+        "EnergyKjoules": 976,
+        "EnergyKcal": 233,
+        "Fat": 18.3,
+        "Protein": 17.6,
+        "Carbohydrates": 0,
+        "Salt": 0.1575,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 105,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Hind Shank Large 1x2x560 GM",
+        "EnergyKjoules": 683,
+        "EnergyKcal": 200,
+        "Fat": 13.4,
+        "Protein": 0.5,
+        "Carbohydrates": 19,
+        "Salt": 1.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 106,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley French Dressed Lamb Rack Cap On 1x2x500-700 GM",
+        "EnergyKjoules": 1174,
+        "EnergyKcal": 235,
+        "Fat": 18,
+        "Protein": 18,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 107,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Liver (3pk) 1x2 KG",
+        "EnergyKjoules": 748,
+        "EnergyKcal": 179,
+        "Fat": 10,
+        "Protein": 20,
+        "Carbohydrates": 1.6,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 108,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Hind Shanks 1x2x375-500 GM",
+        "EnergyKjoules": 780,
+        "EnergyKcal": 188,
+        "Fat": 15,
+        "Protein": 14,
+        "Carbohydrates": 0.5,
+        "Salt": 1.25,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 109,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Centreloin Chops 1x10x110 GM",
+        "EnergyKjoules": 1150,
+        "EnergyKcal": 274,
+        "Fat": 23,
+        "Protein": 18,
+        "Carbohydrates": 0.5,
+        "Salt": 0.175,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 110,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley French Dressed Lamb Rack Cap Off 1x2x480 GM",
+        "EnergyKjoules": 641,
+        "EnergyKcal": 153,
+        "Fat": 7,
+        "Protein": 16,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 111,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boneless Mutton Leg 1x2.6-3.4 KG",
+        "EnergyKjoules": 666,
+        "EnergyKcal": 60,
+        "Fat": 11.1,
+        "Protein": 15,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 112,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lamb Liver 1x2 KG",
+        "EnergyKjoules": 748,
+        "EnergyKcal": 179,
+        "Fat": 10,
+        "Protein": 20,
+        "Carbohydrates": 1.6,
+        "Salt": 0.18,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 113,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Lamb Kidneys 1x1 KG",
+        "EnergyKjoules": 488,
+        "EnergyKcal": 117,
+        "Fat": 5.8,
+        "Protein": 14.8,
+        "Carbohydrates": 1.5,
+        "Salt": 0.275,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 114,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Hind Shanks 2x480-520g",
+        "EnergyKjoules": 683,
+        "EnergyKcal": 200,
+        "Fat": 13.4,
+        "Protein": 19,
+        "Carbohydrates": 0,
+        "Salt": 0.18,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 115,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Leg Bone In 1x2.2-2.6 KG",
+        "EnergyKjoules": 778,
+        "EnergyKcal": 185,
+        "Fat": 12,
+        "Protein": 19,
+        "Carbohydrates": 0.5,
+        "Salt": 0.15,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 116,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Tomahawk Variable 1x12x110 GM",
+        "EnergyKjoules": 650,
+        "EnergyKcal": 156,
+        "Fat": 8,
+        "Protein": 20,
+        "Carbohydrates": 0,
+        "Salt": 0.45,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 117,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Lamb Liver 1x1-1.2 KG",
+        "EnergyKjoules": 748,
+        "EnergyKcal": 179,
+        "Fat": 10,
+        "Protein": 20,
+        "Carbohydrates": 1.6,
+        "Salt": 0.18,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 118,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Rack 9 Bone Cap On 1x1.2-1.6 KG",
+        "EnergyKjoules": 1174,
+        "EnergyKcal": 235,
+        "Fat": 18,
+        "Protein": 18,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 119,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Rump Boneless 1x4x500 GM",
+        "EnergyKjoules": 1242,
+        "EnergyKcal": 297,
+        "Fat": 23,
+        "Protein": 18,
+        "Carbohydrates": 0,
+        "Salt": 0.15,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 120,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Neck Fillet 1x5x475 GM",
+        "EnergyKjoules": 650,
+        "EnergyKcal": 155,
+        "Fat": 8,
+        "Protein": 8,
+        "Carbohydrates": 0.5,
+        "Salt": 0.2,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 121,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Leg Boned & Rolled &Tied 4x(2x2.5 KG)",
+        "EnergyKjoules": 708,
+        "EnergyKcal": 170,
+        "Fat": 11.1,
+        "Protein": 17.5,
+        "Carbohydrates": 0,
+        "Salt": 0.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 122,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Slaney Valley Lamb Fillet Chain & Head Off 1x5x70 GM",
+        "EnergyKjoules": 769,
+        "EnergyKcal": 184,
+        "Fat": 23,
+        "Protein": 24,
+        "Carbohydrates": 0,
+        "Salt": 0.15,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 123,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Diced Lamb 15mm 5x1 KG",
+        "EnergyKjoules": 911,
+        "EnergyKcal": 203,
+        "Fat": 15,
+        "Protein": 18.6,
+        "Carbohydrates": 0.1,
+        "Salt": 0.65,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 124,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Sausage Meat 1x1 KG",
+        "EnergyKjoules": 531,
+        "EnergyKcal": 127,
+        "Fat": 25,
+        "Protein": 8.7,
+        "Carbohydrates": 12,
+        "Salt": 0,
+        "Sugars": 0.6,
+        "Fibre": 0.4,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 125,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Pork Breakfast Sausage 8s 1x4.54 KG",
+        "EnergyKjoules": 1450,
+        "EnergyKcal": 351,
+        "Fat": 7.6,
+        "Protein": 7.6,
+        "Carbohydrates": 6.5,
+        "Salt": 1.5,
+        "Sugars": 1.9,
+        "Fibre": 4.8,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 126,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tournafulla Sausages Pork Jumbo 8s 80x57 GM",
+        "EnergyKjoules": 1258,
+        "EnergyKcal": 303,
+        "Fat": 23.6,
+        "Protein": 9.74,
+        "Carbohydrates": 13.6,
+        "Salt": 2.9,
+        "Sugars": 1.4,
+        "Fibre": 1.3,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 127,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Handmade Jumbo Sausages 60x83 GM",
+        "EnergyKjoules": 1343,
+        "EnergyKcal": 321,
+        "Fat": 25.4,
+        "Protein": 8,
+        "Carbohydrates": 15,
+        "Salt": 2.275,
+        "Sugars": 0.4,
+        "Fibre": 0.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 128,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tournafulla Sausages Cocktail Pork 1x4.54 KG",
+        "EnergyKjoules": 1142,
+        "EnergyKcal": 272,
+        "Fat": 22,
+        "Protein": 12,
+        "Carbohydrates": 7.6,
+        "Salt": 1.9,
+        "Sugars": 3.4,
+        "Fibre": 0.9,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 129,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Pork & Apple Premium Sausages 2x1 KG",
+        "EnergyKjoules": 1217,
+        "EnergyKcal": 307,
+        "Fat": 26.3,
+        "Protein": 11.3,
+        "Carbohydrates": 6.2,
+        "Salt": 0.95,
+        "Sugars": 5.7,
+        "Fibre": 1.8,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 130,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes White Pork Sausage 8s 1x5 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 224,
+        "Fat": 17.5,
+        "Protein": 8.6,
+        "Carbohydrates": 13.1,
+        "Salt": 2.675,
+        "Sugars": 0.7,
+        "Fibre": 2.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 131,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes White Pork Cocktail Sausages IQF 1x5 KG",
+        "EnergyKjoules": 1448,
+        "EnergyKcal": 350,
+        "Fat": 30.5,
+        "Protein": 8.8,
+        "Carbohydrates": 10.6,
+        "Salt": 1.59125,
+        "Sugars": 1.2,
+        "Fibre": 1.1,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 132,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tournafulla Sausages Pork 12s 1x4.54 KG",
+        "EnergyKjoules": 1142,
+        "EnergyKcal": 275,
+        "Fat": 22,
+        "Protein": 12,
+        "Carbohydrates": 7.6,
+        "Salt": 1.87,
+        "Sugars": 3.4,
+        "Fibre": 0.9,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 133,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Jumbo Pork Sausage 8s IQF 1x4.5 KG",
+        "EnergyKjoules": 1298,
+        "EnergyKcal": 311,
+        "Fat": 20.6,
+        "Protein": 11.7,
+        "Carbohydrates": 19.8,
+        "Salt": 2.275,
+        "Sugars": 0.4,
+        "Fibre": 0.5,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 134,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Sausages 8's 1x2.27 KG",
+        "EnergyKjoules": 1185,
+        "EnergyKcal": 286,
+        "Fat": 21.9,
+        "Protein": 10.5,
+        "Carbohydrates": 12.4,
+        "Salt": 2,
+        "Sugars": 2.4,
+        "Fibre": 0,
+        "Allergens": [1, 6, 12]
+    }
+}, {
+    "pk": 135,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Sausages 8's 1x4.54 KG",
+        "EnergyKjoules": 1197,
+        "EnergyKcal": 286,
+        "Fat": 21.9,
+        "Protein": 10.5,
+        "Carbohydrates": 12.4,
+        "Salt": 0.2,
+        "Sugars": 2.4,
+        "Fibre": 0,
+        "Allergens": [9, 1, 7, 10, 6, 12]
+    }
+}, {
+    "pk": 136,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Breakfast Jumbo Sausage 1x4.54 KG",
+        "EnergyKjoules": 1231,
+        "EnergyKcal": 297,
+        "Fat": 24.7,
+        "Protein": 8.5,
+        "Carbohydrates": 9.9,
+        "Salt": 2.31,
+        "Sugars": 0.6,
+        "Fibre": 0.4,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 137,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnane's Cooked Pork Sausage 12s 1x1 KG",
+        "EnergyKjoules": 1448,
+        "EnergyKcal": 350,
+        "Fat": 30.5,
+        "Protein": 8.8,
+        "Carbohydrates": 10.6,
+        "Salt": 1.59,
+        "Sugars": 1.2,
+        "Fibre": 1.1,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 138,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tournafulla Sausages Pork 16s 1x4.54 KG",
+        "EnergyKjoules": 1258,
+        "EnergyKcal": 303,
+        "Fat": 23.6,
+        "Protein": 9.74,
+        "Carbohydrates": 13.6,
+        "Salt": 2.9,
+        "Sugars": 1.4,
+        "Fibre": 1.3,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 139,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes White Pork Sausage 10s 1x5 KG",
+        "EnergyKjoules": 937,
+        "EnergyKcal": 224,
+        "Fat": 17.5,
+        "Protein": 8.6,
+        "Carbohydrates": 13.1,
+        "Salt": 2.675,
+        "Sugars": 0.7,
+        "Fibre": 2.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 140,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Pork & Chive Premium Sausages 2x1 KG",
+        "EnergyKjoules": 1289,
+        "EnergyKcal": 311,
+        "Fat": 27.2,
+        "Protein": 12.2,
+        "Carbohydrates": 4.4,
+        "Salt": 1.6,
+        "Sugars": 0.8,
+        "Fibre": 1.4,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 141,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Guinness & Leek Premium Sausages 2x1 KG",
+        "EnergyKjoules": 1326,
+        "EnergyKcal": 320,
+        "Fat": 28.5,
+        "Protein": 12.5,
+        "Carbohydrates": 3.5,
+        "Salt": 0,
+        "Sugars": 2.8,
+        "Fibre": 0.1,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 142,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Sausages with Black Pudding & Thyme 2x1 KG",
+        "EnergyKjoules": 1240,
+        "EnergyKcal": 299,
+        "Fat": 25.4,
+        "Protein": 12.6,
+        "Carbohydrates": 5.5,
+        "Salt": 1.55,
+        "Sugars": 0.8,
+        "Fibre": 0.7,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 143,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sausages Toulouse 125g 1x16'S",
+        "EnergyKjoules": 1243,
+        "EnergyKcal": 297,
+        "Fat": 27.3,
+        "Protein": 13.5,
+        "Carbohydrates": 0.5,
+        "Salt": 0,
+        "Sugars": 0.2,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 144,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Handmade Pork Sausage 12s (linked) 1x5 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 321,
+        "Fat": 25.4,
+        "Protein": 8,
+        "Carbohydrates": 15,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 145,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes White Pork Sausage 9s 1x5 KG",
+        "EnergyKjoules": 1020,
+        "EnergyKcal": 224,
+        "Fat": 17.5,
+        "Protein": 8.6,
+        "Carbohydrates": 13.1,
+        "Salt": 2.675,
+        "Sugars": 0.7,
+        "Fibre": 2.3,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 146,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Pork Sausage 16s GF 1x2 KG",
+        "EnergyKjoules": 1010,
+        "EnergyKcal": 244,
+        "Fat": 19.6,
+        "Protein": 16.2,
+        "Carbohydrates": 0.7,
+        "Salt": 2.315,
+        "Sugars": 0.5,
+        "Fibre": 0.1,
+        "Allergens": [7, 10, 12]
+    }
+}, {
+    "pk": 147,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sundried Tomato & Basil Sausages 2x1 KG",
+        "EnergyKjoules": 1360,
+        "EnergyKcal": 329,
+        "Fat": 29.4,
+        "Protein": 11.2,
+        "Carbohydrates": 5.6,
+        "Salt": 1.495,
+        "Sugars": 1.6,
+        "Fibre": 1.4,
+        "Allergens": [1, 11, 12]
+    }
+}, {
+    "pk": 148,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Pork & Cracked Black Pepper Sausages 2x1 KG",
+        "EnergyKjoules": 1321,
+        "EnergyKcal": 319,
+        "Fat": 28.3,
+        "Protein": 12,
+        "Carbohydrates": 4.9,
+        "Salt": 0.95,
+        "Sugars": 5.7,
+        "Fibre": 1.8,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 149,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chorizo 2x2 KG",
+        "EnergyKjoules": 1246,
+        "EnergyKcal": 297,
+        "Fat": 27,
+        "Protein": 13,
+        "Carbohydrates": 0.7,
+        "Salt": 2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 150,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Beef Sausage Jumbo 4s 1x4.54 KG",
+        "EnergyKjoules": 904,
+        "EnergyKcal": 217,
+        "Fat": 15.2,
+        "Protein": 19.7,
+        "Carbohydrates": 0.4,
+        "Salt": 2,
+        "Sugars": 0.82,
+        "Fibre": 0,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 151,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Elliotts Pork Sausage Eights 1x4.54 KG",
+        "EnergyKjoules": 1218,
+        "EnergyKcal": 293,
+        "Fat": 22.3,
+        "Protein": 11.9,
+        "Carbohydrates": 11.2,
+        "Salt": 1.74,
+        "Sugars": 4.5,
+        "Fibre": 0,
+        "Allergens": [1, 10, 6, 12]
+    }
+}, {
+    "pk": 152,
+    "model": "home.products",
+    "fields": {
+        "product_name": "FRZ Chorizo 2x2 KG",
+        "EnergyKjoules": 1246,
+        "EnergyKcal": 301,
+        "Fat": 27,
+        "Protein": 13,
+        "Carbohydrates": 0.7,
+        "Salt": 5.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7, 10]
+    }
+}, {
+    "pk": 153,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Jumbo Pork Sausage 4s 1x4.54 KG",
+        "EnergyKjoules": 1305,
+        "EnergyKcal": 313,
+        "Fat": 24.1,
+        "Protein": 10.1,
+        "Carbohydrates": 11,
+        "Salt": 2.275,
+        "Sugars": 0.4,
+        "Fibre": 0.5,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 154,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gourmet Lincolnshire Pork Sausages 2x1 KG",
+        "EnergyKjoules": 1373,
+        "EnergyKcal": 328,
+        "Fat": 27.1,
+        "Protein": 8,
+        "Carbohydrates": 13.8,
+        "Salt": 1.5,
+        "Sugars": 1.8,
+        "Fibre": 0.6,
+        "Allergens": [1, 7, 10, 12]
+    }
+}, {
+    "pk": 155,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McWhinneys Catering Sausage Pork 8s 1x4.54 KG",
+        "EnergyKjoules": 1031,
+        "EnergyKcal": 247,
+        "Fat": 16.53,
+        "Protein": 9.41,
+        "Carbohydrates": 15.65,
+        "Salt": 2.4,
+        "Sugars": 4.08,
+        "Fibre": 0.78,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 156,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Neck Fillet Vac Pack (Butt) 1x1.5-3 KG",
+        "EnergyKjoules": 907,
+        "EnergyKcal": 121,
+        "Fat": 4.2,
+        "Protein": 20.8,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 157,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McCarrens Bacon Gammon Horseshoe Boned & Rolled 1x4.5-6 KG",
+        "EnergyKjoules": 575,
+        "EnergyKcal": 138,
+        "Fat": 7.5,
+        "Protein": 17.5,
+        "Carbohydrates": 0,
+        "Salt": 3,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 158,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boneless Pork Loin 1x4.5-6 KG",
+        "EnergyKjoules": 492,
+        "EnergyKcal": 117,
+        "Fat": 2.6,
+        "Protein": 23.2,
+        "Carbohydrates": 0.1,
+        "Salt": 0.205,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 159,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Streaky Belly Boneless 1x4-6 KG",
+        "EnergyKjoules": 1031,
+        "EnergyKcal": 248,
+        "Fat": 19,
+        "Protein": 19,
+        "Carbohydrates": 0.1,
+        "Salt": 0.1775,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 160,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Loin Ribs 8x600 GM",
+        "EnergyKjoules": 611,
+        "EnergyKcal": 147,
+        "Fat": 9.8,
+        "Protein": 14.6,
+        "Carbohydrates": 0,
+        "Salt": 0.1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 161,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Steak Fillet 1x700 GM",
+        "EnergyKjoules": 605,
+        "EnergyKcal": 144,
+        "Fat": 6.9,
+        "Protein": 20.5,
+        "Carbohydrates": 0.1,
+        "Salt": 0.2,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 162,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Shoulder 1x2.8-3.3 KG",
+        "EnergyKjoules": 936.3,
+        "EnergyKcal": 223.6,
+        "Fat": 11,
+        "Protein": 31,
+        "Carbohydrates": 0,
+        "Salt": 0.17,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 163,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Halved Gammon Boned & Rolled 1x3.5-4.2 KG",
+        "EnergyKjoules": 575,
+        "EnergyKcal": 137,
+        "Fat": 7.5,
+        "Protein": 17.5,
+        "Carbohydrates": 0,
+        "Salt": 2.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 164,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bacon Gammon Boned/Rolled Green Irish 1x7-9 KG",
+        "EnergyKjoules": 575,
+        "EnergyKcal": 138,
+        "Fat": 7.5,
+        "Protein": 17.5,
+        "Carbohydrates": 0,
+        "Salt": 1.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 165,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Pork Mince 80vl 1x2.5 KG",
+        "EnergyKjoules": 927,
+        "EnergyKcal": 223,
+        "Fat": 15.3,
+        "Protein": 18,
+        "Carbohydrates": 2.1,
+        "Salt": 1.725,
+        "Sugars": 0.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 166,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flame Cooked BBQ Ribsteak 2x1.84 KG",
+        "EnergyKjoules": 1034,
+        "EnergyKcal": 248,
+        "Fat": 17,
+        "Protein": 19.6,
+        "Carbohydrates": 4,
+        "Salt": 1,
+        "Sugars": 1.2,
+        "Fibre": 0.5,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 167,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McCarrens Pork Steak Fillet 10x500 GM",
+        "EnergyKjoules": 522.7,
+        "EnergyKcal": 123.9,
+        "Fat": 3.1,
+        "Protein": 24,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 168,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Loin Chops Boneless 1x10x170 GM",
+        "EnergyKjoules": 1256,
+        "EnergyKcal": 303,
+        "Fat": 25.3,
+        "Protein": 17.1,
+        "Carbohydrates": 1.7,
+        "Salt": 0.14,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 169,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Pulled Pork 10x500 GM",
+        "EnergyKjoules": 1024,
+        "EnergyKcal": 246,
+        "Fat": 18.5,
+        "Protein": 19.2,
+        "Carbohydrates": 0.8,
+        "Salt": 0.75,
+        "Sugars": 0.8,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 170,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gammon Boned & Rolled 1x2.5 KG",
+        "EnergyKjoules": 473,
+        "EnergyKcal": 113,
+        "Fat": 4.8,
+        "Protein": 17.3,
+        "Carbohydrates": 0.2,
+        "Salt": 2.375,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 171,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McCarrens Boneless Pork Belly Rind On Irish 2x4 KG",
+        "EnergyKjoules": 1083,
+        "EnergyKcal": 261,
+        "Fat": 21.1,
+        "Protein": 16.6,
+        "Carbohydrates": 1.2,
+        "Salt": 0.18,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 172,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bacon Gammon Log 1x5.8-6.8 KG",
+        "EnergyKjoules": 862,
+        "EnergyKcal": 208,
+        "Fat": 16.3,
+        "Protein": 15.3,
+        "Carbohydrates": 0.1,
+        "Salt": 1.50625,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 173,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Gammon Ham 1x1 KG",
+        "EnergyKjoules": 425,
+        "EnergyKcal": 101,
+        "Fat": 1.5,
+        "Protein": 21.6,
+        "Carbohydrates": 0.5,
+        "Salt": 2.4,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 174,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Diced 1x2.5 KG",
+        "EnergyKjoules": 770,
+        "EnergyKcal": 184,
+        "Fat": 6.4,
+        "Protein": 31.7,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 175,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McCarrens Pork Loin Irish 1x5.5 KG",
+        "EnergyKjoules": 1023.7,
+        "EnergyKcal": 246.4,
+        "Fat": 18.8,
+        "Protein": 19.3,
+        "Carbohydrates": 0,
+        "Salt": 0.14,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 176,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Loin Ribs 8x800 GM",
+        "EnergyKjoules": 611,
+        "EnergyKcal": 147,
+        "Fat": 9.8,
+        "Protein": 14.6,
+        "Carbohydrates": 0,
+        "Salt": 0.1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 177,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Loin Boneless Irish 1x3.5-4.5 KG",
+        "EnergyKjoules": 600,
+        "EnergyKcal": 143,
+        "Fat": 6,
+        "Protein": 20.7,
+        "Carbohydrates": 1.5,
+        "Salt": 0.13,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 178,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rindless Cooked Gammon 1x5.25 KG",
+        "EnergyKjoules": 575,
+        "EnergyKcal": 138,
+        "Fat": 7.5,
+        "Protein": 17.5,
+        "Carbohydrates": 0,
+        "Salt": 2.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 179,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Spare Ribs 1x10 KG",
+        "EnergyKjoules": 663,
+        "EnergyKcal": 158,
+        "Fat": 8.91,
+        "Protein": 19.6,
+        "Carbohydrates": 0.1,
+        "Salt": 0.3,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 180,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Netted Pork Butt 1x2-2.5 KG",
+        "EnergyKjoules": 906,
+        "EnergyKcal": 218,
+        "Fat": 16.4,
+        "Protein": 17.6,
+        "Carbohydrates": 0,
+        "Salt": 0.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 181,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Escalopes 1x10x250 GM",
+        "EnergyKjoules": 1267,
+        "EnergyKcal": 303,
+        "Fat": 25.3,
+        "Protein": 17.1,
+        "Carbohydrates": 1.7,
+        "Salt": 0,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 182,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Loin Chops Boneless 10x227 GM",
+        "EnergyKjoules": 929,
+        "EnergyKcal": 222,
+        "Fat": 16.6,
+        "Protein": 18.1,
+        "Carbohydrates": 0.1,
+        "Salt": 3.25,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 183,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Stir Fry 1x2.5 KG",
+        "EnergyKjoules": 765,
+        "EnergyKcal": 183,
+        "Fat": 11,
+        "Protein": 20.8,
+        "Carbohydrates": 0.1,
+        "Salt": 0.285,
+        "Sugars": 0.1,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 184,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pork Loin Boned/Rolled/Tied (Full Loin) 1x4.2-6 KG",
+        "EnergyKjoules": 748,
+        "EnergyKcal": 178,
+        "Fat": 12.3,
+        "Protein": 16.8,
+        "Carbohydrates": 0.4,
+        "Salt": 0.25,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 185,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McCarrens Pork Cheek Untrimmed Rind On Irish 2x3x800 GM",
+        "EnergyKjoules": 415,
+        "EnergyKcal": 98,
+        "Fat": 2.3,
+        "Protein": 19.5,
+        "Carbohydrates": 0.2,
+        "Salt": 0.19,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 186,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Deelvale Turkey Butterfly Skin On 1x4.5-6.8 KG",
+        "EnergyKjoules": 502,
+        "EnergyKcal": 119,
+        "Fat": 3,
+        "Protein": 23,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 187,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fresh Male Turkey Butterfly 1x4.5-6 KG",
+        "EnergyKjoules": 693,
+        "EnergyKcal": 166,
+        "Fat": 1.7,
+        "Protein": 19,
+        "Carbohydrates": 0,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 188,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Turkey Sausages (approx 50) 1x2 KG",
+        "EnergyKjoules": 687,
+        "EnergyKcal": 164,
+        "Fat": 6.8,
+        "Protein": 17.1,
+        "Carbohydrates": 8.2,
+        "Salt": 1.25,
+        "Sugars": 0.2,
+        "Fibre": 0.9,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 189,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Turkey Breast Lobe Netted Skin On 1x2-2.4 KG",
+        "EnergyKjoules": 785,
+        "EnergyKcal": 187,
+        "Fat": 6.4,
+        "Protein": 31.5,
+        "Carbohydrates": 0.2,
+        "Salt": 0.4,
+        "Sugars": 0.1,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 190,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Turkey Mince 1x2.5 KG",
+        "EnergyKjoules": 538,
+        "EnergyKcal": 128,
+        "Fat": 3.6,
+        "Protein": 23.8,
+        "Carbohydrates": 0.1,
+        "Salt": 0.14,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 191,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Turkey Escalopes 1x10x170 GM",
+        "EnergyKjoules": 670,
+        "EnergyKcal": 160,
+        "Fat": 8,
+        "Protein": 22,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 192,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Turkey Diced Breastmeat 1x2.5 KG",
+        "EnergyKjoules": 670,
+        "EnergyKcal": 160,
+        "Fat": 8,
+        "Protein": 22,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 193,
+    "model": "home.products",
+    "fields": {
+        "product_name": "FRZ Deelvale Turkey Butterfly Skin On 2x4.5-6.5 KG",
+        "EnergyKjoules": 502,
+        "EnergyKcal": 119,
+        "Fat": 3,
+        "Protein": 23,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 194,
+    "model": "home.products",
+    "fields": {
+        "product_name": "FRZ Turkey & Ham Portions Cooked & Stuffed 24x7-8 OZ",
+        "EnergyKjoules": 671,
+        "EnergyKcal": 159,
+        "Fat": 4.8,
+        "Protein": 17.4,
+        "Carbohydrates": 11.6,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 195,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Turkey Escalopes 1x10x113 GM",
+        "EnergyKjoules": 670,
+        "EnergyKcal": 160,
+        "Fat": 8,
+        "Protein": 22,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 196,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Turkey Boned & Rolled White Meat Only (Netted) 1x5-6 KG",
+        "EnergyKjoules": 481,
+        "EnergyKcal": 115,
+        "Fat": 1.6,
+        "Protein": 23.6,
+        "Carbohydrates": 0,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 197,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Turkey Escalopes 1x10x227 GM",
+        "EnergyKjoules": 670,
+        "EnergyKcal": 160,
+        "Fat": 8,
+        "Protein": 22,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 198,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dromona Crown 1x500 GM",
+        "EnergyKjoules": 2654,
+        "EnergyKcal": 646,
+        "Fat": 71.7,
+        "Protein": 0.1,
+        "Carbohydrates": 0.1,
+        "Salt": 0.8625,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 199,
+    "model": "home.products",
+    "fields": {
+        "product_name": "FRZ Turkey Butterfly 4x5 KG",
+        "EnergyKjoules": 435,
+        "EnergyKcal": 104,
+        "Fat": 1.7,
+        "Protein": 17.1,
+        "Carbohydrates": 4.2,
+        "Salt": 2.525,
+        "Sugars": 3.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 200,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Barbarie Duck Breast 1x2x200-250 GM",
+        "EnergyKjoules": 919,
+        "EnergyKcal": 221,
+        "Fat": 16.1,
+        "Protein": 18.3,
+        "Carbohydrates": 0.7,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 201,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dalee Boneless Roasted Duck Halves 1x600-650 GM",
+        "EnergyKjoules": 815,
+        "EnergyKcal": 195,
+        "Fat": 9,
+        "Protein": 26,
+        "Carbohydrates": 2,
+        "Salt": 0.46,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 202,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ruifeng Crispy Aromatic Half Duck 1x500-600 GM",
+        "EnergyKjoules": 1046,
+        "EnergyKcal": 250,
+        "Fat": 17.31,
+        "Protein": 29.94,
+        "Carbohydrates": 0.3,
+        "Salt": 1.14,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 203,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Barbarie Female Duck Leg (2 per pack) 1x2x170-200 GM",
+        "EnergyKjoules": 1130,
+        "EnergyKcal": 272,
+        "Fat": 22.4,
+        "Protein": 17.3,
+        "Carbohydrates": 0.4,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 204,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Barbarie Male Duck Legs 1x2x370 GM Variable",
+        "EnergyKjoules": 1954,
+        "EnergyKcal": 473,
+        "Fat": 32.6,
+        "Protein": 5.99,
+        "Carbohydrates": 0.54,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 205,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Barbarie Large Duck Breast 2x300-350g 1x2x300-350 GM",
+        "EnergyKjoules": 387,
+        "EnergyKcal": 91,
+        "Fat": 0.4,
+        "Protein": 21.1,
+        "Carbohydrates": 0.8,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 206,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ruifeng Roasted Duck Halves 1x600-700 GM",
+        "EnergyKjoules": 1256,
+        "EnergyKcal": 301,
+        "Fat": 19,
+        "Protein": 26,
+        "Carbohydrates": 5.2,
+        "Salt": 1,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 207,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Honey Roast Half Duck 10x250 GM",
+        "EnergyKjoules": 1275,
+        "EnergyKcal": 301,
+        "Fat": 27.13,
+        "Protein": 15.7,
+        "Carbohydrates": 0.01,
+        "Salt": 0.4,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 208,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Duck Fat 1x1.5 KG",
+        "EnergyKjoules": 3800,
+        "EnergyKcal": 908,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 209,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Shredded Aromatic Duck 2x500 GM",
+        "EnergyKjoules": 944,
+        "EnergyKcal": 226,
+        "Fat": 13.7,
+        "Protein": 25.4,
+        "Carbohydrates": 0.1,
+        "Salt": 0.6,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 210,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Honey Roast Half Duck 10x300 GM",
+        "EnergyKjoules": 1070,
+        "EnergyKcal": 257,
+        "Fat": 17.2,
+        "Protein": 25.5,
+        "Carbohydrates": 0.2,
+        "Salt": 1,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 211,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rougie Duck Fat 1x3.6 KG",
+        "EnergyKjoules": 3679,
+        "EnergyKcal": 879,
+        "Fat": 99.23,
+        "Protein": 0.3,
+        "Carbohydrates": 0.1,
+        "Salt": 0.025,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 212,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Duck Leg Confit Cooked Fat 20x250 GM",
+        "EnergyKjoules": 1140,
+        "EnergyKcal": 275,
+        "Fat": 18.8,
+        "Protein": 24,
+        "Carbohydrates": 2.2,
+        "Salt": 0,
+        "Sugars": 0.9,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 213,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Duck Legs 40x250 GM",
+        "EnergyKjoules": 1290,
+        "EnergyKcal": 312,
+        "Fat": 27.88,
+        "Protein": 14.61,
+        "Carbohydrates": 0.61,
+        "Salt": 0.1875,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 214,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Duck Wing Confit 1x1.3 KG",
+        "EnergyKjoules": 748,
+        "EnergyKcal": 179,
+        "Fat": 4.48,
+        "Protein": 13.55,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 215,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Whole Oven Ready Duck 6x2.4 KG",
+        "EnergyKjoules": 1620,
+        "EnergyKcal": 392,
+        "Fat": 33.6,
+        "Protein": 22.3,
+        "Carbohydrates": 1.4,
+        "Salt": 0.4,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 216,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Duck Liver 1x2.5 KG",
+        "EnergyKjoules": 531,
+        "EnergyKcal": 126,
+        "Fat": 4.43,
+        "Protein": 20.53,
+        "Carbohydrates": 1.08,
+        "Salt": 0.34,
+        "Sugars": 1.02,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 217,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Duck Confit Leg Raw 10x2x200 GM",
+        "EnergyKjoules": 1290,
+        "EnergyKcal": 312,
+        "Fat": 27.88,
+        "Protein": 15.61,
+        "Carbohydrates": 1.6,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 218,
+    "model": "home.products",
+    "fields": {
+        "product_name": "FRZ Barbarie Duck Breast 8x2x200-250 GM",
+        "EnergyKjoules": 919,
+        "EnergyKcal": 221,
+        "Fat": 16.1,
+        "Protein": 18.3,
+        "Carbohydrates": 0.7,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 219,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Whole Oven Ready Duck 6x2 KG",
+        "EnergyKjoules": 1620,
+        "EnergyKcal": 392,
+        "Fat": 33.6,
+        "Protein": 22.3,
+        "Carbohydrates": 1.4,
+        "Salt": 0.4,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 220,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Boneless Crispy Roast Duck 10x600 GM",
+        "EnergyKjoules": 1560,
+        "EnergyKcal": 376,
+        "Fat": 33.1,
+        "Protein": 19.6,
+        "Carbohydrates": 1,
+        "Salt": 0,
+        "Sugars": 0.1,
+        "Fibre": 0.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 221,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Cooked Aromatic Duck Wings 10x420 GM",
+        "EnergyKjoules": 1415,
+        "EnergyKcal": 341,
+        "Fat": 28.74,
+        "Protein": 19.05,
+        "Carbohydrates": 1.62,
+        "Salt": 0.025,
+        "Sugars": 0.31,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 222,
+    "model": "home.products",
+    "fields": {
+        "product_name": "FRZ Barbary Duck Breast Large 8x300-350 GM",
+        "EnergyKjoules": 862,
+        "EnergyKcal": 207,
+        "Fat": 14.6,
+        "Protein": 18.6,
+        "Carbohydrates": 0.3,
+        "Salt": 0.2,
+        "Sugars": 0.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 223,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Duck Breast Fillet 10x200 GM",
+        "EnergyKjoules": 1493,
+        "EnergyKcal": 362,
+        "Fat": 34.5,
+        "Protein": 12.63,
+        "Carbohydrates": 0.12,
+        "Salt": 0.025,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 224,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Duck Fillets 20x225 GM",
+        "EnergyKjoules": 1270,
+        "EnergyKcal": 306,
+        "Fat": 22.4,
+        "Protein": 26,
+        "Carbohydrates": 0.1,
+        "Salt": 0.4,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 225,
+    "model": "home.products",
+    "fields": {
+        "product_name": "FRZ Barbary Duck Legs (2 Per Pack) Skin On Bone 8x2x300-400",
+        "EnergyKjoules": 876,
+        "EnergyKcal": 211,
+        "Fat": 15.3,
+        "Protein": 18.2,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 226,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Oven Ready Duck 6x1900 GM",
+        "EnergyKjoules": 1620,
+        "EnergyKcal": 387,
+        "Fat": 33.6,
+        "Protein": 22.3,
+        "Carbohydrates": 1.4,
+        "Salt": 0.4,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 227,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Whole Oven Ready Duck 6x2.6 KG",
+        "EnergyKjoules": 1620,
+        "EnergyKcal": 392,
+        "Fat": 33.6,
+        "Protein": 22.3,
+        "Carbohydrates": 1.4,
+        "Salt": 0.4,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 228,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Oven Ready Duck 6x2.2 KG",
+        "EnergyKjoules": 1620,
+        "EnergyKcal": 392,
+        "Fat": 33.6,
+        "Protein": 22.3,
+        "Carbohydrates": 1.4,
+        "Salt": 0.4,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 229,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Oyster Cut Duck Legs 10x250 GM",
+        "EnergyKjoules": 1290,
+        "EnergyKcal": 312,
+        "Fat": 27.88,
+        "Protein": 14.61,
+        "Carbohydrates": 0.6,
+        "Salt": 0.1875,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 230,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Hill Fresh Duck Liver 5x1 KG",
+        "EnergyKjoules": 550,
+        "EnergyKcal": 136,
+        "Fat": 4.6,
+        "Protein": 19,
+        "Carbohydrates": 3.5,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 231,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Athea Black Pudding Roll 1x1.4 KG",
+        "EnergyKjoules": 755,
+        "EnergyKcal": 180,
+        "Fat": 8.16,
+        "Protein": 8.17,
+        "Carbohydrates": 19.6,
+        "Salt": 2.25,
+        "Sugars": 1.4,
+        "Fibre": 1.8,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 232,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Clonakilty Black Pudding Chubb Catering 1x1 KG",
+        "EnergyKjoules": 1243,
+        "EnergyKcal": 298,
+        "Fat": 19.6,
+        "Protein": 11.5,
+        "Carbohydrates": 18.8,
+        "Salt": 1.9,
+        "Sugars": 1.1,
+        "Fibre": 6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 233,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes White Pudding 1x1 KG",
+        "EnergyKjoules": 1151,
+        "EnergyKcal": 277,
+        "Fat": 19.1,
+        "Protein": 7.8,
+        "Carbohydrates": 19.1,
+        "Salt": 1.5,
+        "Sugars": 1.4,
+        "Fibre": 1.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 234,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnane Black Pudding 1x1 KG",
+        "EnergyKjoules": 895,
+        "EnergyKcal": 214,
+        "Fat": 11.4,
+        "Protein": 11.5,
+        "Carbohydrates": 17.6,
+        "Salt": 1.85,
+        "Sugars": 1.1,
+        "Fibre": 2.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 235,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Clonakilty Black Pudding Catering Stick 1x650 GM",
+        "EnergyKjoules": 1321,
+        "EnergyKcal": 317,
+        "Fat": 22.3,
+        "Protein": 9,
+        "Carbohydrates": 20.1,
+        "Salt": 1.25,
+        "Sugars": 1.9,
+        "Fibre": 3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 236,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Athea White Pudding Roll 1.4 KG",
+        "EnergyKjoules": 1084,
+        "EnergyKcal": 258,
+        "Fat": 11.1,
+        "Protein": 9.1,
+        "Carbohydrates": 29.4,
+        "Salt": 1.91,
+        "Sugars": 1.7,
+        "Fibre": 2.2,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 237,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Clonakilty White Pudding Chubb Catering 1x1 KG",
+        "EnergyKjoules": 999,
+        "EnergyKcal": 239,
+        "Fat": 14.7,
+        "Protein": 9.4,
+        "Carbohydrates": 14.3,
+        "Salt": 1.75,
+        "Sugars": 0.9,
+        "Fibre": 6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 238,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Pudding 80 Portions 1x2.5 KG",
+        "EnergyKjoules": 1080,
+        "EnergyKcal": 260,
+        "Fat": 17,
+        "Protein": 7.6,
+        "Carbohydrates": 17.1,
+        "Salt": 1.5,
+        "Sugars": 2,
+        "Fibre": 4.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 239,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Clonakilty White Pudding Catering Stick 1x650 GM",
+        "EnergyKjoules": 1019,
+        "EnergyKcal": 244,
+        "Fat": 14.5,
+        "Protein": 12,
+        "Carbohydrates": 16.3,
+        "Salt": 1.25,
+        "Sugars": 2,
+        "Fibre": 2.9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 240,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Black Pudding 80 Portions 1x2.5 KG",
+        "EnergyKjoules": 1030,
+        "EnergyKcal": 246,
+        "Fat": 15.5,
+        "Protein": 103,
+        "Carbohydrates": 15.4,
+        "Salt": 1.5,
+        "Sugars": 1,
+        "Fibre": 2.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 241,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Athea Sliced Black Pudding 1x2.5 KG",
+        "EnergyKjoules": 741,
+        "EnergyKcal": 177,
+        "Fat": 7.88,
+        "Protein": 7.45,
+        "Carbohydrates": 20.54,
+        "Salt": 2.1,
+        "Sugars": 1.2,
+        "Fibre": 1.91,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 242,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Smooth White Pudding 1x2.5 KG",
+        "EnergyKjoules": 711,
+        "EnergyKcal": 170,
+        "Fat": 9.1,
+        "Protein": 12.4,
+        "Carbohydrates": 9.5,
+        "Salt": 2.25,
+        "Sugars": 1,
+        "Fibre": 0.6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 243,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes White Pudding GF 1x280 GM",
+        "EnergyKjoules": 874,
+        "EnergyKcal": 209,
+        "Fat": 11.6,
+        "Protein": 9,
+        "Carbohydrates": 16.8,
+        "Salt": 3,
+        "Sugars": 0.7,
+        "Fibre": 0.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 244,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Coarse Sliced Black Pudding 1x2.5 KG",
+        "EnergyKjoules": 1030,
+        "EnergyKcal": 246,
+        "Fat": 15.5,
+        "Protein": 2.3,
+        "Carbohydrates": 15.4,
+        "Salt": 1.8,
+        "Sugars": 1,
+        "Fibre": 10.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 245,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Clonakilty Black Pudding Ring 1x420 GM",
+        "EnergyKjoules": 1321,
+        "EnergyKcal": 317,
+        "Fat": 22.3,
+        "Protein": 9,
+        "Carbohydrates": 20.1,
+        "Salt": 1.25,
+        "Sugars": 1.9,
+        "Fibre": 3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 246,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Coarse Sliced White Pudding 1x2.5 KG",
+        "EnergyKjoules": 1080,
+        "EnergyKcal": 260,
+        "Fat": 17,
+        "Protein": 7.6,
+        "Carbohydrates": 17.1,
+        "Salt": 1.5,
+        "Sugars": 2,
+        "Fibre": 4.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 247,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Clonakilty White Pudding Ring 1x420 GM",
+        "EnergyKjoules": 1019,
+        "EnergyKcal": 244,
+        "Fat": 14.5,
+        "Protein": 12,
+        "Carbohydrates": 16.3,
+        "Salt": 1.25,
+        "Sugars": 2,
+        "Fibre": 2.9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 248,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Clonakilty Sliced Black Pudding 1x3 KG",
+        "EnergyKjoules": 1375,
+        "EnergyKcal": 330,
+        "Fat": 24,
+        "Protein": 9.6,
+        "Carbohydrates": 21.2,
+        "Salt": 1.5,
+        "Sugars": 0.5,
+        "Fibre": 3.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 249,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Smooth Black Pudding 1x2.5 KG",
+        "EnergyKjoules": 680,
+        "EnergyKcal": 162,
+        "Fat": 7.7,
+        "Protein": 15,
+        "Carbohydrates": 7.5,
+        "Salt": 1.5,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 250,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Clonakilty Black Pudding Chubb 10x280 GM",
+        "EnergyKjoules": 1243,
+        "EnergyKcal": 298,
+        "Fat": 19.6,
+        "Protein": 11.5,
+        "Carbohydrates": 18.8,
+        "Salt": 1.9,
+        "Sugars": 1.16,
+        "Fibre": 6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 251,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Sliced Black Pudding 1x2.5 KG",
+        "EnergyKjoules": 1243,
+        "EnergyKcal": 198,
+        "Fat": 19.6,
+        "Protein": 11.5,
+        "Carbohydrates": 18.8,
+        "Salt": 0,
+        "Sugars": 1.1,
+        "Fibre": 6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 252,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Clonakilty Sliced White Pudding 1x3 KG",
+        "EnergyKjoules": 986,
+        "EnergyKcal": 286,
+        "Fat": 14,
+        "Protein": 9.3,
+        "Carbohydrates": 18.3,
+        "Salt": 1.25,
+        "Sugars": 0.5,
+        "Fibre": 2.6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 253,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Athea White Pudding Sliced 1x2.5 KG",
+        "EnergyKjoules": 1084,
+        "EnergyKcal": 258,
+        "Fat": 11.1,
+        "Protein": 9.1,
+        "Carbohydrates": 29.4,
+        "Salt": 1.91,
+        "Sugars": 1.7,
+        "Fibre": 2.2,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 254,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Sliced White Pudding 1x2.5 KG",
+        "EnergyKjoules": 1151,
+        "EnergyKcal": 277,
+        "Fat": 19.1,
+        "Protein": 7.8,
+        "Carbohydrates": 19.1,
+        "Salt": 1.525,
+        "Sugars": 1.4,
+        "Fibre": 1.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 255,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Clonakilty White Pudding Chubb 10x280 GM",
+        "EnergyKjoules": 1020,
+        "EnergyKcal": 244,
+        "Fat": 15.1,
+        "Protein": 10.7,
+        "Carbohydrates": 16.3,
+        "Salt": 1.7,
+        "Sugars": 0.6,
+        "Fibre": 5.7,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 256,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Athea Black Pudding Chubb 12x280 GM",
+        "EnergyKjoules": 741,
+        "EnergyKcal": 177,
+        "Fat": 7.88,
+        "Protein": 7.45,
+        "Carbohydrates": 20.54,
+        "Salt": 2.1,
+        "Sugars": 1.2,
+        "Fibre": 1.91,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 257,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Black Pudding GF 1x280 GM",
+        "EnergyKjoules": 855,
+        "EnergyKcal": 204,
+        "Fat": 9.8,
+        "Protein": 11.7,
+        "Carbohydrates": 16.8,
+        "Salt": 2.5,
+        "Sugars": 0.6,
+        "Fibre": 1.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 258,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Sliced Black Pudding 1x2.5 KG",
+        "EnergyKjoules": 1008,
+        "EnergyKcal": 241,
+        "Fat": 12,
+        "Protein": 13,
+        "Carbohydrates": 18,
+        "Salt": 1.4,
+        "Sugars": 1.6,
+        "Fibre": 4.6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 259,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnanes Siced White Pudding 1x2.5 KG",
+        "EnergyKjoules": 1048,
+        "EnergyKcal": 251,
+        "Fat": 14,
+        "Protein": 9.1,
+        "Carbohydrates": 20,
+        "Salt": 1.9,
+        "Sugars": 1.9,
+        "Fibre": 4.4,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 260,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Athea White Pudding Chubb 12x280 GM",
+        "EnergyKjoules": 1084,
+        "EnergyKcal": 258,
+        "Fat": 11.1,
+        "Protein": 9.1,
+        "Carbohydrates": 29.4,
+        "Salt": 1.91,
+        "Sugars": 1.7,
+        "Fibre": 2.2,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 261,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Clonakilty Black Pudding Crumb 4x750 GM",
+        "EnergyKjoules": 1243,
+        "EnergyKcal": 298,
+        "Fat": 19.6,
+        "Protein": 11.5,
+        "Carbohydrates": 18.8,
+        "Salt": 1.9,
+        "Sugars": 1.1,
+        "Fibre": 6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 262,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Pudding with Roasted Pancetta 10x360 GM",
+        "EnergyKjoules": 857,
+        "EnergyKcal": 205,
+        "Fat": 11.2,
+        "Protein": 7.4,
+        "Carbohydrates": 11.5,
+        "Salt": 1.17,
+        "Sugars": 2,
+        "Fibre": 2.7,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 263,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Veal Bones 1x20 KG",
+        "EnergyKjoules": 450,
+        "EnergyKcal": 150,
+        "Fat": 2.5,
+        "Protein": 18,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 264,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Veal Cushion (Topside) 1x4.75 KG",
+        "EnergyKjoules": 600,
+        "EnergyKcal": 150,
+        "Fat": 0.5,
+        "Protein": 21,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 265,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Veal Hindshank Osso Bucco Sliced 12x300 GM",
+        "EnergyKjoules": 600,
+        "EnergyKcal": 150,
+        "Fat": 6,
+        "Protein": 21.5,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 266,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Venison Shank 1x6x340 GM",
+        "EnergyKjoules": 524,
+        "EnergyKcal": 124,
+        "Fat": 3.3,
+        "Protein": 21.9,
+        "Carbohydrates": 1.5,
+        "Salt": 0.025,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 267,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Venison Haunch Steak 1x2x200 GM",
+        "EnergyKjoules": 524,
+        "EnergyKcal": 124,
+        "Fat": 3.3,
+        "Protein": 21.9,
+        "Carbohydrates": 1.5,
+        "Salt": 0.025,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 268,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Diced Venison 30mm 1x2.5 KG",
+        "EnergyKjoules": 524,
+        "EnergyKcal": 124,
+        "Fat": 3.3,
+        "Protein": 21.9,
+        "Carbohydrates": 1.5,
+        "Salt": 0.025,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 269,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fresh Quail Eggs 1x18'S",
+        "EnergyKjoules": 737,
+        "EnergyKcal": 178,
+        "Fat": 14,
+        "Protein": 13,
+        "Carbohydrates": 0.9,
+        "Salt": 0.35,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 270,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Venison Minced Meat 95vl 1x2.5 KG",
+        "EnergyKjoules": 524,
+        "EnergyKcal": 124,
+        "Fat": 3.3,
+        "Protein": 21.9,
+        "Carbohydrates": 1.5,
+        "Salt": 0.05,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 271,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Venison Sausage 6x7x85-90 GM",
+        "EnergyKjoules": 1005,
+        "EnergyKcal": 241,
+        "Fat": 16.5,
+        "Protein": 15.5,
+        "Carbohydrates": 7.7,
+        "Salt": 1.615,
+        "Sugars": 1.1,
+        "Fibre": 0.5,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 272,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Mix 1x2.5 KG",
+        "EnergyKjoules": 598,
+        "EnergyKcal": 142.925,
+        "Fat": 5.675,
+        "Protein": 22.125,
+        "Carbohydrates": 0,
+        "Salt": 0.45,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 273,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Diced Venison 1x2.5 KG",
+        "EnergyKjoules": 524,
+        "EnergyKcal": 124,
+        "Fat": 3.3,
+        "Protein": 21.9,
+        "Carbohydrates": 1.5,
+        "Salt": 0.025,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 274,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Boneless Venison Saddle 1x1.5-3 KG",
+        "EnergyKjoules": 464,
+        "EnergyKcal": 110,
+        "Fat": 2.66,
+        "Protein": 21.5,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 275,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Venison Haunch (Bone In) 1x3-6 KG",
+        "EnergyKjoules": 524,
+        "EnergyKcal": 124,
+        "Fat": 3.3,
+        "Protein": 21.9,
+        "Carbohydrates": 1.5,
+        "Salt": 0.05,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 276,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kangaroo Striploins 1x860-1000 GM",
+        "EnergyKjoules": 451,
+        "EnergyKcal": 108,
+        "Fat": 1.5,
+        "Protein": 20,
+        "Carbohydrates": 10.8,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 277,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Oven Ready Guinea Fowl 4x800-1200 GM",
+        "EnergyKjoules": 613,
+        "EnergyKcal": 146,
+        "Fat": 6.5,
+        "Protein": 23,
+        "Carbohydrates": 0.1,
+        "Salt": 1.675,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 278,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Venison Haunch (boned/rolled/netted) 1x3.5-4",
+        "EnergyKjoules": 524,
+        "EnergyKcal": 124,
+        "Fat": 3.3,
+        "Protein": 21.9,
+        "Carbohydrates": 1.5,
+        "Salt": 0.025,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 279,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Venison (Haunch Bone In) 1x3-6 KG",
+        "EnergyKjoules": 524,
+        "EnergyKcal": 124,
+        "Fat": 3.3,
+        "Protein": 21.9,
+        "Carbohydrates": 1.5,
+        "Salt": 0.025,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 280,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Irish Game Large Boneless Venison Saddle 1x3-6 KG",
+        "EnergyKjoules": 524,
+        "EnergyKcal": 124,
+        "Fat": 3.3,
+        "Protein": 21.9,
+        "Carbohydrates": 1.5,
+        "Salt": 0.025,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 281,
+    "model": "home.products",
+    "fields": {
+        "product_name": "FRZ Guinea Fowl Oven Ready 4x780 GM",
+        "EnergyKjoules": 613,
+        "EnergyKcal": 146,
+        "Fat": 6.5,
+        "Protein": 21.8,
+        "Carbohydrates": 0.1,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 282,
+    "model": "home.products",
+    "fields": {
+        "product_name": "FRZ Oven Ready Quail 6x4x150 GM",
+        "EnergyKjoules": 790,
+        "EnergyKcal": 189,
+        "Fat": 12,
+        "Protein": 20,
+        "Carbohydrates": 0.4,
+        "Salt": 0.12,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 283,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Striploin Steaks Centre Cut 10x283 GM",
+        "EnergyKjoules": 769,
+        "EnergyKcal": 184,
+        "Fat": 11.4,
+        "Protein": 20.4,
+        "Carbohydrates": 0.1,
+        "Salt": 0.475,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 284,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Rib Eye Cling Wrapped 1x2.3-2.8 KG",
+        "EnergyKjoules": 994,
+        "EnergyKcal": 239,
+        "Fat": 18.1,
+        "Protein": 18.8,
+        "Carbohydrates": 0.3,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 285,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Rib Eye Steaks Wrapped 10x283 GM",
+        "EnergyKjoules": 581,
+        "EnergyKcal": 138,
+        "Fat": 5.5,
+        "Protein": 21.5,
+        "Carbohydrates": 1.7,
+        "Salt": 0.17,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 286,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Striploin Steaks 10x255 GM",
+        "EnergyKjoules": 837,
+        "EnergyKcal": 201,
+        "Fat": 12.7,
+        "Protein": 21.9,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 287,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Centre Cut Striploin Steaks 10x227 GM",
+        "EnergyKjoules": 837,
+        "EnergyKcal": 201,
+        "Fat": 12.7,
+        "Protein": 21.6,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 288,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Fillet Steaks Centre Cut 12x170 GM",
+        "EnergyKjoules": 641,
+        "EnergyKcal": 153,
+        "Fat": 18.3,
+        "Protein": 22.6,
+        "Carbohydrates": 0.6,
+        "Salt": 0,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 289,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Sirloin Steaks 1x10x227 GM",
+        "EnergyKjoules": 855,
+        "EnergyKcal": 205,
+        "Fat": 13,
+        "Protein": 22,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 290,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Rib Eye Steaks 1x2x5x311 GM",
+        "EnergyKjoules": 609,
+        "EnergyKcal": 145,
+        "Fat": 6.4,
+        "Protein": 20.9,
+        "Carbohydrates": 1,
+        "Salt": 0.175,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 291,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Fillet Steaks Centre Cut 12x227 GM",
+        "EnergyKjoules": 769,
+        "EnergyKcal": 184,
+        "Fat": 11.4,
+        "Protein": 20.4,
+        "Carbohydrates": 0.1,
+        "Salt": 0.475,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 292,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hereford Prime Beef Fillet Chain Off 1x2.2-2.5 KG",
+        "EnergyKjoules": 581,
+        "EnergyKcal": 138,
+        "Fat": 5.5,
+        "Protein": 21.5,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 293,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Rib Eye Steaks Wrapped 10x227 GM",
+        "EnergyKjoules": 581,
+        "EnergyKcal": 138,
+        "Fat": 5.5,
+        "Protein": 21.5,
+        "Carbohydrates": 1.7,
+        "Salt": 0.16,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 294,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime C/C Fillet steaks198 GM",
+        "EnergyKjoules": 586,
+        "EnergyKcal": 140,
+        "Fat": 6.1,
+        "Protein": 21.1,
+        "Carbohydrates": 0.8,
+        "Salt": 0,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 295,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Fillet Steaks Standard 12x170 GM",
+        "EnergyKjoules": 769,
+        "EnergyKcal": 184,
+        "Fat": 11.4,
+        "Protein": 20.4,
+        "Carbohydrates": 0.1,
+        "Salt": 0.475,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 296,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Hereford Prime Striploin Steaks 10x170 GM",
+        "EnergyKjoules": 837,
+        "EnergyKcal": 201,
+        "Fat": 12.7,
+        "Protein": 21.9,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 297,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Feather Blade Steaks Irish 10x255 GM",
+        "EnergyKjoules": 491,
+        "EnergyKcal": 116,
+        "Fat": 2.6,
+        "Protein": 23.2,
+        "Carbohydrates": 0,
+        "Salt": 0.6,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 298,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Nature Striploin Beef Steaks 10oz 1x10x283 GM",
+        "EnergyKjoules": 855,
+        "EnergyKcal": 205,
+        "Fat": 13,
+        "Protein": 22,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 299,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Centre Cut Beef Striploin Steaks 10x170 GM",
+        "EnergyKjoules": 581,
+        "EnergyKcal": 138,
+        "Fat": 5.5,
+        "Protein": 21.5,
+        "Carbohydrates": 1.7,
+        "Salt": 0.45,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 300,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chump (Rump) Steaks 10x170 GM",
+        "EnergyKjoules": 1012,
+        "EnergyKcal": 244,
+        "Fat": 18.3,
+        "Protein": 18.9,
+        "Carbohydrates": 0.8,
+        "Salt": 0.15,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 301,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Feather Blade Steaks Irish 10x227 GM",
+        "EnergyKjoules": 573,
+        "EnergyKcal": 137,
+        "Fat": 6,
+        "Protein": 20,
+        "Carbohydrates": 0,
+        "Salt": 0.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 302,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Steaks Striploin 1x10x170 GM",
+        "EnergyKjoules": 641,
+        "EnergyKcal": 153,
+        "Fat": 6.8,
+        "Protein": 22.3,
+        "Carbohydrates": 0.6,
+        "Salt": 0.2,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 303,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Nature Beef Fillet Steak Centre Cut 12x198 GM",
+        "EnergyKjoules": 769,
+        "EnergyKcal": 184,
+        "Fat": 11.4,
+        "Protein": 20.4,
+        "Carbohydrates": 0.1,
+        "Salt": 0.475,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 304,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Steaks Striploin 1x10x227 GM",
+        "EnergyKjoules": 641,
+        "EnergyKcal": 153,
+        "Fat": 6.8,
+        "Protein": 22.3,
+        "Carbohydrates": 0.6,
+        "Salt": 0.2,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 305,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Steaks Striploin 1x10x113 GM",
+        "EnergyKjoules": 641,
+        "EnergyKcal": 153,
+        "Fat": 6.8,
+        "Protein": 22.3,
+        "Carbohydrates": 0.6,
+        "Salt": 0.2,
+        "Sugars": 0.1,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 306,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Centre Cut Beef Striploin Steaks 10x227 GM",
+        "EnergyKjoules": 581,
+        "EnergyKcal": 138,
+        "Fat": 5.5,
+        "Protein": 21.5,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 307,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Striploin Cut Into 255g Steaks 1x6.5 KG",
+        "EnergyKjoules": 684,
+        "EnergyKcal": 155,
+        "Fat": 7.9,
+        "Protein": 21,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 308,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Nature Standard Beef Fillet Steaks 12x170 GM",
+        "EnergyKjoules": 1129,
+        "EnergyKcal": 272,
+        "Fat": 21.5,
+        "Protein": 19.6,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 309,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Cubed Ex Chuck Roll 1x2.5 KG",
+        "EnergyKjoules": 398,
+        "EnergyKcal": 94,
+        "Fat": 0.7,
+        "Protein": 20.6,
+        "Carbohydrates": 1.3,
+        "Salt": 0,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 310,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Rib Eye Steaks Wrapped 1x10x227 GM",
+        "EnergyKjoules": 994,
+        "EnergyKcal": 239,
+        "Fat": 18.1,
+        "Protein": 18.8,
+        "Carbohydrates": 0.3,
+        "Salt": 0.15,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 311,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Stir Fry 1x1 KG",
+        "EnergyKjoules": 477,
+        "EnergyKcal": 113,
+        "Fat": 2.6,
+        "Protein": 22.5,
+        "Carbohydrates": 0,
+        "Salt": 0.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 312,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Nature Standard Beef Fillet Steaks 12x198 GM",
+        "EnergyKjoules": 837,
+        "EnergyKcal": 201,
+        "Fat": 12.7,
+        "Protein": 21.9,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 313,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Striploin Beef Steaks 10x170 GM",
+        "EnergyKjoules": 648,
+        "EnergyKcal": 155,
+        "Fat": 7.9,
+        "Protein": 20.9,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 314,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Rib-Eye Steaks 1x10x283 GM",
+        "EnergyKjoules": 994,
+        "EnergyKcal": 239,
+        "Fat": 18.1,
+        "Protein": 18.8,
+        "Carbohydrates": 0.3,
+        "Salt": 0.15,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 315,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rump Beef Steaks Irish SHS 1x10x227 GM",
+        "EnergyKjoules": 994,
+        "EnergyKcal": 239,
+        "Fat": 18.1,
+        "Protein": 18.8,
+        "Carbohydrates": 0.3,
+        "Salt": 1.5,
+        "Sugars": 0,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 316,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Nature Beef Fillet Steaks Centre Cut 1x12x227 GM",
+        "EnergyKjoules": 855,
+        "EnergyKcal": 205,
+        "Fat": 13,
+        "Protein": 22,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 317,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Minute Steaks 10x113 GM",
+        "EnergyKjoules": 994,
+        "EnergyKcal": 239,
+        "Fat": 18.1,
+        "Protein": 18.8,
+        "Carbohydrates": 0.4,
+        "Salt": 0.09375,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 318,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Nature Beef Fillet Barrel 1x1.5-1.8 KG",
+        "EnergyKjoules": 769,
+        "EnergyKcal": 184,
+        "Fat": 11.4,
+        "Protein": 20.4,
+        "Carbohydrates": 0.1,
+        "Salt": 0.475,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 319,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Nature Beef Rib Eye Steaks Defrosted 10x340 GM",
+        "EnergyKjoules": 994,
+        "EnergyKcal": 239,
+        "Fat": 18.1,
+        "Protein": 18.8,
+        "Carbohydrates": 0.3,
+        "Salt": 0.4,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 320,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Striploin Cut In To 227g Steaks 1x8 KG",
+        "EnergyKjoules": 837,
+        "EnergyKcal": 201,
+        "Fat": 12.7,
+        "Protein": 21.9,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 321,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Rib Eye Steaks Irish Wrapped 1x5x340 GM",
+        "EnergyKjoules": 761,
+        "EnergyKcal": 182,
+        "Fat": 11.7,
+        "Protein": 18.4,
+        "Carbohydrates": 0.9,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 322,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Centre Cut Beef Striploin Steaks 10x255 GM",
+        "EnergyKjoules": 769,
+        "EnergyKcal": 184,
+        "Fat": 11.4,
+        "Protein": 20.4,
+        "Carbohydrates": 0.1,
+        "Salt": 0.475,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 323,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Nature Beef Fillet Steaks Centre Cut 1x12x170 GM",
+        "EnergyKjoules": 855,
+        "EnergyKcal": 205,
+        "Fat": 13,
+        "Protein": 22,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 324,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Fillet Barrel Centre Cut 1x900-1200 GM",
+        "EnergyKjoules": 648,
+        "EnergyKcal": 155,
+        "Fat": 7.9,
+        "Protein": 21,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 325,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Nature Beef Fillet Steaks Standard 12x255 GM",
+        "EnergyKjoules": 641,
+        "EnergyKcal": 153,
+        "Fat": 18.3,
+        "Protein": 22.6,
+        "Carbohydrates": 0.6,
+        "Salt": 0,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 326,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Striploin Steaks 1x10x142 GM",
+        "EnergyKjoules": 641,
+        "EnergyKcal": 153,
+        "Fat": 6.8,
+        "Protein": 22.3,
+        "Carbohydrates": 0.6,
+        "Salt": 0.4,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 327,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Striploin Steaks Centre Cut 10x200 GM",
+        "EnergyKjoules": 837,
+        "EnergyKcal": 201,
+        "Fat": 12.7,
+        "Protein": 21.9,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}]

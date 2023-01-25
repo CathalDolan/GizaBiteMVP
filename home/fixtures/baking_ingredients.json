@@ -1,0 +1,1876 @@
+[{
+    "pk": 2356,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Cornflour 1x3 KG",
+        "EnergyKjoules": 1508,
+        "EnergyKcal": 354,
+        "Fat": 0.7,
+        "Protein": 0.6,
+        "Carbohydrates": 92,
+        "Salt": 0.325,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2357,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Millers Best Plain (Pastry) Flour 1x16 KG",
+        "EnergyKjoules": 1451,
+        "EnergyKcal": 341,
+        "Fat": 1.4,
+        "Protein": 12.6,
+        "Carbohydrates": 75.3,
+        "Salt": 0.0075,
+        "Sugars": 1.4,
+        "Fibre": 3.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2358,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Millers Best Self Raising Flour 1x16 KG",
+        "EnergyKjoules": 1427,
+        "EnergyKcal": 336,
+        "Fat": 1.3,
+        "Protein": 10.6,
+        "Carbohydrates": 75.1,
+        "Salt": 1.25,
+        "Sugars": 1.5,
+        "Fibre": 3,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 2359,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Yeast - Fresh 1x1 KG",
+        "EnergyKjoules": 350,
+        "EnergyKcal": 83,
+        "Fat": 0.6,
+        "Protein": 17.6,
+        "Carbohydrates": 8.5,
+        "Salt": 0.025,
+        "Sugars": 0.1,
+        "Fibre": 7,
+        "Allergens": []
+    }
+}, {
+    "pk": 2360,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tempura Batter Mix 1x1 KG",
+        "EnergyKjoules": 1506,
+        "EnergyKcal": 360,
+        "Fat": 2,
+        "Protein": 10,
+        "Carbohydrates": 76,
+        "Salt": 1.8,
+        "Sugars": 2,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2361,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Millers Best Wholemeal Flour 1x16 KG",
+        "EnergyKjoules": 1351,
+        "EnergyKcal": 318,
+        "Fat": 2.2,
+        "Protein": 10,
+        "Carbohydrates": 64,
+        "Salt": 0.025,
+        "Sugars": 2.1,
+        "Fibre": 9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2362,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Plain Flour 6x1.5 KG",
+        "EnergyKjoules": 1455,
+        "EnergyKcal": 343,
+        "Fat": 1.4,
+        "Protein": 10.4,
+        "Carbohydrates": 70.7,
+        "Salt": 0,
+        "Sugars": 1.2,
+        "Fibre": 3.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2363,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strong Flour 1x25 KG",
+        "EnergyKjoules": 1409,
+        "EnergyKcal": 336,
+        "Fat": 1.3,
+        "Protein": 9.8,
+        "Carbohydrates": 71,
+        "Salt": 0.025,
+        "Sugars": 0.3,
+        "Fibre": 4.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2364,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Plain Flour 1x25 KG",
+        "EnergyKjoules": 1412,
+        "EnergyKcal": 337,
+        "Fat": 1.13,
+        "Protein": 9.8,
+        "Carbohydrates": 71,
+        "Salt": 0.025,
+        "Sugars": 0.3,
+        "Fibre": 4.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2365,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Self Raising Flour 6x1.5 KG",
+        "EnergyKjoules": 1461,
+        "EnergyKcal": 345,
+        "Fat": 1.4,
+        "Protein": 10.1,
+        "Carbohydrates": 71.4,
+        "Salt": 0.8,
+        "Sugars": 1.2,
+        "Fibre": 3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2366,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Cornflour 1x3.5 KG",
+        "EnergyKjoules": 1505,
+        "EnergyKcal": 354,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 88,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2367,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Millers Best Bakers Strong Flour 1x16 KG",
+        "EnergyKjoules": 1451,
+        "EnergyKcal": 341,
+        "Fat": 1.4,
+        "Protein": 12.6,
+        "Carbohydrates": 75.3,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 3.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2368,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Doves Farm Self Raising White Flour GF 5x1 KG",
+        "EnergyKjoules": 1459,
+        "EnergyKcal": 348,
+        "Fat": 1,
+        "Protein": 5.5,
+        "Carbohydrates": 78.1,
+        "Salt": 0.75,
+        "Sugars": 0.1,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 2369,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Plain White Flour GF 5x1 KG",
+        "EnergyKjoules": 1482,
+        "EnergyKcal": 349,
+        "Fat": 0.8,
+        "Protein": 17.1,
+        "Carbohydrates": 68.3,
+        "Salt": 0.125,
+        "Sugars": 0.1,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 2370,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dried Yeast 1x500 GM",
+        "EnergyKjoules": 1493.7,
+        "EnergyKcal": 357,
+        "Fat": 5.7,
+        "Protein": 43.7,
+        "Carbohydrates": 19,
+        "Salt": 0.25,
+        "Sugars": 14,
+        "Fibre": 27,
+        "Allergens": []
+    }
+}, {
+    "pk": 2371,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Bread Soda 1x3 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2372,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pizza 00 Flour (fast proving) 1x10 KG",
+        "EnergyKjoules": 1435,
+        "EnergyKcal": 342,
+        "Fat": 0.8,
+        "Protein": 11.2,
+        "Carbohydrates": 72.4,
+        "Salt": 0,
+        "Sugars": 2.1,
+        "Fibre": 3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2373,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rice Flour GF 5x1 KG",
+        "EnergyKjoules": 1515,
+        "EnergyKcal": 357,
+        "Fat": 2.2,
+        "Protein": 8.4,
+        "Carbohydrates": 75.9,
+        "Salt": 0.025,
+        "Sugars": 0.5,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 2374,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Odlums Coarse Wholemeal Flour 8x2 KG",
+        "EnergyKjoules": 1423,
+        "EnergyKcal": 340,
+        "Fat": 2.2,
+        "Protein": 10,
+        "Carbohydrates": 64,
+        "Salt": 0.025,
+        "Sugars": 2.1,
+        "Fibre": 9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2375,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Odlums Cream Flour 1x25 KG",
+        "EnergyKjoules": 1449,
+        "EnergyKcal": 341,
+        "Fat": 1.3,
+        "Protein": 10.8,
+        "Carbohydrates": 76.3,
+        "Salt": 0.75,
+        "Sugars": 1.5,
+        "Fibre": 3.1,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2376,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Odlums Cream Flour 8x2 KG",
+        "EnergyKjoules": 1449,
+        "EnergyKcal": 341,
+        "Fat": 1.3,
+        "Protein": 10.8,
+        "Carbohydrates": 76.3,
+        "Salt": 0.75,
+        "Sugars": 1.5,
+        "Fibre": 3.1,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2377,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dawn Vanilla Scoop & Bake Cake Batter 4x2 KG",
+        "EnergyKjoules": 1527,
+        "EnergyKcal": 365,
+        "Fat": 18.7,
+        "Protein": 4.4,
+        "Carbohydrates": 44.3,
+        "Salt": 0.5,
+        "Sugars": 23.9,
+        "Fibre": 0.9,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2378,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dawn Chocolate Scoop & Bake Cake Batter 4x2 KG",
+        "EnergyKjoules": 1618,
+        "EnergyKcal": 387,
+        "Fat": 21.5,
+        "Protein": 4.9,
+        "Carbohydrates": 42.7,
+        "Salt": 1,
+        "Sugars": 25.4,
+        "Fibre": 1.7,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2379,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Millers Best Buttermilk Brown Soda Bread Mix 1x12.5 KG",
+        "EnergyKjoules": 1536,
+        "EnergyKcal": 362,
+        "Fat": 4.5,
+        "Protein": 15,
+        "Carbohydrates": 64,
+        "Salt": 0.025,
+        "Sugars": 6,
+        "Fibre": 5.6,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 2380,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Odlums Self Raising Flour 8x2 KG",
+        "EnergyKjoules": 1402,
+        "EnergyKcal": 330,
+        "Fat": 1.3,
+        "Protein": 10.6,
+        "Carbohydrates": 75.1,
+        "Salt": 1.25,
+        "Sugars": 1.5,
+        "Fibre": 3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2381,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Baking Powder 1x5 KG",
+        "EnergyKjoules": 282,
+        "EnergyKcal": 67,
+        "Fat": 0.2,
+        "Protein": 1,
+        "Carbohydrates": 8.5,
+        "Salt": 24,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2382,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Plain White Flour GF 1x16 KG",
+        "EnergyKjoules": 1484,
+        "EnergyKcal": 350,
+        "Fat": 0.9,
+        "Protein": 4.8,
+        "Carbohydrates": 80.1,
+        "Salt": 0.025,
+        "Sugars": 0.4,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2383,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Odlums Brown Bread Mix 8x2 KG",
+        "EnergyKjoules": 1283,
+        "EnergyKcal": 302,
+        "Fat": 2.1,
+        "Protein": 10.4,
+        "Carbohydrates": 61.4,
+        "Salt": 2.75,
+        "Sugars": 2,
+        "Fibre": 8.6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2384,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Carrs Plain Flour 1x16 KG",
+        "EnergyKjoules": 1455,
+        "EnergyKcal": 343,
+        "Fat": 1.4,
+        "Protein": 10.4,
+        "Carbohydrates": 70.7,
+        "Salt": 0,
+        "Sugars": 1.2,
+        "Fibre": 3.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2385,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Semolina 1x3 KG",
+        "EnergyKjoules": 1489,
+        "EnergyKcal": 355,
+        "Fat": 1.8,
+        "Protein": 10.7,
+        "Carbohydrates": 77.5,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 2.8,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2386,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Baking Powder 1x3.5 KG",
+        "EnergyKjoules": 892,
+        "EnergyKcal": 210,
+        "Fat": 0.8,
+        "Protein": 4.9,
+        "Carbohydrates": 45.1,
+        "Salt": 33.6,
+        "Sugars": 0.8,
+        "Fibre": 1.8,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2387,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Odlums Self Raising Flour 1x25 KG",
+        "EnergyKjoules": 1427,
+        "EnergyKcal": 336,
+        "Fat": 1.3,
+        "Protein": 10.6,
+        "Carbohydrates": 75.1,
+        "Salt": 1.25,
+        "Sugars": 1.5,
+        "Fibre": 3.1,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2388,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dark Chocolate Drops 53% 1x5 KG",
+        "EnergyKjoules": 2245,
+        "EnergyKcal": 539,
+        "Fat": 34.5,
+        "Protein": 5.3,
+        "Carbohydrates": 47.6,
+        "Salt": 0.025,
+        "Sugars": 45.4,
+        "Fibre": 0,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2389,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Milk Chocolate Drops 34% 1x5 KG",
+        "EnergyKjoules": 2320,
+        "EnergyKcal": 556,
+        "Fat": 35,
+        "Protein": 6,
+        "Carbohydrates": 53.1,
+        "Salt": 0.1775,
+        "Sugars": 52.6,
+        "Fibre": 1.7,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2390,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Chocolate Drops 1x5 KG",
+        "EnergyKjoules": 2320,
+        "EnergyKcal": 559,
+        "Fat": 35,
+        "Protein": 5.9,
+        "Carbohydrates": 53,
+        "Salt": 0.125,
+        "Sugars": 52.4,
+        "Fibre": 1.7,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2391,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Callebaut Milk Chocolate Drops 1x2.5 KG",
+        "EnergyKjoules": 2357,
+        "EnergyKcal": 563,
+        "Fat": 36.2,
+        "Protein": 7,
+        "Carbohydrates": 51,
+        "Salt": 0.2,
+        "Sugars": 50,
+        "Fibre": 2,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2392,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Callebaut Dark Chocolate Drops 55% 1x2.5 KG",
+        "EnergyKjoules": 2303,
+        "EnergyKcal": 550,
+        "Fat": 36.6,
+        "Protein": 5.1,
+        "Carbohydrates": 45.5,
+        "Salt": 0.01,
+        "Sugars": 42.8,
+        "Fibre": 8.1,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 2393,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Callebaut White Chocolate Drops 1x2.5 KG",
+        "EnergyKjoules": 2379,
+        "EnergyKcal": 569,
+        "Fat": 35.8,
+        "Protein": 6,
+        "Carbohydrates": 55.3,
+        "Salt": 0.215,
+        "Sugars": 54.9,
+        "Fibre": 0,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2394,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dark Chocolate Shavings 1x2.5 KG",
+        "EnergyKjoules": 2167,
+        "EnergyKcal": 518,
+        "Fat": 30.3,
+        "Protein": 5,
+        "Carbohydrates": 51.9,
+        "Salt": 0.025,
+        "Sugars": 49.4,
+        "Fibre": 8,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2395,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Callebaut Finest 33.6% Belgian Milk Chocolate Callets 1x10 K",
+        "EnergyKjoules": 2356,
+        "EnergyKcal": 563,
+        "Fat": 36.2,
+        "Protein": 7,
+        "Carbohydrates": 50.9,
+        "Salt": 0.21,
+        "Sugars": 49.9,
+        "Fibre": 2.1,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2396,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Supercook Milk Chocolate Flavour Cake Covering 1x750 GM",
+        "EnergyKjoules": 2229,
+        "EnergyKcal": 534,
+        "Fat": 32,
+        "Protein": 4.6,
+        "Carbohydrates": 56,
+        "Salt": 1.25,
+        "Sugars": 47,
+        "Fibre": 2.5,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 2397,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Chocolate Shavings 1x2.5 KG",
+        "EnergyKjoules": 2267,
+        "EnergyKcal": 542,
+        "Fat": 30.5,
+        "Protein": 6.5,
+        "Carbohydrates": 60,
+        "Salt": 2.3125,
+        "Sugars": 59.6,
+        "Fibre": 0,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2398,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dark Chocolate Slab 55% 1x2.5 KG",
+        "EnergyKjoules": 2191,
+        "EnergyKcal": 524,
+        "Fat": 38.62,
+        "Protein": 4.64,
+        "Carbohydrates": 54.95,
+        "Salt": 0,
+        "Sugars": 41.81,
+        "Fibre": 6.76,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2399,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Royal Dark Chocolate 64% 1x3 KG",
+        "EnergyKjoules": 2372,
+        "EnergyKcal": 571,
+        "Fat": 40,
+        "Protein": 7.2,
+        "Carbohydrates": 41,
+        "Salt": 0.02,
+        "Sugars": 37,
+        "Fibre": 9.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2400,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Milk Chocolate Slab 34% 1x2.5 KG",
+        "EnergyKjoules": 2322,
+        "EnergyKcal": 555,
+        "Fat": 36.37,
+        "Protein": 6.81,
+        "Carbohydrates": 54.15,
+        "Salt": 0,
+        "Sugars": 50.87,
+        "Fibre": 1.68,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2401,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Callebaut Finest 70.5% Belgian Dark Chocolate Callets 1x10 K",
+        "EnergyKjoules": 2259,
+        "EnergyKcal": 540,
+        "Fat": 38.9,
+        "Protein": 8.8,
+        "Carbohydrates": 30.8,
+        "Salt": 0.02,
+        "Sugars": 26.3,
+        "Fibre": 14,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 2402,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Royal Dark Chocolate 72% 1x3 KG",
+        "EnergyKjoules": 2391,
+        "EnergyKcal": 576,
+        "Fat": 42,
+        "Protein": 8.9,
+        "Carbohydrates": 35,
+        "Salt": 0.02,
+        "Sugars": 30,
+        "Fibre": 11.3,
+        "Allergens": [7, 8]
+    }
+}, {
+    "pk": 2403,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Luxury Chocolate Pralines Selection 1x85'S",
+        "EnergyKjoules": 2139,
+        "EnergyKcal": 511,
+        "Fat": 36,
+        "Protein": 5,
+        "Carbohydrates": 40,
+        "Salt": 0,
+        "Sugars": 39,
+        "Fibre": 0,
+        "Allergens": [1, 7, 8, 6]
+    }
+}, {
+    "pk": 2404,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fan Shape Chocolate Decorations 1x400 GM",
+        "EnergyKjoules": 2157,
+        "EnergyKcal": 515,
+        "Fat": 32.6,
+        "Protein": 4.7,
+        "Carbohydrates": 50.7,
+        "Salt": 0,
+        "Sugars": 48.3,
+        "Fibre": 6.7,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2405,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Milk Chocolate Blossoms 1x2.5 KG",
+        "EnergyKjoules": 2168,
+        "EnergyKcal": 518,
+        "Fat": 26.9,
+        "Protein": 4.8,
+        "Carbohydrates": 60.9,
+        "Salt": 0,
+        "Sugars": 59.6,
+        "Fibre": 0,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2406,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cocoa Butter in Drops 1x3 KG",
+        "EnergyKjoules": 3700,
+        "EnergyKcal": 900,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2407,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dark Chocolate Chips 44% 1x6 KG",
+        "EnergyKjoules": 2090,
+        "EnergyKcal": 500,
+        "Fat": 25,
+        "Protein": 6,
+        "Carbohydrates": 59,
+        "Salt": 0.02,
+        "Sugars": 56,
+        "Fibre": 7.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 2408,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Richmond Milk Chocolate Block 4x3 KG",
+        "EnergyKjoules": 2319,
+        "EnergyKcal": 556,
+        "Fat": 34.1,
+        "Protein": 3.3,
+        "Carbohydrates": 57.5,
+        "Salt": 0,
+        "Sugars": 47.7,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 2409,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Chocolate Slab 28% 1x2.5 KG",
+        "EnergyKjoules": 2389,
+        "EnergyKcal": 570,
+        "Fat": 35.4,
+        "Protein": 5.5,
+        "Carbohydrates": 56,
+        "Salt": 0.2,
+        "Sugars": 55.1,
+        "Fibre": 0,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2410,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Royal Milk Chocolate 41% 1x3 KG",
+        "EnergyKjoules": 2397,
+        "EnergyKcal": 575,
+        "Fat": 38,
+        "Protein": 6,
+        "Carbohydrates": 51,
+        "Salt": 0.12,
+        "Sugars": 50,
+        "Fibre": 2.7,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2411,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Chocolate Blossoms 1x2.5 KG",
+        "EnergyKjoules": 2267,
+        "EnergyKcal": 542,
+        "Fat": 30.5,
+        "Protein": 6.5,
+        "Carbohydrates": 60,
+        "Salt": 0,
+        "Sugars": 59.6,
+        "Fibre": 0,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2412,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Coffee Chocolate Cups 5cm 1x45'S",
+        "EnergyKjoules": 2405,
+        "EnergyKcal": 574,
+        "Fat": 50,
+        "Protein": 5,
+        "Carbohydrates": 44,
+        "Salt": 0,
+        "Sugars": 31,
+        "Fibre": 8,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2413,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Callebaut Finest 54.5% Belgian Dark Chocolate Callets 1x10 K",
+        "EnergyKjoules": 2307,
+        "EnergyKcal": 551,
+        "Fat": 36.6,
+        "Protein": 5.1,
+        "Carbohydrates": 45.8,
+        "Salt": 0.01,
+        "Sugars": 43.1,
+        "Fibre": 8.1,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 2414,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Callebaut Caramel Filling 1x5 KG",
+        "EnergyKjoules": 1703,
+        "EnergyKcal": 407,
+        "Fat": 15.5,
+        "Protein": 1.5,
+        "Carbohydrates": 65.4,
+        "Salt": 0.29,
+        "Sugars": 37,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2415,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Dark Chocolate Icing (Glacage) 1x3 KG",
+        "EnergyKjoules": 1264,
+        "EnergyKcal": 301,
+        "Fat": 8.2,
+        "Protein": 2.8,
+        "Carbohydrates": 55,
+        "Salt": 0.12,
+        "Sugars": 46,
+        "Fibre": 4.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2416,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dark Chocolate Blossoms 1x2.5 KG",
+        "EnergyKjoules": 2170,
+        "EnergyKcal": 519,
+        "Fat": 30.3,
+        "Protein": 5.1,
+        "Carbohydrates": 51.9,
+        "Salt": 0,
+        "Sugars": 49.4,
+        "Fibre": 8,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2417,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Victoria Dark Chocolate Cups 4cm 1x182'S",
+        "EnergyKjoules": 2101,
+        "EnergyKcal": 502,
+        "Fat": 30.3,
+        "Protein": 4.8,
+        "Carbohydrates": 52.4,
+        "Salt": 0,
+        "Sugars": 49.9,
+        "Fibre": 6.7,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 2418,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Full Cream Sweetened Condensed Milk 1x397 GM",
+        "EnergyKjoules": 1372,
+        "EnergyKcal": 325,
+        "Fat": 8,
+        "Protein": 6.9,
+        "Carbohydrates": 56.4,
+        "Salt": 0.2,
+        "Sugars": 56.4,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2419,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flaked Almond 1x1 KG",
+        "EnergyKjoules": 2534,
+        "EnergyKcal": 612,
+        "Fat": 55.8,
+        "Protein": 21.1,
+        "Carbohydrates": 6.9,
+        "Salt": 0.03,
+        "Sugars": 4.2,
+        "Fibre": 7.4,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 2420,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Organic Maple Syrup 1x189 ML",
+        "EnergyKjoules": 1100,
+        "EnergyKcal": 220,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 54,
+        "Salt": 0,
+        "Sugars": 48,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2421,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Organic Maple Syrup Jar 1x2 LT",
+        "EnergyKjoules": 1000,
+        "EnergyKcal": 220,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 54,
+        "Salt": 0,
+        "Sugars": 48,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2422,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lemonchef Lemon Juice 1x1 LT",
+        "EnergyKjoules": 130,
+        "EnergyKcal": 31,
+        "Fat": 0,
+        "Protein": 0.3,
+        "Carbohydrates": 7.2,
+        "Salt": 0.125,
+        "Sugars": 3.1,
+        "Fibre": 0.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 2423,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Diced Apple Pie Filling 1x10 KG",
+        "EnergyKjoules": 412,
+        "EnergyKcal": 97,
+        "Fat": 0.24,
+        "Protein": 1.22,
+        "Carbohydrates": 23.01,
+        "Salt": 0.08,
+        "Sugars": 15.33,
+        "Fibre": 0.99,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 2424,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vanilla Flavour 1x1 LT",
+        "EnergyKjoules": 567,
+        "EnergyKcal": 135,
+        "Fat": 5.1,
+        "Protein": 2.5,
+        "Carbohydrates": 19.7,
+        "Salt": 0.2,
+        "Sugars": 17.5,
+        "Fibre": 0.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 2425,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hartleys Raspberry Tablet Jelly 12x135 GM",
+        "EnergyKjoules": 1258,
+        "EnergyKcal": 296,
+        "Fat": 0,
+        "Protein": 5.5,
+        "Carbohydrates": 68.5,
+        "Salt": 0.4,
+        "Sugars": 57.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2426,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Blizz Bueno Hazelnut Topping Sauce 1x900 ML",
+        "EnergyKjoules": 2327,
+        "EnergyKcal": 558,
+        "Fat": 34,
+        "Protein": 6.2,
+        "Carbohydrates": 56,
+        "Salt": 0.17,
+        "Sugars": 54,
+        "Fibre": 0,
+        "Allergens": [7, 8, 6]
+    }
+}, {
+    "pk": 2427,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Extra Strong Lemon Juice 1x5 LT",
+        "EnergyKjoules": 116,
+        "EnergyKcal": 27,
+        "Fat": 0.03,
+        "Protein": 0.4,
+        "Carbohydrates": 2,
+        "Salt": 0.01,
+        "Sugars": 2,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 2428,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nestle Carnation Condensed Milk 12x397 GM",
+        "EnergyKjoules": 1359,
+        "EnergyKcal": 322,
+        "Fat": 8,
+        "Protein": 7.5,
+        "Carbohydrates": 55,
+        "Salt": 0.26,
+        "Sugars": 55,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2429,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vanilla Pods 1x140 GM",
+        "EnergyKjoules": 993,
+        "EnergyKcal": 240,
+        "Fat": 9.5,
+        "Protein": 5.2,
+        "Carbohydrates": 17.6,
+        "Salt": 0.14,
+        "Sugars": 10.7,
+        "Fibre": 31.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 2430,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Crepe Mix 1x5 KG",
+        "EnergyKjoules": 1529,
+        "EnergyKcal": 365,
+        "Fat": 7.6,
+        "Protein": 13.4,
+        "Carbohydrates": 61.6,
+        "Salt": 1,
+        "Sugars": 7.6,
+        "Fibre": 2.9,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2431,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Food Grade Gelatine Leaves Silver 1x1 KG",
+        "EnergyKjoules": 1412,
+        "EnergyKcal": 337,
+        "Fat": 0,
+        "Protein": 85,
+        "Carbohydrates": 0,
+        "Salt": 1.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2432,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Hazelnut & Almond Praline 1x1 KG",
+        "EnergyKjoules": 2229,
+        "EnergyKcal": 532,
+        "Fat": 30.8,
+        "Protein": 9.65,
+        "Carbohydrates": 52.3,
+        "Salt": 0.025,
+        "Sugars": 50.6,
+        "Fibre": 4.2,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 2433,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Royal Apricot Glaze 1x7 KG",
+        "EnergyKjoules": 1057,
+        "EnergyKcal": 252,
+        "Fat": 0.1,
+        "Protein": 0.1,
+        "Carbohydrates": 63.9,
+        "Salt": 0.25,
+        "Sugars": 52.5,
+        "Fibre": 0.4,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2434,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vanilla Extract with Seeds 1x1 LT",
+        "EnergyKjoules": 1059,
+        "EnergyKcal": 250,
+        "Fat": 0.1,
+        "Protein": 0.2,
+        "Carbohydrates": 68,
+        "Salt": 0.125,
+        "Sugars": 50,
+        "Fibre": 1.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 2435,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vanilla Extract 1x1 LT",
+        "EnergyKjoules": 1065,
+        "EnergyKcal": 251,
+        "Fat": 0.1,
+        "Protein": 0.1,
+        "Carbohydrates": 69.6,
+        "Salt": 0.125,
+        "Sugars": 51.4,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2436,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Golden Syrup 1x7.25 KG",
+        "EnergyKjoules": 1380,
+        "EnergyKcal": 325,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 80.5,
+        "Salt": 0.825,
+        "Sugars": 80.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2437,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Muffin Mix 1x12.5 KG",
+        "EnergyKjoules": 1517,
+        "EnergyKcal": 363,
+        "Fat": 28,
+        "Protein": 6.8,
+        "Carbohydrates": 76.5,
+        "Salt": 4,
+        "Sugars": 38.3,
+        "Fibre": 2.1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2438,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Blackcherry Pie & Tart Filling 1x2.7 KG",
+        "EnergyKjoules": 499,
+        "EnergyKcal": 119,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 28.8,
+        "Salt": 0.2,
+        "Sugars": 21.5,
+        "Fibre": 1.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 2439,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Food Grade Gelatine Leaves Bronze (3.33g each) 1x1 KG",
+        "EnergyKjoules": 1437.92,
+        "EnergyKcal": 344,
+        "Fat": 0,
+        "Protein": 86,
+        "Carbohydrates": 0,
+        "Salt": 1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2440,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Instant Mix In Powder for Cocoa Mousse 1x1 KG",
+        "EnergyKjoules": 2110.9,
+        "EnergyKcal": 505,
+        "Fat": 19,
+        "Protein": 9,
+        "Carbohydrates": 55,
+        "Salt": 0.2225,
+        "Sugars": 46,
+        "Fibre": 8,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2441,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coffee Extract 1x1 LT",
+        "EnergyKjoules": 943,
+        "EnergyKcal": 223,
+        "Fat": 0.1,
+        "Protein": 1.5,
+        "Carbohydrates": 50.9,
+        "Salt": 0.46,
+        "Sugars": 23.8,
+        "Fibre": 6.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2442,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Gelatine Powder 1x600 GM",
+        "EnergyKjoules": 1459,
+        "EnergyKcal": 343,
+        "Fat": 0,
+        "Protein": 86,
+        "Carbohydrates": 0,
+        "Salt": 1.225,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2443,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Neutral Glaze Hot Process 1x7 KG",
+        "EnergyKjoules": 1107,
+        "EnergyKcal": 265,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 66.21,
+        "Salt": 0,
+        "Sugars": 17,
+        "Fibre": 0,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 2444,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Coloured & Flavoured Pistachio Paste 1x1 KG",
+        "EnergyKjoules": 2424.4,
+        "EnergyKcal": 580,
+        "Fat": 4.9,
+        "Protein": 20,
+        "Carbohydrates": 18,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3, 8]
+    }
+}, {
+    "pk": 2445,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Natural Pectin 1x1 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 220,
+        "Fat": 0.05,
+        "Protein": 2.5,
+        "Carbohydrates": 37.5,
+        "Salt": 9.4,
+        "Sugars": 37.5,
+        "Fibre": 35,
+        "Allergens": []
+    }
+}, {
+    "pk": 2446,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Odlums Light Battermix 1x25 KG",
+        "EnergyKjoules": 1423,
+        "EnergyKcal": 340,
+        "Fat": 1.3,
+        "Protein": 10,
+        "Carbohydrates": 71.5,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2447,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Royaltine Crushed Wafer 1x2 KG",
+        "EnergyKjoules": 1920.71,
+        "EnergyKcal": 459.5,
+        "Fat": 13.8,
+        "Protein": 6,
+        "Carbohydrates": 77.8,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1, 7, 8]
+    }
+}, {
+    "pk": 2448,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Sponge Sheets 580x380x8mm 1x14'S",
+        "EnergyKjoules": 1458,
+        "EnergyKcal": 345,
+        "Fat": 5.5,
+        "Protein": 8,
+        "Carbohydrates": 65,
+        "Salt": 2.025,
+        "Sugars": 35,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7, 8]
+    }
+}, {
+    "pk": 2449,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Caster Sugar 1x25 KG",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 2.5,
+        "Sugars": 98,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2450,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Soft Light Brown Sugar 1x3 KG",
+        "EnergyKjoules": 1653,
+        "EnergyKcal": 389,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 97,
+        "Salt": 0.0225,
+        "Sugars": 97,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2451,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Granulated Sugar 1x3 KG",
+        "EnergyKjoules": 1680,
+        "EnergyKcal": 394,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0.025,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2452,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dark Soft Brown Sugar 1x3 KG",
+        "EnergyKjoules": 1610,
+        "EnergyKcal": 385,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 96,
+        "Salt": 0,
+        "Sugars": 96,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2453,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Palm Sugar 1x500 GM",
+        "EnergyKjoules": 1450,
+        "EnergyKcal": 391,
+        "Fat": 3,
+        "Protein": 1,
+        "Carbohydrates": 96,
+        "Salt": 0.16,
+        "Sugars": 95,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2454,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Granulated Sugar 1x25 KG",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2455,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Perruche Brown Sugar Cubes 8x750 GM",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2456,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Caster Sugar 1x10 KG",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 99.95,
+        "Salt": 0.025,
+        "Sugars": 99.95,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2457,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Perruche Brown Individually Wrapped Sugar Cubes 1x2.5 KG",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2458,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Glucose Syrup 1x7 KG",
+        "EnergyKjoules": 1304,
+        "EnergyKcal": 312,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 2459,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Glucose Syrup 6x1 KG",
+        "EnergyKjoules": 1313,
+        "EnergyKcal": 314,
+        "Fat": 0.1,
+        "Protein": 0.1,
+        "Carbohydrates": 79,
+        "Salt": 0.025,
+        "Sugars": 28,
+        "Fibre": 0.1,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 2460,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Perruche Rough Cut White Sugar Cubes 16x250 GM",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2461,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Barista Selection White Sugar Sachets 1x2000'S",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 99.8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2462,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Robert Roberts White Sugar Sticks 1000x3 GM",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 99.8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2463,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Robert Roberts Brown Sugar Sticks 1000x3 GM",
+        "EnergyKjoules": 1632,
+        "EnergyKcal": 384,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2464,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beghin Say White Sugar Cubes 5x1 KG",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 400,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 100,
+        "Salt": 0,
+        "Sugars": 100,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2465,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Trimoline (invert sugar syrup) 1x7 KG",
+        "EnergyKjoules": 1371,
+        "EnergyKcal": 328,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 82,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2466,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Isomalt Sugar 1x5 KG",
+        "EnergyKjoules": 1003.2,
+        "EnergyKcal": 240,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2467,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pre-Seasoned Port 1x1 LT",
+        "EnergyKjoules": 656,
+        "EnergyKcal": 157,
+        "Fat": 0,
+        "Protein": 0.3,
+        "Carbohydrates": 13,
+        "Salt": 0.925,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 2468,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pre-Seasoned Whiskey 1x1 LT",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.2125,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2469,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pre-Seasoned Madeira 1x1 LT",
+        "EnergyKjoules": 645,
+        "EnergyKcal": 155.5,
+        "Fat": 9.5,
+        "Protein": 0,
+        "Carbohydrates": 23.7,
+        "Salt": 0,
+        "Sugars": 23.7,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 2470,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pre-Seasoned Aniseed (Pastis 45%) 1x1 LT",
+        "EnergyKjoules": 1086.8,
+        "EnergyKcal": 260,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2471,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pre Seasoned Marsala 1x1 LT",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 116,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 5.5,
+        "Salt": 0.975,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 2472,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boiron Passion Fruit Pasteurized Fruit Puree 1x1 LT",
+        "EnergyKjoules": 238,
+        "EnergyKcal": 56,
+        "Fat": 0,
+        "Protein": 1,
+        "Carbohydrates": 13,
+        "Salt": 0.02,
+        "Sugars": 7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2473,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Mango Puree Premium 1x1 LT",
+        "EnergyKjoules": 411,
+        "EnergyKcal": 97,
+        "Fat": 0.2,
+        "Protein": 0.6,
+        "Carbohydrates": 22,
+        "Salt": 0,
+        "Sugars": 21.7,
+        "Fibre": 1.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 2474,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Blackcurrant Coulis 1x500 GM",
+        "EnergyKjoules": 458,
+        "EnergyKcal": 108,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 28.2,
+        "Salt": 0,
+        "Sugars": 19.8,
+        "Fibre": 1.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 2475,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Blood Orange Puree 1x1 KG",
+        "EnergyKjoules": 333,
+        "EnergyKcal": 78,
+        "Fat": 0.1,
+        "Protein": 0.6,
+        "Carbohydrates": 20.6,
+        "Salt": 0,
+        "Sugars": 17.2,
+        "Fibre": 1.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 2476,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Apple Puree 1x1 KG",
+        "EnergyKjoules": 386,
+        "EnergyKcal": 91,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 23.8,
+        "Salt": 0,
+        "Sugars": 17.8,
+        "Fibre": 2.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2477,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Morello Cherry Puree 1x1 KG",
+        "EnergyKjoules": 453,
+        "EnergyKcal": 108.3,
+        "Fat": 0.3,
+        "Protein": 1.2,
+        "Carbohydrates": 25.2,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2478,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coconut Puree 1x1 KG",
+        "EnergyKjoules": 1077,
+        "EnergyKcal": 257.6,
+        "Fat": 22,
+        "Protein": 2.1,
+        "Carbohydrates": 12.8,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2479,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Blackcurrant Puree 1x1 KG",
+        "EnergyKjoules": 393,
+        "EnergyKcal": 94.1,
+        "Fat": 0.1,
+        "Protein": 0.6,
+        "Carbohydrates": 22.7,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2480,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Blueberry Puree 1x1 KG",
+        "EnergyKjoules": 404,
+        "EnergyKcal": 96.7,
+        "Fat": 1.5,
+        "Protein": 0.7,
+        "Carbohydrates": 20.1,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}]

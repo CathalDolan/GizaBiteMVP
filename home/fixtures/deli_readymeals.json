@@ -1,0 +1,3751 @@
+[{
+    "pk": 894,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Battered Shredded Chicken 1x2.5 KG",
+        "EnergyKjoules": 971,
+        "EnergyKcal": 225,
+        "Fat": 9.6,
+        "Protein": 17.3,
+        "Carbohydrates": 18.9,
+        "Salt": 0,
+        "Sugars": 0.7,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 895,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Baked Sliced Ham 1x1 KG",
+        "EnergyKjoules": 427,
+        "EnergyKcal": 102,
+        "Fat": 2.1,
+        "Protein": 19.7,
+        "Carbohydrates": 0.8,
+        "Salt": 2.7,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 896,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Baked Sliced Ham 1x500 GM",
+        "EnergyKjoules": 425,
+        "EnergyKcal": 101,
+        "Fat": 1.5,
+        "Protein": 21.6,
+        "Carbohydrates": 0.5,
+        "Salt": 0,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 897,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Malones Shaved Pastrami 1x500 GM",
+        "EnergyKjoules": 506,
+        "EnergyKcal": 121,
+        "Fat": 3,
+        "Protein": 22,
+        "Carbohydrates": 3,
+        "Salt": 1.8,
+        "Sugars": 0.5,
+        "Fibre": 0.61,
+        "Allergens": []
+    }
+}, {
+    "pk": 898,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Julienne Ham 1x1 KG",
+        "EnergyKjoules": 751,
+        "EnergyKcal": 179,
+        "Fat": 12,
+        "Protein": 14.9,
+        "Carbohydrates": 2.8,
+        "Salt": 2,
+        "Sugars": 2.8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 899,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Traditional Ham Sliced 1x1 KG",
+        "EnergyKjoules": 489,
+        "EnergyKcal": 117,
+        "Fat": 5.6,
+        "Protein": 15.6,
+        "Carbohydrates": 1,
+        "Salt": 2,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 900,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Pepperoni 1x1 KG",
+        "EnergyKjoules": 987,
+        "EnergyKcal": 239,
+        "Fat": 15,
+        "Protein": 20,
+        "Carbohydrates": 7.5,
+        "Salt": 2,
+        "Sugars": 7.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 901,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Parma Ham 1x250 GM",
+        "EnergyKjoules": 1009,
+        "EnergyKcal": 242,
+        "Fat": 14.6,
+        "Protein": 27.2,
+        "Carbohydrates": 0.4,
+        "Salt": 0,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 902,
+    "model": "home.products",
+    "fields": {
+        "product_name": "B&B Farmhouse Sliced Turkey Breast (approx 35 slices) 1x1 KG",
+        "EnergyKjoules": 510,
+        "EnergyKcal": 120,
+        "Fat": 2.2,
+        "Protein": 23.1,
+        "Carbohydrates": 1.9,
+        "Salt": 1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 903,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Deli Sandwich Ham 1x500 GM",
+        "EnergyKjoules": 362,
+        "EnergyKcal": 86,
+        "Fat": 1.6,
+        "Protein": 17,
+        "Carbohydrates": 0.6,
+        "Salt": 2.3,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 904,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Sliced Ham (approx 24 slices) 1x1 KG",
+        "EnergyKjoules": 425,
+        "EnergyKcal": 101,
+        "Fat": 1.5,
+        "Protein": 21.6,
+        "Carbohydrates": 0.5,
+        "Salt": 2.4,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 905,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Salami Milano 1x80 GM",
+        "EnergyKjoules": 1580,
+        "EnergyKcal": 378,
+        "Fat": 30.1,
+        "Protein": 27.4,
+        "Carbohydrates": 0.3,
+        "Salt": 0,
+        "Sugars": 0.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 906,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Loughnane's Cooked Pork Sausage 8s 6x1 KG",
+        "EnergyKjoules": 1448,
+        "EnergyKcal": 346,
+        "Fat": 30.5,
+        "Protein": 8.8,
+        "Carbohydrates": 10.6,
+        "Salt": 1.5,
+        "Sugars": 1.2,
+        "Fibre": 1.1,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 907,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Pepperoni 48mm 1x1 KG",
+        "EnergyKjoules": 987,
+        "EnergyKcal": 239,
+        "Fat": 15,
+        "Protein": 20,
+        "Carbohydrates": 7.5,
+        "Salt": 2,
+        "Sugars": 7.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 908,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Malones Naturally Smoked Sliced Ham 1x500 GM",
+        "EnergyKjoules": 461,
+        "EnergyKcal": 110,
+        "Fat": 3.5,
+        "Protein": 18.5,
+        "Carbohydrates": 1.2,
+        "Salt": 2.75,
+        "Sugars": 1.2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 909,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Irish Roast Beef 1x500 GM",
+        "EnergyKjoules": 545,
+        "EnergyKcal": 130,
+        "Fat": 3.6,
+        "Protein": 23.3,
+        "Carbohydrates": 1,
+        "Salt": 1.5,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 910,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Deli Ham 1x500 GM",
+        "EnergyKjoules": 556,
+        "EnergyKcal": 133,
+        "Fat": 4.42,
+        "Protein": 21.85,
+        "Carbohydrates": 0,
+        "Salt": 2.29,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 911,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Chilli Pepperoni 43mm 1x1 KG",
+        "EnergyKjoules": 987,
+        "EnergyKcal": 239,
+        "Fat": 15,
+        "Protein": 20,
+        "Carbohydrates": 7.5,
+        "Salt": 2,
+        "Sugars": 7.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 912,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Crumbed Sliced Ham (approx 24 slices) 1x1 KG",
+        "EnergyKjoules": 427,
+        "EnergyKcal": 102,
+        "Fat": 2.1,
+        "Protein": 19.7,
+        "Carbohydrates": 0.8,
+        "Salt": 2.7,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 913,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pizza Ham 1x1 KG",
+        "EnergyKjoules": 474,
+        "EnergyKcal": 113,
+        "Fat": 4,
+        "Protein": 16,
+        "Carbohydrates": 3.2,
+        "Salt": 5,
+        "Sugars": 3.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 914,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Carroll's Premium Sliced Deli Ham 1x1.5 KG",
+        "EnergyKjoules": 540,
+        "EnergyKcal": 128,
+        "Fat": 2.7,
+        "Protein": 19,
+        "Carbohydrates": 1,
+        "Salt": 1.8,
+        "Sugars": 0.1,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 915,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Peppered Salami 1x500 GM",
+        "EnergyKjoules": 1399,
+        "EnergyKcal": 338,
+        "Fat": 30,
+        "Protein": 14.5,
+        "Carbohydrates": 1,
+        "Salt": 4.25,
+        "Sugars": 0.25,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 916,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nduja Piccante 1x450 GM",
+        "EnergyKjoules": 2166,
+        "EnergyKcal": 518,
+        "Fat": 51,
+        "Protein": 13,
+        "Carbohydrates": 1.1,
+        "Salt": 2.6,
+        "Sugars": 0.8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 917,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Traditional Glazed Baked Ham",
+        "EnergyKjoules": 436,
+        "EnergyKcal": 104,
+        "Fat": 2.8,
+        "Protein": 19.2,
+        "Carbohydrates": 0.6,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 918,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Netted Halved Cooked Ham 1x2.5 KG",
+        "EnergyKjoules": 436,
+        "EnergyKcal": 104,
+        "Fat": 2.8,
+        "Protein": 19.2,
+        "Carbohydrates": 0.6,
+        "Salt": 2.25,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 919,
+    "model": "home.products",
+    "fields": {
+        "product_name": "BBQ Pulled Pork 1x1 KG",
+        "EnergyKjoules": 448,
+        "EnergyKcal": 106,
+        "Fat": 2.4,
+        "Protein": 21.1,
+        "Carbohydrates": 1,
+        "Salt": 2,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 920,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Pulled Ham Hock 2x500 GM",
+        "EnergyKjoules": 459,
+        "EnergyKcal": 109,
+        "Fat": 2.4,
+        "Protein": 21.7,
+        "Carbohydrates": 0.1,
+        "Salt": 1.6,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 921,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Salami Milano 1x240 GM",
+        "EnergyKjoules": 1621,
+        "EnergyKcal": 391,
+        "Fat": 33,
+        "Protein": 23,
+        "Carbohydrates": 0.5,
+        "Salt": 3.5,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 922,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Cooked Ham 1x5 KG",
+        "EnergyKjoules": 427,
+        "EnergyKcal": 102,
+        "Fat": 2.1,
+        "Protein": 19.7,
+        "Carbohydrates": 0.8,
+        "Salt": 2.7,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 923,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tapas Mix 1x120 GM",
+        "EnergyKjoules": 1108,
+        "EnergyKcal": 265,
+        "Fat": 15,
+        "Protein": 35,
+        "Carbohydrates": 0.6,
+        "Salt": 0,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 924,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Mortadella Salami 1x70 GM",
+        "EnergyKjoules": 1271,
+        "EnergyKcal": 305,
+        "Fat": 21.1,
+        "Protein": 15.8,
+        "Carbohydrates": 0.4,
+        "Salt": 0,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": [7, 8]
+    }
+}, {
+    "pk": 925,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Aged Prosciutto Ham 1x500 GM",
+        "EnergyKjoules": 939,
+        "EnergyKcal": 225,
+        "Fat": 12.5,
+        "Protein": 27.5,
+        "Carbohydrates": 0.5,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7, 8, 5]
+    }
+}, {
+    "pk": 926,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Irish Roast Beef 1x1 KG",
+        "EnergyKjoules": 655,
+        "EnergyKcal": 156,
+        "Fat": 7.5,
+        "Protein": 22,
+        "Carbohydrates": 2.2,
+        "Salt": 1.15,
+        "Sugars": 2.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 927,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Pizza Base + Tomato Sauce 12 1x48'S",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 288,
+        "Fat": 5.8,
+        "Protein": 10.8,
+        "Carbohydrates": 46.8,
+        "Salt": 3.25,
+        "Sugars": 0.3,
+        "Fibre": 3.1,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 928,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Pizza Sauce 1x4.2 KG",
+        "EnergyKjoules": 159,
+        "EnergyKcal": 38,
+        "Fat": 0.45,
+        "Protein": 1.81,
+        "Carbohydrates": 6.73,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 929,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flavoured Pizza Sauce 1x4.1 KG",
+        "EnergyKjoules": 146,
+        "EnergyKcal": 35,
+        "Fat": 0.2,
+        "Protein": 1.5,
+        "Carbohydrates": 5.7,
+        "Salt": 0.7,
+        "Sugars": 4.3,
+        "Fibre": 2,
+        "Allergens": []
+    }
+}, {
+    "pk": 930,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Thin & Crispy Pizza Base 12 1x18'S",
+        "EnergyKjoules": 1219,
+        "EnergyKcal": 289,
+        "Fat": 7.6,
+        "Protein": 8.7,
+        "Carbohydrates": 45.4,
+        "Salt": 1.2,
+        "Sugars": 1.7,
+        "Fibre": 2.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 931,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Premium Pizza Base 8/20cm 1x32'S",
+        "EnergyKjoules": 1217,
+        "EnergyKcal": 289,
+        "Fat": 5.8,
+        "Protein": 10.8,
+        "Carbohydrates": 46.8,
+        "Salt": 1.25,
+        "Sugars": 0.3,
+        "Fibre": 3.1,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 932,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Bellissima Pizza Base 200g/28cm 10x2'S",
+        "EnergyKjoules": 179,
+        "EnergyKcal": 42,
+        "Fat": 0.6,
+        "Protein": 1.86,
+        "Carbohydrates": 8.5,
+        "Salt": 0,
+        "Sugars": 7.3,
+        "Fibre": 0,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 933,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Chorizo Pizza Topping 1x1 KG",
+        "EnergyKjoules": 1150,
+        "EnergyKcal": 278,
+        "Fat": 22.2,
+        "Protein": 13.3,
+        "Carbohydrates": 6.3,
+        "Salt": 2,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 934,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Italian Pizza Doughballs 50x230 GM",
+        "EnergyKjoules": 996,
+        "EnergyKcal": 235,
+        "Fat": 4.6,
+        "Protein": 6.3,
+        "Carbohydrates": 41.6,
+        "Salt": 3.75,
+        "Sugars": 0.02,
+        "Fibre": 0.16,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 935,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Billy's Pan Original Pizza 4x1.55 KG",
+        "EnergyKjoules": 1050,
+        "EnergyKcal": 250,
+        "Fat": 8.8,
+        "Protein": 10,
+        "Carbohydrates": 30,
+        "Salt": 1.25,
+        "Sugars": 4.4,
+        "Fibre": 2,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 936,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Thin & Crispy Pizza Base 9 1x36'S",
+        "EnergyKjoules": 1260,
+        "EnergyKcal": 299,
+        "Fat": 8.3,
+        "Protein": 8.9,
+        "Carbohydrates": 46.2,
+        "Salt": 1.2,
+        "Sugars": 1.7,
+        "Fibre": 2.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 937,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Billy's Pan Vegetable Pizza 4x1.55 KG",
+        "EnergyKjoules": 1000,
+        "EnergyKcal": 239,
+        "Fat": 9,
+        "Protein": 10,
+        "Carbohydrates": 29,
+        "Salt": 0.75,
+        "Sugars": 1.9,
+        "Fibre": 1.8,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 938,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Sauced Artisan Pizza Base 9/23cm 1x20'S",
+        "EnergyKjoules": 1032,
+        "EnergyKcal": 243,
+        "Fat": 4.7,
+        "Protein": 6.8,
+        "Carbohydrates": 43,
+        "Salt": 0,
+        "Sugars": 0.9,
+        "Fibre": 0.7,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 939,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Thin & Crispy Stone Baked Pizza Base 30cm 1x24'S",
+        "EnergyKjoules": 1121,
+        "EnergyKcal": 268,
+        "Fat": 4.5,
+        "Protein": 8.5,
+        "Carbohydrates": 46.5,
+        "Salt": 1.05,
+        "Sugars": 5,
+        "Fibre": 3,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 940,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicago Town Takeaway Stuffed Crust Cheese Pizza 9x630 GM",
+        "EnergyKjoules": 1224,
+        "EnergyKcal": 292,
+        "Fat": 12,
+        "Protein": 12,
+        "Carbohydrates": 33,
+        "Salt": 1.1,
+        "Sugars": 2.5,
+        "Fibre": 0,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 941,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicago Town Takeaway Stuffed Crust Pepperoni Pizza 9x645 GM",
+        "EnergyKjoules": 1253,
+        "EnergyKcal": 299,
+        "Fat": 13,
+        "Protein": 11,
+        "Carbohydrates": 33,
+        "Salt": 1.3,
+        "Sugars": 2.7,
+        "Fibre": 0,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 942,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Pizza Base GF 12x25cm 1x1.92 KG",
+        "EnergyKjoules": 1092,
+        "EnergyKcal": 258,
+        "Fat": 0.9,
+        "Protein": 3,
+        "Carbohydrates": 57.4,
+        "Salt": 0,
+        "Sugars": 1.8,
+        "Fibre": 4,
+        "Allergens": []
+    }
+}, {
+    "pk": 943,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Stonebaked Pizza Base with Sauce 20cm 1x24'S",
+        "EnergyKjoules": 887,
+        "EnergyKcal": 210,
+        "Fat": 2.7,
+        "Protein": 7.3,
+        "Carbohydrates": 37.7,
+        "Salt": 0.825,
+        "Sugars": 1.2,
+        "Fibre": 2.9,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 944,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Stone Baked Margherita Pizza 12 20x395 GM",
+        "EnergyKjoules": 847,
+        "EnergyKcal": 202,
+        "Fat": 5.1,
+        "Protein": 9.2,
+        "Carbohydrates": 29.1,
+        "Salt": 0.4,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 945,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Margherita Pizza 6 40x135 GM",
+        "EnergyKjoules": 1326,
+        "EnergyKcal": 314,
+        "Fat": 10.2,
+        "Protein": 11.9,
+        "Carbohydrates": 43,
+        "Salt": 0,
+        "Sugars": 1,
+        "Fibre": 0.6,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 946,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Sauced Artisan Base 12 1x36'S",
+        "EnergyKjoules": 1032,
+        "EnergyKcal": 243,
+        "Fat": 4.7,
+        "Protein": 6.8,
+        "Carbohydrates": 43,
+        "Salt": 0,
+        "Sugars": 0.9,
+        "Fibre": 0.7,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 947,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pizza Si Pizza Base 12 GF  14x240 GM",
+        "EnergyKjoules": 1232,
+        "EnergyKcal": 292,
+        "Fat": 5.4,
+        "Protein": 3.1,
+        "Carbohydrates": 56,
+        "Salt": 1.5,
+        "Sugars": 0.9,
+        "Fibre": 3,
+        "Allergens": []
+    }
+}, {
+    "pk": 948,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Plain Artisan Pizza Base 12/31cm 1x36'S",
+        "EnergyKjoules": 996,
+        "EnergyKcal": 235,
+        "Fat": 4.6,
+        "Protein": 6.3,
+        "Carbohydrates": 41.6,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0.2,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 949,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Pizza Alla Pala (sourdough flatbread)15x30cm 1x28'S",
+        "EnergyKjoules": 1055,
+        "EnergyKcal": 249,
+        "Fat": 2.2,
+        "Protein": 8.9,
+        "Carbohydrates": 48.4,
+        "Salt": 1.925,
+        "Sugars": 3.9,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 950,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dr Oetker Cheese & Tomato Pizzinis 9x290 GM",
+        "EnergyKjoules": 962,
+        "EnergyKcal": 229,
+        "Fat": 7.1,
+        "Protein": 8.6,
+        "Carbohydrates": 32,
+        "Salt": 0.91,
+        "Sugars": 4.6,
+        "Fibre": 1.6,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 951,
+    "model": "home.products",
+    "fields": {
+        "product_name": "PizzaSi Extra Thin Pizza Base & Tomato Sauce 11/28cm 1x54'S",
+        "EnergyKjoules": 1326.3,
+        "EnergyKcal": 317.5,
+        "Fat": 12.1,
+        "Protein": 9.7,
+        "Carbohydrates": 45.1,
+        "Salt": 0,
+        "Sugars": 2.6,
+        "Fibre": 1.4,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 952,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicago Town Takeaway Classic Crust Chicken & Bacon Pizza 9x",
+        "EnergyKjoules": 1214,
+        "EnergyKcal": 289,
+        "Fat": 12,
+        "Protein": 13,
+        "Carbohydrates": 32,
+        "Salt": 1.2,
+        "Sugars": 2,
+        "Fibre": 0,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 953,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pizza Dough Ball 12Oz 40x340 GM",
+        "EnergyKjoules": 1096,
+        "EnergyKcal": 259,
+        "Fat": 2.1,
+        "Protein": 8.4,
+        "Carbohydrates": 49.9,
+        "Salt": 0.96,
+        "Sugars": 4.3,
+        "Fibre": 3.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 954,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicago Town Thin Pepperoni Pizza 23cm 6x305 GM",
+        "EnergyKjoules": 1335,
+        "EnergyKcal": 319,
+        "Fat": 14,
+        "Protein": 13,
+        "Carbohydrates": 34,
+        "Salt": 1.1,
+        "Sugars": 3.1,
+        "Fibre": 0,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 955,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Thin & Crispy Stone Baked Pizza Base 25cm 1x24'S",
+        "EnergyKjoules": 1121,
+        "EnergyKcal": 268,
+        "Fat": 4.5,
+        "Protein": 8.5,
+        "Carbohydrates": 46.5,
+        "Salt": 1.05,
+        "Sugars": 5,
+        "Fibre": 3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 956,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Stonebaked Pizza Base with Sauce 10 1x24'S",
+        "EnergyKjoules": 887,
+        "EnergyKcal": 210,
+        "Fat": 2.7,
+        "Protein": 7.3,
+        "Carbohydrates": 37.7,
+        "Salt": 0.8,
+        "Sugars": 1.2,
+        "Fibre": 2.9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 957,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicago Town Pepperoni Pizza 12 4x2x645 GM",
+        "EnergyKjoules": 1234,
+        "EnergyKcal": 297,
+        "Fat": 13,
+        "Protein": 12,
+        "Carbohydrates": 32,
+        "Salt": 3,
+        "Sugars": 1.6,
+        "Fibre": 0,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 958,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Stonebaked Pizza Base with Sauce 30cm 1x24'S",
+        "EnergyKjoules": 878,
+        "EnergyKcal": 210,
+        "Fat": 2.7,
+        "Protein": 7.3,
+        "Carbohydrates": 37.7,
+        "Salt": 0.825,
+        "Sugars": 1.2,
+        "Fibre": 2.9,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 959,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Sliced & Cooked Chicken Fillet 6mm 1x2.5 KG",
+        "EnergyKjoules": 507,
+        "EnergyKcal": 121,
+        "Fat": 1.8,
+        "Protein": 25.94,
+        "Carbohydrates": 0.28,
+        "Salt": 0.48,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 960,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Roast Superior Gold Turkey 1x500 GM",
+        "EnergyKjoules": 466,
+        "EnergyKcal": 110,
+        "Fat": 2,
+        "Protein": 20.4,
+        "Carbohydrates": 2.8,
+        "Salt": 1.725,
+        "Sugars": 0.43,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 961,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Whole Cooked Chicken Fillets 1x2.5 KG",
+        "EnergyKjoules": 506,
+        "EnergyKcal": 120,
+        "Fat": 1.9,
+        "Protein": 25.9,
+        "Carbohydrates": 0.28,
+        "Salt": 0.475,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 962,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Smoked Turkey Rashers 1x1 KG",
+        "EnergyKjoules": 946,
+        "EnergyKcal": 226,
+        "Fat": 12,
+        "Protein": 28,
+        "Carbohydrates": 1.5,
+        "Salt": 2.85,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 963,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Cooked Whole Chicken Fillets 1x2.5 KG",
+        "EnergyKjoules": 510,
+        "EnergyKcal": 121,
+        "Fat": 1.9,
+        "Protein": 26,
+        "Carbohydrates": 0.7,
+        "Salt": 0.7,
+        "Sugars": 0.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 964,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Cooked & Sliced Roast Turkey Breast 1x1 KG",
+        "EnergyKjoules": 510,
+        "EnergyKcal": 121,
+        "Fat": 2.2,
+        "Protein": 23.1,
+        "Carbohydrates": 1.9,
+        "Salt": 1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 965,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Chicken Fillet Strips 6mm 1x2.5 KG",
+        "EnergyKjoules": 491,
+        "EnergyKcal": 117,
+        "Fat": 1.7,
+        "Protein": 23.7,
+        "Carbohydrates": 1.54,
+        "Salt": 0.85,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 966,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Turkey Breast 1x1 KG",
+        "EnergyKjoules": 438,
+        "EnergyKcal": 104,
+        "Fat": 1.3,
+        "Protein": 21.8,
+        "Carbohydrates": 1.2,
+        "Salt": 0.8,
+        "Sugars": 0.6,
+        "Fibre": 0.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 967,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Smoked Chicken Fillets 1x2x225 GM",
+        "EnergyKjoules": 629,
+        "EnergyKcal": 150,
+        "Fat": 5.7,
+        "Protein": 23.5,
+        "Carbohydrates": 1.3,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 968,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Smoked Chicken Fillets 1x1 KG",
+        "EnergyKjoules": 521,
+        "EnergyKcal": 123,
+        "Fat": 1.3,
+        "Protein": 27.8,
+        "Carbohydrates": 0.1,
+        "Salt": 0.8,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 969,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Cajun Strips 1x2.5 KG",
+        "EnergyKjoules": 476,
+        "EnergyKcal": 113,
+        "Fat": 1.6,
+        "Protein": 22.1,
+        "Carbohydrates": 2.3,
+        "Salt": 0,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 970,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flat Smoked Pancetta 1x1.5 KG (Approx)",
+        "EnergyKjoules": 1468,
+        "EnergyKcal": 355,
+        "Fat": 28,
+        "Protein": 16,
+        "Carbohydrates": 0.3,
+        "Salt": 10.75,
+        "Sugars": 0.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 971,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Roast Turkey Boned & Rolled Sliced 1x500 GM",
+        "EnergyKjoules": 444,
+        "EnergyKcal": 105,
+        "Fat": 2.6,
+        "Protein": 19.1,
+        "Carbohydrates": 1.3,
+        "Salt": 2.5,
+        "Sugars": 0.5,
+        "Fibre": 0.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 972,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Roasted Chicken Skewers 40x100 GM",
+        "EnergyKjoules": 516,
+        "EnergyKcal": 121,
+        "Fat": 1.4,
+        "Protein": 25.7,
+        "Carbohydrates": 1.2,
+        "Salt": 0.45,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 973,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Flame Grilled Chicken Fillet 1x2.5 KG",
+        "EnergyKjoules": 514,
+        "EnergyKcal": 122,
+        "Fat": 1.8,
+        "Protein": 25.1,
+        "Carbohydrates": 1.2,
+        "Salt": 0,
+        "Sugars": 1.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 974,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked & Diced Chicken Fillet 12mm 1x2.5 KG",
+        "EnergyKjoules": 497,
+        "EnergyKcal": 119,
+        "Fat": 2.2,
+        "Protein": 24.7,
+        "Carbohydrates": 0,
+        "Salt": 1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 975,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked & Stuffed Turkey & Ham Portions 24x6-7 OZ",
+        "EnergyKjoules": 669,
+        "EnergyKcal": 160,
+        "Fat": 6.6,
+        "Protein": 14.6,
+        "Carbohydrates": 10,
+        "Salt": 2,
+        "Sugars": 0.8,
+        "Fibre": 1.3,
+        "Allergens": [9, 1, 7]
+    }
+}, {
+    "pk": 976,
+    "model": "home.products",
+    "fields": {
+        "product_name": "B&B Sliced Prime Turkey Breast (approx 22 slices) 1x1 KG",
+        "EnergyKjoules": 560,
+        "EnergyKcal": 135,
+        "Fat": 3.2,
+        "Protein": 23.1,
+        "Carbohydrates": 1.9,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 2.2,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 977,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Cooked Diced Chicken Fillet 1x2.5 KG",
+        "EnergyKjoules": 506,
+        "EnergyKcal": 120,
+        "Fat": 1.8,
+        "Protein": 25.94,
+        "Carbohydrates": 0.28,
+        "Salt": 0.475,
+        "Sugars": 0,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 978,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Premium Turkey Breast 1x3.7 KG",
+        "EnergyKjoules": 510,
+        "EnergyKcal": 120,
+        "Fat": 2.2,
+        "Protein": 23.1,
+        "Carbohydrates": 1.9,
+        "Salt": 1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 979,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Farmhouse Chicken Strips 3mm 1x2.5 KG",
+        "EnergyKjoules": 545,
+        "EnergyKcal": 129,
+        "Fat": 1.3,
+        "Protein": 27.6,
+        "Carbohydrates": 1.6,
+        "Salt": 0.875,
+        "Sugars": 1.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 980,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Drumsticks Spicy Cooked 5x1 KG",
+        "EnergyKjoules": 687,
+        "EnergyKcal": 164,
+        "Fat": 6.8,
+        "Protein": 23,
+        "Carbohydrates": 2.6,
+        "Salt": 2.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 981,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Sliced Chicken Fillet 5mm 1x2.5 KG",
+        "EnergyKjoules": 514,
+        "EnergyKcal": 122,
+        "Fat": 1.8,
+        "Protein": 25.1,
+        "Carbohydrates": 1.2,
+        "Salt": 0,
+        "Sugars": 1.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 982,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Smoked Chicken Fillets 1x8x110-130 GM",
+        "EnergyKjoules": 741,
+        "EnergyKcal": 177,
+        "Fat": 8.3,
+        "Protein": 24.3,
+        "Carbohydrates": 1,
+        "Salt": 1.5,
+        "Sugars": 1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 983,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Cooked Cajun Chicken Butterfly 10x160 GM",
+        "EnergyKjoules": 568,
+        "EnergyKcal": 239,
+        "Fat": 2.1,
+        "Protein": 24.1,
+        "Carbohydrates": 5.2,
+        "Salt": 1,
+        "Sugars": 3.1,
+        "Fibre": 0.6,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 984,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Cooked Southern Fried Chicken Popcorn 4x2.5 KG",
+        "EnergyKjoules": 1031,
+        "EnergyKcal": 247,
+        "Fat": 13.4,
+        "Protein": 13.1,
+        "Carbohydrates": 18.4,
+        "Salt": 1.75,
+        "Sugars": 1.6,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 985,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Streaky Bacon 1x1 KG",
+        "EnergyKjoules": 1898,
+        "EnergyKcal": 457,
+        "Fat": 37,
+        "Protein": 33.7,
+        "Carbohydrates": 1,
+        "Salt": 5,
+        "Sugars": 1.3,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 986,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Smoked Pancetta 1x500 GM",
+        "EnergyKjoules": 1680,
+        "EnergyKcal": 406,
+        "Fat": 2,
+        "Protein": 3,
+        "Carbohydrates": 0.1,
+        "Salt": 0.325,
+        "Sugars": 0.1,
+        "Fibre": 3,
+        "Allergens": []
+    }
+}, {
+    "pk": 987,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Unbaked Sausage Rolls 4 80x66 GM",
+        "EnergyKjoules": 1281,
+        "EnergyKcal": 305,
+        "Fat": 20.8,
+        "Protein": 8.4,
+        "Carbohydrates": 21.1,
+        "Salt": 1.2,
+        "Sugars": 0.7,
+        "Fibre": 1,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 988,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Unbaked Sausage Rolls 6 60x108 GM",
+        "EnergyKjoules": 1281,
+        "EnergyKcal": 305,
+        "Fat": 20.8,
+        "Protein": 8.4,
+        "Carbohydrates": 21.1,
+        "Salt": 1.2,
+        "Sugars": 0.7,
+        "Fibre": 1,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 989,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Crispy Streaky Bacon 1x1 KG",
+        "EnergyKjoules": 1260,
+        "EnergyKcal": 303,
+        "Fat": 20.6,
+        "Protein": 26.6,
+        "Carbohydrates": 2.8,
+        "Salt": 2.55,
+        "Sugars": 1.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 990,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Potato Dogs (Coated Pork Sausage) GF 20x140 G",
+        "EnergyKjoules": 783,
+        "EnergyKcal": 187,
+        "Fat": 9.3,
+        "Protein": 5.4,
+        "Carbohydrates": 19.3,
+        "Salt": 1.6,
+        "Sugars": 0.6,
+        "Fibre": 2.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 991,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Cooked Streaky Bacon Rashers 1x1 KG",
+        "EnergyKjoules": 1314,
+        "EnergyKcal": 316,
+        "Fat": 22.28,
+        "Protein": 26.4,
+        "Carbohydrates": 2.39,
+        "Salt": 3,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 992,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Bacon Cheese Turnovers 30x127 GM",
+        "EnergyKjoules": 1355,
+        "EnergyKcal": 325,
+        "Fat": 21.5,
+        "Protein": 11.1,
+        "Carbohydrates": 21.3,
+        "Salt": 1.4,
+        "Sugars": 0.4,
+        "Fibre": 1.1,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 993,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Crispy Streaky Bacon Rashers 1x1 KG",
+        "EnergyKjoules": 1868,
+        "EnergyKcal": 446,
+        "Fat": 32.2,
+        "Protein": 38.8,
+        "Carbohydrates": 3.2,
+        "Salt": 5.5,
+        "Sugars": 0.1,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 994,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pepperoni Jambon 36x105 GM",
+        "EnergyKjoules": 1247,
+        "EnergyKcal": 298,
+        "Fat": 20,
+        "Protein": 7.7,
+        "Carbohydrates": 21,
+        "Salt": 1.17,
+        "Sugars": 1.8,
+        "Fibre": 1.3,
+        "Allergens": [1, 7, 10]
+    }
+}, {
+    "pk": 995,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Sausage Roll 4 1x85'S",
+        "EnergyKjoules": 1151,
+        "EnergyKcal": 276,
+        "Fat": 15.7,
+        "Protein": 6.3,
+        "Carbohydrates": 26.6,
+        "Salt": 1.1,
+        "Sugars": 0.6,
+        "Fibre": 1.3,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 996,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Fajita Jambon 36x105 GM",
+        "EnergyKjoules": 1125,
+        "EnergyKcal": 269,
+        "Fat": 17,
+        "Protein": 7.3,
+        "Carbohydrates": 22,
+        "Salt": 1.09,
+        "Sugars": 1.9,
+        "Fibre": 1.5,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 997,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ham & Cheese Tosta on Paco 16x190 GM",
+        "EnergyKjoules": 1116,
+        "EnergyKcal": 267,
+        "Fat": 13.7,
+        "Protein": 15.6,
+        "Carbohydrates": 20.7,
+        "Salt": 1.6,
+        "Sugars": 1.7,
+        "Fibre": 0.1,
+        "Allergens": [1, 7, 11, 6]
+    }
+}, {
+    "pk": 998,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sunblushed Tomato & Cheese Tosta on Paco 16x178 GM",
+        "EnergyKjoules": 1015,
+        "EnergyKcal": 243,
+        "Fat": 10.8,
+        "Protein": 10.2,
+        "Carbohydrates": 26.9,
+        "Salt": 1.1,
+        "Sugars": 3.5,
+        "Fibre": 0.4,
+        "Allergens": [1, 7, 11, 6]
+    }
+}, {
+    "pk": 999,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Chicken & Bacon Bake 1x36'S",
+        "EnergyKjoules": 1191,
+        "EnergyKcal": 285,
+        "Fat": 16.5,
+        "Protein": 8.7,
+        "Carbohydrates": 24.9,
+        "Salt": 0.8,
+        "Sugars": 1.1,
+        "Fibre": 1.3,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1000,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Creamy Peppercorn Steak Bake 1x36'S",
+        "EnergyKjoules": 1179,
+        "EnergyKcal": 282,
+        "Fat": 16.4,
+        "Protein": 8.3,
+        "Carbohydrates": 24.7,
+        "Salt": 0.6,
+        "Sugars": 0.6,
+        "Fibre": 1.4,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1001,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken & Bacon Tosta on Paco 16x215 GM",
+        "EnergyKjoules": 1243,
+        "EnergyKcal": 297,
+        "Fat": 17.4,
+        "Protein": 14.6,
+        "Carbohydrates": 21.2,
+        "Salt": 1.2,
+        "Sugars": 1.8,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7, 10, 11, 6]
+    }
+}, {
+    "pk": 1002,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Chicken Tikka Masala Bake 1x36'S",
+        "EnergyKjoules": 1176,
+        "EnergyKcal": 282,
+        "Fat": 15.9,
+        "Protein": 8.6,
+        "Carbohydrates": 25.3,
+        "Salt": 0.7,
+        "Sugars": 1.3,
+        "Fibre": 1.4,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1003,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sausage Rolls 3.5 150x50 GM",
+        "EnergyKjoules": 1320,
+        "EnergyKcal": 316,
+        "Fat": 18.6,
+        "Protein": 6.8,
+        "Carbohydrates": 30.2,
+        "Salt": 1,
+        "Sugars": 0.7,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1004,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Unbaked Ham & Cheese Jambons 36x110 GM",
+        "EnergyKjoules": 1380,
+        "EnergyKcal": 332,
+        "Fat": 21.8,
+        "Protein": 8.2,
+        "Carbohydrates": 25.8,
+        "Salt": 1.34,
+        "Sugars": 2.96,
+        "Fibre": 3.3,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1005,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef Lasagne 1x2.5 KG",
+        "EnergyKjoules": 649,
+        "EnergyKcal": 155,
+        "Fat": 8.5,
+        "Protein": 8.6,
+        "Carbohydrates": 10.5,
+        "Salt": 0,
+        "Sugars": 4.3,
+        "Fibre": 1.3,
+        "Allergens": [9, 1, 7]
+    }
+}, {
+    "pk": 1006,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Ham & Cheese Jambons 100x35 GM",
+        "EnergyKjoules": 1147,
+        "EnergyKcal": 275,
+        "Fat": 17,
+        "Protein": 7.4,
+        "Carbohydrates": 24,
+        "Salt": 0.86,
+        "Sugars": 4.4,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1007,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bolognese Meat & Sauce Only 1x2.5 KG",
+        "EnergyKjoules": 422,
+        "EnergyKcal": 101,
+        "Fat": 5.4,
+        "Protein": 7.5,
+        "Carbohydrates": 5.9,
+        "Salt": 0,
+        "Sugars": 2.9,
+        "Fibre": 0.9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1008,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Puff Pastry Sausage Rolls 7 65x110 GM",
+        "EnergyKjoules": 1336,
+        "EnergyKcal": 321,
+        "Fat": 21,
+        "Protein": 6.8,
+        "Carbohydrates": 24.6,
+        "Salt": 1.35,
+        "Sugars": 1.3,
+        "Fibre": 3.2,
+        "Allergens": [3, 1, 7, 12]
+    }
+}, {
+    "pk": 1009,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Half Moon Plain Omelette 24x100 GM",
+        "EnergyKjoules": 519,
+        "EnergyKcal": 125,
+        "Fat": 8.39,
+        "Protein": 10.64,
+        "Carbohydrates": 1.63,
+        "Salt": 0.62,
+        "Sugars": 1.05,
+        "Fibre": 0,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 1010,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cloughbane Beef Lasagne 1x2.6 KG",
+        "EnergyKjoules": 559,
+        "EnergyKcal": 134,
+        "Fat": 6.8,
+        "Protein": 8.4,
+        "Carbohydrates": 9.8,
+        "Salt": 1.075,
+        "Sugars": 3.3,
+        "Fibre": 0.8,
+        "Allergens": [9, 3, 1, 7, 10, 12]
+    }
+}, {
+    "pk": 1011,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Quiche Lorraine 12x180 GM",
+        "EnergyKjoules": 1075,
+        "EnergyKcal": 257,
+        "Fat": 16.1,
+        "Protein": 7.8,
+        "Carbohydrates": 19.7,
+        "Salt": 1,
+        "Sugars": 2.3,
+        "Fibre": 1.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1012,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Goats Cheese & Cherry Tomato Quiche 12x180 GM",
+        "EnergyKjoules": 999,
+        "EnergyKcal": 240,
+        "Fat": 14.9,
+        "Protein": 6.2,
+        "Carbohydrates": 19.5,
+        "Salt": 0.6,
+        "Sugars": 2.9,
+        "Fibre": 1.5,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1013,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Leek & Ham Pie 6x275 GM",
+        "EnergyKjoules": 1133,
+        "EnergyKcal": 271,
+        "Fat": 16.5,
+        "Protein": 8.3,
+        "Carbohydrates": 23.8,
+        "Salt": 0,
+        "Sugars": 0.8,
+        "Fibre": 1.6,
+        "Allergens": [9, 3, 1, 7, 6]
+    }
+}, {
+    "pk": 1014,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken & Mushroom Pastry Slice 30x158 GM",
+        "EnergyKjoules": 1787,
+        "EnergyKcal": 427,
+        "Fat": 27.5,
+        "Protein": 11.2,
+        "Carbohydrates": 33,
+        "Salt": 1.5,
+        "Sugars": 2.4,
+        "Fibre": 1.3,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1015,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Deli Cottage Pie 1x2.6 KG",
+        "EnergyKjoules": 418,
+        "EnergyKcal": 99,
+        "Fat": 3.9,
+        "Protein": 5.6,
+        "Carbohydrates": 11.1,
+        "Salt": 0.75,
+        "Sugars": 1.9,
+        "Fibre": 1,
+        "Allergens": [7, 10]
+    }
+}, {
+    "pk": 1016,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Curry Slice 30x160 GM",
+        "EnergyKjoules": 1099,
+        "EnergyKcal": 262,
+        "Fat": 17,
+        "Protein": 7,
+        "Carbohydrates": 20,
+        "Salt": 0.8,
+        "Sugars": 1.4,
+        "Fibre": 1.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1017,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beef & Stout Pie 6x275 GM",
+        "EnergyKjoules": 918,
+        "EnergyKcal": 219,
+        "Fat": 11,
+        "Protein": 8.7,
+        "Carbohydrates": 20,
+        "Salt": 0.925,
+        "Sugars": 2.6,
+        "Fibre": 2.4,
+        "Allergens": [9, 3, 4, 1, 6, 12]
+    }
+}, {
+    "pk": 1018,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cheatin Bacon Style Streaky Rashers 1x115 GM",
+        "EnergyKjoules": 835,
+        "EnergyKcal": 196,
+        "Fat": 7.8,
+        "Protein": 25.8,
+        "Carbohydrates": 6.1,
+        "Salt": 0.8,
+        "Sugars": 1.1,
+        "Fibre": 0.7,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1019,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Premium Breakfast Sausage Rolls with Black Pudding & Relish",
+        "EnergyKjoules": 1193,
+        "EnergyKcal": 286,
+        "Fat": 16.4,
+        "Protein": 9.1,
+        "Carbohydrates": 24.57,
+        "Salt": 1.01,
+        "Sugars": 4.53,
+        "Fibre": 1.63,
+        "Allergens": [1, 7, 10]
+    }
+}, {
+    "pk": 1020,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Steak Pastry Slice 30x160 GM",
+        "EnergyKjoules": 1986,
+        "EnergyKcal": 474,
+        "Fat": 32.8,
+        "Protein": 12,
+        "Carbohydrates": 32.3,
+        "Salt": 1.25,
+        "Sugars": 1,
+        "Fibre": 1.4,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1021,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vegetable Lasagne 1x2.5 KG",
+        "EnergyKjoules": 406,
+        "EnergyKcal": 97,
+        "Fat": 4.2,
+        "Protein": 3,
+        "Carbohydrates": 11.1,
+        "Salt": 0,
+        "Sugars": 4.3,
+        "Fibre": 1.5,
+        "Allergens": [9, 1, 7]
+    }
+}, {
+    "pk": 1022,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Minced Beef & Onion Pastry Slice 30x158 GM",
+        "EnergyKjoules": 1830,
+        "EnergyKcal": 437,
+        "Fat": 29.7,
+        "Protein": 8.8,
+        "Carbohydrates": 33,
+        "Salt": 1.5,
+        "Sugars": 2.4,
+        "Fibre": 1.6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1023,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon & Broccoli Quiche 12x180 GM",
+        "EnergyKjoules": 1004,
+        "EnergyKcal": 239,
+        "Fat": 14.4,
+        "Protein": 8.7,
+        "Carbohydrates": 19.1,
+        "Salt": 1,
+        "Sugars": 1.4,
+        "Fibre": 0,
+        "Allergens": [3, 4, 1, 7, 12]
+    }
+}, {
+    "pk": 1024,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Cheese and Ham Panier 1x40'S",
+        "EnergyKjoules": 1284,
+        "EnergyKcal": 307,
+        "Fat": 19.5,
+        "Protein": 10.5,
+        "Carbohydrates": 22.5,
+        "Salt": 1.39,
+        "Sugars": 2.8,
+        "Fibre": 1.1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1025,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Spaghetti Rings in Tomato Sauce 1x2.58 KG",
+        "EnergyKjoules": 261,
+        "EnergyKcal": 61,
+        "Fat": 0.2,
+        "Protein": 1.6,
+        "Carbohydrates": 12.9,
+        "Salt": 0.4,
+        "Sugars": 5.2,
+        "Fibre": 0.7,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 1026,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Shepherd's Pie 1x2.5 KG",
+        "EnergyKjoules": 525,
+        "EnergyKcal": 126,
+        "Fat": 6.8,
+        "Protein": 4.7,
+        "Carbohydrates": 10.8,
+        "Salt": 0,
+        "Sugars": 2.6,
+        "Fibre": 1.6,
+        "Allergens": [9, 1, 7, 6]
+    }
+}, {
+    "pk": 1027,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Steak & Kidney Pie 6x275 GM",
+        "EnergyKjoules": 803,
+        "EnergyKcal": 192,
+        "Fat": 8.3,
+        "Protein": 8.3,
+        "Carbohydrates": 20,
+        "Salt": 0,
+        "Sugars": 1.5,
+        "Fibre": 1.3,
+        "Allergens": [9, 3, 1, 6]
+    }
+}, {
+    "pk": 1028,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Duck Mousse with White Wine 1x820 GM",
+        "EnergyKjoules": 1480,
+        "EnergyKcal": 358,
+        "Fat": 34,
+        "Protein": 12,
+        "Carbohydrates": 2.1,
+        "Salt": 1.6,
+        "Sugars": 2.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1029,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Florentin Sweet Potato Falafel (Yummy Yams Nuggets) 6x240 GM",
+        "EnergyKjoules": 502,
+        "EnergyKcal": 120,
+        "Fat": 9.3,
+        "Protein": 3.41,
+        "Carbohydrates": 8.21,
+        "Salt": 1.525,
+        "Sugars": 0.5,
+        "Fibre": 2.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1030,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Traditional Chicken Curry 2x2.5 KG",
+        "EnergyKjoules": 680,
+        "EnergyKcal": 162,
+        "Fat": 4.7,
+        "Protein": 9,
+        "Carbohydrates": 20,
+        "Salt": 0.5,
+        "Sugars": 2,
+        "Fibre": 1.4,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1031,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Half Moon Plain Omelette 22x125 GM",
+        "EnergyKjoules": 519,
+        "EnergyKcal": 125,
+        "Fat": 8.39,
+        "Protein": 10.64,
+        "Carbohydrates": 1.63,
+        "Salt": 0,
+        "Sugars": 1.05,
+        "Fibre": 0,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 1032,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken & Mushroom Vol Au Vent Filling 1x3 KG",
+        "EnergyKjoules": 489,
+        "EnergyKcal": 117,
+        "Fat": 6.5,
+        "Protein": 9.1,
+        "Carbohydrates": 5.7,
+        "Salt": 2.75,
+        "Sugars": 0,
+        "Fibre": 0.6,
+        "Allergens": [9, 1, 7]
+    }
+}, {
+    "pk": 1033,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chilli Con Carne 2x2.5 KG",
+        "EnergyKjoules": 405,
+        "EnergyKcal": 97,
+        "Fat": 4.6,
+        "Protein": 6.8,
+        "Carbohydrates": 6.2,
+        "Salt": 0.75,
+        "Sugars": 2.5,
+        "Fibre": 1.7,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1034,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Balti House Rice Boiled Basmati 2x1.5 KG",
+        "EnergyKjoules": 475,
+        "EnergyKcal": 113,
+        "Fat": 0.6,
+        "Protein": 2.3,
+        "Carbohydrates": 24.7,
+        "Salt": 1.15,
+        "Sugars": 0.2,
+        "Fibre": 0.4,
+        "Allergens": [1, 7, 8]
+    }
+}, {
+    "pk": 1035,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pre-Glazed Puff Pastry Sausage Rolls 100x60 GM",
+        "EnergyKjoules": 1336,
+        "EnergyKcal": 321,
+        "Fat": 21,
+        "Protein": 6.8,
+        "Carbohydrates": 24.6,
+        "Salt": 1.3,
+        "Sugars": 1.3,
+        "Fibre": 3.2,
+        "Allergens": [1, 7, 12]
+    }
+}, {
+    "pk": 1036,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Orien Bites Mini Vegetarian Spring Rolls 1x1 KG",
+        "EnergyKjoules": 870,
+        "EnergyKcal": 208,
+        "Fat": 11,
+        "Protein": 3,
+        "Carbohydrates": 24,
+        "Salt": 1.25,
+        "Sugars": 5,
+        "Fibre": 1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1037,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms Southern Fried Chicken Fillet 4x16x150 GM",
+        "EnergyKjoules": 1026,
+        "EnergyKcal": 245,
+        "Fat": 12.8,
+        "Protein": 17.2,
+        "Carbohydrates": 15.7,
+        "Salt": 1.075,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": [9, 1]
+    }
+}, {
+    "pk": 1038,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Orien Bites Large Duck Spring Rolls 1x40x60 GM",
+        "EnergyKjoules": 925,
+        "EnergyKcal": 221,
+        "Fat": 8.2,
+        "Protein": 8.1,
+        "Carbohydrates": 32.7,
+        "Salt": 0.89,
+        "Sugars": 5.8,
+        "Fibre": 3.4,
+        "Allergens": [1, 11, 6]
+    }
+}, {
+    "pk": 1039,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Vegetable Samosas 40x63 GM",
+        "EnergyKjoules": 773,
+        "EnergyKcal": 185,
+        "Fat": 9.4,
+        "Protein": 3.2,
+        "Carbohydrates": 20.6,
+        "Salt": 1.1,
+        "Sugars": 1.2,
+        "Fibre": 2.6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1040,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Mini Vegetable Spring Rolls 90x18 GM",
+        "EnergyKjoules": 882,
+        "EnergyKcal": 210,
+        "Fat": 7.8,
+        "Protein": 4.1,
+        "Carbohydrates": 29.9,
+        "Salt": 0.9,
+        "Sugars": 3.6,
+        "Fibre": 2.2,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1041,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Orien Bites Cocktail Samosas 1x1 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 242,
+        "Fat": 12,
+        "Protein": 4,
+        "Carbohydrates": 30,
+        "Salt": 0.865,
+        "Sugars": 5,
+        "Fibre": 2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1042,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Large Vegetable Spring Rolls 1x30x90 GM",
+        "EnergyKjoules": 504,
+        "EnergyKcal": 120,
+        "Fat": 3,
+        "Protein": 2.7,
+        "Carbohydrates": 20.6,
+        "Salt": 2.5,
+        "Sugars": 2.7,
+        "Fibre": 1.8,
+        "Allergens": [9, 1, 11]
+    }
+}, {
+    "pk": 1043,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Rosemary & Garlic Crusted Brie Wedges 1x30'S",
+        "EnergyKjoules": 1139,
+        "EnergyKcal": 273,
+        "Fat": 17.1,
+        "Protein": 13.7,
+        "Carbohydrates": 15.7,
+        "Salt": 1.5,
+        "Sugars": 0.6,
+        "Fibre": 0.8,
+        "Allergens": [1, 7, 12]
+    }
+}, {
+    "pk": 1044,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cooked Smoked Chicken Fillet Skin On 1x8x181 GM",
+        "EnergyKjoules": 622,
+        "EnergyKcal": 148,
+        "Fat": 5,
+        "Protein": 24,
+        "Carbohydrates": 1.7,
+        "Salt": 0,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1045,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Breaded Halloumi Sticks 6x1 KG",
+        "EnergyKjoules": 1365,
+        "EnergyKcal": 328,
+        "Fat": 28,
+        "Protein": 13.6,
+        "Carbohydrates": 14,
+        "Salt": 2.11,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1046,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Onion Bhajis 35x30 GM",
+        "EnergyKjoules": 890,
+        "EnergyKcal": 213,
+        "Fat": 11.8,
+        "Protein": 6,
+        "Carbohydrates": 19,
+        "Salt": 1,
+        "Sugars": 3.9,
+        "Fibre": 3.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1047,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Vegetable Pakoras (with Sauce Sachets) 1x40'S",
+        "EnergyKjoules": 478,
+        "EnergyKcal": 114,
+        "Fat": 2.4,
+        "Protein": 3.5,
+        "Carbohydrates": 18.1,
+        "Salt": 1.2,
+        "Sugars": 6.5,
+        "Fibre": 2.9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1048,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Traditional Savoury Platter Canapes 1x540 GM",
+        "EnergyKjoules": 991,
+        "EnergyKcal": 238,
+        "Fat": 15.7,
+        "Protein": 9.1,
+        "Carbohydrates": 17.8,
+        "Salt": 0,
+        "Sugars": 5.3,
+        "Fibre": 2.8,
+        "Allergens": [2, 3, 4, 1, 7, 14, 10, 8, 6, 12]
+    }
+}, {
+    "pk": 1049,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Unbaked Sausage Rolls 2 150x35 GM",
+        "EnergyKjoules": 1186,
+        "EnergyKcal": 282,
+        "Fat": 17.5,
+        "Protein": 5.9,
+        "Carbohydrates": 25.2,
+        "Salt": 1.16,
+        "Sugars": 0.6,
+        "Fibre": 1.1,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 1050,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Mini Indian Savoury Selection 60x15 GM",
+        "EnergyKjoules": 914,
+        "EnergyKcal": 219,
+        "Fat": 10.4,
+        "Protein": 5.3,
+        "Carbohydrates": 23.9,
+        "Salt": 0.8,
+        "Sugars": 8.9,
+        "Fibre": 4.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1051,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Orien Bites Mini Onion Bhajis 1x56x27 GM",
+        "EnergyKjoules": 867,
+        "EnergyKcal": 207,
+        "Fat": 8,
+        "Protein": 0,
+        "Carbohydrates": 26,
+        "Salt": 3.75,
+        "Sugars": 2.6,
+        "Fibre": 0,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 1052,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Malones Hotdog 10x10x120 GM",
+        "EnergyKjoules": 1240,
+        "EnergyKcal": 300,
+        "Fat": 25.1,
+        "Protein": 12.2,
+        "Carbohydrates": 6.2,
+        "Salt": 1.93,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1053,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Orien Bites Chicken Snacks 1x960 GM",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 248,
+        "Fat": 11,
+        "Protein": 18,
+        "Carbohydrates": 21,
+        "Salt": 1.05,
+        "Sugars": 4,
+        "Fibre": 2,
+        "Allergens": [4, 1, 8]
+    }
+}, {
+    "pk": 1054,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Bouchee Delights 125x20 GM",
+        "EnergyKjoules": 1162,
+        "EnergyKcal": 277,
+        "Fat": 17,
+        "Protein": 8.5,
+        "Carbohydrates": 21.8,
+        "Salt": 1,
+        "Sugars": 3.1,
+        "Fibre": 2.2,
+        "Allergens": [3, 4, 1, 7, 12]
+    }
+}, {
+    "pk": 1055,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Le Monde Des Crepes Butter Mini Blinis 240x5 GM",
+        "EnergyKjoules": 1149,
+        "EnergyKcal": 275,
+        "Fat": 13.8,
+        "Protein": 6.7,
+        "Carbohydrates": 29.9,
+        "Salt": 1.775,
+        "Sugars": 3.4,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1056,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Malones Hotdog 12x10x75 GM",
+        "EnergyKjoules": 1240,
+        "EnergyKcal": 300,
+        "Fat": 25.1,
+        "Protein": 12.2,
+        "Carbohydrates": 6.2,
+        "Salt": 1.93,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1057,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Thai Mini Vegetable Spring Rolls 1x1 KG",
+        "EnergyKjoules": 637,
+        "EnergyKcal": 152,
+        "Fat": 10,
+        "Protein": 0,
+        "Carbohydrates": 17,
+        "Salt": 2.15,
+        "Sugars": 3,
+        "Fibre": 0,
+        "Allergens": [1, 11, 6]
+    }
+}, {
+    "pk": 1058,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Daloon Simply Meat Free Falafel 60x25g",
+        "EnergyKjoules": 857,
+        "EnergyKcal": 205,
+        "Fat": 10.4,
+        "Protein": 7,
+        "Carbohydrates": 18.1,
+        "Salt": 0.7,
+        "Sugars": 1.8,
+        "Fibre": 5.7,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1059,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Battered Pork Sausages 12s 50x50 GM",
+        "EnergyKjoules": 1618,
+        "EnergyKcal": 386,
+        "Fat": 28.3,
+        "Protein": 8.3,
+        "Carbohydrates": 24.6,
+        "Salt": 1.2,
+        "Sugars": 1.3,
+        "Fibre": 1.4,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 1060,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rib World BBQ Coated Cooked Pork Spare Ribs 1x10 KG",
+        "EnergyKjoules": 1014,
+        "EnergyKcal": 243,
+        "Fat": 15.6,
+        "Protein": 15.7,
+        "Carbohydrates": 9.7,
+        "Salt": 0,
+        "Sugars": 4.8,
+        "Fibre": 0.5,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 1061,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Orien Bites Torpedo Shrimp 6x32x25 GM",
+        "EnergyKjoules": 569,
+        "EnergyKcal": 136,
+        "Fat": 0.6,
+        "Protein": 9.6,
+        "Carbohydrates": 23,
+        "Salt": 1.2,
+        "Sugars": 2.8,
+        "Fibre": 2,
+        "Allergens": [2, 1, 12]
+    }
+}, {
+    "pk": 1062,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Global Farms American Battered Chicken Fillet 1x2.4 KG",
+        "EnergyKjoules": 992,
+        "EnergyKcal": 237,
+        "Fat": 11.8,
+        "Protein": 19.2,
+        "Carbohydrates": 8.8,
+        "Salt": 1.2,
+        "Sugars": 0.9,
+        "Fibre": 0,
+        "Allergens": [9, 1, 6]
+    }
+}, {
+    "pk": 1063,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Semi Dried Tomatoes Vac Pac 1x1 KG",
+        "EnergyKjoules": 184,
+        "EnergyKcal": 97,
+        "Fat": 10.7,
+        "Protein": 3.9,
+        "Carbohydrates": 18,
+        "Salt": 0.84,
+        "Sugars": 11.3,
+        "Fibre": 5.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1064,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Traditional Hummus 1x1 KG",
+        "EnergyKjoules": 1052,
+        "EnergyKcal": 251,
+        "Fat": 16.3,
+        "Protein": 5.6,
+        "Carbohydrates": 19,
+        "Salt": 3.125,
+        "Sugars": 0.1,
+        "Fibre": 3.8,
+        "Allergens": [11]
+    }
+}, {
+    "pk": 1065,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sundried Tomatoes in Oil 1x2.9 KG",
+        "EnergyKjoules": 781,
+        "EnergyKcal": 187,
+        "Fat": 11,
+        "Protein": 1,
+        "Carbohydrates": 35,
+        "Salt": 1.1,
+        "Sugars": 11,
+        "Fibre": 2,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1066,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Basil Pesto 1x1 KG",
+        "EnergyKjoules": 1143,
+        "EnergyKcal": 277,
+        "Fat": 24.9,
+        "Protein": 5.6,
+        "Carbohydrates": 6,
+        "Salt": 0.75,
+        "Sugars": 5.1,
+        "Fibre": 0,
+        "Allergens": [7, 8, 5]
+    }
+}, {
+    "pk": 1067,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Oven Roasted Semi Dried Tomatoes 2x1150 GM",
+        "EnergyKjoules": 184,
+        "EnergyKcal": 97,
+        "Fat": 10.7,
+        "Protein": 3.9,
+        "Carbohydrates": 18,
+        "Salt": 0.84,
+        "Sugars": 11.3,
+        "Fibre": 5.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1068,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Essential Pitted Black Olives in Brine 1x2.26 KG",
+        "EnergyKjoules": 549,
+        "EnergyKcal": 132,
+        "Fat": 9.5,
+        "Protein": 1,
+        "Carbohydrates": 9.7,
+        "Salt": 2.175,
+        "Sugars": 0.1,
+        "Fibre": 2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1069,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Essential Pitted Green Olives 1x2.26 KG",
+        "EnergyKjoules": 603,
+        "EnergyKcal": 146,
+        "Fat": 12,
+        "Protein": 1.1,
+        "Carbohydrates": 6.4,
+        "Salt": 3,
+        "Sugars": 0,
+        "Fibre": 3.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1070,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Semi Dry Cherry Tomatoes in Sunflower Oil 2x1150 GM",
+        "EnergyKjoules": 184,
+        "EnergyKcal": 0,
+        "Fat": 10.7,
+        "Protein": 3.9,
+        "Carbohydrates": 18,
+        "Salt": 0.84,
+        "Sugars": 11.3,
+        "Fibre": 5.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1071,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Italian Semi Dried Tomatoes 1x1 KG",
+        "EnergyKjoules": 1079,
+        "EnergyKcal": 258,
+        "Fat": 3,
+        "Protein": 14,
+        "Carbohydrates": 56,
+        "Salt": 1,
+        "Sugars": 38,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1072,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Chilli, Basil & Garlic Hummus 1x1 KG",
+        "EnergyKjoules": 1437,
+        "EnergyKcal": 335,
+        "Fat": 27,
+        "Protein": 6.2,
+        "Carbohydrates": 18,
+        "Salt": 0.42,
+        "Sugars": 3.4,
+        "Fibre": 0,
+        "Allergens": [7, 8, 5, 11]
+    }
+}, {
+    "pk": 1073,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixed Italian Olives 1x1.9 KG",
+        "EnergyKjoules": 7.8,
+        "EnergyKcal": 169,
+        "Fat": 14.6,
+        "Protein": 1.1,
+        "Carbohydrates": 5.7,
+        "Salt": 3,
+        "Sugars": 0.3,
+        "Fibre": 5.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1074,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Sundried Tomato Pesto 1x1 KG",
+        "EnergyKjoules": 1179,
+        "EnergyKcal": 281,
+        "Fat": 26.5,
+        "Protein": 3.7,
+        "Carbohydrates": 6.4,
+        "Salt": 0.75,
+        "Sugars": 6.4,
+        "Fibre": 3.3,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1075,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Pitted Black Kalamata Olives 1x2 KG",
+        "EnergyKjoules": 1149,
+        "EnergyKcal": 275,
+        "Fat": 29,
+        "Protein": 1.1,
+        "Carbohydrates": 3.5,
+        "Salt": 2.4,
+        "Sugars": 1.2,
+        "Fibre": 2.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1076,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Peppalicious Peppers Stuffed with Cheese 1x2 KG",
+        "EnergyKjoules": 934,
+        "EnergyKcal": 223,
+        "Fat": 15.3,
+        "Protein": 4.7,
+        "Carbohydrates": 17.9,
+        "Salt": 1.5,
+        "Sugars": 16,
+        "Fibre": 2.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1077,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Explanada Pitted Black Olive Tins 1x4.15 KG",
+        "EnergyKjoules": 624,
+        "EnergyKcal": 152,
+        "Fat": 16,
+        "Protein": 0.6,
+        "Carbohydrates": 0,
+        "Salt": 2.5,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1078,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Smoked Semi Dried Tomato Pesto 1x1 KG",
+        "EnergyKjoules": 1143,
+        "EnergyKcal": 277,
+        "Fat": 24.9,
+        "Protein": 5.6,
+        "Carbohydrates": 6,
+        "Salt": 0.7,
+        "Sugars": 5.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1079,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pitted Black Olives with Garlic 1x1.9 KG",
+        "EnergyKjoules": 649,
+        "EnergyKcal": 155,
+        "Fat": 14.6,
+        "Protein": 1.1,
+        "Carbohydrates": 7.3,
+        "Salt": 1.965,
+        "Sugars": 0.8,
+        "Fibre": 3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1080,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Mammoth Pitted Green Olives 1x2 KG",
+        "EnergyKjoules": 732,
+        "EnergyKcal": 175,
+        "Fat": 19,
+        "Protein": 1.6,
+        "Carbohydrates": 4,
+        "Salt": 2.4,
+        "Sugars": 0,
+        "Fibre": 4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1081,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Black Tapenade 1x1 KG",
+        "EnergyKjoules": 1579,
+        "EnergyKcal": 388,
+        "Fat": 39.2,
+        "Protein": 2.4,
+        "Carbohydrates": 6.3,
+        "Salt": 4.25,
+        "Sugars": 3.2,
+        "Fibre": 4.5,
+        "Allergens": [4, 10]
+    }
+}, {
+    "pk": 1082,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Black Pitted & Marinated Olives 1x1.9 KG",
+        "EnergyKjoules": 1067,
+        "EnergyKcal": 255,
+        "Fat": 27.3,
+        "Protein": 1.6,
+        "Carbohydrates": 0.8,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1083,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Pitted Mediterranean Olive & Feta Mix 1x2 KG",
+        "EnergyKjoules": 978,
+        "EnergyKcal": 238,
+        "Fat": 25,
+        "Protein": 1.5,
+        "Carbohydrates": 2,
+        "Salt": 3.6,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1084,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie North African Fresh Spicy Harissa 1x2.5 KG",
+        "EnergyKjoules": 295,
+        "EnergyKcal": 70,
+        "Fat": 27.2,
+        "Protein": 3.2,
+        "Carbohydrates": 10.3,
+        "Salt": 3,
+        "Sugars": 10.3,
+        "Fibre": 4.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1085,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Green Olives Stuffed with Red Peppers 1x2 KG",
+        "EnergyKjoules": 972,
+        "EnergyKcal": 209,
+        "Fat": 22,
+        "Protein": 1.2,
+        "Carbohydrates": 1,
+        "Salt": 2.8,
+        "Sugars": 0,
+        "Fibre": 1.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1086,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Whole Sicilian Nocellara Olives 1x1.1 KG",
+        "EnergyKjoules": 567,
+        "EnergyKcal": 136,
+        "Fat": 14,
+        "Protein": 1,
+        "Carbohydrates": 1.2,
+        "Salt": 2.2,
+        "Sugars": 0,
+        "Fibre": 1.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1087,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Taste Of Sicily Olives 1x2.15 KG",
+        "EnergyKjoules": 795,
+        "EnergyKcal": 190,
+        "Fat": 20,
+        "Protein": 1.7,
+        "Carbohydrates": 4.3,
+        "Salt": 2.2,
+        "Sugars": 0.5,
+        "Fibre": 3.4,
+        "Allergens": [10, 12]
+    }
+}, {
+    "pk": 1088,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Hummus Traditional Retail Pack 6x150 GM",
+        "EnergyKjoules": 1052,
+        "EnergyKcal": 253,
+        "Fat": 16.3,
+        "Protein": 5.6,
+        "Carbohydrates": 19,
+        "Salt": 3.125,
+        "Sugars": 0.1,
+        "Fibre": 3.8,
+        "Allergens": [11]
+    }
+}, {
+    "pk": 1089,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie House Mix 1x1 KG",
+        "EnergyKjoules": 661,
+        "EnergyKcal": 160,
+        "Fat": 14.3,
+        "Protein": 1.68,
+        "Carbohydrates": 7.3,
+        "Salt": 2.7,
+        "Sugars": 2.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1090,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Green Olive Tapenade 1x1 KG",
+        "EnergyKjoules": 1066,
+        "EnergyKcal": 259,
+        "Fat": 26,
+        "Protein": 0.9,
+        "Carbohydrates": 4.5,
+        "Salt": 1.7,
+        "Sugars": 2.6,
+        "Fibre": 0,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 1091,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Pitted Sundried Moroccan Olives 1x1 KG",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 305.1,
+        "Fat": 28.4,
+        "Protein": 1.08,
+        "Carbohydrates": 19.4,
+        "Salt": 0,
+        "Sugars": 0.45,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1092,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Green Olives Stuffed with Garlic 1x2 KG",
+        "EnergyKjoules": 801,
+        "EnergyKcal": 192,
+        "Fat": 18,
+        "Protein": 2.1,
+        "Carbohydrates": 4.5,
+        "Salt": 3,
+        "Sugars": 0.5,
+        "Fibre": 1.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1093,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tom & Ollie Green Olives Stuffed with Almonds 1x2 KG",
+        "EnergyKjoules": 1013,
+        "EnergyKcal": 242,
+        "Fat": 24,
+        "Protein": 3.6,
+        "Carbohydrates": 3,
+        "Salt": 3.2,
+        "Sugars": 1,
+        "Fibre": 2.3,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 1094,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Chorizo 1x80 GM",
+        "EnergyKjoules": 1681,
+        "EnergyKcal": 406,
+        "Fat": 35,
+        "Protein": 21,
+        "Carbohydrates": 1.7,
+        "Salt": 4,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1095,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chorizo Cubes 1x500 GM",
+        "EnergyKjoules": 1573,
+        "EnergyKcal": 380,
+        "Fat": 32,
+        "Protein": 21,
+        "Carbohydrates": 1.9,
+        "Salt": 3.3,
+        "Sugars": 0.8,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1096,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Spicy Sarta Chorizo 1x225 GM",
+        "EnergyKjoules": 1991,
+        "EnergyKcal": 481,
+        "Fat": 42,
+        "Protein": 23,
+        "Carbohydrates": 2.7,
+        "Salt": 4.1,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1097,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mild Vela Chorizo 1x225 GM",
+        "EnergyKjoules": 2128,
+        "EnergyKcal": 508,
+        "Fat": 47,
+        "Protein": 21,
+        "Carbohydrates": 1.9,
+        "Salt": 4,
+        "Sugars": 0.5,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1098,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Serrano Ham (gaspack with interleavers) 1x500 GM",
+        "EnergyKjoules": 1043,
+        "EnergyKcal": 249,
+        "Fat": 14,
+        "Protein": 30,
+        "Carbohydrates": 0.9,
+        "Salt": 4.5,
+        "Sugars": 0.5,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1099,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mild Vela Chorizo 1x1.8 KG",
+        "EnergyKjoules": 1530,
+        "EnergyKcal": 369,
+        "Fat": 30,
+        "Protein": 21,
+        "Carbohydrates": 3.7,
+        "Salt": 8.75,
+        "Sugars": 2.2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1100,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gubbeen Smokehouse Chorizo 1x1.2 KG",
+        "EnergyKjoules": 1860,
+        "EnergyKcal": 445,
+        "Fat": 36,
+        "Protein": 25.3,
+        "Carbohydrates": 5.38,
+        "Salt": 1.36,
+        "Sugars": 3.43,
+        "Fibre": 0.74,
+        "Allergens": []
+    }
+}, {
+    "pk": 1101,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Explanada Pitted Green Olive Tins 1x4.15 KG",
+        "EnergyKjoules": 706,
+        "EnergyKcal": 171,
+        "Fat": 18,
+        "Protein": 1,
+        "Carbohydrates": 0,
+        "Salt": 4,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1102,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Beetroot Salad with Honey & Balsamic Vinegar 1x2 KG",
+        "EnergyKjoules": 364,
+        "EnergyKcal": 87,
+        "Fat": 4.1,
+        "Protein": 1.7,
+        "Carbohydrates": 10.4,
+        "Salt": 0.175,
+        "Sugars": 9.8,
+        "Fibre": 2.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1103,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chickpea & Roasted Pepper Salad 1x2 KG",
+        "EnergyKjoules": 623,
+        "EnergyKcal": 150,
+        "Fat": 8.6,
+        "Protein": 5.9,
+        "Carbohydrates": 10,
+        "Salt": 0.525,
+        "Sugars": 0.4,
+        "Fibre": 4.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1104,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tuna & Sweetcorn Salad 1x1 KG",
+        "EnergyKjoules": 659,
+        "EnergyKcal": 157,
+        "Fat": 9.3,
+        "Protein": 16.8,
+        "Carbohydrates": 1.9,
+        "Salt": 1.15,
+        "Sugars": 1.3,
+        "Fibre": 0.1,
+        "Allergens": [3, 4, 10]
+    }
+}, {
+    "pk": 1105,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Deli Style Coleslaw 1x2 KG",
+        "EnergyKjoules": 921,
+        "EnergyKcal": 223,
+        "Fat": 22,
+        "Protein": 1.1,
+        "Carbohydrates": 4.2,
+        "Salt": 0.35,
+        "Sugars": 1.6,
+        "Fibre": 2.1,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 1106,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Couscous Salad 1x2 KG",
+        "EnergyKjoules": 734,
+        "EnergyKcal": 175,
+        "Fat": 5.1,
+        "Protein": 3.1,
+        "Carbohydrates": 28,
+        "Salt": 0.35,
+        "Sugars": 14,
+        "Fibre": 2.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1107,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mashed Potato Salad 1x2 KG",
+        "EnergyKjoules": 669,
+        "EnergyKcal": 160,
+        "Fat": 11.3,
+        "Protein": 1.6,
+        "Carbohydrates": 13,
+        "Salt": 0.025,
+        "Sugars": 1,
+        "Fibre": 1.4,
+        "Allergens": [3, 7, 10]
+    }
+}, {
+    "pk": 1108,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Broccoli Carrot & Cranberry Salad 1x2 KG",
+        "EnergyKjoules": 876,
+        "EnergyKcal": 212,
+        "Fat": 19,
+        "Protein": 3.4,
+        "Carbohydrates": 5.3,
+        "Salt": 0.28,
+        "Sugars": 3.4,
+        "Fibre": 3.1,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 1109,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Tikka Masala Sandwich Filling 1x1 KG",
+        "EnergyKjoules": 848,
+        "EnergyKcal": 204,
+        "Fat": 13.5,
+        "Protein": 19.3,
+        "Carbohydrates": 2.6,
+        "Salt": 0.775,
+        "Sugars": 1.7,
+        "Fibre": 0.3,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 1110,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coleslaw 1x2 KG",
+        "EnergyKjoules": 921,
+        "EnergyKcal": 223,
+        "Fat": 22,
+        "Protein": 1.1,
+        "Carbohydrates": 4.2,
+        "Salt": 0.35,
+        "Sugars": 1.6,
+        "Fibre": 2.1,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 1111,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Curied Rice Salad 1x2 KG",
+        "EnergyKjoules": 579,
+        "EnergyKcal": 138,
+        "Fat": 4.5,
+        "Protein": 2.7,
+        "Carbohydrates": 21,
+        "Salt": 0.59,
+        "Sugars": 2.7,
+        "Fibre": 1.2,
+        "Allergens": [1, 10]
+    }
+}, {
+    "pk": 1112,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Carrot Ginger & Chia Seed Salad 1x2 KG",
+        "EnergyKjoules": 380,
+        "EnergyKcal": 91,
+        "Fat": 5.1,
+        "Protein": 2,
+        "Carbohydrates": 8.1,
+        "Salt": 0.12,
+        "Sugars": 6.9,
+        "Fibre": 2.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1113,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken Chilli Noodle & Fresh Vegetable Salad 1x2 KG",
+        "EnergyKjoules": 684,
+        "EnergyKcal": 163,
+        "Fat": 6.5,
+        "Protein": 3.4,
+        "Carbohydrates": 22,
+        "Salt": 0.17,
+        "Sugars": 2,
+        "Fibre": 1.4,
+        "Allergens": [1, 10, 6]
+    }
+}, {
+    "pk": 1114,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mexican Salad 1x2 KG",
+        "EnergyKjoules": 214,
+        "EnergyKcal": 51,
+        "Fat": 2.6,
+        "Protein": 1,
+        "Carbohydrates": 5.1,
+        "Salt": 0.225,
+        "Sugars": 4.2,
+        "Fibre": 1.7,
+        "Allergens": [1, 10]
+    }
+}, {
+    "pk": 1115,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Triple Rice Salad 1x2 KG",
+        "EnergyKjoules": 633,
+        "EnergyKcal": 151,
+        "Fat": 5.7,
+        "Protein": 2.7,
+        "Carbohydrates": 21,
+        "Salt": 0.55,
+        "Sugars": 3.4,
+        "Fibre": 2.4,
+        "Allergens": [1, 10, 12]
+    }
+}, {
+    "pk": 1116,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Duo Grain Salad 1x2 KG",
+        "EnergyKjoules": 468,
+        "EnergyKcal": 111,
+        "Fat": 2.9,
+        "Protein": 4.3,
+        "Carbohydrates": 16,
+        "Salt": 0.3,
+        "Sugars": 0.5,
+        "Fibre": 2,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1117,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Whole Wheat Flour Tortilla Wraps 10 4x18'S",
+        "EnergyKjoules": 1218,
+        "EnergyKcal": 289,
+        "Fat": 6,
+        "Protein": 9.3,
+        "Carbohydrates": 46.3,
+        "Salt": 1.5,
+        "Sugars": 2.5,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1118,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cream of Vegetable Soup 1x2 LT",
+        "EnergyKjoules": 176,
+        "EnergyKcal": 42,
+        "Fat": 2.2,
+        "Protein": 0.7,
+        "Carbohydrates": 5.2,
+        "Salt": 0.77,
+        "Sugars": 1.9,
+        "Fibre": 0.9,
+        "Allergens": [9, 7]
+    }
+}, {
+    "pk": 1119,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tomato & Basil Soup 1x2 LT",
+        "EnergyKjoules": 167,
+        "EnergyKcal": 40,
+        "Fat": 1.3,
+        "Protein": 0.8,
+        "Carbohydrates": 6.5,
+        "Salt": 0.7,
+        "Sugars": 3.3,
+        "Fibre": 0.8,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 1120,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Potato & Leek Soup 1x2 LT",
+        "EnergyKjoules": 229,
+        "EnergyKcal": 55,
+        "Fat": 2.6,
+        "Protein": 1,
+        "Carbohydrates": 6.5,
+        "Salt": 0.6,
+        "Sugars": 1.1,
+        "Fibre": 0.9,
+        "Allergens": [9, 7]
+    }
+}, {
+    "pk": 1121,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chicken & Vegetable Soup 1x2 LT",
+        "EnergyKjoules": 200,
+        "EnergyKcal": 48,
+        "Fat": 2.4,
+        "Protein": 1.9,
+        "Carbohydrates": 4.9,
+        "Salt": 0.65,
+        "Sugars": 1.5,
+        "Fibre": 0.7,
+        "Allergens": [9, 7]
+    }
+}, {
+    "pk": 1122,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chestnut Mushroom Soup 1x2 LT",
+        "EnergyKjoules": 172,
+        "EnergyKcal": 42,
+        "Fat": 2.5,
+        "Protein": 1,
+        "Carbohydrates": 3.6,
+        "Salt": 0.7,
+        "Sugars": 0.7,
+        "Fibre": 0.6,
+        "Allergens": [9, 7]
+    }
+}, {
+    "pk": 1123,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Carrot & Coriander Soup 1x2 LT",
+        "EnergyKjoules": 150,
+        "EnergyKcal": 36,
+        "Fat": 1.2,
+        "Protein": 0.5,
+        "Carbohydrates": 5.3,
+        "Salt": 0.61,
+        "Sugars": 3.7,
+        "Fibre": 1.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1124,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Red Thai Chicken Soup 1x2 LT",
+        "EnergyKjoules": 380,
+        "EnergyKcal": 92,
+        "Fat": 7,
+        "Protein": 2.6,
+        "Carbohydrates": 5.2,
+        "Salt": 0.7,
+        "Sugars": 2.9,
+        "Fibre": 0.6,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 1125,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Minestrone Soup 1x2 LT",
+        "EnergyKjoules": 224,
+        "EnergyKcal": 53,
+        "Fat": 1.4,
+        "Protein": 1.4,
+        "Carbohydrates": 8.9,
+        "Salt": 0.7,
+        "Sugars": 2.4,
+        "Fibre": 1,
+        "Allergens": [9, 1]
+    }
+}, {
+    "pk": 1126,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cream of Chicken Soup 1x2 LT",
+        "EnergyKjoules": 245,
+        "EnergyKcal": 59,
+        "Fat": 3,
+        "Protein": 2.8,
+        "Carbohydrates": 5.3,
+        "Salt": 0.7,
+        "Sugars": 1.3,
+        "Fibre": 0.6,
+        "Allergens": [9, 7]
+    }
+}, {
+    "pk": 1127,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Minestrone 100% Soup Pouch 1x2.5 KG",
+        "EnergyKjoules": 180,
+        "EnergyKcal": 45,
+        "Fat": 1,
+        "Protein": 1,
+        "Carbohydrates": 7,
+        "Salt": 1.075,
+        "Sugars": 3,
+        "Fibre": 0.8,
+        "Allergens": [9, 3, 1, 7]
+    }
+}, {
+    "pk": 1128,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Leek & Potato Soup 1x200 PTN",
+        "EnergyKjoules": 1491,
+        "EnergyKcal": 357,
+        "Fat": 7.6,
+        "Protein": 7.4,
+        "Carbohydrates": 61,
+        "Salt": 10,
+        "Sugars": 8.7,
+        "Fibre": 4.3,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1129,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Farmhouse Vegetable Soup Mix 3x1.1 KG",
+        "EnergyKjoules": 118,
+        "EnergyKcal": 28,
+        "Fat": 0.6,
+        "Protein": 0.6,
+        "Carbohydrates": 5,
+        "Salt": 0.975,
+        "Sugars": 1,
+        "Fibre": 0.2,
+        "Allergens": [9, 1, 7, 6]
+    }
+}, {
+    "pk": 1130,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Mushroom Soup Mix 3x1.32 KG",
+        "EnergyKjoules": 2082,
+        "EnergyKcal": 474,
+        "Fat": 29,
+        "Protein": 5.7,
+        "Carbohydrates": 49,
+        "Salt": 6.6,
+        "Sugars": 6.2,
+        "Fibre": 0.5,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1131,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Oxtail Soup Mix 3x1.04 KG",
+        "EnergyKjoules": 130,
+        "EnergyKcal": 31,
+        "Fat": 1.5,
+        "Protein": 0.5,
+        "Carbohydrates": 4,
+        "Salt": 0.9,
+        "Sugars": 0.3,
+        "Fibre": 0.1,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1132,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Thick Vegetable Soup 2.04kg 1x200 PTN",
+        "EnergyKjoules": 1481,
+        "EnergyKcal": 355,
+        "Fat": 8,
+        "Protein": 9.1,
+        "Carbohydrates": 57,
+        "Salt": 10,
+        "Sugars": 8,
+        "Fibre": 5.7,
+        "Allergens": [9, 7]
+    }
+}, {
+    "pk": 1133,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Cream of Chicken Soup Mix 3x1.07 KG",
+        "EnergyKjoules": 173,
+        "EnergyKcal": 41,
+        "Fat": 3.1,
+        "Protein": 0.3,
+        "Carbohydrates": 3,
+        "Salt": 0.75,
+        "Sugars": 0.4,
+        "Fibre": 0.1,
+        "Allergens": [9, 3, 1, 7, 6]
+    }
+}, {
+    "pk": 1134,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Potato & Leek Soup Mix 3x1.1 KG",
+        "EnergyKjoules": 124,
+        "EnergyKcal": 29,
+        "Fat": 0.8,
+        "Protein": 0.7,
+        "Carbohydrates": 4.8,
+        "Salt": 0.5,
+        "Sugars": 0.5,
+        "Fibre": 0.6,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1135,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Chicken Soup 2.21kg 1x200 PTN",
+        "EnergyKjoules": 1800,
+        "EnergyKcal": 420,
+        "Fat": 18,
+        "Protein": 7,
+        "Carbohydrates": 57,
+        "Salt": 10,
+        "Sugars": 3.5,
+        "Fibre": 1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1136,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Tomato & Basil Soup Mix 3x1.32 KG",
+        "EnergyKjoules": 1657,
+        "EnergyKcal": 384,
+        "Fat": 13,
+        "Protein": 6.2,
+        "Carbohydrates": 60,
+        "Salt": 6.2,
+        "Sugars": 30,
+        "Fibre": 5.6,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1137,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Chicken & Vegetable 3x870 GM",
+        "EnergyKjoules": 103,
+        "EnergyKcal": 24.52,
+        "Fat": 1.2,
+        "Protein": 0.6,
+        "Carbohydrates": 2.9,
+        "Salt": 1,
+        "Sugars": 0.5,
+        "Fibre": 0.3,
+        "Allergens": [9, 3, 1, 7, 6]
+    }
+}, {
+    "pk": 1138,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Knorr Tomato Soup 2.21kg 1x200 PTN",
+        "EnergyKjoules": 1400,
+        "EnergyKcal": 335,
+        "Fat": 3,
+        "Protein": 7,
+        "Carbohydrates": 71,
+        "Salt": 9.8,
+        "Sugars": 36,
+        "Fibre": 3,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1139,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Soup Mix 4x3 KG",
+        "EnergyKjoules": 7107,
+        "EnergyKcal": 1698,
+        "Fat": 8.5,
+        "Protein": 54.9,
+        "Carbohydrates": 366.4,
+        "Salt": 0.5,
+        "Sugars": 2.9,
+        "Fibre": 10.3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1140,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brehon Country Style Terrine 2x1.5 KG",
+        "EnergyKjoules": 1409,
+        "EnergyKcal": 340,
+        "Fat": 30,
+        "Protein": 17,
+        "Carbohydrates": 0.6,
+        "Salt": 1.2,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1141,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pheasant Terrine with Girolles (approx 20ptn) 1x1 KG",
+        "EnergyKjoules": 868,
+        "EnergyKcal": 209,
+        "Fat": 16.5,
+        "Protein": 12.4,
+        "Carbohydrates": 3.4,
+        "Salt": 1.71,
+        "Sugars": 2.2,
+        "Fibre": 1.2,
+        "Allergens": [3, 7, 12]
+    }
+}, {
+    "pk": 1142,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salmon Terrine with Chive 1x840 GM",
+        "EnergyKjoules": 694,
+        "EnergyKcal": 167,
+        "Fat": 12,
+        "Protein": 8.9,
+        "Carbohydrates": 5.2,
+        "Salt": 0.86,
+        "Sugars": 1.6,
+        "Fibre": 0,
+        "Allergens": [3, 4]
+    }
+}, {
+    "pk": 1143,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wild Boar Terrine with Red Wine 1x1.5 KG",
+        "EnergyKjoules": 1144,
+        "EnergyKcal": 276,
+        "Fat": 22,
+        "Protein": 18,
+        "Carbohydrates": 0.9,
+        "Salt": 2,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": [9, 3, 7, 12]
+    }
+}]

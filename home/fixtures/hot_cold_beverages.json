@@ -1,0 +1,2596 @@
+[{
+    "pk": 1811,
+    "model": "home.products",
+    "fields": {
+        "product_name": "The Juice Cranberry Juice 1x1 LT",
+        "EnergyKjoules": 219,
+        "EnergyKcal": 52,
+        "Fat": 0,
+        "Protein": 0.062,
+        "Carbohydrates": 12.376,
+        "Salt": 0,
+        "Sugars": 12.376,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1812,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Freshly Squeezed Orange Juice 1x2 LT",
+        "EnergyKjoules": 161,
+        "EnergyKcal": 38,
+        "Fat": 0,
+        "Protein": 0.7,
+        "Carbohydrates": 8.2,
+        "Salt": 0,
+        "Sugars": 7.8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1813,
+    "model": "home.products",
+    "fields": {
+        "product_name": "The Juice Pineapple Juice 1x1 LT",
+        "EnergyKjoules": 205,
+        "EnergyKcal": 48,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 11,
+        "Salt": 0,
+        "Sugars": 11,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1814,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Don Simon Orange Juice 12x1 LT",
+        "EnergyKjoules": 183,
+        "EnergyKcal": 43,
+        "Fat": 0,
+        "Protein": 0.6,
+        "Carbohydrates": 10,
+        "Salt": 0.025,
+        "Sugars": 10,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1815,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Don Simon Apple Juice 30x200 ML",
+        "EnergyKjoules": 173,
+        "EnergyKcal": 41,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 10,
+        "Salt": 0,
+        "Sugars": 10,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1816,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vit Hit Lean & Green 12x500 ML",
+        "EnergyKjoules": 31,
+        "EnergyKcal": 7,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 1.4,
+        "Salt": 0.025,
+        "Sugars": 1.3,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1817,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Don Simon Apple Juice 12x1 LT",
+        "EnergyKjoules": 173,
+        "EnergyKcal": 41,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 10,
+        "Salt": 0.025,
+        "Sugars": 10,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1818,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Smooth Orange Juice 8x330 ML",
+        "EnergyKjoules": 186,
+        "EnergyKcal": 44,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 11,
+        "Salt": 0.025,
+        "Sugars": 9.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1819,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vit Hit Berry Boost 12x500 ML",
+        "EnergyKjoules": 12.12,
+        "EnergyKcal": 2.93,
+        "Fat": 0,
+        "Protein": 0.02,
+        "Carbohydrates": 0.88,
+        "Salt": 0.015,
+        "Sugars": 0.88,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1820,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Keelings Freshly Squeezed Apple Juice 1x1 LT",
+        "EnergyKjoules": 190.3,
+        "EnergyKcal": 45.5,
+        "Fat": 0.4,
+        "Protein": 0.5,
+        "Carbohydrates": 10.3,
+        "Salt": 0.01,
+        "Sugars": 10.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1821,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Don Simon Orange Juice 30x200 ML",
+        "EnergyKjoules": 183,
+        "EnergyKcal": 43,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 10,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1822,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vit Hit Detox Mandarin & Green Tea 12x500 ML",
+        "EnergyKjoules": 29,
+        "EnergyKcal": 6.9,
+        "Fat": 0.1,
+        "Protein": 0.1,
+        "Carbohydrates": 1.2,
+        "Salt": 0.05,
+        "Sugars": 1.2,
+        "Fibre": 0.1,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1823,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sisu Lime Juice 1x1 LT",
+        "EnergyKjoules": 180,
+        "EnergyKcal": 43,
+        "Fat": 0.2,
+        "Protein": 0.7,
+        "Carbohydrates": 8,
+        "Salt": 0.01,
+        "Sugars": 1.8,
+        "Fibre": 2.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1824,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Don Simon Orange Juice (not from concentrate) 12x1 LT",
+        "EnergyKjoules": 192,
+        "EnergyKcal": 46,
+        "Fat": 0,
+        "Protein": 0.02,
+        "Carbohydrates": 10,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1825,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sisu Lemon Juice 1x1 LT",
+        "EnergyKjoules": 149,
+        "EnergyKcal": 35,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 8.4,
+        "Salt": 0,
+        "Sugars": 2.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1826,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Apple Juice 8x330 ML",
+        "EnergyKjoules": 184,
+        "EnergyKcal": 43,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 10.5,
+        "Salt": 0,
+        "Sugars": 9.7,
+        "Fibre": 0.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1827,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes NAS Double Strength Whole Orange Squash 1x5 LT",
+        "EnergyKjoules": 66,
+        "EnergyKcal": 15,
+        "Fat": 0,
+        "Protein": 0.255,
+        "Carbohydrates": 1.64,
+        "Salt": 1.875,
+        "Sugars": 0.75,
+        "Fibre": 0.24,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1828,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vit Hit Perform Mango & Passionfruit 12x500 ML",
+        "EnergyKjoules": 21,
+        "EnergyKcal": 5,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 0.6,
+        "Salt": 0.025,
+        "Sugars": 0.6,
+        "Fibre": 0.5,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1829,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lemon Juice 1x1 LT",
+        "EnergyKjoules": 116,
+        "EnergyKcal": 27,
+        "Fat": 0.03,
+        "Protein": 0.4,
+        "Carbohydrates": 2,
+        "Salt": 0.01,
+        "Sugars": 2,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1830,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Freshly Squeezed Orange Juice 1x5 LT",
+        "EnergyKjoules": 185,
+        "EnergyKcal": 44,
+        "Fat": 0.1,
+        "Protein": 1,
+        "Carbohydrates": 8,
+        "Salt": 0.025,
+        "Sugars": 8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1831,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kulana Orange Juice from Concentrate Tetra Pack 8x1.5 LT",
+        "EnergyKjoules": 173,
+        "EnergyKcal": 41,
+        "Fat": 0,
+        "Protein": 0.7,
+        "Carbohydrates": 8.9,
+        "Salt": 0,
+        "Sugars": 8.9,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1832,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sisu Simply Orange Juice 6x250 ML",
+        "EnergyKjoules": 200.8,
+        "EnergyKcal": 48,
+        "Fat": 0.1,
+        "Protein": 0.6,
+        "Carbohydrates": 10.9,
+        "Salt": 0,
+        "Sugars": 9.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1833,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Jaffa Gold Orange Juice 12x1 LT",
+        "EnergyKjoules": 205,
+        "EnergyKcal": 48,
+        "Fat": 0.2,
+        "Protein": 0.4,
+        "Carbohydrates": 11.2,
+        "Salt": 0.025,
+        "Sugars": 11.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1834,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vit Hit Citrus Revive 12x500 ML",
+        "EnergyKjoules": 14.6,
+        "EnergyKcal": 3.43,
+        "Fat": 0,
+        "Protein": 0.06,
+        "Carbohydrates": 1,
+        "Salt": 0,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1835,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lime Juice 1x1 LT",
+        "EnergyKjoules": 116,
+        "EnergyKcal": 27,
+        "Fat": 0.03,
+        "Protein": 0.4,
+        "Carbohydrates": 2,
+        "Salt": 0.01,
+        "Sugars": 2,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1836,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sisu Daily Greens Juice 6x250 ML",
+        "EnergyKjoules": 171.5,
+        "EnergyKcal": 41,
+        "Fat": 0.1,
+        "Protein": 0.5,
+        "Carbohydrates": 9.6,
+        "Salt": 0,
+        "Sugars": 8.6,
+        "Fibre": 0,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 1837,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kulana Apple Juice from Concentrate Tetra Pack 8x1.5 LT",
+        "EnergyKjoules": 192,
+        "EnergyKcal": 45,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 11,
+        "Salt": 0,
+        "Sugars": 11,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1838,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Robinsons Fruit Shoot Apple & Blackcurrant PET 24x200 ML",
+        "EnergyKjoules": 20,
+        "EnergyKcal": 5,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0.8,
+        "Salt": 0,
+        "Sugars": 0.8,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1839,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ribena Blackcurrant Tetra Pack 24x250 ML",
+        "EnergyKjoules": 176,
+        "EnergyKcal": 41,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 10,
+        "Salt": 0.025,
+        "Sugars": 10,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1840,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Capri Sun Orange 40x200 ML",
+        "EnergyKjoules": 176,
+        "EnergyKcal": 42,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10,
+        "Salt": 0,
+        "Sugars": 10,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1841,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes NAS Double Strength Blackcurrant Squash 1x5 LT",
+        "EnergyKjoules": 46,
+        "EnergyKcal": 11,
+        "Fat": 0,
+        "Protein": 0.237,
+        "Carbohydrates": 0.689,
+        "Salt": 0.3,
+        "Sugars": 0.689,
+        "Fibre": 0.001,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1842,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lemon Juice 1x1 LT",
+        "EnergyKjoules": 109,
+        "EnergyKcal": 26,
+        "Fat": 0.2,
+        "Protein": 0.7,
+        "Carbohydrates": 2.6,
+        "Salt": 0,
+        "Sugars": 2.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1843,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coca-Cola Can 24x330 ML",
+        "EnergyKjoules": 180,
+        "EnergyKcal": 42,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10.6,
+        "Salt": 0,
+        "Sugars": 10.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1844,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coke Zero Can 24x330 ML",
+        "EnergyKjoules": 1.4,
+        "EnergyKcal": 0.3,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1845,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Diet Coke Can 24x330 ML",
+        "EnergyKjoules": 1.6,
+        "EnergyKcal": 0.4,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1846,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fanta Orange Cans 24x330 ML",
+        "EnergyKjoules": 50,
+        "EnergyKcal": 330,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 12.2,
+        "Salt": 0,
+        "Sugars": 12.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1847,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coca-Cola Plastic Bottle 24x500 ML",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 63,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 15.9,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1848,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lucozade Sport Orange Bottle 12x500 ML",
+        "EnergyKjoules": 118,
+        "EnergyKcal": 28,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 6.4,
+        "Salt": 0.025,
+        "Sugars": 3.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1849,
+    "model": "home.products",
+    "fields": {
+        "product_name": "7Up Free Can 24x330 ML",
+        "EnergyKjoules": 8,
+        "EnergyKcal": 1,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1850,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lucozade Original 24x380 ML",
+        "EnergyKjoules": 743,
+        "EnergyKcal": 177,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 43,
+        "Salt": 0.025,
+        "Sugars": 21.8,
+        "Fibre": 0,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1851,
+    "model": "home.products",
+    "fields": {
+        "product_name": "San Pellegrino Sparkling Lemon Can 24x330 ML",
+        "EnergyKjoules": 191,
+        "EnergyKcal": 45,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10.5,
+        "Salt": 0,
+        "Sugars": 10,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1852,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coca-Cola Glass Bottle 24x330 ML",
+        "EnergyKjoules": 180,
+        "EnergyKcal": 42,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10.6,
+        "Salt": 0,
+        "Sugars": 10.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1853,
+    "model": "home.products",
+    "fields": {
+        "product_name": "San Pellegrino Sparkling Orange Can 24x330 ML",
+        "EnergyKjoules": 181,
+        "EnergyKcal": 43,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10.3,
+        "Salt": 0,
+        "Sugars": 9.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1854,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Club Orange Cans 24x330 ML",
+        "EnergyKjoules": 231,
+        "EnergyKcal": 55,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 13,
+        "Salt": 0.25,
+        "Sugars": 13,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1855,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Diet Coke Plastic Bottle 24x500 ML",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 0.5,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1856,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lorina Traditional Pink Lemonade 12x33 CL",
+        "EnergyKjoules": 221,
+        "EnergyKcal": 52,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 12.8,
+        "Salt": 0,
+        "Sugars": 12.8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1857,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coke Zero Glass Bottle 24x330 ML",
+        "EnergyKjoules": 1.4,
+        "EnergyKcal": 0.3,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1858,
+    "model": "home.products",
+    "fields": {
+        "product_name": "7Up Free Plastic Bottle 12x1.25 LT",
+        "EnergyKjoules": 8,
+        "EnergyKcal": 2,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1859,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sprite No Sugar Can 24x330 ML",
+        "EnergyKjoules": 5,
+        "EnergyKcal": 1,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.175,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1860,
+    "model": "home.products",
+    "fields": {
+        "product_name": "San Pellegrino Blood Orange Can 24x330 ML",
+        "EnergyKjoules": 171,
+        "EnergyKcal": 41,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10,
+        "Salt": 0.025,
+        "Sugars": 9.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1861,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fanta Orange Plastic Bottle 24x500 ML",
+        "EnergyKjoules": 201,
+        "EnergyKcal": 50,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 12.2,
+        "Salt": 0,
+        "Sugars": 12.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1862,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vit Hit Sparkling Raspberry & Watermelon Can 12x330 ML",
+        "EnergyKjoules": 47,
+        "EnergyKcal": 11,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 2,
+        "Salt": 0.01,
+        "Sugars": 1.7,
+        "Fibre": 1.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1863,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Monster Ultra Zero Can 12x500 ML",
+        "EnergyKjoules": 10,
+        "EnergyKcal": 2,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0.9,
+        "Salt": 0.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1864,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Red Bull Energy 24x250 ML",
+        "EnergyKjoules": 194,
+        "EnergyKcal": 46,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 11,
+        "Salt": 0,
+        "Sugars": 11,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1865,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fanta Lemon Cans 24x330 ML",
+        "EnergyKjoules": 203,
+        "EnergyKcal": 48,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 11.7,
+        "Salt": 0,
+        "Sugars": 11.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1866,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bundaberg Brewed Ginger Beer 12x375 ML",
+        "EnergyKjoules": 184,
+        "EnergyKcal": 44,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 10.8,
+        "Salt": 0.025,
+        "Sugars": 10.8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1867,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fanta Orange Glass Bottle Non Returnable 24x330 ML",
+        "EnergyKjoules": 201,
+        "EnergyKcal": 50,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 12.2,
+        "Salt": 0,
+        "Sugars": 12.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1868,
+    "model": "home.products",
+    "fields": {
+        "product_name": "7Up Sugar Free Contour Bottle 24x500 ML",
+        "EnergyKjoules": 8,
+        "EnergyKcal": 1,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1869,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Diet Coke Glass Bottle 24x330 ML",
+        "EnergyKjoules": 1.6,
+        "EnergyKcal": 0.4,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1870,
+    "model": "home.products",
+    "fields": {
+        "product_name": "San Pellegrino Orange & Pomegranate Can 24x330 ML",
+        "EnergyKjoules": 180,
+        "EnergyKcal": 42,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10.3,
+        "Salt": 0,
+        "Sugars": 10,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1871,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mi Wadi Orange Squash 12x1 LT",
+        "EnergyKjoules": 51,
+        "EnergyKcal": 12,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 11.5,
+        "Salt": 0,
+        "Sugars": 11.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1872,
+    "model": "home.products",
+    "fields": {
+        "product_name": "San Pellegrino Sparkling Water 12x750 ML",
+        "EnergyKjoules": 100,
+        "EnergyKcal": 100,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1873,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Classic Sparkling Water Lemon And Lime 24x500 ML",
+        "EnergyKjoules": 2.5,
+        "EnergyKcal": 0.6,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1874,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Acqua Panna Still Water 12x750 ML",
+        "EnergyKjoules": 1.6,
+        "EnergyKcal": 0.4,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1875,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vita Coco 100% Pure Coconut Water 12x330 ML",
+        "EnergyKjoules": 76,
+        "EnergyKcal": 19,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 5,
+        "Salt": 0.025,
+        "Sugars": 5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1876,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nescafe Gold Blend Coffee 1x750 GM",
+        "EnergyKjoules": 502,
+        "EnergyKcal": 119,
+        "Fat": 0.7,
+        "Protein": 7.8,
+        "Carbohydrates": 3.1,
+        "Salt": 0.25,
+        "Sugars": 3.1,
+        "Fibre": 34.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1877,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nescafe Gold Blend Coffee Sticks 1x200'S",
+        "EnergyKjoules": 502,
+        "EnergyKcal": 122,
+        "Fat": 0.7,
+        "Protein": 7.8,
+        "Carbohydrates": 3.1,
+        "Salt": 0.25,
+        "Sugars": 0.7,
+        "Fibre": 34.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1878,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lavazza Blue Capsule Tierra Double 1x100'S",
+        "EnergyKjoules": 1431,
+        "EnergyKcal": 347,
+        "Fat": 14.4,
+        "Protein": 15.8,
+        "Carbohydrates": 12.5,
+        "Salt": 0.01,
+        "Sugars": 0.5,
+        "Fibre": 52.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1879,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Freezedried Coffeesticks 1x500'S",
+        "EnergyKjoules": 325,
+        "EnergyKcal": 76,
+        "Fat": 0,
+        "Protein": 14.6,
+        "Carbohydrates": 4.5,
+        "Salt": 1.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1880,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Robert Roberts Instant Coffee Sticks 1x100'S",
+        "EnergyKjoules": 1166,
+        "EnergyKcal": 278,
+        "Fat": 0.2,
+        "Protein": 23,
+        "Carbohydrates": 32,
+        "Salt": 0.7,
+        "Sugars": 2.5,
+        "Fibre": 28,
+        "Allergens": []
+    }
+}, {
+    "pk": 1881,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lavazza Crema E Aroma Coffee Beans 6x1 KG",
+        "EnergyKjoules": 1299,
+        "EnergyKcal": 315,
+        "Fat": 10,
+        "Protein": 18.6,
+        "Carbohydrates": 9.4,
+        "Salt": 0.005,
+        "Sugars": 0.5,
+        "Fibre": 56.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1882,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Coffee Beans 6x1 KG",
+        "EnergyKjoules": 1686,
+        "EnergyKcal": 403,
+        "Fat": 8.5,
+        "Protein": 19,
+        "Carbohydrates": 63,
+        "Salt": 0.455,
+        "Sugars": 0,
+        "Fibre": 15.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1883,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lavazza Super Crema Coffee Beans 6x1 KG",
+        "EnergyKjoules": 1335,
+        "EnergyKcal": 324,
+        "Fat": 10,
+        "Protein": 18.9,
+        "Carbohydrates": 9.6,
+        "Salt": 0.005,
+        "Sugars": 0.5,
+        "Fibre": 56.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1884,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nescafe Gold Blend Decaf Coffee Sticks 1x200'S",
+        "EnergyKjoules": 502,
+        "EnergyKcal": 122,
+        "Fat": 0.7,
+        "Protein": 7.8,
+        "Carbohydrates": 3.1,
+        "Salt": 0,
+        "Sugars": 3.1,
+        "Fibre": 34.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1885,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lavazza Blue Capsule Crema Dolce 1x100'S",
+        "EnergyKjoules": 218,
+        "EnergyKcal": 51,
+        "Fat": 0.1,
+        "Protein": 5,
+        "Carbohydrates": 7.3,
+        "Salt": 0.25,
+        "Sugars": 7,
+        "Fibre": 0.4,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1886,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Arriba Instant Coffee Granules Pouch 1x750 GM",
+        "EnergyKjoules": 325,
+        "EnergyKcal": 76,
+        "Fat": 0,
+        "Protein": 14.6,
+        "Carbohydrates": 4.5,
+        "Salt": 0.3,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1887,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nescafe Azera Instant Coffee 1x500 GM",
+        "EnergyKjoules": 514,
+        "EnergyKcal": 125,
+        "Fat": 1,
+        "Protein": 7.8,
+        "Carbohydrates": 3,
+        "Salt": 0.24,
+        "Sugars": 3,
+        "Fibre": 34.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1888,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nescafe Original Coffee Granules 1x750 GM",
+        "EnergyKjoules": 484,
+        "EnergyKcal": 115,
+        "Fat": 0.2,
+        "Protein": 7.8,
+        "Carbohydrates": 3.1,
+        "Salt": 0.25,
+        "Sugars": 3.1,
+        "Fibre": 34.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1889,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nescafe Gold Blend Instant Decaf Coffee 1x500 GM",
+        "EnergyKjoules": 502,
+        "EnergyKcal": 119,
+        "Fat": 0.7,
+        "Protein": 7.8,
+        "Carbohydrates": 3.1,
+        "Salt": 0.25,
+        "Sugars": 3.1,
+        "Fibre": 34.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1890,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lavazza Gran Filtro Rainforest Alliance Coffee Granules 30x6",
+        "EnergyKjoules": 1387,
+        "EnergyKcal": 337,
+        "Fat": 14.4,
+        "Protein": 14.3,
+        "Carbohydrates": 14,
+        "Salt": 0.01,
+        "Sugars": 0.5,
+        "Fibre": 52.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1891,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lavazza Gran Filtro Rainforest Alliance Coffee Beans 6x226.8",
+        "EnergyKjoules": 1387,
+        "EnergyKcal": 337,
+        "Fat": 14.4,
+        "Protein": 14.3,
+        "Carbohydrates": 14,
+        "Salt": 0.01,
+        "Sugars": 0.5,
+        "Fibre": 52.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1892,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nescafe Original Instant Coffee Powder 1x750 GM",
+        "EnergyKjoules": 484,
+        "EnergyKcal": 118,
+        "Fat": 0.2,
+        "Protein": 7.8,
+        "Carbohydrates": 3.1,
+        "Salt": 0.025,
+        "Sugars": 3.1,
+        "Fibre": 34.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1893,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Robert Roberts Decaf Coffee Sticks 1x100x2 GM",
+        "EnergyKjoules": 1155,
+        "EnergyKcal": 275,
+        "Fat": 0.2,
+        "Protein": 16,
+        "Carbohydrates": 37,
+        "Salt": 0.26,
+        "Sugars": 2.5,
+        "Fibre": 31,
+        "Allergens": []
+    }
+}, {
+    "pk": 1894,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lavazza Compostable Qualita Rossa Coffee Pods 1x120 GM",
+        "EnergyKjoules": 1431,
+        "EnergyKcal": 347,
+        "Fat": 14.4,
+        "Protein": 15.8,
+        "Carbohydrates": 12.5,
+        "Salt": 0,
+        "Sugars": 0.5,
+        "Fibre": 52.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 1895,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Vanilla Bean Frappe Powder 6x1 KG",
+        "EnergyKjoules": 2112,
+        "EnergyKcal": 504.17,
+        "Fat": 34.3,
+        "Protein": 4.69,
+        "Carbohydrates": 66.76,
+        "Salt": 0.425,
+        "Sugars": 55.06,
+        "Fibre": 0.36,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1896,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lavazza Decaf Coffee Beans 1x500 GM",
+        "EnergyKjoules": 1307,
+        "EnergyKcal": 317,
+        "Fat": 10,
+        "Protein": 15,
+        "Carbohydrates": 15,
+        "Salt": 0.025,
+        "Sugars": 0.6,
+        "Fibre": 53.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1897,
+    "model": "home.products",
+    "fields": {
+        "product_name": "7Up Reg Can 24x330 ML",
+        "EnergyKjoules": 82,
+        "EnergyKcal": 19,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 4.7,
+        "Salt": 0.04,
+        "Sugars": 4.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1898,
+    "model": "home.products",
+    "fields": {
+        "product_name": "7Up Reg 12x1.5 LT",
+        "EnergyKjoules": 82,
+        "EnergyKcal": 19,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 4.7,
+        "Salt": 0.04,
+        "Sugars": 4.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1899,
+    "model": "home.products",
+    "fields": {
+        "product_name": "7Up Reg Contour Bottle 24x500 ML",
+        "EnergyKjoules": 82,
+        "EnergyKcal": 19,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 4.7,
+        "Salt": 0.04,
+        "Sugars": 4.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1900,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coca Cola 12x1 LT",
+        "EnergyKjoules": 180,
+        "EnergyKcal": 42,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10.6,
+        "Salt": 0,
+        "Sugars": 10.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1901,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Red Bull Sugar Free 24x250 ML",
+        "EnergyKjoules": 13,
+        "EnergyKcal": 3,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1902,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballygowan Hint of Fruit Mango & Passionfruit 12x750 ML",
+        "EnergyKjoules": 5,
+        "EnergyKcal": 1,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1903,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballygowan Hint of Fruit Strawberry 12x750 ML",
+        "EnergyKjoules": 3,
+        "EnergyKcal": 0.8,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1904,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bundaberg Root Beer 12x375 ML",
+        "EnergyKjoules": 88,
+        "EnergyKcal": 21,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 5.1,
+        "Salt": 0.03,
+        "Sugars": 4.9,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1905,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sprite No Sugar 12x1 LT",
+        "EnergyKjoules": 5,
+        "EnergyKcal": 1,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0.05,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1906,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lucozade Alert Original Can 12x500 ML",
+        "EnergyKjoules": 70,
+        "EnergyKcal": 17,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 3.8,
+        "Salt": 0.06,
+        "Sugars": 3.8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1907,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lyons Original 1 Cup Tea Bags 1x600'S",
+        "EnergyKjoules": 2,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1908,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Robert Roberts Green Enveloped Teabags 1x25'S",
+        "EnergyKjoules": 8.33,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 2.08,
+        "Salt": 5.2,
+        "Sugars": 2.08,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1909,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Robert Roberts Peppermint Enveloped Teabags 1x25'S",
+        "EnergyKjoules": 8.33,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 2.08,
+        "Salt": 5.2,
+        "Sugars": 2.08,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1910,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Essential 1 Cup Teabags 1x1100'S",
+        "EnergyKjoules": 2,
+        "EnergyKcal": 1,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1911,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Liptons Iced Tea Peach 12x500 ML",
+        "EnergyKjoules": 120,
+        "EnergyKcal": 30,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 6.9,
+        "Salt": 0,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1912,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Punjana Tea Bags 1x1100'S",
+        "EnergyKjoules": 2,
+        "EnergyKcal": 0.478,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1913,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Liptons Iced Lemon Tea 12x500 ML",
+        "EnergyKjoules": 406,
+        "EnergyKcal": 96,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 24,
+        "Salt": 1,
+        "Sugars": 22,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1914,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lyons Gold Blend 1 Cup Tea Bags 1x600'S",
+        "EnergyKjoules": 2,
+        "EnergyKcal": 1,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1915,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lyons Contract Original 1 Cup Tea Bags 2x1200'S",
+        "EnergyKjoules": 2,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1916,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lyons Green Label 2 Cup Teabags 1x500'S",
+        "EnergyKjoules": 2,
+        "EnergyKcal": 0,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1917,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lyons Gold Blend String & Tag Tea Bags 12x100'S",
+        "EnergyKjoules": 2,
+        "EnergyKcal": 1,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1918,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Caramel Syrup 1x1 LT",
+        "EnergyKjoules": 880,
+        "EnergyKcal": 210,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 51.77,
+        "Salt": 0,
+        "Sugars": 51.77,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1919,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Gourmet Belgian Chocolate Flavoured Dessert Sauce 1",
+        "EnergyKjoules": 1209,
+        "EnergyKcal": 289,
+        "Fat": 0.44,
+        "Protein": 1.44,
+        "Carbohydrates": 68.7,
+        "Salt": 0.025,
+        "Sugars": 48.59,
+        "Fibre": 2.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1920,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Vanilla Syrup 1x1 LT",
+        "EnergyKjoules": 883,
+        "EnergyKcal": 207,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 51.96,
+        "Salt": 0,
+        "Sugars": 50.79,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1921,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Monin Caramel Syrup 1x1 LT",
+        "EnergyKjoules": 1359.8,
+        "EnergyKcal": 325,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 80.4,
+        "Salt": 0,
+        "Sugars": 80.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1922,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Chocolate Sauce 1x2.5 KG",
+        "EnergyKjoules": 1225,
+        "EnergyKcal": 288,
+        "Fat": 0.8,
+        "Protein": 1.7,
+        "Carbohydrates": 67.14,
+        "Salt": 0,
+        "Sugars": 67.14,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1923,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Chai Syrup 1x1 LT",
+        "EnergyKjoules": 974,
+        "EnergyKcal": 299,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 56.69,
+        "Salt": 0.25,
+        "Sugars": 51.29,
+        "Fibre": 0.15,
+        "Allergens": []
+    }
+}, {
+    "pk": 1924,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Monin Strawberry Puree 1x1 LT",
+        "EnergyKjoules": 1071.1,
+        "EnergyKcal": 256,
+        "Fat": 0.1,
+        "Protein": 0.5,
+        "Carbohydrates": 63.1,
+        "Salt": 0,
+        "Sugars": 63.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1925,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Gingerbread Syrup 1x1 LT",
+        "EnergyKjoules": 849,
+        "EnergyKcal": 202,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 49.71,
+        "Salt": 0,
+        "Sugars": 49.42,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1926,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Monin Salted Caramel Syrup 1x1 LT",
+        "EnergyKjoules": 1359.8,
+        "EnergyKcal": 325,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 80.4,
+        "Salt": 0,
+        "Sugars": 80.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1927,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Mango Puree Classic 1x1 LT",
+        "EnergyKjoules": 471,
+        "EnergyKcal": 111,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 26.7,
+        "Salt": 0,
+        "Sugars": 23,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1928,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Cinnamon Syrup 1x1 LT",
+        "EnergyKjoules": 854,
+        "EnergyKcal": 201,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 50.17,
+        "Salt": 0,
+        "Sugars": 49.54,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1929,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Strawberry Syrup 1x1 LT",
+        "EnergyKjoules": 1335,
+        "EnergyKcal": 314,
+        "Fat": 0,
+        "Protein": 0.18,
+        "Carbohydrates": 78.53,
+        "Salt": 5.525,
+        "Sugars": 48.3,
+        "Fibre": 0.58,
+        "Allergens": []
+    }
+}, {
+    "pk": 1930,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Strawberry Puree Classic 1x1 LT",
+        "EnergyKjoules": 476.3,
+        "EnergyKcal": 112.2,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 27.1,
+        "Salt": 0,
+        "Sugars": 26,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1931,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Summerfruits Puree Classic 1x1 LT",
+        "EnergyKjoules": 520,
+        "EnergyKcal": 122.6,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 29,
+        "Salt": 0,
+        "Sugars": 27.9,
+        "Fibre": 1.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1932,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cadbury Drinking Chocolate Tin 1x2 KG",
+        "EnergyKjoules": 1695,
+        "EnergyKcal": 400,
+        "Fat": 5.8,
+        "Protein": 6.2,
+        "Carbohydrates": 76,
+        "Salt": 0.73,
+        "Sugars": 72.5,
+        "Fibre": 9.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1933,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Royal Cocoa Powder Extra Rouge 1x1 KG",
+        "EnergyKjoules": 1560,
+        "EnergyKcal": 376,
+        "Fat": 21,
+        "Protein": 19.5,
+        "Carbohydrates": 11.1,
+        "Salt": 76.2,
+        "Sugars": 0.9,
+        "Fibre": 28.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1934,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Arriba Cocoa Powder 1x1 KG",
+        "EnergyKjoules": 1613,
+        "EnergyKcal": 389,
+        "Fat": 21,
+        "Protein": 22.3,
+        "Carbohydrates": 12.4,
+        "Salt": 1.1,
+        "Sugars": 0.3,
+        "Fibre": 30.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1935,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Zuma Original Hot Chocolate 1x2 KG",
+        "EnergyKjoules": 1589,
+        "EnergyKcal": 376,
+        "Fat": 2.7,
+        "Protein": 5.5,
+        "Carbohydrates": 78.3,
+        "Salt": 0.775,
+        "Sugars": 76.8,
+        "Fibre": 8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1936,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Drink Me Chai Latte Spiced 1x1 KG",
+        "EnergyKjoules": 1953,
+        "EnergyKcal": 465,
+        "Fat": 17.7,
+        "Protein": 9.4,
+        "Carbohydrates": 66.4,
+        "Salt": 0.625,
+        "Sugars": 64.9,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1937,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cadburys Instant Hot Chocolate 50x28 GM",
+        "EnergyKjoules": 1765,
+        "EnergyKcal": 420,
+        "Fat": 11.6,
+        "Protein": 7.9,
+        "Carbohydrates": 69.4,
+        "Salt": 1.95,
+        "Sugars": 59.2,
+        "Fibre": 2.4,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1938,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Drink Me Chai Latte Vanilla Tin 1x1 KG",
+        "EnergyKjoules": 1953,
+        "EnergyKcal": 465,
+        "Fat": 17.7,
+        "Protein": 9.4,
+        "Carbohydrates": 66.4,
+        "Salt": 0.625,
+        "Sugars": 64.9,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1939,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Instant Hot Chocolate Sachet 50x25 GM",
+        "EnergyKjoules": 1641,
+        "EnergyKcal": 388,
+        "Fat": 5.4,
+        "Protein": 6.8,
+        "Carbohydrates": 76.2,
+        "Salt": 0.8,
+        "Sugars": 66.9,
+        "Fibre": 3.8,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1940,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marie Annette Chocolate Cups 4cm 1x132'S",
+        "EnergyKjoules": 2103,
+        "EnergyKcal": 504,
+        "Fat": 33.4,
+        "Protein": 6.4,
+        "Carbohydrates": 46.3,
+        "Salt": 0.25,
+        "Sugars": 42.9,
+        "Fibre": 7.9,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 1941,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cadbury Drinking Chocolate 1x500 GM",
+        "EnergyKjoules": 1695,
+        "EnergyKcal": 400,
+        "Fat": 5.8,
+        "Protein": 6.2,
+        "Carbohydrates": 76,
+        "Salt": 0.73,
+        "Sugars": 72.5,
+        "Fibre": 9.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1942,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cadbury Hot Chocolate Drinking Powder 12x250 GM",
+        "EnergyKjoules": 1695,
+        "EnergyKcal": 405,
+        "Fat": 5.8,
+        "Protein": 7.7,
+        "Carbohydrates": 76,
+        "Salt": 0.75,
+        "Sugars": 72.5,
+        "Fibre": 9.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1943,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cadbury Cocoa Powder 12x250 GM",
+        "EnergyKjoules": 1720,
+        "EnergyKcal": 415,
+        "Fat": 21.5,
+        "Protein": 23,
+        "Carbohydrates": 14,
+        "Salt": 1.4,
+        "Sugars": 2,
+        "Fibre": 33.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1944,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Kids Smoothie Strawberries, Raspberries & Apples 4x",
+        "EnergyKjoules": 222,
+        "EnergyKcal": 52,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 12,
+        "Salt": 0,
+        "Sugars": 10,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1945,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Kids Smoothie Oranges Mangoes & Pineapples 4x4x150",
+        "EnergyKjoules": 234,
+        "EnergyKcal": 55,
+        "Fat": 0,
+        "Protein": 0.7,
+        "Carbohydrates": 13,
+        "Salt": 0,
+        "Sugars": 11,
+        "Fibre": 0.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1946,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Kids Smoothie Apples & Blackcurrants 4x4x150 ML",
+        "EnergyKjoules": 241,
+        "EnergyKcal": 57,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 13,
+        "Salt": 0,
+        "Sugars": 10,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 1947,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Kids Smoothie Pineapples Apples & Carrots 4x4x150 M",
+        "EnergyKjoules": 221,
+        "EnergyKcal": 52,
+        "Fat": 0,
+        "Protein": 0.6,
+        "Carbohydrates": 12,
+        "Salt": 0,
+        "Sugars": 10,
+        "Fibre": 0.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1948,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strawberry Fantasy Smoothie 15x150 GM",
+        "EnergyKjoules": 186,
+        "EnergyKcal": 44,
+        "Fat": 0.5,
+        "Protein": 0.8,
+        "Carbohydrates": 8.6,
+        "Salt": 0.005,
+        "Sugars": 7.5,
+        "Fibre": 1.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1949,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Berry Burst Smoothie 15x150 GM",
+        "EnergyKjoules": 251,
+        "EnergyKcal": 59,
+        "Fat": 11,
+        "Protein": 0.9,
+        "Carbohydrates": 0.5,
+        "Salt": 0.01,
+        "Sugars": 0.1,
+        "Fibre": 2.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1950,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Kids Smoothie Peaches & Passionfruits 4x4x150 ML",
+        "EnergyKjoules": 234,
+        "EnergyKcal": 55,
+        "Fat": 0,
+        "Protein": 0.7,
+        "Carbohydrates": 13,
+        "Salt": 0,
+        "Sugars": 11,
+        "Fibre": 0.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1951,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mango Dream Smoothie 15x150 GM",
+        "EnergyKjoules": 256,
+        "EnergyKcal": 60,
+        "Fat": 0.2,
+        "Protein": 0.6,
+        "Carbohydrates": 13,
+        "Salt": 0.02,
+        "Sugars": 13,
+        "Fibre": 1.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1952,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Passion Storm Smoothie 15x150 GM",
+        "EnergyKjoules": 215,
+        "EnergyKcal": 51,
+        "Fat": 0.5,
+        "Protein": 0.8,
+        "Carbohydrates": 10,
+        "Salt": 0,
+        "Sugars": 9.8,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1953,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Acai Kick Smoothie 15x150 GM",
+        "EnergyKjoules": 197,
+        "EnergyKcal": 47,
+        "Fat": 0.5,
+        "Protein": 0.8,
+        "Carbohydrates": 8.5,
+        "Salt": 0.02,
+        "Sugars": 8.4,
+        "Fibre": 1.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1954,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Green Reviver Smoothie 15x150 GM",
+        "EnergyKjoules": 266,
+        "EnergyKcal": 63,
+        "Fat": 0.5,
+        "Protein": 1,
+        "Carbohydrates": 12,
+        "Salt": 0.005,
+        "Sugars": 9,
+        "Fibre": 2.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 1955,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Energise Super Smoothie 8x300 ML",
+        "EnergyKjoules": 221,
+        "EnergyKcal": 52,
+        "Fat": 0,
+        "Protein": 0.6,
+        "Carbohydrates": 12,
+        "Salt": 0,
+        "Sugars": 10,
+        "Fibre": 0.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 1956,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Mango & Passionfruit Smoothie 8x250 ML",
+        "EnergyKjoules": 225,
+        "EnergyKcal": 53,
+        "Fat": 0.1,
+        "Protein": 0.5,
+        "Carbohydrates": 11.9,
+        "Salt": 0,
+        "Sugars": 10.9,
+        "Fibre": 1.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 1957,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Invigorate Super Smoothie 8x300 ML",
+        "EnergyKjoules": 244,
+        "EnergyKcal": 58,
+        "Fat": 0,
+        "Protein": 0.8,
+        "Carbohydrates": 13,
+        "Salt": 0,
+        "Sugars": 11,
+        "Fibre": 0.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1958,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Plus Wonder Green Juice 8x330 ML",
+        "EnergyKjoules": 171,
+        "EnergyKcal": 40,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10,
+        "Salt": 0,
+        "Sugars": 9,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1959,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Recharge Super Smoothie 8x300 ML",
+        "EnergyKjoules": 189,
+        "EnergyKcal": 45,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 11,
+        "Salt": 0,
+        "Sugars": 9.9,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 1960,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Magnificent Mango Smoothie 6x750 ML",
+        "EnergyKjoules": 227,
+        "EnergyKcal": 54,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 12,
+        "Salt": 0,
+        "Sugars": 11,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1961,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coconut Crush Smoothie 15x150 GM",
+        "EnergyKjoules": 348.8,
+        "EnergyKcal": 83.1,
+        "Fat": 3.5,
+        "Protein": 0.8,
+        "Carbohydrates": 10.7,
+        "Salt": 0,
+        "Sugars": 10.2,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1962,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Plus Bolt From The Blue Juice 8x330 ML",
+        "EnergyKjoules": 172,
+        "EnergyKcal": 41,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10,
+        "Salt": 0,
+        "Sugars": 9,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1963,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Innocent Plus Berry Set Go Juice 8x330 ML",
+        "EnergyKjoules": 180,
+        "EnergyKcal": 42,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 11,
+        "Salt": 0,
+        "Sugars": 10,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1964,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Raspberry Heaven Smoothie 15x150 GM",
+        "EnergyKjoules": 47,
+        "EnergyKcal": 197,
+        "Fat": 0.5,
+        "Protein": 0.6,
+        "Carbohydrates": 8.9,
+        "Salt": 0.05,
+        "Sugars": 8.6,
+        "Fibre": 2.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 1965,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Zuma Spiced Chai Tin 1x1 KG",
+        "EnergyKjoules": 1660,
+        "EnergyKcal": 391,
+        "Fat": 0.1,
+        "Protein": 0.5,
+        "Carbohydrates": 95.8,
+        "Salt": 0.13,
+        "Sugars": 52,
+        "Fibre": 2.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1966,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Zuma Vanilla Chai Tin 1x1 KG",
+        "EnergyKjoules": 1671,
+        "EnergyKcal": 393,
+        "Fat": 0.1,
+        "Protein": 0.5,
+        "Carbohydrates": 96.5,
+        "Salt": 0.15,
+        "Sugars": 68.8,
+        "Fibre": 2.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 1967,
+    "model": "home.products",
+    "fields": {
+        "product_name": "SynerChi Kombucha Raspberry & Rosehip 12x330 ML",
+        "EnergyKjoules": 67,
+        "EnergyKcal": 16,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 4,
+        "Salt": 0,
+        "Sugars": 4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1968,
+    "model": "home.products",
+    "fields": {
+        "product_name": "SynerChi Kombucha Ginger & Lemongrass 12x330 ML",
+        "EnergyKjoules": 67,
+        "EnergyKcal": 16,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 4,
+        "Salt": 0,
+        "Sugars": 4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1969,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sisu Organic Kombucha Ginger Can 12x330 ML",
+        "EnergyKjoules": 77,
+        "EnergyKcal": 18.4,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 4.6,
+        "Salt": 0,
+        "Sugars": 4.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1970,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lucozade Energy Original 12x900 ML",
+        "EnergyKjoules": 158,
+        "EnergyKcal": 37,
+        "Fat": 0.5,
+        "Protein": 0.1,
+        "Carbohydrates": 8.9,
+        "Salt": 0.08,
+        "Sugars": 4.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1971,
+    "model": "home.products",
+    "fields": {
+        "product_name": "SynerChi Kombucha Oranges & Lemon 12x330 ML",
+        "EnergyKjoules": 75,
+        "EnergyKcal": 18,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 4.5,
+        "Salt": 0,
+        "Sugars": 4.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1972,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fuze Tea Lemon And Lemongrass 12x500 ML",
+        "EnergyKjoules": 80,
+        "EnergyKcal": 19,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 4.4,
+        "Salt": 0.03,
+        "Sugars": 4.4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1973,
+    "model": "home.products",
+    "fields": {
+        "product_name": "SynerChi Kombucha Pear with Matcha Tea 12x330 ML",
+        "EnergyKjoules": 75,
+        "EnergyKcal": 18,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 4.5,
+        "Salt": 0,
+        "Sugars": 4.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1974,
+    "model": "home.products",
+    "fields": {
+        "product_name": "SynerChi Kombucha Sencha Tea 12x330 ML",
+        "EnergyKjoules": 75,
+        "EnergyKcal": 18,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 4,
+        "Salt": 0,
+        "Sugars": 4,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1975,
+    "model": "home.products",
+    "fields": {
+        "product_name": "The Naked Collective Mude Chill 12x330 ML",
+        "EnergyKjoules": 51,
+        "EnergyKcal": 12,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 2.8,
+        "Salt": 0,
+        "Sugars": 1.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1976,
+    "model": "home.products",
+    "fields": {
+        "product_name": "The Naked Collective Mude Play 12x330 ML",
+        "EnergyKjoules": 51,
+        "EnergyKcal": 12,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 2.8,
+        "Salt": 0,
+        "Sugars": 1.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1977,
+    "model": "home.products",
+    "fields": {
+        "product_name": "The Naked Collective Mude Work 12x330 M",
+        "EnergyKjoules": 51,
+        "EnergyKcal": 12,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 2.8,
+        "Salt": 0,
+        "Sugars": 1.7,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1978,
+    "model": "home.products",
+    "fields": {
+        "product_name": "The Naked Collective Mude Sleep 12x330 ML",
+        "EnergyKjoules": 51,
+        "EnergyKcal": 12,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 2.8,
+        "Salt": 0,
+        "Sugars": 1.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1979,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vit Hit Immunitea Dragonfruit 12x500 ML",
+        "EnergyKjoules": 30,
+        "EnergyKcal": 7,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 1.3,
+        "Salt": 0.125,
+        "Sugars": 1.3,
+        "Fibre": 0.5,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1980,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sisu Cold Pressed Ginger Shot 12x60 ML",
+        "EnergyKjoules": 155,
+        "EnergyKcal": 36,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 8.6,
+        "Salt": 0.01,
+        "Sugars": 7.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1981,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sisu Cold Pressed Turmeric Shot 12x60 ML",
+        "EnergyKjoules": 1278,
+        "EnergyKcal": 306,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 74.7,
+        "Salt": 0.03,
+        "Sugars": 74.7,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1982,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sisu Kombucha Blueberry 12x330 ML",
+        "EnergyKjoules": 77,
+        "EnergyKcal": 18.4,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 4.6,
+        "Salt": 0,
+        "Sugars": 4.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1983,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sisu Kombucha Original 12x330 ML",
+        "EnergyKjoules": 77,
+        "EnergyKcal": 18.4,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 4.6,
+        "Salt": 0,
+        "Sugars": 4.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}]

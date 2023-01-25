@@ -1,0 +1,2386 @@
+[{
+    "pk": 2197,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Real Mayonnaise GF 1x10 LT",
+        "EnergyKjoules": 2986,
+        "EnergyKcal": 714,
+        "Fat": 79,
+        "Protein": 1.2,
+        "Carbohydrates": 1.4,
+        "Salt": 1.2,
+        "Sugars": 1.3,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2198,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Professional Mayonnaise 1x10 LT",
+        "EnergyKjoules": 2699,
+        "EnergyKcal": 656,
+        "Fat": 71,
+        "Protein": 0.8,
+        "Carbohydrates": 2.3,
+        "Salt": 1.2,
+        "Sugars": 2.3,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2199,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Free Range Real Mayonnaise 1x10 LT",
+        "EnergyKjoules": 3000,
+        "EnergyKcal": 720,
+        "Fat": 79,
+        "Protein": 1,
+        "Carbohydrates": 1.5,
+        "Salt": 1.25,
+        "Sugars": 1.5,
+        "Fibre": 0.1,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2200,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Vegan Mayo 1x2.66 LT",
+        "EnergyKjoules": 2740,
+        "EnergyKcal": 655,
+        "Fat": 72,
+        "Protein": 0.4,
+        "Carbohydrates": 4,
+        "Salt": 1.5,
+        "Sugars": 2.7,
+        "Fibre": 0,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2201,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Vegan Mayonnaise 1x1 LT",
+        "EnergyKjoules": 1638,
+        "EnergyKcal": 399,
+        "Fat": 42.7,
+        "Protein": 0,
+        "Carbohydrates": 2.9,
+        "Salt": 0.92,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2202,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Real Mayonnaise Sachets 200x15 ML",
+        "EnergyKjoules": 3000,
+        "EnergyKcal": 720,
+        "Fat": 79,
+        "Protein": 1,
+        "Carbohydrates": 1.5,
+        "Salt": 1.25,
+        "Sugars": 1.5,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2203,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Mayonnaise Bucket 1x10 LT",
+        "EnergyKjoules": 2715,
+        "EnergyKcal": 660,
+        "Fat": 72,
+        "Protein": 0.8,
+        "Carbohydrates": 3,
+        "Salt": 1.5,
+        "Sugars": 3,
+        "Fibre": 0,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2204,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Easy Serve Garlic Mayo Sauce 1x860 ML",
+        "EnergyKjoules": 2720,
+        "EnergyKcal": 650,
+        "Fat": 71,
+        "Protein": 2,
+        "Carbohydrates": 3.4,
+        "Salt": 1.5,
+        "Sugars": 3.2,
+        "Fibre": 0,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2205,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Mayonnaise Sachets 1x200'S",
+        "EnergyKjoules": 1097,
+        "EnergyKcal": 266,
+        "Fat": 25.9,
+        "Protein": 0.5,
+        "Carbohydrates": 7.4,
+        "Salt": 1.8,
+        "Sugars": 2.5,
+        "Fibre": 0.5,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2206,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Essential Catering Mayonnaise 1x5 LT",
+        "EnergyKjoules": 1160,
+        "EnergyKcal": 281,
+        "Fat": 27.3,
+        "Protein": 0.5,
+        "Carbohydrates": 7.5,
+        "Salt": 1.5,
+        "Sugars": 3.5,
+        "Fibre": 1.1,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2207,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Real Mayonnaise 1x2.2 LT",
+        "EnergyKjoules": 2327,
+        "EnergyKcal": 565,
+        "Fat": 60,
+        "Protein": 0.3,
+        "Carbohydrates": 5.7,
+        "Salt": 0.5,
+        "Sugars": 2.1,
+        "Fibre": 0.5,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2208,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Essential Catering Mayonnaise 1x10 LT",
+        "EnergyKjoules": 1160,
+        "EnergyKcal": 281,
+        "Fat": 27.3,
+        "Protein": 0.5,
+        "Carbohydrates": 7.5,
+        "Salt": 1.5,
+        "Sugars": 3.5,
+        "Fibre": 1.1,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2209,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixers Garlic Mayonnaise 1x4.5 LT",
+        "EnergyKjoules": 2716,
+        "EnergyKcal": 660,
+        "Fat": 70.41,
+        "Protein": 1.65,
+        "Carbohydrates": 4.61,
+        "Salt": 0.75,
+        "Sugars": 3.6,
+        "Fibre": 0.4,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2210,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Mayonnaise 1x850 ML",
+        "EnergyKjoules": 2198,
+        "EnergyKcal": 525,
+        "Fat": 56,
+        "Protein": 0.5,
+        "Carbohydrates": 7.5,
+        "Salt": 1.8,
+        "Sugars": 6.1,
+        "Fibre": 0.5,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2211,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Real Mayonnaise 2x2.27 LT",
+        "EnergyKjoules": 3000,
+        "EnergyKcal": 720,
+        "Fat": 79,
+        "Protein": 1,
+        "Carbohydrates": 1.5,
+        "Salt": 1.25,
+        "Sugars": 1.5,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2212,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Mayonnaise Sachets 200x10 ML",
+        "EnergyKjoules": 2798,
+        "EnergyKcal": 680,
+        "Fat": 73.5,
+        "Protein": 1.5,
+        "Carbohydrates": 3.1,
+        "Salt": 1,
+        "Sugars": 2.9,
+        "Fibre": 0,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2213,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Heavy Mayonnaise 1x10 LT",
+        "EnergyKjoules": 2786,
+        "EnergyKcal": 666,
+        "Fat": 77,
+        "Protein": 1.1,
+        "Carbohydrates": 2.2,
+        "Salt": 1.2,
+        "Sugars": 1.8,
+        "Fibre": 0.5,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2214,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Garlic Mayonnaise 1x2.2 LT",
+        "EnergyKjoules": 1189,
+        "EnergyKcal": 288,
+        "Fat": 29.4,
+        "Protein": 0.4,
+        "Carbohydrates": 5.2,
+        "Salt": 1.3,
+        "Sugars": 3.4,
+        "Fibre": 0.7,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2215,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Real Mayonnaise Squeezy 8x430 ML",
+        "EnergyKjoules": 2991,
+        "EnergyKcal": 727,
+        "Fat": 80,
+        "Protein": 1.2,
+        "Carbohydrates": 1.4,
+        "Salt": 1.5,
+        "Sugars": 1.3,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2216,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Garlic Sauce 2x2.27 LT",
+        "EnergyKjoules": 2894,
+        "EnergyKcal": 704,
+        "Fat": 76.7,
+        "Protein": 0.9,
+        "Carbohydrates": 2.4,
+        "Salt": 1.22,
+        "Sugars": 1.6,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2217,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Real Mayonnaise Sticks GF 200x15 ML",
+        "EnergyKjoules": 2747,
+        "EnergyKcal": 656,
+        "Fat": 73.2,
+        "Protein": 1,
+        "Carbohydrates": 1.4,
+        "Salt": 1.5,
+        "Sugars": 1.2,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2218,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Mayonnaise Mini Glass Jar 80x33 ML",
+        "EnergyKjoules": 2716,
+        "EnergyKcal": 660,
+        "Fat": 71.5,
+        "Protein": 0.9,
+        "Carbohydrates": 3,
+        "Salt": 1,
+        "Sugars": 2.9,
+        "Fibre": 0.3,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2219,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixers Mayonnaise 1x10 LT",
+        "EnergyKjoules": 1503,
+        "EnergyKcal": 365,
+        "Fat": 36.68,
+        "Protein": 0.76,
+        "Carbohydrates": 7.04,
+        "Salt": 2.075,
+        "Sugars": 4.65,
+        "Fibre": 0.46,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2220,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Real Mayonnaise 1x5 LT",
+        "EnergyKjoules": 2327,
+        "EnergyKcal": 565,
+        "Fat": 60,
+        "Protein": 0.3,
+        "Carbohydrates": 5.7,
+        "Salt": 0.5,
+        "Sugars": 2.1,
+        "Fibre": 0.5,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2221,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Blue Light Mayo 1x10 LT",
+        "EnergyKjoules": 1100,
+        "EnergyKcal": 270,
+        "Fat": 26,
+        "Protein": 0.4,
+        "Carbohydrates": 6,
+        "Salt": 1.7,
+        "Sugars": 2.5,
+        "Fibre": 0,
+        "Allergens": [3, 7, 10]
+    }
+}, {
+    "pk": 2222,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Real Mayonnaise 1x10 LT",
+        "EnergyKjoules": 2327,
+        "EnergyKcal": 565,
+        "Fat": 60,
+        "Protein": 0.3,
+        "Carbohydrates": 5.7,
+        "Salt": 0.5,
+        "Sugars": 2.1,
+        "Fibre": 0.5,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2223,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Light Mayonnaise Bucket 1x10 LT",
+        "EnergyKjoules": 1074,
+        "EnergyKcal": 260,
+        "Fat": 25.2,
+        "Protein": 1.1,
+        "Carbohydrates": 7,
+        "Salt": 4.3125,
+        "Sugars": 3.5,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2224,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Tikka Mayonnaise 2x2.27 LT",
+        "EnergyKjoules": 2086,
+        "EnergyKcal": 506,
+        "Fat": 50.7,
+        "Protein": 0.7,
+        "Carbohydrates": 10.7,
+        "Salt": 0,
+        "Sugars": 9.1,
+        "Fibre": 0,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2225,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixers Creamy Mayonnaise 1x10 LT",
+        "EnergyKjoules": 1133,
+        "EnergyKcal": 275,
+        "Fat": 26.55,
+        "Protein": 0.77,
+        "Carbohydrates": 7.47,
+        "Salt": 1.975,
+        "Sugars": 4.66,
+        "Fibre": 0.46,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2226,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Real Mayonnaise (Bucket) 1x2 LT",
+        "EnergyKjoules": 2963,
+        "EnergyKcal": 708,
+        "Fat": 79,
+        "Protein": 1.2,
+        "Carbohydrates": 1.4,
+        "Salt": 1.2,
+        "Sugars": 1.3,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2227,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Vegan Mayonnaise Sachets 200x10 ML",
+        "EnergyKjoules": 2738,
+        "EnergyKcal": 654,
+        "Fat": 72,
+        "Protein": 0.4,
+        "Carbohydrates": 3.9,
+        "Salt": 1.5,
+        "Sugars": 2.7,
+        "Fibre": 0.1,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2228,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Mayonnaise Light Squeezy Bottle 8x430 ML",
+        "EnergyKjoules": 1092,
+        "EnergyKcal": 260,
+        "Fat": 26,
+        "Protein": 0.5,
+        "Carbohydrates": 5.9,
+        "Salt": 1.75,
+        "Sugars": 2.3,
+        "Fibre": 0,
+        "Allergens": [3, 7, 10]
+    }
+}, {
+    "pk": 2229,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Conimex Sweet Soy Ketjap Manis Sauce 1x1 LT",
+        "EnergyKjoules": 1243,
+        "EnergyKcal": 293,
+        "Fat": 0.5,
+        "Protein": 3.4,
+        "Carbohydrates": 69,
+        "Salt": 30.5,
+        "Sugars": 67,
+        "Fibre": 0.68,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2230,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kikkoman Soy Sauce 1x1 LT",
+        "EnergyKjoules": 1104,
+        "EnergyKcal": 264,
+        "Fat": 0,
+        "Protein": 8.8,
+        "Carbohydrates": 6.9,
+        "Salt": 14.4,
+        "Sugars": 1.6,
+        "Fibre": 0,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2231,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flying Goose Sriracha Chilli Sauce 1x730 ML",
+        "EnergyKjoules": 513,
+        "EnergyKcal": 122,
+        "Fat": 1.3,
+        "Protein": 1.8,
+        "Carbohydrates": 18,
+        "Salt": 7.2,
+        "Sugars": 18,
+        "Fibre": 5.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 2232,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys BBQ Sauce 2x2.27 LT",
+        "EnergyKjoules": 728,
+        "EnergyKcal": 171,
+        "Fat": 0.2,
+        "Protein": 0.5,
+        "Carbohydrates": 40.9,
+        "Salt": 2.5,
+        "Sugars": 34.8,
+        "Fibre": 0,
+        "Allergens": [1, 10]
+    }
+}, {
+    "pk": 2233,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McDonnells Curry Sauce (15 LT) 1x3.75 KG",
+        "EnergyKjoules": 422,
+        "EnergyKcal": 109,
+        "Fat": 4.1,
+        "Protein": 1.8,
+        "Carbohydrates": 13.2,
+        "Salt": 0,
+        "Sugars": 7.7,
+        "Fibre": 0,
+        "Allergens": [9, 1, 10]
+    }
+}, {
+    "pk": 2234,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sriracha Hot Chilli Sauce 1x455 ML",
+        "EnergyKjoules": 576,
+        "EnergyKcal": 136,
+        "Fat": 1.2,
+        "Protein": 2.7,
+        "Carbohydrates": 26.4,
+        "Salt": 9.5,
+        "Sugars": 24.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2235,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lee Kum Kee Hoisin Sauce 1x2.45 KG",
+        "EnergyKjoules": 956,
+        "EnergyKcal": 228,
+        "Fat": 1.2,
+        "Protein": 1.7,
+        "Carbohydrates": 51,
+        "Salt": 6.9,
+        "Sugars": 49,
+        "Fibre": 2.2,
+        "Allergens": [1, 11, 6]
+    }
+}, {
+    "pk": 2236,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Thai Exotic Food Sweet Chilli Sauce 1x2.1 LT",
+        "EnergyKjoules": 931,
+        "EnergyKcal": 219,
+        "Fat": 0,
+        "Protein": 1.4,
+        "Carbohydrates": 52.7,
+        "Salt": 3.5,
+        "Sugars": 46,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 2237,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Salsa 1x2.25 KG",
+        "EnergyKjoules": 146,
+        "EnergyKcal": 34,
+        "Fat": 0.1,
+        "Protein": 0.4,
+        "Carbohydrates": 7.8,
+        "Salt": 0.8,
+        "Sugars": 4.4,
+        "Fibre": 0.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 2238,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Louisiana Hot Pepper Sauce 1x3.79 LT",
+        "EnergyKjoules": 41,
+        "EnergyKcal": 10,
+        "Fat": 0.1,
+        "Protein": 0.5,
+        "Carbohydrates": 1.7,
+        "Salt": 10,
+        "Sugars": 0.4,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2239,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Thai Exotic Food Sweet Chilli Sauce 1x725 ML",
+        "EnergyKjoules": 931,
+        "EnergyKcal": 219,
+        "Fat": 0,
+        "Protein": 1.4,
+        "Carbohydrates": 52.7,
+        "Salt": 3.5,
+        "Sugars": 46,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2240,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kikkoman Tamari Soy Sauce 1x1 LT",
+        "EnergyKjoules": 240,
+        "EnergyKcal": 57,
+        "Fat": 0,
+        "Protein": 10,
+        "Carbohydrates": 2,
+        "Salt": 16.4,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 2241,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Chipotle Sauce 1x890 GM",
+        "EnergyKjoules": 162,
+        "EnergyKcal": 38,
+        "Fat": 0.6,
+        "Protein": 1.1,
+        "Carbohydrates": 6.6,
+        "Salt": 0.625,
+        "Sugars": 5,
+        "Fibre": 1.1,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2242,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Taco Sauce 2x2.27 LT",
+        "EnergyKjoules": 1977,
+        "EnergyKcal": 479,
+        "Fat": 48.8,
+        "Protein": 0.4,
+        "Carbohydrates": 9.1,
+        "Salt": 3,
+        "Sugars": 7.6,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2243,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Sweet Chilli Sauce 2x2.27 LT",
+        "EnergyKjoules": 919,
+        "EnergyKcal": 216,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 53,
+        "Salt": 0.73,
+        "Sugars": 44.8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2244,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Taco Sauce 1x850 ML",
+        "EnergyKjoules": 1093,
+        "EnergyKcal": 264,
+        "Fat": 23,
+        "Protein": 1,
+        "Carbohydrates": 13,
+        "Salt": 1.5,
+        "Sugars": 9.4,
+        "Fibre": 0.5,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2245,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Teriyaki Sauce 1x950 GM",
+        "EnergyKjoules": 984,
+        "EnergyKcal": 235,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 58,
+        "Salt": 8,
+        "Sugars": 51,
+        "Fibre": 0,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2246,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mae Ploy Sweet Chilli Sauce 1x4 KG",
+        "EnergyKjoules": 1190,
+        "EnergyKcal": 280,
+        "Fat": 0.3,
+        "Protein": 1,
+        "Carbohydrates": 68.2,
+        "Salt": 4.4,
+        "Sugars": 64.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2247,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Franks Buffalo Wing Sauce 1x3.78 LT",
+        "EnergyKjoules": 123,
+        "EnergyKcal": 30,
+        "Fat": 1.5,
+        "Protein": 0.8,
+        "Carbohydrates": 2,
+        "Salt": 6.5,
+        "Sugars": 0,
+        "Fibre": 2.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2248,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria BBQ Sauce Smoky Hickory 1x2.56 KG",
+        "EnergyKjoules": 831,
+        "EnergyKcal": 196,
+        "Fat": 0,
+        "Protein": 1,
+        "Carbohydrates": 47,
+        "Salt": 1.9,
+        "Sugars": 44,
+        "Fibre": 1.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 2249,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria BBQ Sauce Original American Style 1x2.575 KG",
+        "EnergyKjoules": 783,
+        "EnergyKcal": 184,
+        "Fat": 0,
+        "Protein": 1.2,
+        "Carbohydrates": 44,
+        "Salt": 2,
+        "Sugars": 40,
+        "Fibre": 1.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 2250,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Piri Piri Sauce 1x950 GM",
+        "EnergyKjoules": 480,
+        "EnergyKcal": 114,
+        "Fat": 7.4,
+        "Protein": 1.4,
+        "Carbohydrates": 10,
+        "Salt": 2.5,
+        "Sugars": 4.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2251,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Sweet Chilli Sauce 1x850 ML",
+        "EnergyKjoules": 795,
+        "EnergyKcal": 187,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 46,
+        "Salt": 1.8,
+        "Sugars": 43,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2252,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Barbeque Sauce 1x850 ML",
+        "EnergyKjoules": 682,
+        "EnergyKcal": 163,
+        "Fat": 0.5,
+        "Protein": 1.6,
+        "Carbohydrates": 37,
+        "Salt": 2.8,
+        "Sugars": 34,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2253,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lee Kum Kee Light Soy Sauce 1x1.9 LT",
+        "EnergyKjoules": 226,
+        "EnergyKcal": 63,
+        "Fat": 0.1,
+        "Protein": 8.6,
+        "Carbohydrates": 4.9,
+        "Salt": 16.75,
+        "Sugars": 0.4,
+        "Fibre": 0.1,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2254,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bens Texan BBQ Sauce 1x2.51 KG",
+        "EnergyKjoules": 571,
+        "EnergyKcal": 135,
+        "Fat": 0.5,
+        "Protein": 0.9,
+        "Carbohydrates": 31,
+        "Salt": 1.2,
+        "Sugars": 28,
+        "Fibre": 1.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2255,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lee Kum Kee Plum Sauce 1x2.2 KG",
+        "EnergyKjoules": 1165,
+        "EnergyKcal": 274,
+        "Fat": 0.1,
+        "Protein": 0.1,
+        "Carbohydrates": 0,
+        "Salt": 2.5,
+        "Sugars": 0,
+        "Fibre": 0.2,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2256,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Schwartz BBQ Sauce Hickory Smoked 1x2.5 LT",
+        "EnergyKjoules": 635,
+        "EnergyKcal": 150,
+        "Fat": 0,
+        "Protein": 0.7,
+        "Carbohydrates": 36.7,
+        "Salt": 2.25,
+        "Sugars": 31.9,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 2257,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballymaloe Cranberry Sauce (Pail) 1x3 KG",
+        "EnergyKjoules": 760,
+        "EnergyKcal": 179,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 44.5,
+        "Salt": 0.03,
+        "Sugars": 36.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2258,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Thai Exotic Food Sweet Chilli Sauce 1x5.15 KG",
+        "EnergyKjoules": 931,
+        "EnergyKcal": 219,
+        "Fat": 0,
+        "Protein": 1.4,
+        "Carbohydrates": 53,
+        "Salt": 3.5,
+        "Sugars": 46,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 2259,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Yeos Oelek Sambal Chilli Paste 1x250 ML",
+        "EnergyKjoules": 387,
+        "EnergyKcal": 92,
+        "Fat": 0.8,
+        "Protein": 1.1,
+        "Carbohydrates": 19.9,
+        "Salt": 5.25,
+        "Sugars": 14.2,
+        "Fibre": 3.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 2260,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Schwartz Cranberry Sauce 1x2.6 KG",
+        "EnergyKjoules": 832,
+        "EnergyKcal": 199,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 48.1,
+        "Salt": 0,
+        "Sugars": 46.9,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2261,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Tomato Ketchup Sachets 1x200'S",
+        "EnergyKjoules": 598,
+        "EnergyKcal": 141,
+        "Fat": 0.1,
+        "Protein": 0.9,
+        "Carbohydrates": 33.8,
+        "Salt": 2.3,
+        "Sugars": 25.4,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2262,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Tomato Ketchup 1x1 LT",
+        "EnergyKjoules": 304,
+        "EnergyKcal": 72,
+        "Fat": 0.1,
+        "Protein": 0.8,
+        "Carbohydrates": 15.4,
+        "Salt": 3.25,
+        "Sugars": 11.9,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2263,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixers Tomato Ketchup 1x4.5 LT",
+        "EnergyKjoules": 418,
+        "EnergyKcal": 98,
+        "Fat": 0.1,
+        "Protein": 0.85,
+        "Carbohydrates": 21.45,
+        "Salt": 1.835,
+        "Sugars": 17.91,
+        "Fibre": 0.55,
+        "Allergens": []
+    }
+}, {
+    "pk": 2264,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Tomato Ketchup Sachets 200x12 ML",
+        "EnergyKjoules": 435,
+        "EnergyKcal": 102,
+        "Fat": 0.1,
+        "Protein": 1.2,
+        "Carbohydrates": 23.2,
+        "Salt": 1.8,
+        "Sugars": 22.8,
+        "Fibre": 0.7,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 2265,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Tomato Ketchup Sachets 200x15 GM",
+        "EnergyKjoules": 745,
+        "EnergyKcal": 175,
+        "Fat": 0.1,
+        "Protein": 0.6,
+        "Carbohydrates": 4.6,
+        "Salt": 1.8,
+        "Sugars": 37.8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2266,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Tomato Ketchup 1x2.15 LT",
+        "EnergyKjoules": 436,
+        "EnergyKcal": 102,
+        "Fat": 0.1,
+        "Protein": 1.2,
+        "Carbohydrates": 23.2,
+        "Salt": 1.8,
+        "Sugars": 22.8,
+        "Fibre": 0,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 2267,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Tomato Ketchup Sachets 200x15 ML",
+        "EnergyKjoules": 564,
+        "EnergyKcal": 134,
+        "Fat": 0.1,
+        "Protein": 1.4,
+        "Carbohydrates": 31.5,
+        "Salt": 1.8,
+        "Sugars": 28.3,
+        "Fibre": 0.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 2268,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixers Tomato Rhyme Ketchup 1x10 KG",
+        "EnergyKjoules": 414,
+        "EnergyKcal": 97,
+        "Fat": 0.09,
+        "Protein": 0.84,
+        "Carbohydrates": 21.33,
+        "Salt": 1.8175,
+        "Sugars": 17.72,
+        "Fibre": 0.54,
+        "Allergens": []
+    }
+}, {
+    "pk": 2269,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tomato Ketchup Sticks 200x9 GM",
+        "EnergyKjoules": 489,
+        "EnergyKcal": 115,
+        "Fat": 0.1,
+        "Protein": 0.8,
+        "Carbohydrates": 27.5,
+        "Salt": 3,
+        "Sugars": 24,
+        "Fibre": 0.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 2270,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Tomato Ketchup Mini Glass Jars 80x39 GM",
+        "EnergyKjoules": 432,
+        "EnergyKcal": 102,
+        "Fat": 0.1,
+        "Protein": 0.9,
+        "Carbohydrates": 23.9,
+        "Salt": 2.25,
+        "Sugars": 23.5,
+        "Fibre": 0.6,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 2271,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Tomato Ketchup 1x2.15 LT",
+        "EnergyKjoules": 447,
+        "EnergyKcal": 105,
+        "Fat": 0.3,
+        "Protein": 1.3,
+        "Carbohydrates": 23.9,
+        "Salt": 1.6,
+        "Sugars": 19.8,
+        "Fibre": 0.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 2272,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Harrisons Tomato Ketchup Sachets 10g 1x200'S",
+        "EnergyKjoules": 510,
+        "EnergyKcal": 120,
+        "Fat": 0.1,
+        "Protein": 0.9,
+        "Carbohydrates": 28.4,
+        "Salt": 3,
+        "Sugars": 24.6,
+        "Fibre": 0,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 2273,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chef Tomato Ketchup 1x5 LT",
+        "EnergyKjoules": 520,
+        "EnergyKcal": 123,
+        "Fat": 0.1,
+        "Protein": 1.3,
+        "Carbohydrates": 29.2,
+        "Salt": 2.5,
+        "Sugars": 27,
+        "Fibre": 1.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2274,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Real Ketchup Squeezy 8x430 ML",
+        "EnergyKjoules": 381,
+        "EnergyKcal": 90,
+        "Fat": 0.3,
+        "Protein": 1.4,
+        "Carbohydrates": 20,
+        "Salt": 1.8,
+        "Sugars": 19,
+        "Fibre": 0.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 2275,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Tomato Ketchup 2x4.5 KG",
+        "EnergyKjoules": 440,
+        "EnergyKcal": 103,
+        "Fat": 0.1,
+        "Protein": 0.9,
+        "Carbohydrates": 24.1,
+        "Salt": 1.75,
+        "Sugars": 23.7,
+        "Fibre": 0.7,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 2276,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Tomato Ketchup 2x2.27 LT",
+        "EnergyKjoules": 745,
+        "EnergyKcal": 175,
+        "Fat": 0.1,
+        "Protein": 0.6,
+        "Carbohydrates": 42.6,
+        "Salt": 0,
+        "Sugars": 37.8,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2277,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Tomato Ketchup GF Bucket 1x5 KG",
+        "EnergyKjoules": 464,
+        "EnergyKcal": 110,
+        "Fat": 0,
+        "Protein": 1.1,
+        "Carbohydrates": 24,
+        "Salt": 1.8,
+        "Sugars": 21,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2278,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Ketchup Top Down 10x460 GM",
+        "EnergyKjoules": 440,
+        "EnergyKcal": 105,
+        "Fat": 0.1,
+        "Protein": 0.9,
+        "Carbohydrates": 24.1,
+        "Salt": 2.25,
+        "Sugars": 23.7,
+        "Fibre": 0.7,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 2279,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Ketchup 1x850 ML",
+        "EnergyKjoules": 419,
+        "EnergyKcal": 99,
+        "Fat": 0.5,
+        "Protein": 1.6,
+        "Carbohydrates": 22,
+        "Salt": 1.7,
+        "Sugars": 19,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 2280,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Essential Tomato Sauce 1x4.5 KG",
+        "EnergyKjoules": 382,
+        "EnergyKcal": 90,
+        "Fat": 0.1,
+        "Protein": 0.5,
+        "Carbohydrates": 20.1,
+        "Salt": 1.75,
+        "Sugars": 13.3,
+        "Fibre": 0.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 2281,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Tomato Ketchup SOM 3x2.5 LT",
+        "EnergyKjoules": 435,
+        "EnergyKcal": 102,
+        "Fat": 0.1,
+        "Protein": 1.2,
+        "Carbohydrates": 23.2,
+        "Salt": 1.8,
+        "Sugars": 22.8,
+        "Fibre": 0,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 2282,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Tomato Ketchup Glass Bottle 1x12'S",
+        "EnergyKjoules": 440,
+        "EnergyKcal": 103,
+        "Fat": 0.1,
+        "Protein": 0.9,
+        "Carbohydrates": 24.1,
+        "Salt": 3,
+        "Sugars": 23.7,
+        "Fibre": 0.7,
+        "Allergens": [9]
+    }
+}, {
+    "pk": 2283,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Guacamole 1x1 KG",
+        "EnergyKjoules": 834,
+        "EnergyKcal": 202,
+        "Fat": 19.8,
+        "Protein": 1.6,
+        "Carbohydrates": 3.3,
+        "Salt": 1.1,
+        "Sugars": 3,
+        "Fibre": 2.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 2284,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballymaloe Country Relish 1x5 KG",
+        "EnergyKjoules": 682,
+        "EnergyKcal": 161,
+        "Fat": 0,
+        "Protein": 1.8,
+        "Carbohydrates": 37.4,
+        "Salt": 1.4,
+        "Sugars": 33.1,
+        "Fibre": 1.9,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2285,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Mango Chutney 1x1.2 KG",
+        "EnergyKjoules": 1100,
+        "EnergyKcal": 250,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 61,
+        "Salt": 2.4,
+        "Sugars": 55,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2286,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Tomato Relish GF 1x3.2 KG",
+        "EnergyKjoules": 532,
+        "EnergyKcal": 127,
+        "Fat": 0.4,
+        "Protein": 1,
+        "Carbohydrates": 29.6,
+        "Salt": 0.2725,
+        "Sugars": 26.1,
+        "Fibre": 1,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2287,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chef Sliced Gherkins 2x2.3 KG",
+        "EnergyKjoules": 83,
+        "EnergyKcal": 20,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 3.4,
+        "Salt": 1.25,
+        "Sugars": 3,
+        "Fibre": 0.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 2288,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Red Onion Relish 1x1.2 KG",
+        "EnergyKjoules": 815,
+        "EnergyKcal": 195,
+        "Fat": 0.5,
+        "Protein": 0.7,
+        "Carbohydrates": 48.5,
+        "Salt": 0,
+        "Sugars": 46,
+        "Fibre": 0.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 2289,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Hamburger Relish 1x2.45 KG",
+        "EnergyKjoules": 502,
+        "EnergyKcal": 118,
+        "Fat": 0.1,
+        "Protein": 1.5,
+        "Carbohydrates": 26.9,
+        "Salt": 1.5,
+        "Sugars": 23.2,
+        "Fibre": 1.9,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2290,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Salsa Medium Chunky 1x2.25 KG",
+        "EnergyKjoules": 150,
+        "EnergyKcal": 35,
+        "Fat": 0.3,
+        "Protein": 1.5,
+        "Carbohydrates": 5.5,
+        "Salt": 1.5,
+        "Sugars": 4.2,
+        "Fibre": 2.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2291,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Green Jalapeno Peppers 1x3.6 KG",
+        "EnergyKjoules": 104,
+        "EnergyKcal": 24,
+        "Fat": 0,
+        "Protein": 1.7,
+        "Carbohydrates": 0,
+        "Salt": 6,
+        "Sugars": 0.1,
+        "Fibre": 2.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 2292,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Relish Fire Roasted Pepper Relish 1x1.2 KG",
+        "EnergyKjoules": 474,
+        "EnergyKcal": 112,
+        "Fat": 0.3,
+        "Protein": 1,
+        "Carbohydrates": 26.2,
+        "Salt": 0.675,
+        "Sugars": 23.6,
+        "Fibre": 1.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2293,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Chilli Tomato Jam 1x1 KG",
+        "EnergyKjoules": 763,
+        "EnergyKcal": 182,
+        "Fat": 0.2,
+        "Protein": 0.6,
+        "Carbohydrates": 45.6,
+        "Salt": 3.25,
+        "Sugars": 42.1,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2294,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballymaloe Original Relish (Pail) 1x3 KG",
+        "EnergyKjoules": 682,
+        "EnergyKcal": 161,
+        "Fat": 0,
+        "Protein": 1.8,
+        "Carbohydrates": 37.4,
+        "Salt": 1.4,
+        "Sugars": 33.1,
+        "Fibre": 1.9,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2295,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Spicy Apple Chutney 1x1.2 KG",
+        "EnergyKjoules": 673,
+        "EnergyKcal": 161,
+        "Fat": 0.48,
+        "Protein": 0.99,
+        "Carbohydrates": 39.2,
+        "Salt": 0,
+        "Sugars": 35.8,
+        "Fibre": 1.52,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2296,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sheridans Chutney for Cheese 1x220 GM",
+        "EnergyKjoules": 586,
+        "EnergyKcal": 140,
+        "Fat": 0.57,
+        "Protein": 1.11,
+        "Carbohydrates": 32,
+        "Salt": 0.37,
+        "Sugars": 31.86,
+        "Fibre": 1.37,
+        "Allergens": []
+    }
+}, {
+    "pk": 2297,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Sliced Beetroot (Glass) 1x2.25 KG",
+        "EnergyKjoules": 236,
+        "EnergyKcal": 56,
+        "Fat": 1.1,
+        "Protein": 0.8,
+        "Carbohydrates": 9.8,
+        "Salt": 0.3,
+        "Sugars": 9.8,
+        "Fibre": 1.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 2298,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballymaloe Pepper Relish (Pail) 1x2.75 KG",
+        "EnergyKjoules": 415,
+        "EnergyKcal": 98,
+        "Fat": 0,
+        "Protein": 1.2,
+        "Carbohydrates": 23.2,
+        "Salt": 0.4,
+        "Sugars": 17.8,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2299,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Medium Gherkins 2x2.44 KG",
+        "EnergyKjoules": 51,
+        "EnergyKcal": 12,
+        "Fat": 0.6,
+        "Protein": 0.7,
+        "Carbohydrates": 1,
+        "Salt": 2.25,
+        "Sugars": 0.1,
+        "Fibre": 1.3,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 2300,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Cucumber Pickle Relish 1x1.2 KG",
+        "EnergyKjoules": 434,
+        "EnergyKcal": 104,
+        "Fat": 0.5,
+        "Protein": 0.8,
+        "Carbohydrates": 24,
+        "Salt": 0,
+        "Sugars": 21.3,
+        "Fibre": 0.8,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2301,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Plum Chutney 1x1 KG",
+        "EnergyKjoules": 580,
+        "EnergyKcal": 138,
+        "Fat": 0.7,
+        "Protein": 1,
+        "Carbohydrates": 47.9,
+        "Salt": 0,
+        "Sugars": 46.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2302,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Jalapeno Peppers Green Hot Sliced Jar 1x3 KG",
+        "EnergyKjoules": 60,
+        "EnergyKcal": 15,
+        "Fat": 0.2,
+        "Protein": 0.4,
+        "Carbohydrates": 3,
+        "Salt": 6.25,
+        "Sugars": 1.8,
+        "Fibre": 0.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 2303,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixers Country Relish 1x4.5 KG",
+        "EnergyKjoules": 579,
+        "EnergyKcal": 138,
+        "Fat": 0.3,
+        "Protein": 1.9,
+        "Carbohydrates": 31.9,
+        "Salt": 0.5,
+        "Sugars": 30.8,
+        "Fibre": 1.67,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2304,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Apple Chutney GF 1x3 KG",
+        "EnergyKjoules": 673,
+        "EnergyKcal": 161,
+        "Fat": 0,
+        "Protein": 1,
+        "Carbohydrates": 39,
+        "Salt": 0.2,
+        "Sugars": 36,
+        "Fibre": 0,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2305,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Mexican Salsa 1x1 KG",
+        "EnergyKjoules": 438,
+        "EnergyKcal": 105,
+        "Fat": 0.5,
+        "Protein": 0.8,
+        "Carbohydrates": 25.5,
+        "Salt": 0.75,
+        "Sugars": 22.7,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 2306,
+    "model": "home.products",
+    "fields": {
+        "product_name": "G'S Gourmet Red Pepper Relish 1x3 KG",
+        "EnergyKjoules": 491,
+        "EnergyKcal": 118,
+        "Fat": 1.04,
+        "Protein": 1.07,
+        "Carbohydrates": 27.51,
+        "Salt": 0.025,
+        "Sugars": 24.01,
+        "Fibre": 1.66,
+        "Allergens": [10, 11]
+    }
+}, {
+    "pk": 2307,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Exotic Fruit Relish GF 1x3.2 KG",
+        "EnergyKjoules": 524,
+        "EnergyKcal": 125,
+        "Fat": 0.3,
+        "Protein": 0.8,
+        "Carbohydrates": 29.1,
+        "Salt": 0,
+        "Sugars": 29,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2308,
+    "model": "home.products",
+    "fields": {
+        "product_name": "The Scullery Country Relish 1x3 KG",
+        "EnergyKjoules": 655,
+        "EnergyKcal": 155,
+        "Fat": 0.7,
+        "Protein": 1.9,
+        "Carbohydrates": 36.1,
+        "Salt": 0.4,
+        "Sugars": 34.2,
+        "Fibre": 1.9,
+        "Allergens": [10, 12]
+    }
+}, {
+    "pk": 2309,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chef Medium Gherkins 2x2.4 KG",
+        "EnergyKjoules": 79,
+        "EnergyKcal": 19,
+        "Fat": 0,
+        "Protein": 1,
+        "Carbohydrates": 0,
+        "Salt": 2.25,
+        "Sugars": 0,
+        "Fibre": 1.3,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 2310,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Apricot Chutney 1x1 KG",
+        "EnergyKjoules": 522,
+        "EnergyKcal": 125,
+        "Fat": 0,
+        "Protein": 0.5,
+        "Carbohydrates": 30,
+        "Salt": 0.2,
+        "Sugars": 23.5,
+        "Fibre": 0.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 2311,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Pepper Relish 1x1 KG",
+        "EnergyKjoules": 451,
+        "EnergyKcal": 108,
+        "Fat": 0.3,
+        "Protein": 0.7,
+        "Carbohydrates": 25.5,
+        "Salt": 0.295,
+        "Sugars": 23.1,
+        "Fibre": 0.8,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2312,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballymaloe Country Original Relish Mini Jars 60x35 GM",
+        "EnergyKjoules": 735,
+        "EnergyKcal": 173,
+        "Fat": 0,
+        "Protein": 1.5,
+        "Carbohydrates": 41.3,
+        "Salt": 1.5,
+        "Sugars": 34.8,
+        "Fibre": 0.8,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2313,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Onion Silverskin 2x2.25 KG",
+        "EnergyKjoules": 66,
+        "EnergyKcal": 16,
+        "Fat": 0.1,
+        "Protein": 0.6,
+        "Carbohydrates": 3.1,
+        "Salt": 1.5,
+        "Sugars": 2.2,
+        "Fibre": 0,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 2314,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sheridans Chutney for Cheese 1x2.5 KG",
+        "EnergyKjoules": 586,
+        "EnergyKcal": 140,
+        "Fat": 0.57,
+        "Protein": 1.11,
+        "Carbohydrates": 32,
+        "Salt": 0.6025,
+        "Sugars": 31.86,
+        "Fibre": 1.37,
+        "Allergens": []
+    }
+}, {
+    "pk": 2315,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Genovese Pesto in Olive Oil 1x1 KG",
+        "EnergyKjoules": 2650,
+        "EnergyKcal": 633,
+        "Fat": 65,
+        "Protein": 5,
+        "Carbohydrates": 10,
+        "Salt": 2,
+        "Sugars": 5.8,
+        "Fibre": 3.4,
+        "Allergens": [3, 7, 8]
+    }
+}, {
+    "pk": 2316,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Wholegrain Mustard 1x2.27 LT",
+        "EnergyKjoules": 888,
+        "EnergyKcal": 213,
+        "Fat": 13.8,
+        "Protein": 9.6,
+        "Carbohydrates": 10.9,
+        "Salt": 3.9,
+        "Sugars": 3.4,
+        "Fibre": 3.8,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2317,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixers American Mustard 1x1 KG",
+        "EnergyKjoules": 555,
+        "EnergyKcal": 132,
+        "Fat": 5.84,
+        "Protein": 5,
+        "Carbohydrates": 13.39,
+        "Salt": 2,
+        "Sugars": 6.01,
+        "Fibre": 0.96,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2318,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Colmans English Mustard 1x1 LT",
+        "EnergyKjoules": 733,
+        "EnergyKcal": 175,
+        "Fat": 8.9,
+        "Protein": 8,
+        "Carbohydrates": 16.7,
+        "Salt": 0,
+        "Sugars": 11,
+        "Fibre": 0,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2319,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Genovese Pesto in Olive Oil 1x2.5 KG",
+        "EnergyKjoules": 3006,
+        "EnergyKcal": 730,
+        "Fat": 76.7,
+        "Protein": 3.5,
+        "Carbohydrates": 6.4,
+        "Salt": 0.875,
+        "Sugars": 0,
+        "Fibre": 0.8,
+        "Allergens": [3, 7, 8]
+    }
+}, {
+    "pk": 2320,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys English Mustard Sachets 200x5 GM",
+        "EnergyKjoules": 711,
+        "EnergyKcal": 171,
+        "Fat": 11,
+        "Protein": 5,
+        "Carbohydrates": 11,
+        "Salt": 3.3,
+        "Sugars": 4.2,
+        "Fibre": 0,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2321,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Colmans Wholegrain Mustard 2x2.25 LT",
+        "EnergyKjoules": 640,
+        "EnergyKcal": 155,
+        "Fat": 8,
+        "Protein": 8,
+        "Carbohydrates": 10,
+        "Salt": 0,
+        "Sugars": 7,
+        "Fibre": 0,
+        "Allergens": [1, 10]
+    }
+}, {
+    "pk": 2322,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes English Mustard 1x2.27 LT",
+        "EnergyKjoules": 808,
+        "EnergyKcal": 194,
+        "Fat": 10.8,
+        "Protein": 6.6,
+        "Carbohydrates": 15.7,
+        "Salt": 7.8,
+        "Sugars": 12.5,
+        "Fibre": 3.7,
+        "Allergens": [1, 10]
+    }
+}, {
+    "pk": 2323,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz English Mustard Sachets 250x7 ML",
+        "EnergyKjoules": 710,
+        "EnergyKcal": 169,
+        "Fat": 7.4,
+        "Protein": 6.4,
+        "Carbohydrates": 17.1,
+        "Salt": 0.6,
+        "Sugars": 11.4,
+        "Fibre": 0,
+        "Allergens": [1, 10]
+    }
+}, {
+    "pk": 2324,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Brown Mustard Seeds 1x610 GM",
+        "EnergyKjoules": 2151,
+        "EnergyKcal": 518,
+        "Fat": 36,
+        "Protein": 26,
+        "Carbohydrates": 16,
+        "Salt": 0.1875,
+        "Sugars": 2,
+        "Fibre": 12,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2325,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Schwartz English Mustard 1x2.3 KG",
+        "EnergyKjoules": 848,
+        "EnergyKcal": 203,
+        "Fat": 6.7,
+        "Protein": 6.7,
+        "Carbohydrates": 18.5,
+        "Salt": 3.9,
+        "Sugars": 14.1,
+        "Fibre": 2,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2326,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Gallinara Red Pesto 1x650 GM",
+        "EnergyKjoules": 2300,
+        "EnergyKcal": 549,
+        "Fat": 55,
+        "Protein": 4.7,
+        "Carbohydrates": 7,
+        "Salt": 2.5,
+        "Sugars": 0,
+        "Fibre": 54,
+        "Allergens": [3, 7, 8]
+    }
+}, {
+    "pk": 2327,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Colmans Mustard Powder 1x2 KG",
+        "EnergyKjoules": 2145,
+        "EnergyKcal": 516,
+        "Fat": 32.2,
+        "Protein": 32.3,
+        "Carbohydrates": 10.6,
+        "Salt": 0,
+        "Sugars": 7.1,
+        "Fibre": 10.7,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2328,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Honey & Mustard Dressing 1x1 LT",
+        "EnergyKjoules": 1706,
+        "EnergyKcal": 413,
+        "Fat": 38.3,
+        "Protein": 1.1,
+        "Carbohydrates": 14.8,
+        "Salt": 0.15,
+        "Sugars": 14.2,
+        "Fibre": 0,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2329,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Caesar Dressing 1x2.27 LT",
+        "EnergyKjoules": 2619,
+        "EnergyKcal": 637,
+        "Fat": 68.7,
+        "Protein": 1.6,
+        "Carbohydrates": 2.7,
+        "Salt": 1.4,
+        "Sugars": 2.1,
+        "Fibre": 0,
+        "Allergens": [9, 3, 4, 10]
+    }
+}, {
+    "pk": 2330,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Basil Pesto Dressing 1x1 LT",
+        "EnergyKjoules": 1988,
+        "EnergyKcal": 483,
+        "Fat": 50.6,
+        "Protein": 4.5,
+        "Carbohydrates": 2,
+        "Salt": 1.5,
+        "Sugars": 1.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2331,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys Italian Dressing 1x1 LT",
+        "EnergyKjoules": 1995,
+        "EnergyKcal": 484,
+        "Fat": 50.4,
+        "Protein": 0.2,
+        "Carbohydrates": 7,
+        "Salt": 1.78,
+        "Sugars": 6.8,
+        "Fibre": 0,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2332,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kenny's Ranch Dressing 1x2.27 LT",
+        "EnergyKjoules": 1205,
+        "EnergyKcal": 287,
+        "Fat": 10.3,
+        "Protein": 6.3,
+        "Carbohydrates": 41.5,
+        "Salt": 0.95,
+        "Sugars": 18.4,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2333,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Caesar Salad Dressing GF 1x1 LT",
+        "EnergyKjoules": 1137,
+        "EnergyKcal": 273,
+        "Fat": 27,
+        "Protein": 2.8,
+        "Carbohydrates": 4.8,
+        "Salt": 1.6,
+        "Sugars": 3.2,
+        "Fibre": 0.01,
+        "Allergens": [3, 4, 7]
+    }
+}, {
+    "pk": 2334,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kennys French Dressing 1x1 LT",
+        "EnergyKjoules": 1988,
+        "EnergyKcal": 483,
+        "Fat": 51.4,
+        "Protein": 0.6,
+        "Carbohydrates": 3.3,
+        "Salt": 1.6,
+        "Sugars": 2.9,
+        "Fibre": 0,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2335,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Blue Cheese Dressing 1x2.27 LT",
+        "EnergyKjoules": 1732,
+        "EnergyKcal": 419,
+        "Fat": 39.1,
+        "Protein": 2.5,
+        "Carbohydrates": 14.3,
+        "Salt": 2.6,
+        "Sugars": 10.2,
+        "Fibre": 0.1,
+        "Allergens": [3, 7, 10, 12]
+    }
+}, {
+    "pk": 2336,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes French Dressing 1x2.27 LT",
+        "EnergyKjoules": 718,
+        "EnergyKcal": 173,
+        "Fat": 14.4,
+        "Protein": 0.4,
+        "Carbohydrates": 10.3,
+        "Salt": 2,
+        "Sugars": 9.3,
+        "Fibre": 0.4,
+        "Allergens": [10, 12]
+    }
+}, {
+    "pk": 2337,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Schwartz Caesar Dressing 1x2.15 LT",
+        "EnergyKjoules": 1879,
+        "EnergyKcal": 455,
+        "Fat": 43.2,
+        "Protein": 1.6,
+        "Carbohydrates": 14.9,
+        "Salt": 1.65,
+        "Sugars": 3.2,
+        "Fibre": 0.5,
+        "Allergens": [3, 7, 10]
+    }
+}, {
+    "pk": 2338,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Prep House Caesar Dressing 2x1 LT",
+        "EnergyKjoules": 2103,
+        "EnergyKcal": 511,
+        "Fat": 54,
+        "Protein": 2.04,
+        "Carbohydrates": 4.2,
+        "Salt": 1.23,
+        "Sugars": 2.5,
+        "Fibre": 0.5,
+        "Allergens": [3, 4, 7, 10, 12]
+    }
+}, {
+    "pk": 2339,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Heinz Salad Cream 2x2.35 KG",
+        "EnergyKjoules": 1376,
+        "EnergyKcal": 328,
+        "Fat": 26.8,
+        "Protein": 1.4,
+        "Carbohydrates": 20,
+        "Salt": 2.75,
+        "Sugars": 17.5,
+        "Fibre": 0.1,
+        "Allergens": [3, 10]
+    }
+}, {
+    "pk": 2340,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Meridian Dark Tahini 100% 1x270 GM",
+        "EnergyKjoules": 2545,
+        "EnergyKcal": 608,
+        "Fat": 60,
+        "Protein": 18,
+        "Carbohydrates": 0.9,
+        "Salt": 0.1,
+        "Sugars": 0.4,
+        "Fibre": 7.9,
+        "Allergens": [11]
+    }
+}, {
+    "pk": 2341,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marigold Engevita B12 Yeast Flakes Blue 1x100 GM",
+        "EnergyKjoules": 1460,
+        "EnergyKcal": 349,
+        "Fat": 5,
+        "Protein": 47,
+        "Carbohydrates": 19,
+        "Salt": 0.25,
+        "Sugars": 1,
+        "Fibre": 20,
+        "Allergens": []
+    }
+}, {
+    "pk": 2342,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Follain Cranberry Sauce GF 1x3.2 KG",
+        "EnergyKjoules": 706,
+        "EnergyKcal": 169,
+        "Fat": 0.24,
+        "Protein": 0.13,
+        "Carbohydrates": 42.3,
+        "Salt": 0,
+        "Sugars": 41,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2343,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballymaloe Cranberry Sauce 1x210 GM",
+        "EnergyKjoules": 760,
+        "EnergyKcal": 179,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 44.5,
+        "Salt": 0.03,
+        "Sugars": 36.2,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2344,
+    "model": "home.products",
+    "fields": {
+        "product_name": "LKK Panda Oyster Sauce 1x2.27 KG",
+        "EnergyKjoules": 479,
+        "EnergyKcal": 113,
+        "Fat": 0.5,
+        "Protein": 1.2,
+        "Carbohydrates": 27,
+        "Salt": 11.5,
+        "Sugars": 21,
+        "Fibre": 0,
+        "Allergens": [1, 14]
+    }
+}, {
+    "pk": 2345,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Golden Mountain Soy Sauce Seasoning 1x600 ML",
+        "EnergyKjoules": 414,
+        "EnergyKcal": 97,
+        "Fat": 0,
+        "Protein": 12,
+        "Carbohydrates": 12,
+        "Salt": 19.4,
+        "Sugars": 6.3,
+        "Fibre": 0.7,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2346,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lee Kum Kee Blended Sesame Oil Tub 6x1.9 LT",
+        "EnergyKjoules": 900,
+        "EnergyKcal": 215,
+        "Fat": 100,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [11]
+    }
+}, {
+    "pk": 2347,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Creamy Black Pepper Sauce 1x5 KG",
+        "EnergyKjoules": 646,
+        "EnergyKcal": 156,
+        "Fat": 13.4,
+        "Protein": 0.97,
+        "Carbohydrates": 8.4,
+        "Salt": 2.5,
+        "Sugars": 4,
+        "Fibre": 0,
+        "Allergens": [7, 6, 12]
+    }
+}, {
+    "pk": 2348,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Bay Leaves 1x45 GM",
+        "EnergyKjoules": 1478,
+        "EnergyKcal": 353,
+        "Fat": 8.4,
+        "Protein": 7.6,
+        "Carbohydrates": 49,
+        "Salt": 0.06,
+        "Sugars": 0,
+        "Fibre": 26,
+        "Allergens": []
+    }
+}, {
+    "pk": 2349,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballymaloe Midi Gift Set 4x3'S",
+        "EnergyKjoules": 619,
+        "EnergyKcal": 146,
+        "Fat": 0,
+        "Protein": 1.06,
+        "Carbohydrates": 35.03,
+        "Salt": 0.63,
+        "Sugars": 29.03,
+        "Fibre": 0.97,
+        "Allergens": [10]
+    }
+}, {
+    "pk": 2350,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Taco Sauce 1x850 ML",
+        "EnergyKjoules": 1093,
+        "EnergyKcal": 264,
+        "Fat": 23,
+        "Protein": 1,
+        "Carbohydrates": 13,
+        "Salt": 1.5,
+        "Sugars": 9.4,
+        "Fibre": 0.5,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2351,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Mayonnaise 1x850 ML",
+        "EnergyKjoules": 2198,
+        "EnergyKcal": 525,
+        "Fat": 56,
+        "Protein": 0.5,
+        "Carbohydrates": 7.5,
+        "Salt": 1.8,
+        "Sugars": 6.1,
+        "Fibre": 0.5,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2352,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Sweet Chilli Sauce 1x850 ML",
+        "EnergyKjoules": 795,
+        "EnergyKcal": 187,
+        "Fat": 0.5,
+        "Protein": 0.5,
+        "Carbohydrates": 46,
+        "Salt": 1.8,
+        "Sugars": 43,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2353,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Barbeque Sauce 1x850 ML",
+        "EnergyKjoules": 682,
+        "EnergyKcal": 163,
+        "Fat": 0.5,
+        "Protein": 1.6,
+        "Carbohydrates": 37,
+        "Salt": 2.8,
+        "Sugars": 34,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2354,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Ketchup 1x850 ML",
+        "EnergyKjoules": 419,
+        "EnergyKcal": 99,
+        "Fat": 0.5,
+        "Protein": 1.6,
+        "Carbohydrates": 22,
+        "Salt": 1.7,
+        "Sugars": 19,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 2355,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hellmanns Garlic Sauce 1x850 ML",
+        "EnergyKjoules": 1407,
+        "EnergyKcal": 336,
+        "Fat": 32,
+        "Protein": 1.1,
+        "Carbohydrates": 11,
+        "Salt": 1.9,
+        "Sugars": 6.1,
+        "Fibre": 0.8,
+        "Allergens": [3, 12]
+    }
+}]

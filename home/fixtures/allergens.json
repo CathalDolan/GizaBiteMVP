@@ -1,0 +1,112 @@
+[{
+        "pk": 1,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Cereals",
+            "index": 1
+        }
+    },
+    {
+        "pk": 2,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Crustaceans",
+            "index": 2
+        }
+    }, {
+        "pk": 3,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Eggs",
+            "index": 3
+        }
+    },
+    {
+        "pk": 4,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Fish",
+            "index": 4
+        }
+    },
+    {
+        "pk": 5,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Peanuts",
+            "index": 5
+        }
+    },
+    {
+        "pk": 6,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Soybeans",
+            "index": 6
+        }
+    },
+    {
+        "pk": 7,
+        "model": "home.allergens",
+        "fields": {
+            "name": "milk",
+            "index": 7
+        }
+    },
+    {
+        "pk": 8,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Nuts",
+            "index": 8
+        }
+    },
+    {
+        "pk": 9,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Celery",
+            "index": 9
+        }
+    },
+    {
+        "pk": 10,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Mustard",
+            "index": 10
+        }
+    },
+    {
+        "pk": 11,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Seseme Seeds",
+            "index": 11
+        }
+    },
+	{
+        "pk": 12,
+        "model": "home.allergens",
+        "fields": {
+            "name": "SulphurDioxide/Sulphites",
+            "index": 12
+        }
+    },
+    {
+        "pk": 13,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Lupin",
+            "index": 13
+        }
+    },
+    {
+        "pk": 14,
+        "model": "home.allergens",
+        "fields": {
+            "name": "Molluscs",
+            "index": 14
+        }
+    }
+]

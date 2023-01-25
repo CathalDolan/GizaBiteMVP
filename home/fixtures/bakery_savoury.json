@@ -1,0 +1,3736 @@
+[{
+    "pk": 1144,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brioche Style Burger Bun 4 48x88 GM",
+        "EnergyKjoules": 1099,
+        "EnergyKcal": 260,
+        "Fat": 1.3,
+        "Protein": 8.7,
+        "Carbohydrates": 52,
+        "Salt": 1,
+        "Sugars": 4.3,
+        "Fibre": 2.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1145,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Demi Baguette 66x135 GM",
+        "EnergyKjoules": 1139,
+        "EnergyKcal": 269,
+        "Fat": 1,
+        "Protein": 8.6,
+        "Carbohydrates": 55.8,
+        "Salt": 0.6,
+        "Sugars": 3.8,
+        "Fibre": 3.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1146,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brioche Style Burger Bun 5 1x40'S",
+        "EnergyKjoules": 1323,
+        "EnergyKcal": 314,
+        "Fat": 9.3,
+        "Protein": 9.5,
+        "Carbohydrates": 47.3,
+        "Salt": 1.3,
+        "Sugars": 7.5,
+        "Fibre": 1.7,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1147,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Authentic Rustic Ciabatta 36x100 GM",
+        "EnergyKjoules": 1103,
+        "EnergyKcal": 260,
+        "Fat": 0.8,
+        "Protein": 9.4,
+        "Carbohydrates": 52.8,
+        "Salt": 1.75,
+        "Sugars": 1.1,
+        "Fibre": 2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1148,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Breadcrumbs 1x5 KG",
+        "EnergyKjoules": 1057,
+        "EnergyKcal": 249,
+        "Fat": 0.8,
+        "Protein": 8.6,
+        "Carbohydrates": 51,
+        "Salt": 3.5,
+        "Sugars": 3.1,
+        "Fibre": 2.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1149,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Panini Grill Marked 30x125 GM",
+        "EnergyKjoules": 1120,
+        "EnergyKcal": 266,
+        "Fat": 4,
+        "Protein": 7.3,
+        "Carbohydrates": 49.3,
+        "Salt": 2.425,
+        "Sugars": 2.9,
+        "Fibre": 1.8,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1150,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Thick Sliced White Pan 7x800 GM",
+        "EnergyKjoules": 1121,
+        "EnergyKcal": 267,
+        "Fat": 2.2,
+        "Protein": 9.5,
+        "Carbohydrates": 50,
+        "Salt": 1.25,
+        "Sugars": 1.3,
+        "Fibre": 3.2,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1151,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Thick Sliced Bloomer 6x800 GM",
+        "EnergyKjoules": 1007,
+        "EnergyKcal": 238,
+        "Fat": 1.6,
+        "Protein": 9,
+        "Carbohydrates": 45,
+        "Salt": 0.93,
+        "Sugars": 3.2,
+        "Fibre": 2.9,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1152,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glazed Burger Bun 4.5 40x72 GM",
+        "EnergyKjoules": 1072,
+        "EnergyKcal": 253,
+        "Fat": 1.8,
+        "Protein": 9.36,
+        "Carbohydrates": 51.3,
+        "Salt": 1,
+        "Sugars": 4.3,
+        "Fibre": 3,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1153,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pre-sliced Grilled Ciabatta 36x120 GM",
+        "EnergyKjoules": 1035,
+        "EnergyKcal": 247,
+        "Fat": 1.5,
+        "Protein": 9.8,
+        "Carbohydrates": 46.5,
+        "Salt": 1.4,
+        "Sugars": 2,
+        "Fibre": 2.8,
+        "Allergens": [1, 7, 11, 6]
+    }
+}, {
+    "pk": 1154,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tiger Vienna Bread 8x440 GM",
+        "EnergyKjoules": 1160,
+        "EnergyKcal": 275,
+        "Fat": 3.7,
+        "Protein": 10.2,
+        "Carbohydrates": 48.7,
+        "Salt": 0,
+        "Sugars": 3.2,
+        "Fibre": 3,
+        "Allergens": [1, 8, 11]
+    }
+}, {
+    "pk": 1155,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Garlic & Coriander Chota Naan (flow wrapped) 30x35 GM",
+        "EnergyKjoules": 1185,
+        "EnergyKcal": 281,
+        "Fat": 8.3,
+        "Protein": 6.8,
+        "Carbohydrates": 43.7,
+        "Salt": 0.7,
+        "Sugars": 2.2,
+        "Fibre": 2.6,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1156,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Flour Tortilla Wraps 12 10x10'S",
+        "EnergyKjoules": 1296,
+        "EnergyKcal": 309,
+        "Fat": 7.7,
+        "Protein": 8,
+        "Carbohydrates": 50.8,
+        "Salt": 2.9,
+        "Sugars": 3.1,
+        "Fibre": 2.8,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1157,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced White Sourdough Loaf 8x800 GM",
+        "EnergyKjoules": 1138,
+        "EnergyKcal": 269,
+        "Fat": 1.8,
+        "Protein": 8.8,
+        "Carbohydrates": 53.3,
+        "Salt": 0.9,
+        "Sugars": 2.2,
+        "Fibre": 2.4,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1158,
+    "model": "home.products",
+    "fields": {
+        "product_name": "BBQ Burger Bun with Black Sesame Seeds 4.5 40x85 GM",
+        "EnergyKjoules": 1315,
+        "EnergyKcal": 312.33,
+        "Fat": 8.4,
+        "Protein": 9.77,
+        "Carbohydrates": 51,
+        "Salt": 3.2,
+        "Sugars": 0,
+        "Fibre": 3.17,
+        "Allergens": [3, 1, 7, 11]
+    }
+}, {
+    "pk": 1159,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Essential Garlic & Parsley Bread Slices 85x24 GM",
+        "EnergyKjoules": 1351,
+        "EnergyKcal": 322,
+        "Fat": 13.1,
+        "Protein": 7.2,
+        "Carbohydrates": 42.6,
+        "Salt": 1,
+        "Sugars": 2.7,
+        "Fibre": 2.4,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1160,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Breakfast Pancake (10cm diameter) 24x4'S",
+        "EnergyKjoules": 1084,
+        "EnergyKcal": 257,
+        "Fat": 4.4,
+        "Protein": 5.5,
+        "Carbohydrates": 47.4,
+        "Salt": 1.25,
+        "Sugars": 20.3,
+        "Fibre": 2.7,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1161,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Seeded Burger Bun 4.5 1x48'S",
+        "EnergyKjoules": 1120,
+        "EnergyKcal": 260,
+        "Fat": 4.4,
+        "Protein": 8.6,
+        "Carbohydrates": 46.9,
+        "Salt": 0.8525,
+        "Sugars": 5.1,
+        "Fibre": 2.1,
+        "Allergens": [1, 11]
+    }
+}, {
+    "pk": 1162,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes 4 Fully Baked Yorkshire Puddings 1x60'S",
+        "EnergyKjoules": 1048,
+        "EnergyKcal": 249,
+        "Fat": 8,
+        "Protein": 9,
+        "Carbohydrates": 34.3,
+        "Salt": 0.6,
+        "Sugars": 2.1,
+        "Fibre": 2.1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1163,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Thick Sliced Brown Pan 7x800 GM",
+        "EnergyKjoules": 1145,
+        "EnergyKcal": 273,
+        "Fat": 2.2,
+        "Protein": 9.6,
+        "Carbohydrates": 51.1,
+        "Salt": 1.25,
+        "Sugars": 2,
+        "Fibre": 4.2,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1164,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Essential Thick White Sliced Loaf 8x800 GM",
+        "EnergyKjoules": 1151,
+        "EnergyKcal": 272,
+        "Fat": 2.4,
+        "Protein": 8.8,
+        "Carbohydrates": 52.4,
+        "Salt": 0.9,
+        "Sugars": 4.5,
+        "Fibre": 2.7,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1165,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Part Baked Sourdough Batard Loaf 14x540 GM",
+        "EnergyKjoules": 1000,
+        "EnergyKcal": 236,
+        "Fat": 0.5,
+        "Protein": 7.3,
+        "Carbohydrates": 49,
+        "Salt": 1.4,
+        "Sugars": 0.9,
+        "Fibre": 3.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1166,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Soda Bread Sliced Stoneground 7x450 GM",
+        "EnergyKjoules": 987,
+        "EnergyKcal": 234,
+        "Fat": 4.3,
+        "Protein": 7.8,
+        "Carbohydrates": 39.2,
+        "Salt": 1.75,
+        "Sugars": 3.9,
+        "Fibre": 3.6,
+        "Allergens": [1, 7, 8, 11]
+    }
+}, {
+    "pk": 1167,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Santa Maria Flour Tortilla Wrap Long Life 12 10x10'S",
+        "EnergyKjoules": 1352,
+        "EnergyKcal": 321,
+        "Fat": 7.5,
+        "Protein": 7.7,
+        "Carbohydrates": 54,
+        "Salt": 2.2,
+        "Sugars": 0.3,
+        "Fibre": 2.7,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1168,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Petit Pain White 120x90 GM",
+        "EnergyKjoules": 1139,
+        "EnergyKcal": 269,
+        "Fat": 1,
+        "Protein": 8.6,
+        "Carbohydrates": 55.8,
+        "Salt": 0.6,
+        "Sugars": 3.8,
+        "Fibre": 3.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1169,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Breadcrumbs Bags 2x2 KG",
+        "EnergyKjoules": 941,
+        "EnergyKcal": 222,
+        "Fat": 1.5,
+        "Protein": 8.4,
+        "Carbohydrates": 45.6,
+        "Salt": 0.5,
+        "Sugars": 3.4,
+        "Fibre": 2.7,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1170,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hi Top White Sliced Pan 7x800 GM",
+        "EnergyKjoules": 1037,
+        "EnergyKcal": 245,
+        "Fat": 1.6,
+        "Protein": 9.5,
+        "Carbohydrates": 46.5,
+        "Salt": 1.23,
+        "Sugars": 2.6,
+        "Fibre": 3.2,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1171,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Petit Pain Par Baked 190x40 GM",
+        "EnergyKjoules": 1139,
+        "EnergyKcal": 369,
+        "Fat": 1,
+        "Protein": 8.6,
+        "Carbohydrates": 5.8,
+        "Salt": 0.6,
+        "Sugars": 3.8,
+        "Fibre": 3.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1172,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Potato Burger Bun 4 48x69 GM",
+        "EnergyKjoules": 1402,
+        "EnergyKcal": 333,
+        "Fat": 9.8,
+        "Protein": 9.8,
+        "Carbohydrates": 50.1,
+        "Salt": 1.28,
+        "Sugars": 5.7,
+        "Fibre": 2.8,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1173,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bretzel Bakery Sourdough Bread (Sliced) 5x1.6 KG",
+        "EnergyKjoules": 1183.18,
+        "EnergyKcal": 282.79,
+        "Fat": 0.71,
+        "Protein": 9.95,
+        "Carbohydrates": 56.92,
+        "Salt": 1.94,
+        "Sugars": 1.57,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7, 11, 6]
+    }
+}, {
+    "pk": 1174,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vegan Burger Bun 4.5 48x70 GM",
+        "EnergyKjoules": 1394,
+        "EnergyKcal": 331,
+        "Fat": 8.8,
+        "Protein": 10.3,
+        "Carbohydrates": 50.8,
+        "Salt": 1.13,
+        "Sugars": 9.8,
+        "Fibre": 3.8,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1175,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Demi Ciabatta Bread 60x125 GM",
+        "EnergyKjoules": 1133,
+        "EnergyKcal": 270,
+        "Fat": 20.5,
+        "Protein": 9.1,
+        "Carbohydrates": 51.8,
+        "Salt": 2,
+        "Sugars": 2,
+        "Fibre": 2.7,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1176,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bridor Croissant 23% Butter 60x70 GM",
+        "EnergyKjoules": 1490,
+        "EnergyKcal": 355,
+        "Fat": 19.9,
+        "Protein": 7.7,
+        "Carbohydrates": 37,
+        "Salt": 1.01,
+        "Sugars": 5.5,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 1177,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Real Belgian Sweet Waffles 30x90 GM",
+        "EnergyKjoules": 1714,
+        "EnergyKcal": 409,
+        "Fat": 17.7,
+        "Protein": 6.5,
+        "Carbohydrates": 54.7,
+        "Salt": 0.8,
+        "Sugars": 25.3,
+        "Fibre": 2.3,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1178,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Puff Pastry Sheets RTU 16x680 GM",
+        "EnergyKjoules": 1601,
+        "EnergyKcal": 385,
+        "Fat": 24.5,
+        "Protein": 6.5,
+        "Carbohydrates": 32.2,
+        "Salt": 1.25,
+        "Sugars": 1.6,
+        "Fibre": 4.6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1179,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bridor Pain Au Chocolate 70x75 GM",
+        "EnergyKjoules": 1545,
+        "EnergyKcal": 370,
+        "Fat": 20.3,
+        "Protein": 7.5,
+        "Carbohydrates": 39.4,
+        "Salt": 0.91,
+        "Sugars": 10,
+        "Fibre": 2.1,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1180,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Individual Yorkshire Puddings Fully Baked 3 1x60'S",
+        "EnergyKjoules": 1069,
+        "EnergyKcal": 254,
+        "Fat": 7.6,
+        "Protein": 6.5,
+        "Carbohydrates": 38.8,
+        "Salt": 0.6,
+        "Sugars": 5.1,
+        "Fibre": 2.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1181,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bridor Croissant 23% Butter Traditional 70x60 GM",
+        "EnergyKjoules": 1530,
+        "EnergyKcal": 365,
+        "Fat": 19.9,
+        "Protein": 7.8,
+        "Carbohydrates": 37.5,
+        "Salt": 0,
+        "Sugars": 5.5,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1182,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Raisin and Custard Swirl RTB 60x110 GM",
+        "EnergyKjoules": 1190,
+        "EnergyKcal": 285,
+        "Fat": 12.4,
+        "Protein": 5.3,
+        "Carbohydrates": 38.6,
+        "Salt": 0.7,
+        "Sugars": 16.4,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1183,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Mini Croissant RTB 120x25 GM",
+        "EnergyKjoules": 1698,
+        "EnergyKcal": 406,
+        "Fat": 21.5,
+        "Protein": 8.3,
+        "Carbohydrates": 44.1,
+        "Salt": 0.8,
+        "Sugars": 6.6,
+        "Fibre": 1.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1184,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gyoza Dim Sum Wrappers 48x140 GM",
+        "EnergyKjoules": 1142,
+        "EnergyKcal": 273,
+        "Fat": 0.9,
+        "Protein": 8.1,
+        "Carbohydrates": 58.2,
+        "Salt": 0.2,
+        "Sugars": 58.1,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1185,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixed Flavour Macaroons 1x48'S",
+        "EnergyKjoules": 1805,
+        "EnergyKcal": 430,
+        "Fat": 21.2,
+        "Protein": 7.9,
+        "Carbohydrates": 51,
+        "Salt": 0.13,
+        "Sugars": 49.3,
+        "Fibre": 0,
+        "Allergens": [3, 7, 8, 5, 6]
+    }
+}, {
+    "pk": 1186,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gourmet Mixed Mini Danish 140x28-40 GM",
+        "EnergyKjoules": 1207,
+        "EnergyKcal": 288,
+        "Fat": 12,
+        "Protein": 5,
+        "Carbohydrates": 39,
+        "Salt": 0.76,
+        "Sugars": 14,
+        "Fibre": 1.9,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1187,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bridor Croissant RTB 50x90 GM",
+        "EnergyKjoules": 1519,
+        "EnergyKcal": 364,
+        "Fat": 20,
+        "Protein": 6.8,
+        "Carbohydrates": 38,
+        "Salt": 1,
+        "Sugars": 5.7,
+        "Fibre": 2.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1188,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sweet Crust Tartlets 9.5cm 1x72'S",
+        "EnergyKjoules": 2045,
+        "EnergyKcal": 489,
+        "Fat": 23.6,
+        "Protein": 9.9,
+        "Carbohydrates": 59.3,
+        "Salt": 2.5,
+        "Sugars": 22.3,
+        "Fibre": 1.9,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1189,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Happy Boy Wonton Pastry 1x200 GM",
+        "EnergyKjoules": 1175,
+        "EnergyKcal": 277,
+        "Fat": 2,
+        "Protein": 13.4,
+        "Carbohydrates": 50.62,
+        "Salt": 0.18,
+        "Sugars": 5.2,
+        "Fibre": 1.6,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 1190,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Pain au Raisin RTB 36x96 GM",
+        "EnergyKjoules": 1474,
+        "EnergyKcal": 352,
+        "Fat": 18.3,
+        "Protein": 4.7,
+        "Carbohydrates": 41.6,
+        "Salt": 0.8,
+        "Sugars": 16.7,
+        "Fibre": 1.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1191,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Large Croissant RTB 48x85 GM",
+        "EnergyKjoules": 1698,
+        "EnergyKcal": 406,
+        "Fat": 21.5,
+        "Protein": 8.3,
+        "Carbohydrates": 44.1,
+        "Salt": 0.8,
+        "Sugars": 6.6,
+        "Fibre": 1.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1192,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wrapped Butter Croissants 32x41 GM",
+        "EnergyKjoules": 1689,
+        "EnergyKcal": 404,
+        "Fat": 22.5,
+        "Protein": 8.2,
+        "Carbohydrates": 41,
+        "Salt": 1.14,
+        "Sugars": 6.1,
+        "Fibre": 2.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1193,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bridor Chocolate Twist Ready To Prove 65x120 GM",
+        "EnergyKjoules": 1245,
+        "EnergyKcal": 300,
+        "Fat": 12.6,
+        "Protein": 5.3,
+        "Carbohydrates": 40,
+        "Salt": 0.56,
+        "Sugars": 17.4,
+        "Fibre": 2.3,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1194,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Apple Turnover RTB 60x100 GM",
+        "EnergyKjoules": 1256,
+        "EnergyKcal": 300,
+        "Fat": 15.5,
+        "Protein": 5.2,
+        "Carbohydrates": 32.8,
+        "Salt": 0.35,
+        "Sugars": 4.7,
+        "Fibre": 4.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1195,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Maple Pecan Plait 48x100 GM",
+        "EnergyKjoules": 1910,
+        "EnergyKcal": 458,
+        "Fat": 28.9,
+        "Protein": 5.1,
+        "Carbohydrates": 43.5,
+        "Salt": 0.35,
+        "Sugars": 16.9,
+        "Fibre": 1.8,
+        "Allergens": [3, 1, 7, 8]
+    }
+}, {
+    "pk": 1196,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Large Vol au Vents 1x39'S",
+        "EnergyKjoules": 2133,
+        "EnergyKcal": 510,
+        "Fat": 29.7,
+        "Protein": 9.09,
+        "Carbohydrates": 51.6,
+        "Salt": 0.025,
+        "Sugars": 1,
+        "Fibre": 1,
+        "Allergens": [3, 1, 6]
+    }
+}, {
+    "pk": 1197,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Spring Roll Pastry 8.5 1x550 GM",
+        "EnergyKjoules": 1289,
+        "EnergyKcal": 307,
+        "Fat": 0.4,
+        "Protein": 0.6,
+        "Carbohydrates": 4.7,
+        "Salt": 0.08,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1198,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cocoa & Hazelnut Filled Croissants 44x90 GM",
+        "EnergyKjoules": 1658,
+        "EnergyKcal": 397,
+        "Fat": 22,
+        "Protein": 6.4,
+        "Carbohydrates": 42,
+        "Salt": 0.84,
+        "Sugars": 15,
+        "Fibre": 2.6,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 1199,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Bakewell Raspberry Tart 1x12 PTN",
+        "EnergyKjoules": 1189.88,
+        "EnergyKcal": 283.31,
+        "Fat": 17.92,
+        "Protein": 4.71,
+        "Carbohydrates": 25.79,
+        "Salt": 0,
+        "Sugars": 16.62,
+        "Fibre": 1.08,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1200,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bridor Mixed Breakfast Pastries 135x32 GM",
+        "EnergyKjoules": 1321,
+        "EnergyKcal": 314.7,
+        "Fat": 13.1,
+        "Protein": 5.5,
+        "Carbohydrates": 43.2,
+        "Salt": 0.65,
+        "Sugars": 21.7,
+        "Fibre": 1.8,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1201,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixed Large Danish Crowns (wrapped) 33x105 GM",
+        "EnergyKjoules": 1449,
+        "EnergyKcal": 333,
+        "Fat": 15,
+        "Protein": 5.1,
+        "Carbohydrates": 43.1,
+        "Salt": 0.8025,
+        "Sugars": 14.7,
+        "Fibre": 2.7,
+        "Allergens": [3, 1, 7, 11, 6]
+    }
+}, {
+    "pk": 1202,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bridor Almond Croissants 60x95 GM",
+        "EnergyKjoules": 1505,
+        "EnergyKcal": 359,
+        "Fat": 17,
+        "Protein": 7.3,
+        "Carbohydrates": 43,
+        "Salt": 0.83,
+        "Sugars": 16,
+        "Fibre": 2.6,
+        "Allergens": [3, 1, 8]
+    }
+}, {
+    "pk": 1203,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Apple Puff Squares 80x80 GM",
+        "EnergyKjoules": 1415,
+        "EnergyKcal": 338,
+        "Fat": 16.3,
+        "Protein": 4.7,
+        "Carbohydrates": 29.142,
+        "Salt": 0.3,
+        "Sugars": 14.5,
+        "Fibre": 2.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1204,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Mini Pain au Chocolate RTB 120x25 GM",
+        "EnergyKjoules": 1785,
+        "EnergyKcal": 427,
+        "Fat": 22.1,
+        "Protein": 8.3,
+        "Carbohydrates": 47.9,
+        "Salt": 0.8,
+        "Sugars": 13.3,
+        "Fibre": 1.5,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1205,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Waffles 24x85 GM",
+        "EnergyKjoules": 1360,
+        "EnergyKcal": 324,
+        "Fat": 18.3,
+        "Protein": 6.2,
+        "Carbohydrates": 32.5,
+        "Salt": 0,
+        "Sugars": 3.4,
+        "Fibre": 2.4,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1206,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Straight All Butter Croissant RTB 50x60 GM",
+        "EnergyKjoules": 1698,
+        "EnergyKcal": 406,
+        "Fat": 21.5,
+        "Protein": 8.3,
+        "Carbohydrates": 44.1,
+        "Salt": 0.8,
+        "Sugars": 6.6,
+        "Fibre": 1.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1207,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Le Monde Des Crepes American Style Butter Pancakes 1x40'S",
+        "EnergyKjoules": 1205,
+        "EnergyKcal": 287,
+        "Fat": 10.3,
+        "Protein": 6.3,
+        "Carbohydrates": 41.5,
+        "Salt": 2.375,
+        "Sugars": 18.4,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1208,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Spring Roll Pastry 10 1x550 GM",
+        "EnergyKjoules": 232,
+        "EnergyKcal": 55,
+        "Fat": 0.9,
+        "Protein": 1.3,
+        "Carbohydrates": 11,
+        "Salt": 0.17,
+        "Sugars": 0.3,
+        "Fibre": 0,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1209,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vol Au Vent 8cm 1x72'S",
+        "EnergyKjoules": 2307,
+        "EnergyKcal": 554,
+        "Fat": 36.2,
+        "Protein": 7.6,
+        "Carbohydrates": 48,
+        "Salt": 1.25,
+        "Sugars": 1.2,
+        "Fibre": 2.5,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1210,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Quiche Bases 11cm 1x42'S",
+        "EnergyKjoules": 2127,
+        "EnergyKcal": 509,
+        "Fat": 26,
+        "Protein": 8.5,
+        "Carbohydrates": 58.4,
+        "Salt": 0.65,
+        "Sugars": 2.3,
+        "Fibre": 3.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1211,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McDougalls Fish Batter Mix 1x3.5 KG",
+        "EnergyKjoules": 1429,
+        "EnergyKcal": 337,
+        "Fat": 1.6,
+        "Protein": 10.1,
+        "Carbohydrates": 69.1,
+        "Salt": 4.375,
+        "Sugars": 0.5,
+        "Fibre": 2.9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1212,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vol au Vents Standard 7cm 1x96'S",
+        "EnergyKjoules": 2185,
+        "EnergyKcal": 524,
+        "Fat": 34.6,
+        "Protein": 8.4,
+        "Carbohydrates": 44,
+        "Salt": 3.375,
+        "Sugars": 1.2,
+        "Fibre": 1.9,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1213,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sweet Shortcrust Tartlet 11cm 1x72'S",
+        "EnergyKjoules": 2122,
+        "EnergyKcal": 507,
+        "Fat": 25.2,
+        "Protein": 7.1,
+        "Carbohydrates": 63,
+        "Salt": 0.35,
+        "Sugars": 19.6,
+        "Fibre": 2.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1214,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Giant Sausage Roll with Cuts 8 1x40'S",
+        "EnergyKjoules": 1103,
+        "EnergyKcal": 264,
+        "Fat": 15.1,
+        "Protein": 5.4,
+        "Carbohydrates": 26,
+        "Salt": 1.2,
+        "Sugars": 0.5,
+        "Fibre": 1.3,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 1215,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sweet Shortcrust Tartlets 22cm 1x10'S",
+        "EnergyKjoules": 2137,
+        "EnergyKcal": 511,
+        "Fat": 25.8,
+        "Protein": 7,
+        "Carbohydrates": 61.2,
+        "Salt": 0.025,
+        "Sugars": 20.32,
+        "Fibre": 2.44,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1216,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sweet Butter Tartlets 7cm 1x96'S",
+        "EnergyKjoules": 2156,
+        "EnergyKcal": 515,
+        "Fat": 26.8,
+        "Protein": 6.4,
+        "Carbohydrates": 61.6,
+        "Salt": 0.3,
+        "Sugars": 19.1,
+        "Fibre": 1.56,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1217,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wholemeal Quiche Bases 22cm 1x6'S",
+        "EnergyKjoules": 2147,
+        "EnergyKcal": 514,
+        "Fat": 27.1,
+        "Protein": 8.6,
+        "Carbohydrates": 61.2,
+        "Salt": 0,
+        "Sugars": 2.27,
+        "Fibre": 5.08,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1218,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Round Mini Savoury Tartlets 4cm 1x240'S",
+        "EnergyKjoules": 2175.7,
+        "EnergyKcal": 520,
+        "Fat": 32,
+        "Protein": 6,
+        "Carbohydrates": 53,
+        "Salt": 0.5,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1219,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vol Au Vent Shell 1x96'S",
+        "EnergyKjoules": 2274,
+        "EnergyKcal": 546,
+        "Fat": 38.5,
+        "Protein": 7.5,
+        "Carbohydrates": 45.7,
+        "Salt": 1.075,
+        "Sugars": 1.8,
+        "Fibre": 3.2,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1220,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Shortcrust Sweet Pastry 8cm 1x108'S",
+        "EnergyKjoules": 2184,
+        "EnergyKcal": 522,
+        "Fat": 27.9,
+        "Protein": 7.45,
+        "Carbohydrates": 59.6,
+        "Salt": 0.35,
+        "Sugars": 11.7,
+        "Fibre": 1.4,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1221,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sweet Shortcrust Tartlets 8.5cm 1x135'S",
+        "EnergyKjoules": 2122,
+        "EnergyKcal": 507,
+        "Fat": 25.2,
+        "Protein": 7.1,
+        "Carbohydrates": 63,
+        "Salt": 0.025,
+        "Sugars": 19.6,
+        "Fibre": 2.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1222,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Quiche Bases 8.5cm 1x144'S",
+        "EnergyKjoules": 2127,
+        "EnergyKcal": 509,
+        "Fat": 26,
+        "Protein": 8.5,
+        "Carbohydrates": 58.4,
+        "Salt": 0.65,
+        "Sugars": 2.3,
+        "Fibre": 3.5,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1223,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Round Mini Sweet Tartlets 4cm 1x240'S",
+        "EnergyKjoules": 2005,
+        "EnergyKcal": 479,
+        "Fat": 22.2,
+        "Protein": 8.2,
+        "Carbohydrates": 63.5,
+        "Salt": 0.5,
+        "Sugars": 27.8,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1224,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vol Au Vent 1x60'S",
+        "EnergyKjoules": 2200,
+        "EnergyKcal": 526,
+        "Fat": 35.4,
+        "Protein": 8.7,
+        "Carbohydrates": 48.3,
+        "Salt": 1,
+        "Sugars": 1.7,
+        "Fibre": 3.1,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1225,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Sweet Mini Tartlet 4cm 1x240'S",
+        "EnergyKjoules": 2090,
+        "EnergyKcal": 499,
+        "Fat": 23,
+        "Protein": 8.1,
+        "Carbohydrates": 64,
+        "Salt": 0.2,
+        "Sugars": 18.5,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1226,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sweet Pastry Shells 9.5cm 1x108'S",
+        "EnergyKjoules": 2.081,
+        "EnergyKcal": 497,
+        "Fat": 19.1,
+        "Protein": 7.1,
+        "Carbohydrates": 59.2,
+        "Salt": 0.8,
+        "Sugars": 19.1,
+        "Fibre": 2.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1227,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sweet Butter Shortcrust Tartlet 11cm 1x72'S",
+        "EnergyKjoules": 2122,
+        "EnergyKcal": 507,
+        "Fat": 25.2,
+        "Protein": 7.1,
+        "Carbohydrates": 63,
+        "Salt": 0.025,
+        "Sugars": 19.6,
+        "Fibre": 2.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1228,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Bouchees Pastry 3cm 1x180'S",
+        "EnergyKjoules": 2131,
+        "EnergyKcal": 510,
+        "Fat": 29.7,
+        "Protein": 0,
+        "Carbohydrates": 51.6,
+        "Salt": 1.125,
+        "Sugars": 1,
+        "Fibre": 1,
+        "Allergens": [3, 1, 6]
+    }
+}, {
+    "pk": 1229,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Round Pastry Shells 5cm 1x96'S",
+        "EnergyKjoules": 2145,
+        "EnergyKcal": 514,
+        "Fat": 30.2,
+        "Protein": 5.6,
+        "Carbohydrates": 54.1,
+        "Salt": 1.525,
+        "Sugars": 0.4,
+        "Fibre": 1.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1230,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Savoury Tartlet in Aluminium Support 11cm 1x96'S",
+        "EnergyKjoules": 2150,
+        "EnergyKcal": 515,
+        "Fat": 28,
+        "Protein": 7.5,
+        "Carbohydrates": 58,
+        "Salt": 0.3,
+        "Sugars": 20,
+        "Fibre": 2.5,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1231,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Mini Savoury Tartlet 4cm 1x240'S",
+        "EnergyKjoules": 2102,
+        "EnergyKcal": 502,
+        "Fat": 26,
+        "Protein": 8.3,
+        "Carbohydrates": 57,
+        "Salt": 1.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1232,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Sausage Rolls 8 1x40'S",
+        "EnergyKjoules": 2256,
+        "EnergyKcal": 277,
+        "Fat": 15.8,
+        "Protein": 6.3,
+        "Carbohydrates": 26.7,
+        "Salt": 1.1,
+        "Sugars": 0.6,
+        "Fibre": 1.3,
+        "Allergens": [1, 12]
+    }
+}, {
+    "pk": 1233,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Magnifico Wafer Chocolate 30x25 GM",
+        "EnergyKjoules": 2285,
+        "EnergyKcal": 547,
+        "Fat": 32.2,
+        "Protein": 5.6,
+        "Carbohydrates": 58,
+        "Salt": 0.52,
+        "Sugars": 40,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7, 8]
+    }
+}, {
+    "pk": 1234,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Quiche Base 18cm 1x36'S",
+        "EnergyKjoules": 2127,
+        "EnergyKcal": 509,
+        "Fat": 26,
+        "Protein": 8.5,
+        "Carbohydrates": 58.4,
+        "Salt": 0.875,
+        "Sugars": 2.3,
+        "Fibre": 3.5,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1235,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Broderick's Crunchy Slam Dunk Peanut Chuck 20x50 GM",
+        "EnergyKjoules": 2180,
+        "EnergyKcal": 521,
+        "Fat": 35,
+        "Protein": 11,
+        "Carbohydrates": 42,
+        "Salt": 0.1,
+        "Sugars": 36,
+        "Fibre": 0,
+        "Allergens": [1, 7, 8, 5, 6, 12]
+    }
+}, {
+    "pk": 1236,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Round Plain Meringue 7.5cm 1x150'S",
+        "EnergyKjoules": 1683,
+        "EnergyKcal": 396,
+        "Fat": 0.5,
+        "Protein": 3.7,
+        "Carbohydrates": 94.1,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 1237,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Genoese Sponge Mix 1x10 KG",
+        "EnergyKjoules": 1538,
+        "EnergyKcal": 366,
+        "Fat": 2,
+        "Protein": 2.2,
+        "Carbohydrates": 85.5,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1238,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Belgian Double Choc Chunk Cookies (wrapped) 1",
+        "EnergyKjoules": 2048,
+        "EnergyKcal": 489,
+        "Fat": 24.6,
+        "Protein": 4.7,
+        "Carbohydrates": 61.4,
+        "Salt": 0.6,
+        "Sugars": 38.8,
+        "Fibre": 1.8,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1239,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Double Belgian Chocolate Chunk Cookies 1x30'S",
+        "EnergyKjoules": 2053,
+        "EnergyKcal": 491,
+        "Fat": 24.8,
+        "Protein": 4.8,
+        "Carbohydrates": 61.1,
+        "Salt": 0.6,
+        "Sugars": 40.2,
+        "Fibre": 1.9,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1240,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Minipack Biscuits 1x100'S",
+        "EnergyKjoules": 2023,
+        "EnergyKcal": 482,
+        "Fat": 20.1,
+        "Protein": 5.6,
+        "Carbohydrates": 68.4,
+        "Salt": 0.8,
+        "Sugars": 27.1,
+        "Fibre": 2.6,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1241,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Sweet Biscuit Assortment 1x2 KG",
+        "EnergyKjoules": 2082,
+        "EnergyKcal": 497,
+        "Fat": 22.5,
+        "Protein": 5.8,
+        "Carbohydrates": 66.5,
+        "Salt": 0.8,
+        "Sugars": 28.4,
+        "Fibre": 2.6,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1242,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Belgian Triple Choc Chunk Cookies (wrapped) 1",
+        "EnergyKjoules": 1997,
+        "EnergyKcal": 477,
+        "Fat": 24.4,
+        "Protein": 5,
+        "Carbohydrates": 58.3,
+        "Salt": 0.6,
+        "Sugars": 38.7,
+        "Fibre": 2.3,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1243,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Chocolate Chunk Cookie Pucks 1x90'S",
+        "EnergyKjoules": 1913,
+        "EnergyKcal": 457,
+        "Fat": 22.5,
+        "Protein": 4.3,
+        "Carbohydrates": 58.6,
+        "Salt": 0.6,
+        "Sugars": 34.6,
+        "Fibre": 1.4,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1244,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Caramlised Biscuits Wrapped 1x300'S",
+        "EnergyKjoules": 1962,
+        "EnergyKcal": 468,
+        "Fat": 18.5,
+        "Protein": 5.8,
+        "Carbohydrates": 69.7,
+        "Salt": 0.75,
+        "Sugars": 30.3,
+        "Fibre": 4.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1245,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Digestive Rounds 12x300 GM",
+        "EnergyKjoules": 2048,
+        "EnergyKcal": 489,
+        "Fat": 22.3,
+        "Protein": 6.5,
+        "Carbohydrates": 64,
+        "Salt": 1.2,
+        "Sugars": 17.5,
+        "Fibre": 3,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1246,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Triple Belgian Chocolate Chunk Cookies 1x30'S",
+        "EnergyKjoules": 2021,
+        "EnergyKcal": 483,
+        "Fat": 24.8,
+        "Protein": 5.1,
+        "Carbohydrates": 58.7,
+        "Salt": 0.6,
+        "Sugars": 40.2,
+        "Fibre": 2.3,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1247,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Custard Cream Biscuits 12x150 GM",
+        "EnergyKjoules": 2132,
+        "EnergyKcal": 509,
+        "Fat": 24.5,
+        "Protein": 4.6,
+        "Carbohydrates": 66.5,
+        "Salt": 3,
+        "Sugars": 27.4,
+        "Fibre": 2.1,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1248,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Crawfords Biscuits Assorted Mini Pack 100x3'S",
+        "EnergyKjoules": 2042,
+        "EnergyKcal": 487,
+        "Fat": 22.6,
+        "Protein": 6.5,
+        "Carbohydrates": 62.5,
+        "Salt": 0,
+        "Sugars": 18.8,
+        "Fibre": 4.1,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1249,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Belgian Chocolate Chunk Cookie Pucks 90x80 GM",
+        "EnergyKjoules": 1952,
+        "EnergyKcal": 466,
+        "Fat": 23.6,
+        "Protein": 4.5,
+        "Carbohydrates": 58.1,
+        "Salt": 0.5,
+        "Sugars": 38.2,
+        "Fibre": 1.8,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1250,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Belgian White Choc & Rasp Cookies (wrapped) 3",
+        "EnergyKjoules": 1943,
+        "EnergyKcal": 465,
+        "Fat": 23.3,
+        "Protein": 4.5,
+        "Carbohydrates": 58.8,
+        "Salt": 0.6,
+        "Sugars": 36.7,
+        "Fibre": 1,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1251,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McVities Tasties Pink Wafers 12x100 GM",
+        "EnergyKjoules": 155,
+        "EnergyKcal": 37,
+        "Fat": 2.1,
+        "Protein": 0,
+        "Carbohydrates": 2.7,
+        "Salt": 0.01,
+        "Sugars": 2.7,
+        "Fibre": 0,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1252,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Walkers Wrapped Biscuit Assortment (mini pack) 100x25 GM",
+        "EnergyKjoules": 2111,
+        "EnergyKcal": 504,
+        "Fat": 24.5,
+        "Protein": 5.1,
+        "Carbohydrates": 63.3,
+        "Salt": 1,
+        "Sugars": 30.6,
+        "Fibre": 2.22,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1253,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Broderick's Belgian Chocolate Rocky Road 1x18'S",
+        "EnergyKjoules": 2157.1,
+        "EnergyKcal": 517.7,
+        "Fat": 28.9,
+        "Protein": 5.5,
+        "Carbohydrates": 57.6,
+        "Salt": 0.23,
+        "Sugars": 41.2,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6, 12]
+    }
+}, {
+    "pk": 1254,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Millionaires Shortbread Traybake 1x30 PTN",
+        "EnergyKjoules": 1999,
+        "EnergyKcal": 478,
+        "Fat": 26.4,
+        "Protein": 5,
+        "Carbohydrates": 54.6,
+        "Salt": 0.3,
+        "Sugars": 37.2,
+        "Fibre": 1.1,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1255,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Jacobs Rich Tea 15x300 GM",
+        "EnergyKjoules": 1945,
+        "EnergyKcal": 460,
+        "Fat": 15,
+        "Protein": 7.4,
+        "Carbohydrates": 74,
+        "Salt": 0.95,
+        "Sugars": 20,
+        "Fibre": 3.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1256,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie White Belgian Choc Chunk & Raspberry Cookies",
+        "EnergyKjoules": 2051,
+        "EnergyKcal": 490,
+        "Fat": 24.6,
+        "Protein": 4.7,
+        "Carbohydrates": 61.9,
+        "Salt": 0.6,
+        "Sugars": 38.6,
+        "Fibre": 1.1,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1257,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lotus Caramelised Biscuits 1x300'S",
+        "EnergyKjoules": 2032,
+        "EnergyKcal": 484,
+        "Fat": 19,
+        "Protein": 4.9,
+        "Carbohydrates": 72.6,
+        "Salt": 0.9,
+        "Sugars": 38.1,
+        "Fibre": 1.3,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1258,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Digestive Crumb  1x20 kg",
+        "EnergyKjoules": 1952,
+        "EnergyKcal": 465,
+        "Fat": 17.3,
+        "Protein": 7.67,
+        "Carbohydrates": 71.1,
+        "Salt": 0.81,
+        "Sugars": 15.5,
+        "Fibre": 3.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1259,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boudoir Biscuits 12x200 GM",
+        "EnergyKjoules": 1607,
+        "EnergyKcal": 384,
+        "Fat": 3.8,
+        "Protein": 7.8,
+        "Carbohydrates": 77.5,
+        "Salt": 0.21,
+        "Sugars": 42,
+        "Fibre": 2,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 1260,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie White Chocolate Chunk Cookie Pucks 90x56 GM",
+        "EnergyKjoules": 1961,
+        "EnergyKcal": 468,
+        "Fat": 23.2,
+        "Protein": 4.8,
+        "Carbohydrates": 59.7,
+        "Salt": 0.6,
+        "Sugars": 38.4,
+        "Fibre": 0.7,
+        "Allergens": [3, 1, 7, 6, 12]
+    }
+}, {
+    "pk": 1261,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Broderick's Caramel Choc Slice 1x18'S",
+        "EnergyKjoules": 1793,
+        "EnergyKcal": 430,
+        "Fat": 26,
+        "Protein": 6.5,
+        "Carbohydrates": 48,
+        "Salt": 0.025,
+        "Sugars": 26,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6, 12]
+    }
+}, {
+    "pk": 1262,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Quadruple Belgian Chocolate Cookie Pucks 90x8",
+        "EnergyKjoules": 1916,
+        "EnergyKcal": 458,
+        "Fat": 23.5,
+        "Protein": 4.8,
+        "Carbohydrates": 55.7,
+        "Salt": 0.6,
+        "Sugars": 38.2,
+        "Fibre": 2.2,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1263,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Broderick's Caramental Chocolate Caramel Shortbread 20x50 GM",
+        "EnergyKjoules": 1960,
+        "EnergyKcal": 469,
+        "Fat": 26,
+        "Protein": 5.5,
+        "Carbohydrates": 53,
+        "Salt": 0,
+        "Sugars": 39,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6, 12]
+    }
+}, {
+    "pk": 1264,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Broderick's Mixed Mini Bites 75x25 GM",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 529.8,
+        "Fat": 30.2,
+        "Protein": 6.2,
+        "Carbohydrates": 56.8,
+        "Salt": 0.2575,
+        "Sugars": 42.8,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6, 12]
+    }
+}, {
+    "pk": 1265,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Waldens Traditional Pasties 36x184 GM",
+        "EnergyKjoules": 1091,
+        "EnergyKcal": 262,
+        "Fat": 15.7,
+        "Protein": 5.7,
+        "Carbohydrates": 23.6,
+        "Salt": 0.8,
+        "Sugars": 1,
+        "Fibre": 1.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1266,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bolands Bourbon Creams 24x125 GM",
+        "EnergyKjoules": 2015,
+        "EnergyKcal": 481,
+        "Fat": 21.6,
+        "Protein": 5.4,
+        "Carbohydrates": 66.1,
+        "Salt": 0.25,
+        "Sugars": 30.7,
+        "Fibre": 3.4,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1267,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Broderick's Road Rocking Choc Block 20x50 GM",
+        "EnergyKjoules": 2243,
+        "EnergyKcal": 537,
+        "Fat": 31,
+        "Protein": 5.8,
+        "Carbohydrates": 61,
+        "Salt": 0.32,
+        "Sugars": 39,
+        "Fibre": 3,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1268,
+    "model": "home.products",
+    "fields": {
+        "product_name": "McDougalls Plain Chocolate Chips 1x1.1 KG",
+        "EnergyKjoules": 2126,
+        "EnergyKcal": 508,
+        "Fat": 27.4,
+        "Protein": 3.1,
+        "Carbohydrates": 67.8,
+        "Salt": 0.25,
+        "Sugars": 60,
+        "Fibre": 4.7,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 1269,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Style Midi Unsugared Jam Ball Doughnut 50x85 GM",
+        "EnergyKjoules": 1230,
+        "EnergyKcal": 292,
+        "Fat": 7.7,
+        "Protein": 5.6,
+        "Carbohydrates": 49.3,
+        "Salt": 0.5,
+        "Sugars": 15.3,
+        "Fibre": 1.5,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1270,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Blueberry Muffin 28x115 GM",
+        "EnergyKjoules": 1399,
+        "EnergyKcal": 373,
+        "Fat": 15.1,
+        "Protein": 4.2,
+        "Carbohydrates": 49.5,
+        "Salt": 0.925,
+        "Sugars": 28.2,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1271,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Triple Chocolate Muffin 28x115 GM",
+        "EnergyKjoules": 1789,
+        "EnergyKcal": 425,
+        "Fat": 22.9,
+        "Protein": 5.3,
+        "Carbohydrates": 50.2,
+        "Salt": 0.475,
+        "Sugars": 34,
+        "Fibre": 3,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1272,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Blueberry Crumble Tulip Muffin 1x24'S",
+        "EnergyKjoules": 1627,
+        "EnergyKcal": 389,
+        "Fat": 19.9,
+        "Protein": 4.8,
+        "Carbohydrates": 47.2,
+        "Salt": 0.5,
+        "Sugars": 27.1,
+        "Fibre": 0.8,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1273,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lemon & Coconut Muffin 28x115 GM",
+        "EnergyKjoules": 1721,
+        "EnergyKcal": 413,
+        "Fat": 21.3,
+        "Protein": 5.2,
+        "Carbohydrates": 51.4,
+        "Salt": 0.425,
+        "Sugars": 28.4,
+        "Fibre": 2.2,
+        "Allergens": [3, 1, 7, 12]
+    }
+}, {
+    "pk": 1274,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individually Wrapped Blueberry Muffins 48x102 GM",
+        "EnergyKjoules": 1538,
+        "EnergyKcal": 376,
+        "Fat": 17.5,
+        "Protein": 5.4,
+        "Carbohydrates": 49.2,
+        "Salt": 0.43,
+        "Sugars": 26,
+        "Fibre": 1.4,
+        "Allergens": [3, 1, 7, 12]
+    }
+}, {
+    "pk": 1275,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individually Wrapped Double Chocolate Muffins 48x102 GM",
+        "EnergyKjoules": 1656,
+        "EnergyKcal": 401,
+        "Fat": 20.5,
+        "Protein": 5.5,
+        "Carbohydrates": 47.1,
+        "Salt": 0.53,
+        "Sugars": 29,
+        "Fibre": 2.8,
+        "Allergens": [3, 1, 7, 6, 12]
+    }
+}, {
+    "pk": 1276,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Assorted Filled Doughnuts 36x68 GM",
+        "EnergyKjoules": 1517,
+        "EnergyKcal": 362,
+        "Fat": 16,
+        "Protein": 4.41,
+        "Carbohydrates": 47.98,
+        "Salt": 2.25,
+        "Sugars": 19.5,
+        "Fibre": 2.38,
+        "Allergens": [1, 7, 8, 6]
+    }
+}, {
+    "pk": 1277,
+    "model": "home.products",
+    "fields": {
+        "product_name": "La Boulangerie Triple Chocolate Tulip Muffin 1x24'S",
+        "EnergyKjoules": 1806,
+        "EnergyKcal": 432,
+        "Fat": 24.6,
+        "Protein": 5.7,
+        "Carbohydrates": 46.3,
+        "Salt": 0.5,
+        "Sugars": 29.8,
+        "Fibre": 1.5,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1278,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Plain Ring Doughnuts 48x45 GM",
+        "EnergyKjoules": 1737,
+        "EnergyKcal": 417,
+        "Fat": 26,
+        "Protein": 5.5,
+        "Carbohydrates": 39,
+        "Salt": 1,
+        "Sugars": 5.5,
+        "Fibre": 1.4,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1279,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixed Ring Glazed Doughnut 60x58 GM",
+        "EnergyKjoules": 1829,
+        "EnergyKcal": 438,
+        "Fat": 27.7,
+        "Protein": 6.7,
+        "Carbohydrates": 41.2,
+        "Salt": 1,
+        "Sugars": 15.35,
+        "Fibre": 2.17,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1280,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Funsize Double Chocolate Ball Doughnuts 80x50",
+        "EnergyKjoules": 1603,
+        "EnergyKcal": 384,
+        "Fat": 20.1,
+        "Protein": 5.6,
+        "Carbohydrates": 43.7,
+        "Salt": 1,
+        "Sugars": 15.8,
+        "Fibre": 2.7,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1281,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Funsize Custard Ball Doughnuts 80x50 GM",
+        "EnergyKjoules": 1170,
+        "EnergyKcal": 279,
+        "Fat": 11.6,
+        "Protein": 4.9,
+        "Carbohydrates": 38,
+        "Salt": 0.8,
+        "Sugars": 10.2,
+        "Fibre": 1.4,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1282,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Funsize Jam Ball Doughnuts 80x50 GM",
+        "EnergyKjoules": 1254,
+        "EnergyKcal": 298,
+        "Fat": 8.5,
+        "Protein": 5.9,
+        "Carbohydrates": 48.3,
+        "Salt": 0.9,
+        "Sugars": 19.5,
+        "Fibre": 2.3,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1283,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individually Wrapped Mini Blueberry Muffin 48x45 GM",
+        "EnergyKjoules": 1526,
+        "EnergyKcal": 369,
+        "Fat": 17,
+        "Protein": 4.9,
+        "Carbohydrates": 50,
+        "Salt": 0.44,
+        "Sugars": 25,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1284,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brake Jam Doughnuts 40x78 GM",
+        "EnergyKjoules": 1254,
+        "EnergyKcal": 298,
+        "Fat": 8.5,
+        "Protein": 5.9,
+        "Carbohydrates": 48.3,
+        "Salt": 0.9,
+        "Sugars": 19.5,
+        "Fibre": 2.3,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 1285,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Essential Double Chocolate Mini Muffins 72x30 GM",
+        "EnergyKjoules": 1670,
+        "EnergyKcal": 399,
+        "Fat": 19.8,
+        "Protein": 6.5,
+        "Carbohydrates": 47,
+        "Salt": 1,
+        "Sugars": 27.1,
+        "Fibre": 3.5,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1286,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brake Mini Jam Ball Doughnuts 60x50 GM",
+        "EnergyKjoules": 1237,
+        "EnergyKcal": 294,
+        "Fat": 8.2,
+        "Protein": 5.1,
+        "Carbohydrates": 48.5,
+        "Salt": 0.9,
+        "Sugars": 9.9,
+        "Fibre": 2.8,
+        "Allergens": [1, 6, 12]
+    }
+}, {
+    "pk": 1287,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Party Rainbow Ring Doughnut 36x58 GM",
+        "EnergyKjoules": 1657,
+        "EnergyKcal": 396,
+        "Fat": 19.6,
+        "Protein": 5.3,
+        "Carbohydrates": 49.6,
+        "Salt": 1,
+        "Sugars": 25.2,
+        "Fibre": 1,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1288,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Caramel Waffle Muffin 28x110 GM",
+        "EnergyKjoules": 1749,
+        "EnergyKcal": 417,
+        "Fat": 19.3,
+        "Protein": 5.3,
+        "Carbohydrates": 56.6,
+        "Salt": 0.4,
+        "Sugars": 34.9,
+        "Fibre": 1,
+        "Allergens": [3, 1, 7, 6, 12]
+    }
+}, {
+    "pk": 1289,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Plain Ring Doughnuts 72x50 GM",
+        "EnergyKjoules": 1744,
+        "EnergyKcal": 418,
+        "Fat": 27,
+        "Protein": 6.8,
+        "Carbohydrates": 37,
+        "Salt": 1.9,
+        "Sugars": 7.4,
+        "Fibre": 1.7,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1290,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate & Caramel Ball Doughnut 36x95 GM",
+        "EnergyKjoules": 1340,
+        "EnergyKcal": 319,
+        "Fat": 10.9,
+        "Protein": 5.1,
+        "Carbohydrates": 50,
+        "Salt": 0.69,
+        "Sugars": 24,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7, 6, 12]
+    }
+}, {
+    "pk": 1291,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Style Finger Doughnuts 80x47 GM",
+        "EnergyKjoules": 1267,
+        "EnergyKcal": 301,
+        "Fat": 10.5,
+        "Protein": 8.2,
+        "Carbohydrates": 46,
+        "Salt": 1.085,
+        "Sugars": 5.6,
+        "Fibre": 1.8,
+        "Allergens": [3, 1, 6]
+    }
+}, {
+    "pk": 1292,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lemon Filled Muffin 28x110 GM",
+        "EnergyKjoules": 1574,
+        "EnergyKcal": 376,
+        "Fat": 17.6,
+        "Protein": 5.2,
+        "Carbohydrates": 49.8,
+        "Salt": 0.37,
+        "Sugars": 26.4,
+        "Fibre": 2.8,
+        "Allergens": [1, 7, 12]
+    }
+}, {
+    "pk": 1293,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Chocolate Ball Doughnut 36x95 GM",
+        "EnergyKjoules": 1467,
+        "EnergyKcal": 352,
+        "Fat": 14,
+        "Protein": 4.9,
+        "Carbohydrates": 51,
+        "Salt": 0.79,
+        "Sugars": 26.8,
+        "Fibre": 1.2,
+        "Allergens": [3, 1, 7, 6, 12]
+    }
+}, {
+    "pk": 1294,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individually wrapped Mini Chocolate Muffins 48x46 GM",
+        "EnergyKjoules": 1760,
+        "EnergyKcal": 421,
+        "Fat": 22.3,
+        "Protein": 5.7,
+        "Carbohydrates": 49.3,
+        "Salt": 1,
+        "Sugars": 28.1,
+        "Fibre": 2,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1295,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Raspberry Ball Doughnut 36x95 GM",
+        "EnergyKjoules": 1291,
+        "EnergyKcal": 309,
+        "Fat": 8.8,
+        "Protein": 4.3,
+        "Carbohydrates": 52,
+        "Salt": 0.78,
+        "Sugars": 24.6,
+        "Fibre": 1.4,
+        "Allergens": [3, 1, 7, 6, 12]
+    }
+}, {
+    "pk": 1296,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Valentines Ring Donut 36x60 GM",
+        "EnergyKjoules": 392,
+        "EnergyKcal": 1641,
+        "Fat": 18.3,
+        "Protein": 5.9,
+        "Carbohydrates": 52,
+        "Salt": 0.88,
+        "Sugars": 22.5,
+        "Fibre": 2.1,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1297,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Multiseed Bread (2pack) GF 36x70 GM",
+        "EnergyKjoules": 1254,
+        "EnergyKcal": 298,
+        "Fat": 8,
+        "Protein": 5.5,
+        "Carbohydrates": 48,
+        "Salt": 1.1,
+        "Sugars": 2.8,
+        "Fibre": 4.6,
+        "Allergens": [11, 6]
+    }
+}, {
+    "pk": 1298,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Burger Bun with Sesame Seeds GF/Vegan 20x90 GM",
+        "EnergyKjoules": 1095,
+        "EnergyKcal": 260,
+        "Fat": 5,
+        "Protein": 4.3,
+        "Carbohydrates": 47,
+        "Salt": 1.1,
+        "Sugars": 2.8,
+        "Fibre": 4.4,
+        "Allergens": [11, 6]
+    }
+}, {
+    "pk": 1299,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Vegan Chocolate & Coconut Tart GF 1x14 PTN",
+        "EnergyKjoules": 1413,
+        "EnergyKcal": 339,
+        "Fat": 22.5,
+        "Protein": 4.6,
+        "Carbohydrates": 29,
+        "Salt": 0.025,
+        "Sugars": 7.5,
+        "Fibre": 1.2,
+        "Allergens": [8, 6]
+    }
+}, {
+    "pk": 1300,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fruit Scones GF (Individually Wrapped) 12x95 GM",
+        "EnergyKjoules": 1336,
+        "EnergyKcal": 318,
+        "Fat": 11,
+        "Protein": 5,
+        "Carbohydrates": 50,
+        "Salt": 2.5,
+        "Sugars": 18,
+        "Fibre": 2,
+        "Allergens": [3, 7, 6]
+    }
+}, {
+    "pk": 1301,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate Fudge Cake GF 1x14 PTN",
+        "EnergyKjoules": 1539,
+        "EnergyKcal": 367,
+        "Fat": 16.6,
+        "Protein": 3.6,
+        "Carbohydrates": 51.6,
+        "Salt": 0.2,
+        "Sugars": 41.8,
+        "Fibre": 0,
+        "Allergens": [3, 8]
+    }
+}, {
+    "pk": 1302,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ina's Macaroons Individually Wrapped GF 24x70 GM",
+        "EnergyKjoules": 1916,
+        "EnergyKcal": 457,
+        "Fat": 21.8,
+        "Protein": 3.6,
+        "Carbohydrates": 59.3,
+        "Salt": 0,
+        "Sugars": 0.06,
+        "Fibre": 0,
+        "Allergens": [3, 6]
+    }
+}, {
+    "pk": 1303,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Round Neutral Butter Tartlet GF 8.5cm 27x27 GM",
+        "EnergyKjoules": 1642,
+        "EnergyKcal": 395,
+        "Fat": 28.5,
+        "Protein": 2.1,
+        "Carbohydrates": 32.1,
+        "Salt": 1.975,
+        "Sugars": 4.7,
+        "Fibre": 1,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 1304,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Round Neutral Butter Tartlet GF 5cm 70x24 GM",
+        "EnergyKjoules": 1642,
+        "EnergyKcal": 395,
+        "Fat": 28.5,
+        "Protein": 2.1,
+        "Carbohydrates": 32.1,
+        "Salt": 1.975,
+        "Sugars": 4.7,
+        "Fibre": 1,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 1305,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate Brownies GF 36x55 GM",
+        "EnergyKjoules": 1649.2,
+        "EnergyKcal": 393.9,
+        "Fat": 19.8,
+        "Protein": 5.5,
+        "Carbohydrates": 48.5,
+        "Salt": 0,
+        "Sugars": 34.4,
+        "Fibre": 0,
+        "Allergens": [3, 7, 6]
+    }
+}, {
+    "pk": 1306,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Denise's Delicious Apple Tart GF 1x750 GM",
+        "EnergyKjoules": 952,
+        "EnergyKcal": 228,
+        "Fat": 10.9,
+        "Protein": 2,
+        "Carbohydrates": 43.6,
+        "Salt": 0,
+        "Sugars": 23.6,
+        "Fibre": 2.95,
+        "Allergens": [3, 12]
+    }
+}, {
+    "pk": 1307,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Goodness Grains Burger Bun with Sesame Seeds GF 30x80 GM",
+        "EnergyKjoules": 1095,
+        "EnergyKcal": 260,
+        "Fat": 5,
+        "Protein": 4.3,
+        "Carbohydrates": 47,
+        "Salt": 1.1,
+        "Sugars": 2.8,
+        "Fibre": 4.4,
+        "Allergens": [11, 6]
+    }
+}, {
+    "pk": 1308,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Goodness Grains Breakfast Roll GF 30x80 GM",
+        "EnergyKjoules": 1254,
+        "EnergyKcal": 298,
+        "Fat": 6,
+        "Protein": 5.5,
+        "Carbohydrates": 48,
+        "Salt": 1.1,
+        "Sugars": 2.8,
+        "Fibre": 4.5,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 1309,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tortilla GF 30cm 6x18'S",
+        "EnergyKjoules": 884,
+        "EnergyKcal": 211,
+        "Fat": 3.1,
+        "Protein": 3.38,
+        "Carbohydrates": 50.3,
+        "Salt": 0.98,
+        "Sugars": 4.4,
+        "Fibre": 16.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 1310,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Croissant (Butter) RTB 60x80 GM",
+        "EnergyKjoules": 1535,
+        "EnergyKcal": 367,
+        "Fat": 20,
+        "Protein": 6.8,
+        "Carbohydrates": 39,
+        "Salt": 0,
+        "Sugars": 7.7,
+        "Fibre": 2.1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1311,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Almond Croissant RTB 32x100 GM",
+        "EnergyKjoules": 1510,
+        "EnergyKcal": 362,
+        "Fat": 20,
+        "Protein": 8.3,
+        "Carbohydrates": 35,
+        "Salt": 0.72,
+        "Sugars": 9.1,
+        "Fibre": 2.6,
+        "Allergens": [3, 1, 7, 8]
+    }
+}, {
+    "pk": 1312,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate Filled Croissant with Chocolate Decoration RTB 60x",
+        "EnergyKjoules": 1559,
+        "EnergyKcal": 374,
+        "Fat": 22,
+        "Protein": 6.8,
+        "Carbohydrates": 36,
+        "Salt": 0.71,
+        "Sugars": 11,
+        "Fibre": 2.3,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 1313,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Butter Croissant Ready To Prove 150x80 GM",
+        "EnergyKjoules": 1505,
+        "EnergyKcal": 260,
+        "Fat": 19.8,
+        "Protein": 7.8,
+        "Carbohydrates": 38,
+        "Salt": 0.94,
+        "Sugars": 6.1,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1314,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Egg Washed Fine Butter Croissant Ready To Prove 150x75 GM",
+        "EnergyKjoules": 1496,
+        "EnergyKcal": 358,
+        "Fat": 19,
+        "Protein": 7.7,
+        "Carbohydrates": 38,
+        "Salt": 1,
+        "Sugars": 7.2,
+        "Fibre": 2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1315,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Croissant filled with Chocolate & Hazelnut Cream 60x85 GM",
+        "EnergyKjoules": 1583,
+        "EnergyKcal": 456,
+        "Fat": 19,
+        "Protein": 7.5,
+        "Carbohydrates": 42,
+        "Salt": 0.71,
+        "Sugars": 16,
+        "Fibre": 3.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1316,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fruit Scones (Raw) 60x150 GM",
+        "EnergyKjoules": 1555,
+        "EnergyKcal": 370,
+        "Fat": 13.7,
+        "Protein": 6.3,
+        "Carbohydrates": 55.3,
+        "Salt": 1.1,
+        "Sugars": 22.9,
+        "Fibre": 1.7,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1317,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Plain Scones (Raw) 60x150 GM",
+        "EnergyKjoules": 1506,
+        "EnergyKcal": 358,
+        "Fat": 12.4,
+        "Protein": 7.2,
+        "Carbohydrates": 54.4,
+        "Salt": 1.2,
+        "Sugars": 14.9,
+        "Fibre": 1.7,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1318,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Handmade Fruit Scones 70x120 GM",
+        "EnergyKjoules": 1187,
+        "EnergyKcal": 281,
+        "Fat": 6.2,
+        "Protein": 7.3,
+        "Carbohydrates": 51.4,
+        "Salt": 2,
+        "Sugars": 18.8,
+        "Fibre": 1.9,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1319,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fully Baked Plain Scone 1x50'S",
+        "EnergyKjoules": 1406,
+        "EnergyKcal": 334,
+        "Fat": 9.8,
+        "Protein": 6.8,
+        "Carbohydrates": 54,
+        "Salt": 1.1,
+        "Sugars": 17,
+        "Fibre": 2.3,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1320,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Handmade Plain Scones 70x120 GM",
+        "EnergyKjoules": 1523,
+        "EnergyKcal": 362,
+        "Fat": 14.6,
+        "Protein": 7.2,
+        "Carbohydrates": 53.8,
+        "Salt": 1.925,
+        "Sugars": 5.9,
+        "Fibre": 1.9,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1321,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Small Fruit Scones 65x120 GM",
+        "EnergyKjoules": 1523,
+        "EnergyKcal": 362,
+        "Fat": 14.6,
+        "Protein": 7.2,
+        "Carbohydrates": 53.8,
+        "Salt": 1.925,
+        "Sugars": 5.9,
+        "Fibre": 1.9,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1322,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Handmade Brown Scones 70x120 GM",
+        "EnergyKjoules": 1368,
+        "EnergyKcal": 326,
+        "Fat": 14.4,
+        "Protein": 8.7,
+        "Carbohydrates": 43.1,
+        "Salt": 1.825,
+        "Sugars": 5.9,
+        "Fibre": 5.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1323,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Small Brown & Cherry Scones (Raw) 65x120 GM",
+        "EnergyKjoules": 1550,
+        "EnergyKcal": 370,
+        "Fat": 12.3,
+        "Protein": 6.4,
+        "Carbohydrates": 57.8,
+        "Salt": 1.125,
+        "Sugars": 20,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1324,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Panko Style Breadcrumbs 1x3.5 KG",
+        "EnergyKjoules": 1605,
+        "EnergyKcal": 379,
+        "Fat": 2.9,
+        "Protein": 12.1,
+        "Carbohydrates": 74.4,
+        "Salt": 0.66,
+        "Sugars": 2.7,
+        "Fibre": 3.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1325,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Caputo Blue Soft Wheat Pizzeria Flour Type '00' 1x25 KG",
+        "EnergyKjoules": 1502,
+        "EnergyKcal": 354,
+        "Fat": 1,
+        "Protein": 12.5,
+        "Carbohydrates": 72,
+        "Salt": 0.006,
+        "Sugars": 1,
+        "Fibre": 3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1326,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Mixed Peel 1x1 KG",
+        "EnergyKjoules": 1238,
+        "EnergyKcal": 292,
+        "Fat": 0.6,
+        "Protein": 0.5,
+        "Carbohydrates": 69,
+        "Salt": 0.3,
+        "Sugars": 53.1,
+        "Fibre": 5.8,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1327,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ready To Eat Stuffing 5x500 GM",
+        "EnergyKjoules": 1488,
+        "EnergyKcal": 355,
+        "Fat": 16,
+        "Protein": 7.67,
+        "Carbohydrates": 46.4,
+        "Salt": 1.18,
+        "Sugars": 2.7,
+        "Fibre": 2.6,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1328,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Dusted & White Seeded Mixed Baps 40x75 GM",
+        "EnergyKjoules": 1281,
+        "EnergyKcal": 304,
+        "Fat": 7.6,
+        "Protein": 10.9,
+        "Carbohydrates": 46,
+        "Salt": 1.1,
+        "Sugars": 6.6,
+        "Fibre": 4,
+        "Allergens": [3, 1, 7, 11, 6]
+    }
+}, {
+    "pk": 1329,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marigold Cook & Bake Margarine (70% Fat Content) 40x250 GM",
+        "EnergyKjoules": 2595,
+        "EnergyKcal": 631,
+        "Fat": 70,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 1.4,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1330,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Plain Croutons 6x500 GM",
+        "EnergyKjoules": 1736,
+        "EnergyKcal": 412,
+        "Fat": 8.8,
+        "Protein": 12,
+        "Carbohydrates": 69,
+        "Salt": 1.6,
+        "Sugars": 5.3,
+        "Fibre": 4.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1331,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brown Dusted & Brown Seeded Mixed Baps 40x75 GM",
+        "EnergyKjoules": 1305,
+        "EnergyKcal": 311,
+        "Fat": 9.7,
+        "Protein": 9.8,
+        "Carbohydrates": 48.8,
+        "Salt": 1.3,
+        "Sugars": 5.5,
+        "Fibre": 5.6,
+        "Allergens": [3, 1, 7, 11, 6]
+    }
+}, {
+    "pk": 1332,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bridor Mini Pain Au Chocolat RTB 20% Butter 250x25 GM",
+        "EnergyKjoules": 1584,
+        "EnergyKcal": 379,
+        "Fat": 20,
+        "Protein": 7.3,
+        "Carbohydrates": 41,
+        "Salt": 0.89,
+        "Sugars": 11,
+        "Fibre": 2.8,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1333,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Super Wholemeal Bread Mix 1x12.5 KG",
+        "EnergyKjoules": 1448,
+        "EnergyKcal": 346,
+        "Fat": 2.9,
+        "Protein": 10.4,
+        "Carbohydrates": 66.5,
+        "Salt": 3.6,
+        "Sugars": 11,
+        "Fibre": 6.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1334,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Double Chocolate Mini Loaf Cakes 1x24'S",
+        "EnergyKjoules": 1854,
+        "EnergyKcal": 445,
+        "Fat": 26.9,
+        "Protein": 5.2,
+        "Carbohydrates": 44,
+        "Salt": 0.4,
+        "Sugars": 18.2,
+        "Fibre": 2.8,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1335,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice Lemon Meringue Mini Loaf Cakes 1x24'S",
+        "EnergyKjoules": 1720,
+        "EnergyKcal": 411,
+        "Fat": 22.1,
+        "Protein": 4.9,
+        "Carbohydrates": 47.8,
+        "Salt": 0.4,
+        "Sugars": 22.9,
+        "Fibre": 0.8,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1336,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Assorted Mini Cones with Coating & Painters Pallet 1x180'S",
+        "EnergyKjoules": 2101,
+        "EnergyKcal": 502,
+        "Fat": 22.9,
+        "Protein": 7.3,
+        "Carbohydrates": 64.6,
+        "Salt": 0.53,
+        "Sugars": 0.6,
+        "Fibre": 6.6,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1337,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Jelly Crystals Lemon 4x3.5 Kg",
+        "EnergyKjoules": 1560,
+        "EnergyKcal": 366,
+        "Fat": 0,
+        "Protein": 7.2,
+        "Carbohydrates": 90.6,
+        "Salt": 0.5,
+        "Sugars": 90.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 1338,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Grill Marked Tortilla Wrap 30 cm 4x18'S",
+        "EnergyKjoules": 1303,
+        "EnergyKcal": 309,
+        "Fat": 8.1,
+        "Protein": 8.8,
+        "Carbohydrates": 49.1,
+        "Salt": 1.3,
+        "Sugars": 2.1,
+        "Fibre": 2.4,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1339,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fully Baked Yorkshire Pudding 5cm",
+        "EnergyKjoules": 1162,
+        "EnergyKcal": 276,
+        "Fat": 9.4,
+        "Protein": 8.3,
+        "Carbohydrates": 39,
+        "Salt": 1.1,
+        "Sugars": 1.6,
+        "Fibre": 1.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1340,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Chocolate Crispearls 1x800 GM",
+        "EnergyKjoules": 2122,
+        "EnergyKcal": 507,
+        "Fat": 24.7,
+        "Protein": 5.3,
+        "Carbohydrates": 64.9,
+        "Salt": 0.64,
+        "Sugars": 56.3,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1341,
+    "model": "home.products",
+    "fields": {
+        "product_name": "TS Foods Savoury Stuffing 2x2 KG",
+        "EnergyKjoules": 854,
+        "EnergyKcal": 203,
+        "Fat": 1.7,
+        "Protein": 7.9,
+        "Carbohydrates": 38,
+        "Salt": 2.1,
+        "Sugars": 4,
+        "Fibre": 1.9,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1342,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individual Caramel & Exotic Fruit Delice 27x71 GM",
+        "EnergyKjoules": 1449,
+        "EnergyKcal": 346,
+        "Fat": 17.49,
+        "Protein": 2.72,
+        "Carbohydrates": 43099,
+        "Salt": 0.42,
+        "Sugars": 31.08,
+        "Fibre": 0.95,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1343,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individual Nougat & Raspberry Delice 27x66 GM",
+        "EnergyKjoules": 1432,
+        "EnergyKcal": 343,
+        "Fat": 18.12,
+        "Protein": 3.6,
+        "Carbohydrates": 39.99,
+        "Salt": 0.27,
+        "Sugars": 23.26,
+        "Fibre": 2.46,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 1344,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individual Hazelnut Praline & Caramel Delice 27x72 GM",
+        "EnergyKjoules": 1693,
+        "EnergyKcal": 406,
+        "Fat": 24.7,
+        "Protein": 3.61,
+        "Carbohydrates": 41.54,
+        "Salt": 0.45,
+        "Sugars": 27.71,
+        "Fibre": 129,
+        "Allergens": [1, 7, 8, 6]
+    }
+}, {
+    "pk": 1345,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Montmartre Petit Four Selection 1x48'S",
+        "EnergyKjoules": 1456,
+        "EnergyKcal": 349,
+        "Fat": 21.4,
+        "Protein": 7,
+        "Carbohydrates": 31.2,
+        "Salt": 0.21,
+        "Sugars": 23.1,
+        "Fibre": 1.9,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 1346,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pain Au Chocolate filled with Chocolate & Hazelnut Cream 70x",
+        "EnergyKjoules": 1594,
+        "EnergyKcal": 458,
+        "Fat": 19,
+        "Protein": 7.6,
+        "Carbohydrates": 43,
+        "Salt": 0.63,
+        "Sugars": 18,
+        "Fibre": 3.1,
+        "Allergens": [3, 1, 7, 8]
+    }
+}, {
+    "pk": 1347,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cinnamon Bun 33x105 GM",
+        "EnergyKjoules": 1252,
+        "EnergyKcal": 298,
+        "Fat": 10.8,
+        "Protein": 6.3,
+        "Carbohydrates": 41.6,
+        "Salt": 0.66,
+        "Sugars": 28.3,
+        "Fibre": 5.1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1348,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marguerites Cupcakes 16x60 GM",
+        "EnergyKjoules": 1792,
+        "EnergyKcal": 428,
+        "Fat": 24.44,
+        "Protein": 3.98,
+        "Carbohydrates": 49.75,
+        "Salt": 0.5,
+        "Sugars": 36.17,
+        "Fibre": 0.5,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1349,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marguerites Farmhouse Fruit Cake 3x720 GM",
+        "EnergyKjoules": 1467,
+        "EnergyKcal": 348,
+        "Fat": 13,
+        "Protein": 4.5,
+        "Carbohydrates": 54.8,
+        "Salt": 0.44,
+        "Sugars": 35.3,
+        "Fibre": 1.3,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1350,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Banoffee Dessert 12x110 GM",
+        "EnergyKjoules": 1850,
+        "EnergyKcal": 443,
+        "Fat": 28,
+        "Protein": 4.6,
+        "Carbohydrates": 44,
+        "Salt": 0.4,
+        "Sugars": 33,
+        "Fibre": 1.1,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1351,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lemon Loaf 1x800 GM",
+        "EnergyKjoules": 1550,
+        "EnergyKcal": 371,
+        "Fat": 18,
+        "Protein": 4.8,
+        "Carbohydrates": 48,
+        "Salt": 0.17,
+        "Sugars": 29,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1352,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Belgian Chocolate Mousse Torte 12x110 GM",
+        "EnergyKjoules": 1440,
+        "EnergyKcal": 344,
+        "Fat": 24,
+        "Protein": 4.5,
+        "Carbohydrates": 27,
+        "Salt": 0.3,
+        "Sugars": 24,
+        "Fibre": 1.2,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1353,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixed Cream Cakes 15x80 GM",
+        "EnergyKjoules": 1830,
+        "EnergyKcal": 440,
+        "Fat": 28,
+        "Protein": 4.6,
+        "Carbohydrates": 41.7,
+        "Salt": 0,
+        "Sugars": 18.9,
+        "Fibre": 1.4,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1354,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ruby Chocolate Layered Cheesecake 12x110 GM",
+        "EnergyKjoules": 1492,
+        "EnergyKcal": 358,
+        "Fat": 25,
+        "Protein": 4.3,
+        "Carbohydrates": 29,
+        "Salt": 0.4,
+        "Sugars": 22,
+        "Fibre": 0.69,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1355,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individual Apple & Blackberry Sponge Dessert 12x100 GM",
+        "EnergyKjoules": 1076,
+        "EnergyKcal": 257,
+        "Fat": 11.4,
+        "Protein": 3,
+        "Carbohydrates": 34.8,
+        "Salt": 1.25,
+        "Sugars": 22.9,
+        "Fibre": 1.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1356,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Chocolate Fondant 48x30 GM",
+        "EnergyKjoules": 1632,
+        "EnergyKcal": 392,
+        "Fat": 25.2,
+        "Protein": 6.9,
+        "Carbohydrates": 32.5,
+        "Salt": 0.21,
+        "Sugars": 25.3,
+        "Fibre": 3.7,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 1357,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hot Cross Buns 72x70 GM",
+        "EnergyKjoules": 1230,
+        "EnergyKcal": 290,
+        "Fat": 4.1,
+        "Protein": 6.9,
+        "Carbohydrates": 55.1,
+        "Salt": 0.77,
+        "Sugars": 27,
+        "Fibre": 2.5,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1358,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Caramel Brownie Muffin 28x110 GM",
+        "EnergyKjoules": 1616,
+        "EnergyKcal": 385,
+        "Fat": 17.5,
+        "Protein": 4.5,
+        "Carbohydrates": 53.5,
+        "Salt": 0.34,
+        "Sugars": 35.1,
+        "Fibre": 2.1,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1359,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Wafer Basket 6cm 1x192'S",
+        "EnergyKjoules": 1605,
+        "EnergyKcal": 384,
+        "Fat": 1.63,
+        "Protein": 6.9,
+        "Carbohydrates": 83.9,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0.6,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1360,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Meringue Nests 7cm GF 1x100'S",
+        "EnergyKjoules": 1665,
+        "EnergyKcal": 398,
+        "Fat": 0.1,
+        "Protein": 4.1,
+        "Carbohydrates": 95.3,
+        "Salt": 0.125,
+        "Sugars": 94.4,
+        "Fibre": 0.1,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 1361,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Large Wafer Baskets 1x36'S",
+        "EnergyKjoules": 1746,
+        "EnergyKcal": 417,
+        "Fat": 7.08,
+        "Protein": 6.18,
+        "Carbohydrates": 82.1,
+        "Salt": 0,
+        "Sugars": 23.7,
+        "Fibre": 0.6,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1362,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Chocolate Wafer Basket 6cm 1x192'S",
+        "EnergyKjoules": 2136,
+        "EnergyKcal": 504,
+        "Fat": 23.5,
+        "Protein": 4.7,
+        "Carbohydrates": 68.3,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1363,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Large Chocolate Wafer Baskets 11cm 1x36'S",
+        "EnergyKjoules": 2136,
+        "EnergyKcal": 504,
+        "Fat": 23.5,
+        "Protein": 4.7,
+        "Carbohydrates": 68.3,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1364,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Small Chocolate Wafer Baskets 9cm 1x72'S",
+        "EnergyKjoules": 2136,
+        "EnergyKcal": 504,
+        "Fat": 23.5,
+        "Protein": 4.7,
+        "Carbohydrates": 68.3,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 1365,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Precooked Nanterre Brioche Loaf 8x410 GM",
+        "EnergyKjoules": 1656,
+        "EnergyKcal": 396,
+        "Fat": 21,
+        "Protein": 8.4,
+        "Carbohydrates": 43,
+        "Salt": 1.1,
+        "Sugars": 11,
+        "Fibre": 2.5,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1366,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Millers Damsels Biscuits for Cheese Assorted 12x125 GM",
+        "EnergyKjoules": 1900,
+        "EnergyKcal": 453,
+        "Fat": 20,
+        "Protein": 15.5,
+        "Carbohydrates": 52.7,
+        "Salt": 0.25,
+        "Sugars": 1.9,
+        "Fibre": 8.6,
+        "Allergens": [1, 11]
+    }
+}, {
+    "pk": 1367,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sheridan's Crackers 12x175 GM",
+        "EnergyKjoules": 1339,
+        "EnergyKcal": 320,
+        "Fat": 14.6,
+        "Protein": 8.9,
+        "Carbohydrates": 37.7,
+        "Salt": 0.75,
+        "Sugars": 3,
+        "Fibre": 7.1,
+        "Allergens": [1, 7, 11]
+    }
+}, {
+    "pk": 1368,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Cream Crackers 150x2'S",
+        "EnergyKjoules": 1835,
+        "EnergyKcal": 436,
+        "Fat": 13.4,
+        "Protein": 9.9,
+        "Carbohydrates": 67.1,
+        "Salt": 1.2,
+        "Sugars": 1.4,
+        "Fibre": 3.8,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1369,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Jacobs Cream Crackers Mini Pack 168x2'S",
+        "EnergyKjoules": 1816,
+        "EnergyKcal": 431,
+        "Fat": 13.5,
+        "Protein": 10,
+        "Carbohydrates": 67.6,
+        "Salt": 1.25,
+        "Sugars": 1.4,
+        "Fibre": 3.8,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1370,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ryvita Dark Rye Twin Pack 60x2'S",
+        "EnergyKjoules": 1444,
+        "EnergyKcal": 345,
+        "Fat": 1.2,
+        "Protein": 8.5,
+        "Carbohydrates": 66.6,
+        "Salt": 0.725,
+        "Sugars": 3,
+        "Fibre": 15.2,
+        "Allergens": [1, 11]
+    }
+}, {
+    "pk": 1371,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Carrs Biscuits Table Water Bitesize 12x125 GM",
+        "EnergyKjoules": 1714,
+        "EnergyKcal": 406,
+        "Fat": 7.6,
+        "Protein": 10.1,
+        "Carbohydrates": 74.2,
+        "Salt": 1.5,
+        "Sugars": 1.6,
+        "Fibre": 4.2,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1372,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Foods Of Athenry Multiseed Crackers GF 12x110 GM",
+        "EnergyKjoules": 1098,
+        "EnergyKcal": 261,
+        "Fat": 12.82,
+        "Protein": 8.47,
+        "Carbohydrates": 28.19,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1373,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sheridans Mixed Seed Crackers 12x120 GM",
+        "EnergyKjoules": 1435,
+        "EnergyKcal": 343,
+        "Fat": 16.6,
+        "Protein": 7,
+        "Carbohydrates": 43.7,
+        "Salt": 1,
+        "Sugars": 0.3,
+        "Fibre": 2.7,
+        "Allergens": [1, 7, 11]
+    }
+}, {
+    "pk": 1374,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Jacobs Cream Crackers 24x200 GM",
+        "EnergyKjoules": 1850,
+        "EnergyKcal": 442,
+        "Fat": 14.8,
+        "Protein": 9.5,
+        "Carbohydrates": 67,
+        "Salt": 1,
+        "Sugars": 1.1,
+        "Fibre": 3,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1375,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sheridans Brown Bread Crackers 12x140 GM",
+        "EnergyKjoules": 1339,
+        "EnergyKcal": 330,
+        "Fat": 14.6,
+        "Protein": 8.9,
+        "Carbohydrates": 37.7,
+        "Salt": 1.225,
+        "Sugars": 3,
+        "Fibre": 7.1,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 1376,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Foods Of Athenry Cranberry & Hazelnut Crackers GF 12x110 GM",
+        "EnergyKjoules": 1010,
+        "EnergyKcal": 240,
+        "Fat": 7.95,
+        "Protein": 4.77,
+        "Carbohydrates": 35.5,
+        "Salt": 0.3,
+        "Sugars": 15.07,
+        "Fibre": 1.99,
+        "Allergens": [7, 8]
+    }
+}, {
+    "pk": 1377,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Mixed Viennoiserie 120x30 GM",
+        "EnergyKjoules": 1520,
+        "EnergyKcal": 364,
+        "Fat": 21.3,
+        "Protein": 5.6,
+        "Carbohydrates": 36.5,
+        "Salt": 0.845,
+        "Sugars": 9.7,
+        "Fibre": 2.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1378,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bridor Chocolate Torsade 70x90 GM",
+        "EnergyKjoules": 1696,
+        "EnergyKcal": 405,
+        "Fat": 19.5,
+        "Protein": 7.7,
+        "Carbohydrates": 49.7,
+        "Salt": 0.8,
+        "Sugars": 23.7,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1379,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lemon Flavouring Paste 1x1 KG",
+        "EnergyKjoules": 1135,
+        "EnergyKcal": 267,
+        "Fat": 0,
+        "Protein": 0.43,
+        "Carbohydrates": 68.39,
+        "Salt": 2.075,
+        "Sugars": 58.93,
+        "Fibre": 0.22,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 1380,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fully Baked Sultana Scone 1x50'S",
+        "EnergyKjoules": 1491,
+        "EnergyKcal": 354,
+        "Fat": 8.6,
+        "Protein": 7,
+        "Carbohydrates": 61,
+        "Salt": 0.93,
+        "Sugars": 15,
+        "Fibre": 3.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1381,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Prefried Churros 1x2 KG",
+        "EnergyKjoules": 1484,
+        "EnergyKcal": 355,
+        "Fat": 18,
+        "Protein": 6,
+        "Carbohydrates": 41,
+        "Salt": 1.5,
+        "Sugars": 2.7,
+        "Fibre": 2.6,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1382,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Round Apple & Custard Puff Trellis 80x80 GM",
+        "EnergyKjoules": 1221,
+        "EnergyKcal": 292,
+        "Fat": 17,
+        "Protein": 3.9,
+        "Carbohydrates": 30,
+        "Salt": 0.33,
+        "Sugars": 8.3,
+        "Fibre": 1.2,
+        "Allergens": [1, 7, 12]
+    }
+}, {
+    "pk": 1383,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Demi Baguette 72x140 GM",
+        "EnergyKjoules": 1100,
+        "EnergyKcal": 261,
+        "Fat": 2.09,
+        "Protein": 8.4,
+        "Carbohydrates": 51.6,
+        "Salt": 1.57,
+        "Sugars": 0.34,
+        "Fibre": 3.1,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 1384,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Christmas Log Pudding 10-12ptn 3x1.1 KG",
+        "EnergyKjoules": 1300,
+        "EnergyKcal": 308,
+        "Fat": 7.1,
+        "Protein": 3.2,
+        "Carbohydrates": 56.7,
+        "Salt": 0.61,
+        "Sugars": 38.8,
+        "Fibre": 2,
+        "Allergens": [3, 1, 7, 5]
+    }
+}, {
+    "pk": 1385,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bridor Mini Croissant 21% Butter160x25 GM",
+        "EnergyKjoules": 1489,
+        "EnergyKcal": 356,
+        "Fat": 18,
+        "Protein": 7.4,
+        "Carbohydrates": 40,
+        "Salt": 0.84,
+        "Sugars": 7.1,
+        "Fibre": 2.1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1386,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Van Gogh Chocolate Maxi Sticks 1x900 GM",
+        "EnergyKjoules": 2246,
+        "EnergyKcal": 537,
+        "Fat": 29.9,
+        "Protein": 7.4,
+        "Carbohydrates": 58.6,
+        "Salt": 0,
+        "Sugars": 57.9,
+        "Fibre": 1.1,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 1387,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vegan Flapjack GF 1x12 PTN",
+        "EnergyKjoules": 1639,
+        "EnergyKcal": 392,
+        "Fat": 19.9,
+        "Protein": 4.7,
+        "Carbohydrates": 40,
+        "Salt": 0.15,
+        "Sugars": 32,
+        "Fibre": 4.1,
+        "Allergens": [8, 6, 12]
+    }
+}, {
+    "pk": 1388,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salted Caramel Brownie Tray Bake 1x18'S",
+        "EnergyKjoules": 1737,
+        "EnergyKcal": 415,
+        "Fat": 22.1,
+        "Protein": 5.3,
+        "Carbohydrates": 48.7,
+        "Salt": 0.4,
+        "Sugars": 43.2,
+        "Fibre": 1.2,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 1389,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Choice All Butter Curved Croissant 60x70 GM",
+        "EnergyKjoules": 1698,
+        "EnergyKcal": 406,
+        "Fat": 22,
+        "Protein": 8.3,
+        "Carbohydrates": 44,
+        "Salt": 0.8,
+        "Sugars": 6.6,
+        "Fibre": 1.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1390,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Unbaked Pastel De Nata 80x68 GM",
+        "EnergyKjoules": 1068,
+        "EnergyKcal": 255,
+        "Fat": 11,
+        "Protein": 4.1,
+        "Carbohydrates": 35,
+        "Salt": 0.37,
+        "Sugars": 22,
+        "Fibre": 1.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1391,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Bridor Mini Pain Au Raisin Swirl 13% Butter 260x30 GM",
+        "EnergyKjoules": 1180,
+        "EnergyKcal": 281,
+        "Fat": 9.9,
+        "Protein": 5.7,
+        "Carbohydrates": 41,
+        "Salt": 0.7,
+        "Sugars": 17,
+        "Fibre": 2.1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 1392,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vegetarian Canapes 1x54'S",
+        "EnergyKjoules": 1287,
+        "EnergyKcal": 310,
+        "Fat": 22.7,
+        "Protein": 8.7,
+        "Carbohydrates": 16.3,
+        "Salt": 1.42,
+        "Sugars": 6.3,
+        "Fibre": 2.7,
+        "Allergens": [1, 7, 8]
+    }
+}]

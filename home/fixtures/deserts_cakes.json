@@ -1,0 +1,3196 @@
+[{
+    "pk": 1984,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vanilla Ice Cream 4x4 LT",
+        "EnergyKjoules": 635,
+        "EnergyKcal": 151,
+        "Fat": 5.5,
+        "Protein": 1.3,
+        "Carbohydrates": 24,
+        "Salt": 0,
+        "Sugars": 24,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1985,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Angelito Ice Cream Mix 1x1 LT",
+        "EnergyKjoules": 678,
+        "EnergyKcal": 161,
+        "Fat": 6.7,
+        "Protein": 2.5,
+        "Carbohydrates": 23,
+        "Salt": 0.325,
+        "Sugars": 19.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1986,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown Bourbon Dairy Vanilla Ice Cream 2x5 LT",
+        "EnergyKjoules": 927,
+        "EnergyKcal": 222,
+        "Fat": 12.5,
+        "Protein": 3.5,
+        "Carbohydrates": 24,
+        "Salt": 0.025,
+        "Sugars": 23.8,
+        "Fibre": 0.2,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 1987,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Pail Dairy Easyscoop Vanilla Ice Cream 2x4 LT",
+        "EnergyKjoules": 827,
+        "EnergyKcal": 197,
+        "Fat": 11.6,
+        "Protein": 2.3,
+        "Carbohydrates": 22.9,
+        "Salt": 0.25,
+        "Sugars": 22.9,
+        "Fibre": 0.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1988,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Springcool Dairy Ice Cream Mix 1x5 LT",
+        "EnergyKjoules": 665,
+        "EnergyKcal": 158,
+        "Fat": 6.7,
+        "Protein": 4.3,
+        "Carbohydrates": 20.3,
+        "Salt": 0.1625,
+        "Sugars": 20.3,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1989,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vanilla Ice Cream Tubs 32x110 ML",
+        "EnergyKjoules": 741,
+        "EnergyKcal": 177,
+        "Fat": 9.3,
+        "Protein": 3.5,
+        "Carbohydrates": 20.9,
+        "Salt": 0.22,
+        "Sugars": 20.9,
+        "Fibre": 0.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1990,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown French Vanilla Dairy Ice Cream 2x5 LT",
+        "EnergyKjoules": 1028,
+        "EnergyKcal": 245,
+        "Fat": 15.6,
+        "Protein": 3.2,
+        "Carbohydrates": 23,
+        "Salt": 1.5,
+        "Sugars": 23,
+        "Fibre": 0,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 1991,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strawberry Ice Cream 4x4 LT",
+        "EnergyKjoules": 635,
+        "EnergyKcal": 151,
+        "Fat": 5.5,
+        "Protein": 1.3,
+        "Carbohydrates": 24,
+        "Salt": 0,
+        "Sugars": 24,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1992,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Paganini Vanilla Ice Cream 2x4 LT",
+        "EnergyKjoules": 1359,
+        "EnergyKcal": 325,
+        "Fat": 11.5,
+        "Protein": 4.6,
+        "Carbohydrates": 31.3,
+        "Salt": 0.2,
+        "Sugars": 17,
+        "Fibre": 0.25,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1993,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown Farm Salted Caramel Dairy Ice Cream 2x5 LT",
+        "EnergyKjoules": 962,
+        "EnergyKcal": 230,
+        "Fat": 11.8,
+        "Protein": 3.5,
+        "Carbohydrates": 27.3,
+        "Salt": 0.725,
+        "Sugars": 22.9,
+        "Fibre": 0.25,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 1994,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown Vegan Vanilla Ice Cream 2x4 LT",
+        "EnergyKjoules": 663,
+        "EnergyKcal": 159,
+        "Fat": 8.5,
+        "Protein": 1.4,
+        "Carbohydrates": 19,
+        "Salt": 0.06,
+        "Sugars": 11,
+        "Fibre": 0.18,
+        "Allergens": []
+    }
+}, {
+    "pk": 1995,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate Ice Cream 4x4 LT",
+        "EnergyKjoules": 710,
+        "EnergyKcal": 169,
+        "Fat": 8,
+        "Protein": 3.6,
+        "Carbohydrates": 20.8,
+        "Salt": 0.25,
+        "Sugars": 20.6,
+        "Fibre": 0.26,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1996,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown Double Chocolate Dairy Ice Cream 2x5 LT",
+        "EnergyKjoules": 1128,
+        "EnergyKcal": 269,
+        "Fat": 16.3,
+        "Protein": 4.7,
+        "Carbohydrates": 26.2,
+        "Salt": 0.2,
+        "Sugars": 24.4,
+        "Fibre": 2.3,
+        "Allergens": [3, 7, 6]
+    }
+}, {
+    "pk": 1997,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vanilla Flavour Diabetic Ice Cream 32x110 ML",
+        "EnergyKjoules": 189,
+        "EnergyKcal": 45,
+        "Fat": 1.2,
+        "Protein": 2.3,
+        "Carbohydrates": 3.9,
+        "Salt": 0.07,
+        "Sugars": 3.9,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 1998,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown Strawberry Dairy Ice Cream 2x5 LT",
+        "EnergyKjoules": 835,
+        "EnergyKcal": 199,
+        "Fat": 8.4,
+        "Protein": 3,
+        "Carbohydrates": 28,
+        "Salt": 0.025,
+        "Sugars": 27.1,
+        "Fibre": 0.1,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 1999,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Pail Dairy Easyscoop Strawberry Ice Cream 2x4 LT",
+        "EnergyKjoules": 827,
+        "EnergyKcal": 199,
+        "Fat": 11.4,
+        "Protein": 2.3,
+        "Carbohydrates": 26.7,
+        "Salt": 0.925,
+        "Sugars": 26.7,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2000,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Pail Dairy Easyscoop Chocolate Ice Cream 2x4 LT",
+        "EnergyKjoules": 873,
+        "EnergyKcal": 208,
+        "Fat": 11.4,
+        "Protein": 4.6,
+        "Carbohydrates": 25.1,
+        "Salt": 0.2,
+        "Sugars": 23.3,
+        "Fibre": 1.3,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2001,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown Farm Honeycomb Dairy Ice Cream 2x5 LT",
+        "EnergyKjoules": 935,
+        "EnergyKcal": 223,
+        "Fat": 11,
+        "Protein": 3,
+        "Carbohydrates": 27,
+        "Salt": 0.25,
+        "Sugars": 25.7,
+        "Fibre": 0.14,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2002,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown Lemon Sorbet 2x5 LT",
+        "EnergyKjoules": 578,
+        "EnergyKcal": 138,
+        "Fat": 0,
+        "Protein": 0.06,
+        "Carbohydrates": 33.9,
+        "Salt": 0.025,
+        "Sugars": 33.5,
+        "Fibre": 0.73,
+        "Allergens": []
+    }
+}, {
+    "pk": 2003,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown Mint Chocolate Dairy Icecream 2x5 LT",
+        "EnergyKjoules": 916,
+        "EnergyKcal": 219,
+        "Fat": 11,
+        "Protein": 3.7,
+        "Carbohydrates": 26,
+        "Salt": 0.35,
+        "Sugars": 25.6,
+        "Fibre": 1,
+        "Allergens": [3, 7, 6]
+    }
+}, {
+    "pk": 2004,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vanilla Flavour Diabetic Ice Cream 2x4 LT",
+        "EnergyKjoules": 189,
+        "EnergyKcal": 45,
+        "Fat": 1.2,
+        "Protein": 2.3,
+        "Carbohydrates": 3.9,
+        "Salt": 0.07,
+        "Sugars": 3.9,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2005,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strawberry Vanilla & Chocolate Mixed Ice Cream 4x4 LT",
+        "EnergyKjoules": 710,
+        "EnergyKcal": 169,
+        "Fat": 8,
+        "Protein": 3.6,
+        "Carbohydrates": 20.8,
+        "Salt": 0.025,
+        "Sugars": 20.6,
+        "Fibre": 0.26,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2006,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown Cookies & Cream Dairy Ice Cream 2x5 LT",
+        "EnergyKjoules": 1044,
+        "EnergyKcal": 249,
+        "Fat": 14.2,
+        "Protein": 3.6,
+        "Carbohydrates": 27.7,
+        "Salt": 0.2,
+        "Sugars": 24.9,
+        "Fibre": 0.5,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2007,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fit Fuel Nourish Protein Ice Cream 30x125 ML",
+        "EnergyKjoules": 920,
+        "EnergyKcal": 220,
+        "Fat": 11,
+        "Protein": 10,
+        "Carbohydrates": 21.3,
+        "Salt": 0.025,
+        "Sugars": 20,
+        "Fibre": 0.18,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2008,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Viva Gelato Raspberry Ripple Ice Cream 1x4 LT",
+        "EnergyKjoules": 829,
+        "EnergyKcal": 198,
+        "Fat": 10.3,
+        "Protein": 2.9,
+        "Carbohydrates": 23.4,
+        "Salt": 0,
+        "Sugars": 23.3,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2009,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Paganini Chocolate Ice Cream 2x4 LT",
+        "EnergyKjoules": 492,
+        "EnergyKcal": 116,
+        "Fat": 0,
+        "Protein": 0.16,
+        "Carbohydrates": 29,
+        "Salt": 0,
+        "Sugars": 25.7,
+        "Fibre": 0.79,
+        "Allergens": [3, 7, 8, 6]
+    }
+}, {
+    "pk": 2010,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Paganini Strawberry Ice Cream 2x4 LT",
+        "EnergyKjoules": 810,
+        "EnergyKcal": 193.61,
+        "Fat": 10.9,
+        "Protein": 3.62,
+        "Carbohydrates": 20.27,
+        "Salt": 0.025,
+        "Sugars": 19.07,
+        "Fibre": 0.11,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2011,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown Farm Pralines & Cream Ice Cream 2x5 LT",
+        "EnergyKjoules": 1031,
+        "EnergyKcal": 246,
+        "Fat": 14,
+        "Protein": 3.1,
+        "Carbohydrates": 28,
+        "Salt": 0.18,
+        "Sugars": 27,
+        "Fibre": 0,
+        "Allergens": [7, 8]
+    }
+}, {
+    "pk": 2012,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vanilla Ice Cream Cup 24x125 ML",
+        "EnergyKjoules": 794,
+        "EnergyKcal": 190,
+        "Fat": 10.8,
+        "Protein": 3.1,
+        "Carbohydrates": 21.5,
+        "Salt": 0.025,
+        "Sugars": 21.2,
+        "Fibre": 0.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2013,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenown Bubblegum Dairy Ice Cream 2x5 LT",
+        "EnergyKjoules": 873,
+        "EnergyKcal": 209,
+        "Fat": 11.7,
+        "Protein": 3.9,
+        "Carbohydrates": 22,
+        "Salt": 0.18,
+        "Sugars": 21.4,
+        "Fibre": 0.2,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2014,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silverpail Indulgence Vanilla Bourbon Ice Cream 2x4 LT",
+        "EnergyKjoules": 911,
+        "EnergyKcal": 218,
+        "Fat": 12.2,
+        "Protein": 3.4,
+        "Carbohydrates": 23.6,
+        "Salt": 0.13,
+        "Sugars": 23.1,
+        "Fibre": 0.03,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 2015,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Raspberry Roulade 1x12 PTN",
+        "EnergyKjoules": 1260,
+        "EnergyKcal": 300,
+        "Fat": 17,
+        "Protein": 4,
+        "Carbohydrates": 32,
+        "Salt": 0.45,
+        "Sugars": 31.72,
+        "Fibre": 0.06,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 2016,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Death By Chocolate Cake 1x14 PTN",
+        "EnergyKjoules": 1637.11,
+        "EnergyKcal": 389.79,
+        "Fat": 24,
+        "Protein": 3.79,
+        "Carbohydrates": 39.66,
+        "Salt": 0.61,
+        "Sugars": 28.26,
+        "Fibre": 2.49,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2017,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pavlova Base 1x600 GM",
+        "EnergyKjoules": 1628.5,
+        "EnergyKcal": 288,
+        "Fat": 0,
+        "Protein": 4.39,
+        "Carbohydrates": 92.55,
+        "Salt": 0.625,
+        "Sugars": 92.05,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2018,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Carrot Cake GF 1x14 PTN",
+        "EnergyKjoules": 1613,
+        "EnergyKcal": 387,
+        "Fat": 21.8,
+        "Protein": 3.9,
+        "Carbohydrates": 43.5,
+        "Salt": 0.5,
+        "Sugars": 30.1,
+        "Fibre": 0.9,
+        "Allergens": [3, 7, 8, 12]
+    }
+}, {
+    "pk": 2019,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Roulade White Choc & Raspberry Individual 20x72 G",
+        "EnergyKjoules": 1341,
+        "EnergyKcal": 319,
+        "Fat": 12.4,
+        "Protein": 2.75,
+        "Carbohydrates": 49.15,
+        "Salt": 0.125,
+        "Sugars": 48.8,
+        "Fibre": 0.18,
+        "Allergens": [3, 7, 6]
+    }
+}, {
+    "pk": 2020,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Toblerone Cake GF 1x12 PTN",
+        "EnergyKjoules": 1850,
+        "EnergyKcal": 440,
+        "Fat": 25,
+        "Protein": 10,
+        "Carbohydrates": 46,
+        "Salt": 0.275,
+        "Sugars": 39,
+        "Fibre": 2,
+        "Allergens": [3, 7, 8, 6]
+    }
+}, {
+    "pk": 2021,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Peanut & Caramel Cake GF 1x12 PTN",
+        "EnergyKjoules": 1950,
+        "EnergyKcal": 460,
+        "Fat": 28,
+        "Protein": 11,
+        "Carbohydrates": 42,
+        "Salt": 0.4,
+        "Sugars": 29,
+        "Fibre": 4,
+        "Allergens": [3, 7, 8, 5, 6]
+    }
+}, {
+    "pk": 2022,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Chocolate Fudge 1x12 PTN",
+        "EnergyKjoules": 1700,
+        "EnergyKcal": 404,
+        "Fat": 20.4,
+        "Protein": 4,
+        "Carbohydrates": 51.3,
+        "Salt": 1.65,
+        "Sugars": 21.33,
+        "Fibre": 2,
+        "Allergens": [3, 1, 7, 6, 12]
+    }
+}, {
+    "pk": 2023,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Almondy Almond Cake with Daim GF 1x1 KG",
+        "EnergyKjoules": 1600,
+        "EnergyKcal": 380,
+        "Fat": 26,
+        "Protein": 13,
+        "Carbohydrates": 33,
+        "Salt": 0.425,
+        "Sugars": 26,
+        "Fibre": 2.2,
+        "Allergens": [3, 7, 8, 6]
+    }
+}, {
+    "pk": 2024,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Christmas Chocolate Yule Log 1x10 PTN",
+        "EnergyKjoules": 1403.5,
+        "EnergyKcal": 334.1,
+        "Fat": 21.9,
+        "Protein": 3.7,
+        "Carbohydrates": 30.5,
+        "Salt": 0.49,
+        "Sugars": 8.5,
+        "Fibre": 1,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2025,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Sticky Toffee Pudding Squares 16x120 GM",
+        "EnergyKjoules": 1400,
+        "EnergyKcal": 334,
+        "Fat": 15.6,
+        "Protein": 4.6,
+        "Carbohydrates": 43.1,
+        "Salt": 0.3,
+        "Sugars": 32.8,
+        "Fibre": 1.5,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2026,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individual White Chocolate Cheesecake 12x135 GM",
+        "EnergyKjoules": 1450.794,
+        "EnergyKcal": 347.08,
+        "Fat": 19.97,
+        "Protein": 7.36,
+        "Carbohydrates": 35.1,
+        "Salt": 0.15,
+        "Sugars": 13.28,
+        "Fibre": 0.53,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 2027,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Apple & Strawberry Crumble 1x12'S",
+        "EnergyKjoules": 946.2,
+        "EnergyKcal": 225.29,
+        "Fat": 8.96,
+        "Protein": 2.71,
+        "Carbohydrates": 33.45,
+        "Salt": 0.275,
+        "Sugars": 7.46,
+        "Fibre": 0.7,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2028,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cookies and Cream Cheesecake 1x14 PTN",
+        "EnergyKjoules": 1224,
+        "EnergyKcal": 293,
+        "Fat": 17.56,
+        "Protein": 6.78,
+        "Carbohydrates": 26.88,
+        "Salt": 0.175,
+        "Sugars": 12.78,
+        "Fibre": 0.27,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 2029,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Chocolate Fudge Cake Whole 1x1'S",
+        "EnergyKjoules": 1744,
+        "EnergyKcal": 416,
+        "Fat": 18.6,
+        "Protein": 3.9,
+        "Carbohydrates": 57.2,
+        "Salt": 0.7,
+        "Sugars": 44.1,
+        "Fibre": 2.4,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 2030,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lemon Roulade 1x12'S",
+        "EnergyKjoules": 1038,
+        "EnergyKcal": 247,
+        "Fat": 9,
+        "Protein": 4,
+        "Carbohydrates": 38,
+        "Salt": 0.1875,
+        "Sugars": 37,
+        "Fibre": 0.023,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 2031,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Coffee & Walnut Gateau 1x14 PTN",
+        "EnergyKjoules": 1652.75,
+        "EnergyKcal": 393.5,
+        "Fat": 18,
+        "Protein": 4.2,
+        "Carbohydrates": 53.4,
+        "Salt": 0.305,
+        "Sugars": 16.1,
+        "Fibre": 0.078,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 2032,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marguerites Zesty Lemon Twist Cake 1x12 PTN",
+        "EnergyKjoules": 1294,
+        "EnergyKcal": 309,
+        "Fat": 18.9,
+        "Protein": 6.6,
+        "Carbohydrates": 28.5,
+        "Salt": 0.3,
+        "Sugars": 15.9,
+        "Fibre": 0.5,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 2033,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Rhubarb & Strawberry Crumble 1x12 PTN",
+        "EnergyKjoules": 909.1,
+        "EnergyKcal": 216.4,
+        "Fat": 10.1,
+        "Protein": 3.4,
+        "Carbohydrates": 27.5,
+        "Salt": 0.325,
+        "Sugars": 10.3,
+        "Fibre": 1.466,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 2034,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marguerites Baileys Cheesecake 1x12 PTN",
+        "EnergyKjoules": 1273,
+        "EnergyKcal": 306,
+        "Fat": 20.1,
+        "Protein": 3.6,
+        "Carbohydrates": 28.9,
+        "Salt": 0,
+        "Sugars": 17.4,
+        "Fibre": 0.4,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 2035,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Deep Apple Crumble 1x14 PTN",
+        "EnergyKjoules": 1007,
+        "EnergyKcal": 239.7,
+        "Fat": 9.2,
+        "Protein": 2.8,
+        "Carbohydrates": 36.3,
+        "Salt": 0.025,
+        "Sugars": 7.4,
+        "Fibre": 0.709,
+        "Allergens": [3, 1, 12]
+    }
+}, {
+    "pk": 2036,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Chocolate Fudge Cake Pre-Cut 1x1'S",
+        "EnergyKjoules": 1743,
+        "EnergyKcal": 416,
+        "Fat": 18.57,
+        "Protein": 3.87,
+        "Carbohydrates": 57.15,
+        "Salt": 0.73,
+        "Sugars": 44.05,
+        "Fibre": 2.36,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2037,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sticky Toffee Cheesecake 1x1.762 KG",
+        "EnergyKjoules": 1607,
+        "EnergyKcal": 384,
+        "Fat": 21,
+        "Protein": 5.5,
+        "Carbohydrates": 43.4,
+        "Salt": 0.3,
+        "Sugars": 30.2,
+        "Fibre": 0.48,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2038,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sticky Chocolate & Orange Cake 1x14 PTN",
+        "EnergyKjoules": 1592,
+        "EnergyKcal": 381,
+        "Fat": 19.8,
+        "Protein": 3.8,
+        "Carbohydrates": 47.4,
+        "Salt": 0.5,
+        "Sugars": 32.2,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2039,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strawberry & Red Velvet Cheesecake 1x14 PTN",
+        "EnergyKjoules": 1253.3,
+        "EnergyKcal": 299.55,
+        "Fat": 17.18,
+        "Protein": 6.36,
+        "Carbohydrates": 29.86,
+        "Salt": 0,
+        "Sugars": 14.72,
+        "Fibre": 0.34,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 2040,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Raspberry & White Chocolate Roulades 2x600 GM",
+        "EnergyKjoules": 1313,
+        "EnergyKcal": 312,
+        "Fat": 12,
+        "Protein": 2.7,
+        "Carbohydrates": 48.3,
+        "Salt": 0.025,
+        "Sugars": 48,
+        "Fibre": 0.1,
+        "Allergens": [3, 7, 6]
+    }
+}, {
+    "pk": 2041,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Baked Vanilla Cheesecake New York Style 1x12 PTN",
+        "EnergyKjoules": 1445,
+        "EnergyKcal": 347,
+        "Fat": 22.7,
+        "Protein": 4.1,
+        "Carbohydrates": 31.3,
+        "Salt": 0.4,
+        "Sugars": 23.3,
+        "Fibre": 0.5,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2042,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marguerites Lemon Cheesecake 1x12 PTN",
+        "EnergyKjoules": 1262,
+        "EnergyKcal": 304,
+        "Fat": 20.35,
+        "Protein": 3.7,
+        "Carbohydrates": 27.78,
+        "Salt": 0.5,
+        "Sugars": 16.08,
+        "Fibre": 0.4,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 2043,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Black Forest Gateau 1x14 PTN",
+        "EnergyKjoules": 1461,
+        "EnergyKcal": 348,
+        "Fat": 23.6,
+        "Protein": 4.01,
+        "Carbohydrates": 29.87,
+        "Salt": 0.75,
+        "Sugars": 18.34,
+        "Fibre": 1.41,
+        "Allergens": [3, 1, 7, 6, 12]
+    }
+}, {
+    "pk": 2044,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Cream Liqueur Brownie Cheesecake 1x14 PTN",
+        "EnergyKjoules": 1367,
+        "EnergyKcal": 328,
+        "Fat": 23,
+        "Protein": 6.4,
+        "Carbohydrates": 24,
+        "Salt": 0,
+        "Sugars": 14,
+        "Fibre": 0.7,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 2045,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Carrot Gateau 1x14 PTN",
+        "EnergyKjoules": 1598.29,
+        "EnergyKcal": 38.55,
+        "Fat": 17.03,
+        "Protein": 4.43,
+        "Carbohydrates": 52.39,
+        "Salt": 0,
+        "Sugars": 21.11,
+        "Fibre": 1,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 2046,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Pear & Almond Cake 1x12 PTN",
+        "EnergyKjoules": 1328.83,
+        "EnergyKcal": 316.39,
+        "Fat": 17.57,
+        "Protein": 5.07,
+        "Carbohydrates": 34.5,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7, 8]
+    }
+}, {
+    "pk": 2047,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coolhull Chocolate Brownie Traybake 1x21 PTN",
+        "EnergyKjoules": 1753.73,
+        "EnergyKcal": 419.15,
+        "Fat": 26.08,
+        "Protein": 4.94,
+        "Carbohydrates": 41.18,
+        "Salt": 0.025,
+        "Sugars": 30.89,
+        "Fibre": 2.76,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2048,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coolhull Carrot Cake Traybake 1x21 PTN",
+        "EnergyKjoules": 1427.76,
+        "EnergyKcal": 341.57,
+        "Fat": 20.22,
+        "Protein": 5.39,
+        "Carbohydrates": 35.79,
+        "Salt": 1.15,
+        "Sugars": 24.43,
+        "Fibre": 0.65,
+        "Allergens": [3, 1, 7, 8, 5]
+    }
+}, {
+    "pk": 2049,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Broderick's Mixed Traybakes 1x36 PTN",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 434.38,
+        "Fat": 24.71,
+        "Protein": 5.94,
+        "Carbohydrates": 48.17,
+        "Salt": 0.3,
+        "Sugars": 37.26,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7, 5, 6, 12]
+    }
+}, {
+    "pk": 2050,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Apple Pie Traybake 1x5.1 KG",
+        "EnergyKjoules": 836,
+        "EnergyKcal": 199,
+        "Fat": 9.12,
+        "Protein": 4.24,
+        "Carbohydrates": 26.77,
+        "Salt": 0.025,
+        "Sugars": 11.41,
+        "Fibre": 1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2051,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Baileys Cheesecake Traybake 1x4 KG",
+        "EnergyKjoules": 1391,
+        "EnergyKcal": 333,
+        "Fat": 18.8,
+        "Protein": 7.31,
+        "Carbohydrates": 34.27,
+        "Salt": 0.1675,
+        "Sugars": 11.29,
+        "Fibre": 0.67,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 2052,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coolhull Strawberry Cheesecake Traybake 44x90 GM",
+        "EnergyKjoules": 1253.3,
+        "EnergyKcal": 299.5,
+        "Fat": 17.18,
+        "Protein": 6.36,
+        "Carbohydrates": 29.86,
+        "Salt": 0.17,
+        "Sugars": 14.72,
+        "Fibre": 0.34,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 2053,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Apple Crumble Traybake 44x122 GM",
+        "EnergyKjoules": 997.83,
+        "EnergyKcal": 238.49,
+        "Fat": 7.74,
+        "Protein": 2.27,
+        "Carbohydrates": 39.95,
+        "Salt": 0.19,
+        "Sugars": 16.25,
+        "Fibre": 1.31,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2054,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lemon & Poppy Tray Bake 1x21 PTN",
+        "EnergyKjoules": 1675.37,
+        "EnergyKcal": 400.42,
+        "Fat": 26.86,
+        "Protein": 4.23,
+        "Carbohydrates": 35.43,
+        "Salt": 0.06,
+        "Sugars": 25.08,
+        "Fibre": 0.37,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2055,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coolhull Caramel Pecan Brownie Tray Bake 1x21 PTN",
+        "EnergyKjoules": 1813,
+        "EnergyKcal": 433,
+        "Fat": 27.11,
+        "Protein": 5.1,
+        "Carbohydrates": 42.2,
+        "Salt": 0.625,
+        "Sugars": 31.8,
+        "Fibre": 2.85,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 2056,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coolhull Baileys & Toblerone Tray Bake 1x18 PTN",
+        "EnergyKjoules": 1409.2,
+        "EnergyKcal": 336.8,
+        "Fat": 19.61,
+        "Protein": 7.43,
+        "Carbohydrates": 32.66,
+        "Salt": 0.3,
+        "Sugars": 16.77,
+        "Fibre": 0.79,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 2057,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coolhull Lemon Cheesecake Tray Bake 1x44'S",
+        "EnergyKjoules": 1326,
+        "EnergyKcal": 317,
+        "Fat": 21,
+        "Protein": 5.6,
+        "Carbohydrates": 26.4,
+        "Salt": 0.5,
+        "Sugars": 16.1,
+        "Fibre": 0.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2058,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coolhull Fudge Brownie Tray Bake 1x55 PTN",
+        "EnergyKjoules": 1397.81,
+        "EnergyKcal": 334.09,
+        "Fat": 13.87,
+        "Protein": 4.89,
+        "Carbohydrates": 47.43,
+        "Salt": 0.025,
+        "Sugars": 33,
+        "Fibre": 2.03,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2059,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coolhull Tiramisu Tray Bake 1x42 PTN",
+        "EnergyKjoules": 1477.2,
+        "EnergyKcal": 353,
+        "Fat": 24.4,
+        "Protein": 8.6,
+        "Carbohydrates": 24.9,
+        "Salt": 0.15,
+        "Sugars": 14,
+        "Fibre": 0.1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2060,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brodericks Double Chocolate Brownie Bar 1x20'S",
+        "EnergyKjoules": 1877,
+        "EnergyKcal": 449,
+        "Fat": 27,
+        "Protein": 4.3,
+        "Carbohydrates": 44,
+        "Salt": 0.16,
+        "Sugars": 38,
+        "Fibre": 1.3,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2061,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coolhull White Chocolate & Raspberry Tray Bake 1x42 PTN",
+        "EnergyKjoules": 1367,
+        "EnergyKcal": 327,
+        "Fat": 21.6,
+        "Protein": 5.6,
+        "Carbohydrates": 27.4,
+        "Salt": 0.28,
+        "Sugars": 15.6,
+        "Fibre": 0.7,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 2062,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coolhull Chocolate Fudge Tray Bake 1x44'S",
+        "EnergyKjoules": 1397,
+        "EnergyKcal": 334.09,
+        "Fat": 13.87,
+        "Protein": 4.89,
+        "Carbohydrates": 47.43,
+        "Salt": 0.08,
+        "Sugars": 32.87,
+        "Fibre": 2.03,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2063,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Toffee Flavoured Tray Cake 15x126 GM",
+        "EnergyKjoules": 1616,
+        "EnergyKcal": 386,
+        "Fat": 20.6,
+        "Protein": 4.4,
+        "Carbohydrates": 46.1,
+        "Salt": 0,
+        "Sugars": 32.1,
+        "Fibre": 0.4,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 2064,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Death by Chocolate Traybake 1x42 PTN",
+        "EnergyKjoules": 1574,
+        "EnergyKcal": 377,
+        "Fat": 23.2,
+        "Protein": 5.2,
+        "Carbohydrates": 38.2,
+        "Salt": 0.125,
+        "Sugars": 27.3,
+        "Fibre": 1.2,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2065,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sticky Toffee Pudding 16x110 GM",
+        "EnergyKjoules": 1553,
+        "EnergyKcal": 370,
+        "Fat": 26.1,
+        "Protein": 17.6,
+        "Carbohydrates": 12.5,
+        "Salt": 0.59,
+        "Sugars": 6.5,
+        "Fibre": 4.9,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2066,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate Enrobed Profiteroles 111x18 GM",
+        "EnergyKjoules": 1610,
+        "EnergyKcal": 387,
+        "Fat": 27.1,
+        "Protein": 4.3,
+        "Carbohydrates": 30.9,
+        "Salt": 0,
+        "Sugars": 25.8,
+        "Fibre": 0.7,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2067,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Petit Fours Assortment 1x52'S",
+        "EnergyKjoules": 1294,
+        "EnergyKcal": 311,
+        "Fat": 20,
+        "Protein": 4,
+        "Carbohydrates": 28,
+        "Salt": 0.10625,
+        "Sugars": 20,
+        "Fibre": 0.5,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 2068,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cream Profiteroles 275x14.5 GM",
+        "EnergyKjoules": 1347,
+        "EnergyKcal": 321,
+        "Fat": 25.2,
+        "Protein": 4.3,
+        "Carbohydrates": 18.8,
+        "Salt": 0,
+        "Sugars": 12.9,
+        "Fibre": 0.2,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2069,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individual Salted Caramel Cream Roulades 1x20'S",
+        "EnergyKjoules": 1252,
+        "EnergyKcal": 298,
+        "Fat": 15.15,
+        "Protein": 3.73,
+        "Carbohydrates": 36.72,
+        "Salt": 0.43,
+        "Sugars": 31.89,
+        "Fibre": 0,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 2070,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individual Irish Cream Liqueur Cheesecake 12x131 GM",
+        "EnergyKjoules": 1391,
+        "EnergyKcal": 333,
+        "Fat": 18.79,
+        "Protein": 7.31,
+        "Carbohydrates": 34.27,
+        "Salt": 0.168,
+        "Sugars": 11.29,
+        "Fibre": 0.67,
+        "Allergens": [1, 7, 6, 12]
+    }
+}, {
+    "pk": 2071,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Raspberry Cheesecake 48x35 GM",
+        "EnergyKjoules": 1145,
+        "EnergyKcal": 275,
+        "Fat": 18,
+        "Protein": 3.3,
+        "Carbohydrates": 24,
+        "Salt": 0.45,
+        "Sugars": 15,
+        "Fibre": 3.7,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 2072,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Chocolate Cheesecake with Ferrero Rocher 12x120 GM",
+        "EnergyKjoules": 1648,
+        "EnergyKcal": 394,
+        "Fat": 25.1,
+        "Protein": 7.4,
+        "Carbohydrates": 34.6,
+        "Salt": 0.0625,
+        "Sugars": 19.5,
+        "Fibre": 1.2,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 2073,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mango & Passionfruit Cheesecake 12x110 GM",
+        "EnergyKjoules": 1089,
+        "EnergyKcal": 261,
+        "Fat": 15,
+        "Protein": 3.4,
+        "Carbohydrates": 28,
+        "Salt": 0.32,
+        "Sugars": 19,
+        "Fibre": 1.1,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 2074,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fondant with Valrhona Chocolate 1x20'S",
+        "EnergyKjoules": 1768,
+        "EnergyKcal": 426,
+        "Fat": 32.1,
+        "Protein": 5.9,
+        "Carbohydrates": 26.6,
+        "Salt": 0.16,
+        "Sugars": 21.6,
+        "Fibre": 3.3,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2075,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Eclairs 266x15 GM",
+        "EnergyKjoules": 1675,
+        "EnergyKcal": 400,
+        "Fat": 31.7,
+        "Protein": 4.2,
+        "Carbohydrates": 24.4,
+        "Salt": 0.025,
+        "Sugars": 9.2,
+        "Fibre": 0.5,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2076,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Prestige Baked Belgian Chocolate Cheesecake 48x35 GM",
+        "EnergyKjoules": 1687,
+        "EnergyKcal": 405,
+        "Fat": 27,
+        "Protein": 6,
+        "Carbohydrates": 34,
+        "Salt": 0.35,
+        "Sugars": 23,
+        "Fibre": 1.4,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2077,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Trio of Mini Chocolate Desserts 3x12 PTN",
+        "EnergyKjoules": 1289,
+        "EnergyKcal": 310,
+        "Fat": 19.8,
+        "Protein": 4.4,
+        "Carbohydrates": 28.4,
+        "Salt": 0.2,
+        "Sugars": 23.6,
+        "Fibre": 0.9,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2078,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Macaroons Rive Droite 2x36'S",
+        "EnergyKjoules": 1755,
+        "EnergyKcal": 419,
+        "Fat": 18.2,
+        "Protein": 9.1,
+        "Carbohydrates": 53,
+        "Salt": 0.11,
+        "Sugars": 51.1,
+        "Fibre": 3.2,
+        "Allergens": [3, 7, 8, 6]
+    }
+}, {
+    "pk": 2079,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Meringue Mini Dome 5cm 1x205'S",
+        "EnergyKjoules": 1543,
+        "EnergyKcal": 367,
+        "Fat": 0,
+        "Protein": 1.4,
+        "Carbohydrates": 90.4,
+        "Salt": 0.125,
+        "Sugars": 90.2,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2080,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate Ganache Pudding 16x110 GM",
+        "EnergyKjoules": 1629,
+        "EnergyKcal": 388,
+        "Fat": 23.2,
+        "Protein": 4.8,
+        "Carbohydrates": 40.1,
+        "Salt": 1,
+        "Sugars": 24.7,
+        "Fibre": 2.3,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2081,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Triple Chocolate Mousse 20x30 GM",
+        "EnergyKjoules": 1467,
+        "EnergyKcal": 353,
+        "Fat": 24.9,
+        "Protein": 5,
+        "Carbohydrates": 26.7,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2082,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individual Lemon Sponge Pudding 12x100 GM",
+        "EnergyKjoules": 1596,
+        "EnergyKcal": 381,
+        "Fat": 17.3,
+        "Protein": 4.5,
+        "Carbohydrates": 51.1,
+        "Salt": 0.75,
+        "Sugars": 29.8,
+        "Fibre": 0.7,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2083,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marguerites Pear & Cookie Gateau 1x12 PTN",
+        "EnergyKjoules": 1243,
+        "EnergyKcal": 297,
+        "Fat": 15.43,
+        "Protein": 4.63,
+        "Carbohydrates": 35.49,
+        "Salt": 0.5,
+        "Sugars": 20.23,
+        "Fibre": 0.74,
+        "Allergens": [3, 1, 7, 6, 12]
+    }
+}, {
+    "pk": 2084,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salted Caramel Chocolate Fondant 1x20'S",
+        "EnergyKjoules": 1818,
+        "EnergyKcal": 436,
+        "Fat": 28.2,
+        "Protein": 6.2,
+        "Carbohydrates": 37.9,
+        "Salt": 0.13,
+        "Sugars": 21.9,
+        "Fibre": 3.1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2085,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Art Deco Petit Four Selection 1x48'S",
+        "EnergyKjoules": 1263,
+        "EnergyKcal": 302,
+        "Fat": 16,
+        "Protein": 5.3,
+        "Carbohydrates": 33,
+        "Salt": 0.18,
+        "Sugars": 26.5,
+        "Fibre": 2.5,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 2086,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Deep Apple Tart 1x12 PTN",
+        "EnergyKjoules": 931,
+        "EnergyKcal": 222,
+        "Fat": 8.6,
+        "Protein": 2.6,
+        "Carbohydrates": 33.5,
+        "Salt": 0.25,
+        "Sugars": 5.9,
+        "Fibre": 1.2,
+        "Allergens": [3, 1, 12]
+    }
+}, {
+    "pk": 2087,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Lemon Meringue Pie 1x12 PTN",
+        "EnergyKjoules": 1321,
+        "EnergyKcal": 315,
+        "Fat": 11.6,
+        "Protein": 4.37,
+        "Carbohydrates": 48.3,
+        "Salt": 0.775,
+        "Sugars": 37.7,
+        "Fibre": 0.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2088,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Apple & Cinnamon Crumble Tartlet 18x100 GM",
+        "EnergyKjoules": 1233,
+        "EnergyKcal": 293,
+        "Fat": 12.2,
+        "Protein": 3.9,
+        "Carbohydrates": 42.3,
+        "Salt": 0.375,
+        "Sugars": 10.8,
+        "Fibre": 0.9,
+        "Allergens": [3, 1, 12]
+    }
+}, {
+    "pk": 2089,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Butter Apple Tart 1x12 PTN",
+        "EnergyKjoules": 946,
+        "EnergyKcal": 225,
+        "Fat": 8.8,
+        "Protein": 2.6,
+        "Carbohydrates": 33.8,
+        "Salt": 0.315,
+        "Sugars": 6.1,
+        "Fibre": 0.614,
+        "Allergens": [3, 1, 7, 12]
+    }
+}, {
+    "pk": 2090,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pear & Almond Individual Tartlet 18x100 GM",
+        "EnergyKjoules": 1500,
+        "EnergyKcal": 357,
+        "Fat": 20.4,
+        "Protein": 6.23,
+        "Carbohydrates": 37.22,
+        "Salt": 0.275,
+        "Sugars": 14,
+        "Fibre": 1.8,
+        "Allergens": [3, 1, 7, 8]
+    }
+}, {
+    "pk": 2091,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Lemon Tartlet Individual 18x100 GM",
+        "EnergyKjoules": 1412,
+        "EnergyKcal": 336,
+        "Fat": 16,
+        "Protein": 5.39,
+        "Carbohydrates": 42.65,
+        "Salt": 1.925,
+        "Sugars": 25.22,
+        "Fibre": 0.62,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2092,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sicilian Lemon Tartlet 48x25 GM",
+        "EnergyKjoules": 1223,
+        "EnergyKcal": 293,
+        "Fat": 0.14,
+        "Protein": 0.79,
+        "Carbohydrates": 74.2,
+        "Salt": 0,
+        "Sugars": 69.3,
+        "Fibre": 0.11,
+        "Allergens": []
+    }
+}, {
+    "pk": 2093,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixed Berry Crumble Individual Tartlet 18x100 GM",
+        "EnergyKjoules": 1188,
+        "EnergyKcal": 283,
+        "Fat": 12.62,
+        "Protein": 3.6,
+        "Carbohydrates": 38.76,
+        "Salt": 0.475,
+        "Sugars": 11.28,
+        "Fibre": 1.45,
+        "Allergens": [3, 1, 12]
+    }
+}, {
+    "pk": 2094,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salamander Lemon Tart with Sugar 1x12 PTN",
+        "EnergyKjoules": 1348,
+        "EnergyKcal": 321,
+        "Fat": 15,
+        "Protein": 4.93,
+        "Carbohydrates": 41,
+        "Salt": 0.65,
+        "Sugars": 27,
+        "Fibre": 0.51,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2095,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individual Caramelised Apple Tart 12x170 GM",
+        "EnergyKjoules": 1158.3,
+        "EnergyKcal": 276.6,
+        "Fat": 13.8,
+        "Protein": 2.5,
+        "Carbohydrates": 35.6,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7, 8, 5, 6]
+    }
+}, {
+    "pk": 2096,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marguerites Apple Tart 2x6 PTN",
+        "EnergyKjoules": 1139,
+        "EnergyKcal": 271,
+        "Fat": 12.57,
+        "Protein": 3.22,
+        "Carbohydrates": 36.52,
+        "Salt": 0,
+        "Sugars": 17.03,
+        "Fibre": 1.35,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 2097,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Lemon Meringue Pie 1x14 PTN",
+        "EnergyKjoules": 1144,
+        "EnergyKcal": 271,
+        "Fat": 6.2,
+        "Protein": 21.6,
+        "Carbohydrates": 50.9,
+        "Salt": 0.025,
+        "Sugars": 35.7,
+        "Fibre": 0.6,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2098,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Banoffee Pie 1x12 PTN",
+        "EnergyKjoules": 1774,
+        "EnergyKcal": 423,
+        "Fat": 28.21,
+        "Protein": 3.18,
+        "Carbohydrates": 39,
+        "Salt": 0.5,
+        "Sugars": 15.55,
+        "Fibre": 1.5,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 2099,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individual Rustic Apple Pie 40x110 GM",
+        "EnergyKjoules": 935,
+        "EnergyKcal": 222,
+        "Fat": 7.9,
+        "Protein": 1.6,
+        "Carbohydrates": 35.3,
+        "Salt": 0.14,
+        "Sugars": 29.8,
+        "Fibre": 1.8,
+        "Allergens": [3, 1, 7, 8]
+    }
+}, {
+    "pk": 2100,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Cheesecake Mix Filling Mix with Crumb Base 1x24 PTN",
+        "EnergyKjoules": 1893,
+        "EnergyKcal": 450,
+        "Fat": 15.5,
+        "Protein": 9.5,
+        "Carbohydrates": 67.2,
+        "Salt": 1.3,
+        "Sugars": 37.7,
+        "Fibre": 1.9,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 2101,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marguerites Pecan Pie 1x1.1 KG",
+        "EnergyKjoules": 1914,
+        "EnergyKcal": 458,
+        "Fat": 26.89,
+        "Protein": 4.34,
+        "Carbohydrates": 51.35,
+        "Salt": 0.5,
+        "Sugars": 34.71,
+        "Fibre": 1.91,
+        "Allergens": [3, 1, 7, 8]
+    }
+}, {
+    "pk": 2102,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lemon Pie & Tart Filling 1x2.7 KG",
+        "EnergyKjoules": 644,
+        "EnergyKcal": 153,
+        "Fat": 0,
+        "Protein": 0.1,
+        "Carbohydrates": 37.9,
+        "Salt": 0.4,
+        "Sugars": 32.1,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2103,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Toffee Flavoured Crunch Pie 1x14 PTN",
+        "EnergyKjoules": 1811,
+        "EnergyKcal": 434,
+        "Fat": 25.7,
+        "Protein": 4.4,
+        "Carbohydrates": 46.1,
+        "Salt": 0.3,
+        "Sugars": 38,
+        "Fibre": 1,
+        "Allergens": [1, 7, 8, 6]
+    }
+}, {
+    "pk": 2104,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Individual Raspberry Tartlet 30x110 GM",
+        "EnergyKjoules": 1073,
+        "EnergyKcal": 256,
+        "Fat": 11.2,
+        "Protein": 3.3,
+        "Carbohydrates": 33.2,
+        "Salt": 0.025,
+        "Sugars": 27.4,
+        "Fibre": 4.8,
+        "Allergens": [3, 1, 13, 7, 8, 5, 6]
+    }
+}, {
+    "pk": 2105,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rustic Apple Tartlets 18x150 GM",
+        "EnergyKjoules": 1280,
+        "EnergyKcal": 306,
+        "Fat": 16.2,
+        "Protein": 3.5,
+        "Carbohydrates": 35.6,
+        "Salt": 0.2,
+        "Sugars": 22.7,
+        "Fibre": 2,
+        "Allergens": [3, 1, 7, 8, 6]
+    }
+}, {
+    "pk": 2106,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kerrymaid Real Dairy Custard 1x1 LT",
+        "EnergyKjoules": 432,
+        "EnergyKcal": 103,
+        "Fat": 3,
+        "Protein": 2.9,
+        "Carbohydrates": 16.1,
+        "Salt": 0.125,
+        "Sugars": 11.8,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2107,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate Sauce Topping 1x750 ML",
+        "EnergyKjoules": 1042,
+        "EnergyKcal": 246,
+        "Fat": 1.7,
+        "Protein": 1.53,
+        "Carbohydrates": 58.66,
+        "Salt": 0.0025,
+        "Sugars": 54.8,
+        "Fibre": 2.42,
+        "Allergens": []
+    }
+}, {
+    "pk": 2108,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Vanilla Essence 1x500 ML",
+        "EnergyKjoules": 12694,
+        "EnergyKcal": 302,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2109,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Vanilla Syrup 1x1 LT",
+        "EnergyKjoules": 883,
+        "EnergyKcal": 207,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 51.96,
+        "Salt": 0,
+        "Sugars": 50.79,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2110,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Pink & White Marshmallows 4x1 KG",
+        "EnergyKjoules": 1396,
+        "EnergyKcal": 329,
+        "Fat": 0.5,
+        "Protein": 3.2,
+        "Carbohydrates": 79,
+        "Salt": 0,
+        "Sugars": 69,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2111,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strawberry Sauce Topping 1x750 ML",
+        "EnergyKjoules": 1075,
+        "EnergyKcal": 253,
+        "Fat": 0,
+        "Protein": 0.14,
+        "Carbohydrates": 62.96,
+        "Salt": 0.025,
+        "Sugars": 61.83,
+        "Fibre": 0.35,
+        "Allergens": []
+    }
+}, {
+    "pk": 2112,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Caramel Sauce 1x2.5 LT",
+        "EnergyKjoules": 1285,
+        "EnergyKcal": 307,
+        "Fat": 1.6,
+        "Protein": 0.7,
+        "Carbohydrates": 69,
+        "Salt": 0.25,
+        "Sugars": 56.5,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2113,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Monin Vanilla Syrup 1x1 LT",
+        "EnergyKjoules": 1422.56,
+        "EnergyKcal": 340,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 84.4,
+        "Salt": 0,
+        "Sugars": 84,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2114,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Butterscotch Sauce Topping 1x750 ML",
+        "EnergyKjoules": 1280,
+        "EnergyKcal": 302,
+        "Fat": 5.6,
+        "Protein": 1.1,
+        "Carbohydrates": 61.8,
+        "Salt": 0.125,
+        "Sugars": 61.7,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2115,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Crème Brulee 6x1 LT",
+        "EnergyKjoules": 769,
+        "EnergyKcal": 190,
+        "Fat": 12.84,
+        "Protein": 2.97,
+        "Carbohydrates": 15.25,
+        "Salt": 0,
+        "Sugars": 13,
+        "Fibre": 0.53,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 2116,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Canderel Sweetener 1x500 GM",
+        "EnergyKjoules": 1540,
+        "EnergyKcal": 362,
+        "Fat": 0,
+        "Protein": 1.6,
+        "Carbohydrates": 89,
+        "Salt": 0,
+        "Sugars": 89,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2117,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Milk Chocolate Sauce RTU 1x1 LT",
+        "EnergyKjoules": 885,
+        "EnergyKcal": 210,
+        "Fat": 10.9,
+        "Protein": 2.5,
+        "Carbohydrates": 26,
+        "Salt": 0,
+        "Sugars": 19.9,
+        "Fibre": 1.9,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2118,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Chai Syrup 1x1 LT",
+        "EnergyKjoules": 974,
+        "EnergyKcal": 299,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 56.69,
+        "Salt": 0.25,
+        "Sugars": 51.29,
+        "Fibre": 0.15,
+        "Allergens": []
+    }
+}, {
+    "pk": 2119,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Caramel Cream Filling 1x5 KG",
+        "EnergyKjoules": 148,
+        "EnergyKcal": 35,
+        "Fat": 0.1,
+        "Protein": 0.5,
+        "Carbohydrates": 7.3,
+        "Salt": 0,
+        "Sugars": 7.3,
+        "Fibre": 0.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 2120,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Newforge Almond Essence 1x500 ML",
+        "EnergyKjoules": 756,
+        "EnergyKcal": 181,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2121,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Gingerbread Syrup 1x1 LT",
+        "EnergyKjoules": 849,
+        "EnergyKcal": 202,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 49.71,
+        "Salt": 0,
+        "Sugars": 49.42,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2122,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Red Raspberry Liquid Food Colouring 1x100 ML",
+        "EnergyKjoules": 460,
+        "EnergyKcal": 110,
+        "Fat": 0.03,
+        "Protein": 0.03,
+        "Carbohydrates": 26,
+        "Salt": 2.75,
+        "Sugars": 26,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2123,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nutella Piping Bag 1x1 KG",
+        "EnergyKjoules": 2252,
+        "EnergyKcal": 529,
+        "Fat": 30.9,
+        "Protein": 6.3,
+        "Carbohydrates": 57.5,
+        "Salt": 0.1,
+        "Sugars": 56.3,
+        "Fibre": 0,
+        "Allergens": [7, 8, 6]
+    }
+}, {
+    "pk": 2124,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strawberry Pie & Tart Filling 1x2.7 KG",
+        "EnergyKjoules": 494,
+        "EnergyKcal": 118,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 29.6,
+        "Salt": 0.18,
+        "Sugars": 25,
+        "Fibre": 0.7,
+        "Allergens": []
+    }
+}, {
+    "pk": 2125,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ready to Roll Icing Fondant 1x5 KG",
+        "EnergyKjoules": 1684,
+        "EnergyKcal": 398,
+        "Fat": 6.1,
+        "Protein": 0,
+        "Carbohydrates": 86.9,
+        "Salt": 0.025,
+        "Sugars": 82.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2126,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sugar Decor (finishing sugar) 1x1 KG",
+        "EnergyKjoules": 1630.2,
+        "EnergyKcal": 390,
+        "Fat": 5.6,
+        "Protein": 0.1,
+        "Carbohydrates": 83.7,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2127,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Chocolate Syrup 1x1 LT",
+        "EnergyKjoules": 939,
+        "EnergyKcal": 221,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 55.23,
+        "Salt": 2,
+        "Sugars": 53.43,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2128,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Panda Crunchy Peanut Butter 1x510 GM",
+        "EnergyKjoules": 2424,
+        "EnergyKcal": 580,
+        "Fat": 48,
+        "Protein": 20,
+        "Carbohydrates": 17,
+        "Salt": 0.9,
+        "Sugars": 11,
+        "Fibre": 11,
+        "Allergens": [5]
+    }
+}, {
+    "pk": 2129,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Peppermint Syrup 1x1 LT",
+        "EnergyKjoules": 849,
+        "EnergyKcal": 199,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 49.92,
+        "Salt": 0,
+        "Sugars": 49.92,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2130,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Banana Syrup 1x1 LT",
+        "EnergyKjoules": 847,
+        "EnergyKcal": 199,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 49.7,
+        "Salt": 23.25,
+        "Sugars": 49.13,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2131,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Orange Flavouring Paste 1x1 KG",
+        "EnergyKjoules": 1169,
+        "EnergyKcal": 275,
+        "Fat": 0,
+        "Protein": 0.59,
+        "Carbohydrates": 65.77,
+        "Salt": 0.125,
+        "Sugars": 65.77,
+        "Fibre": 0.96,
+        "Allergens": [12]
+    }
+}, {
+    "pk": 2132,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Royal Caramel Crushed Isigny 1x900 GM",
+        "EnergyKjoules": 1814.9,
+        "EnergyKcal": 434.2,
+        "Fat": 8.9,
+        "Protein": 1.3,
+        "Carbohydrates": 87.4,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2133,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Custard Powder 1x1 KG",
+        "EnergyKjoules": 1450,
+        "EnergyKcal": 346,
+        "Fat": 0.1,
+        "Protein": 0.3,
+        "Carbohydrates": 85,
+        "Salt": 0.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2134,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fruto Raspberry Topping Sauce 12x750 ML",
+        "EnergyKjoules": 1172,
+        "EnergyKcal": 276,
+        "Fat": 0,
+        "Protein": 0.2,
+        "Carbohydrates": 68.5,
+        "Salt": 5,
+        "Sugars": 68.4,
+        "Fibre": 0.75,
+        "Allergens": []
+    }
+}, {
+    "pk": 2135,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Banana Bread 1x800 GM",
+        "EnergyKjoules": 1504,
+        "EnergyKcal": 359,
+        "Fat": 20,
+        "Protein": 4.1,
+        "Carbohydrates": 43,
+        "Salt": 0.14,
+        "Sugars": 24,
+        "Fibre": 0,
+        "Allergens": [3, 1]
+    }
+}, {
+    "pk": 2136,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ambrosia Rice Pot 6x150 GM",
+        "EnergyKjoules": 415,
+        "EnergyKcal": 98,
+        "Fat": 2.2,
+        "Protein": 3.2,
+        "Carbohydrates": 16.4,
+        "Salt": 0.15,
+        "Sugars": 9.2,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2137,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ambrosia Original Custard Pot 12x150 GM",
+        "EnergyKjoules": 409,
+        "EnergyKcal": 97,
+        "Fat": 2.9,
+        "Protein": 2.8,
+        "Carbohydrates": 15,
+        "Salt": 0.11,
+        "Sugars": 10.9,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2138,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Vegan Belgian Chocolate Dessert 12x100 GM",
+        "EnergyKjoules": 1540,
+        "EnergyKcal": 368,
+        "Fat": 27,
+        "Protein": 2.4,
+        "Carbohydrates": 33,
+        "Salt": 0.41,
+        "Sugars": 23,
+        "Fibre": 2.4,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2139,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Angel Delight Strawberry Flavour Dessert 1x600 GM",
+        "EnergyKjoules": 521,
+        "EnergyKcal": 123,
+        "Fat": 3.2,
+        "Protein": 3.8,
+        "Carbohydrates": 20.1,
+        "Salt": 0.38,
+        "Sugars": 15.2,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2140,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Angel Delight Banana Flavour Dessert 1x600 GM",
+        "EnergyKjoules": 522,
+        "EnergyKcal": 123,
+        "Fat": 3.3,
+        "Protein": 3.9,
+        "Carbohydrates": 19.8,
+        "Salt": 0.41,
+        "Sugars": 15.6,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2141,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wellcare Reduced Sugar Strawberry Jelly 1x1 KG",
+        "EnergyKjoules": 1107,
+        "EnergyKcal": 262,
+        "Fat": 0,
+        "Protein": 7.2,
+        "Carbohydrates": 54,
+        "Salt": 0.025,
+        "Sugars": 45,
+        "Fibre": 35,
+        "Allergens": []
+    }
+}, {
+    "pk": 2142,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Callebaut White Chocolate Mousse Powder 1x800 GM",
+        "EnergyKjoules": 2194,
+        "EnergyKcal": 524,
+        "Fat": 28.5,
+        "Protein": 12.7,
+        "Carbohydrates": 53.8,
+        "Salt": 0.33,
+        "Sugars": 53.5,
+        "Fibre": 0,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2143,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Gourmet Belgian Chocolate Flavoured Dessert Sauce 1",
+        "EnergyKjoules": 1209,
+        "EnergyKcal": 289,
+        "Fat": 0.44,
+        "Protein": 1.44,
+        "Carbohydrates": 68.7,
+        "Salt": 0.025,
+        "Sugars": 48.59,
+        "Fibre": 2.3,
+        "Allergens": []
+    }
+}, {
+    "pk": 2144,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Strawberry Mousse Mix 1x390 GM",
+        "EnergyKjoules": 1934,
+        "EnergyKcal": 460,
+        "Fat": 15.5,
+        "Protein": 9.1,
+        "Carbohydrates": 70.5,
+        "Salt": 2.3,
+        "Sugars": 57.6,
+        "Fibre": 0.9,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2145,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Strawberry Flavour Jelly Crystals 1x3.5 KG",
+        "EnergyKjoules": 1565,
+        "EnergyKcal": 368,
+        "Fat": 0,
+        "Protein": 6.8,
+        "Carbohydrates": 85.3,
+        "Salt": 0.025,
+        "Sugars": 83.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2146,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Hartley's Sugar Free Strawberry Jelly Crystals 12x26 GM",
+        "EnergyKjoules": 1261,
+        "EnergyKcal": 301,
+        "Fat": 0.1,
+        "Protein": 58.4,
+        "Carbohydrates": 11.5,
+        "Salt": 4.1,
+        "Sugars": 9.6,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2147,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Chocolate Mousse Mix 1x390 GM",
+        "EnergyKjoules": 1908,
+        "EnergyKcal": 454,
+        "Fat": 15.5,
+        "Protein": 12.1,
+        "Carbohydrates": 64.3,
+        "Salt": 0.8,
+        "Sugars": 58.7,
+        "Fibre": 4.4,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2148,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Meringue Nest Individual 7.5cm 1x48'S",
+        "EnergyKjoules": 1543,
+        "EnergyKcal": 367,
+        "Fat": 0,
+        "Protein": 1.4,
+        "Carbohydrates": 90.4,
+        "Salt": 0.125,
+        "Sugars": 90.2,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 2149,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Icing Fondant 1x8 KG",
+        "EnergyKjoules": 1508,
+        "EnergyKcal": 360,
+        "Fat": 0.5,
+        "Protein": 0.05,
+        "Carbohydrates": 88,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2150,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Morelli Double Vanilla Ice Cream 1x4 LT",
+        "EnergyKjoules": 964,
+        "EnergyKcal": 230,
+        "Fat": 13.9,
+        "Protein": 3.6,
+        "Carbohydrates": 23.3,
+        "Salt": 0.09,
+        "Sugars": 20.5,
+        "Fibre": 0,
+        "Allergens": [7, 8]
+    }
+}, {
+    "pk": 2151,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Orange Flavour Jelly Crystals 1x3.5 KG",
+        "EnergyKjoules": 1556,
+        "EnergyKcal": 366,
+        "Fat": 0,
+        "Protein": 6.8,
+        "Carbohydrates": 84.8,
+        "Salt": 0.025,
+        "Sugars": 84.2,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2152,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate Vanilla Ice Cream Sandwich 1x24'S",
+        "EnergyKjoules": 1259,
+        "EnergyKcal": 301,
+        "Fat": 14.4,
+        "Protein": 4.9,
+        "Carbohydrates": 37.9,
+        "Salt": 0.3,
+        "Sugars": 27.8,
+        "Fibre": 0.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2153,
+    "model": "home.products",
+    "fields": {
+        "product_name": "White Chocolate Chip Vanilla Ice Cream Sandwich 1x24'S",
+        "EnergyKjoules": 1245,
+        "EnergyKcal": 297,
+        "Fat": 13.8,
+        "Protein": 4.5,
+        "Carbohydrates": 38.8,
+        "Salt": 0.3,
+        "Sugars": 27.6,
+        "Fibre": 0.5,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2154,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lemon Puree 1x1 KG",
+        "EnergyKjoules": 265,
+        "EnergyKcal": 62,
+        "Fat": 0.2,
+        "Protein": 0.5,
+        "Carbohydrates": 16.3,
+        "Salt": 0.025,
+        "Sugars": 13.2,
+        "Fibre": 1.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 2155,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boiron Raspberry Pasteurized Fruit Puree 1x1 LT",
+        "EnergyKjoules": 172,
+        "EnergyKcal": 42,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10,
+        "Salt": 0,
+        "Sugars": 7,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2156,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boiron Mango Pasteurized Fruit Puree 1x1 LT",
+        "EnergyKjoules": 322,
+        "EnergyKcal": 76,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 18,
+        "Salt": 0,
+        "Sugars": 14,
+        "Fibre": 2,
+        "Allergens": []
+    }
+}, {
+    "pk": 2157,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boiron Strawberry Pasteurized Fruit Puree 1x1 LT",
+        "EnergyKjoules": 172,
+        "EnergyKcal": 42,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 10,
+        "Salt": 0,
+        "Sugars": 7,
+        "Fibre": 1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2158,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mixed Berry Sorbet 2x4 LT",
+        "EnergyKjoules": 473,
+        "EnergyKcal": 111,
+        "Fat": 0.08,
+        "Protein": 0.25,
+        "Carbohydrates": 27,
+        "Salt": 0.001,
+        "Sugars": 18,
+        "Fibre": 0.9,
+        "Allergens": []
+    }
+}, {
+    "pk": 2159,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Banana Puree 1x1 KG",
+        "EnergyKjoules": 415,
+        "EnergyKcal": 98,
+        "Fat": 0.1,
+        "Protein": 1.1,
+        "Carbohydrates": 22.1,
+        "Salt": 0.025,
+        "Sugars": 17.8,
+        "Fibre": 2.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 2160,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boiron Blackberry Pasteurized Fruit Puree 1x1 LT",
+        "EnergyKjoules": 157,
+        "EnergyKcal": 37,
+        "Fat": 0,
+        "Protein": 0.9,
+        "Carbohydrates": 7.7,
+        "Salt": 0,
+        "Sugars": 6.8,
+        "Fibre": 1.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 2161,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boiron Peach Puree 1x1 KG",
+        "EnergyKjoules": 294,
+        "EnergyKcal": 69,
+        "Fat": 0.1,
+        "Protein": 0.5,
+        "Carbohydrates": 16.5,
+        "Salt": 0.025,
+        "Sugars": 12.3,
+        "Fibre": 1.8,
+        "Allergens": []
+    }
+}, {
+    "pk": 2162,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Rhubarb Puree 1x1 KG",
+        "EnergyKjoules": 79,
+        "EnergyKcal": 19,
+        "Fat": 0.1,
+        "Protein": 0.7,
+        "Carbohydrates": 6.4,
+        "Salt": 0,
+        "Sugars": 2.4,
+        "Fibre": 1.6,
+        "Allergens": []
+    }
+}, {
+    "pk": 2163,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boiron Pear Pasturised Fruit Puree 1x1 LT",
+        "EnergyKjoules": 246,
+        "EnergyKcal": 58,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 13,
+        "Salt": 0,
+        "Sugars": 10.8,
+        "Fibre": 2.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 2164,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boiron Peach Pasteurized Fruit Puree 1x1 LT",
+        "EnergyKjoules": 188,
+        "EnergyKcal": 44,
+        "Fat": 0,
+        "Protein": 0.9,
+        "Carbohydrates": 9,
+        "Salt": 0,
+        "Sugars": 8.2,
+        "Fibre": 2,
+        "Allergens": []
+    }
+}, {
+    "pk": 2165,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boiron Apricot Pasturised Fruit Puree 1x1 LT",
+        "EnergyKjoules": 210,
+        "EnergyKcal": 50,
+        "Fat": 0,
+        "Protein": 0.4,
+        "Carbohydrates": 11,
+        "Salt": 0,
+        "Sugars": 6.8,
+        "Fibre": 1.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 2166,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Boiron Pineapple Pasturised Fruit Puree 1x1 LT",
+        "EnergyKjoules": 262,
+        "EnergyKcal": 63,
+        "Fat": 0,
+        "Protein": 1,
+        "Carbohydrates": 13,
+        "Salt": 0,
+        "Sugars": 13,
+        "Fibre": 2,
+        "Allergens": []
+    }
+}, {
+    "pk": 2167,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Chocolate Sauce 1x2.5 KG",
+        "EnergyKjoules": 1225,
+        "EnergyKcal": 288,
+        "Fat": 0.8,
+        "Protein": 1.7,
+        "Carbohydrates": 67.14,
+        "Salt": 0,
+        "Sugars": 67.14,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2168,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Golden Syrup 1x7.26 KG",
+        "EnergyKjoules": 1499,
+        "EnergyKcal": 353,
+        "Fat": 1,
+        "Protein": 0,
+        "Carbohydrates": 86,
+        "Salt": 0,
+        "Sugars": 84,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2169,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Toffee Sauce RTU 1x1 LT",
+        "EnergyKjoules": 970,
+        "EnergyKcal": 230,
+        "Fat": 8.4,
+        "Protein": 1.8,
+        "Carbohydrates": 37.2,
+        "Salt": 0.025,
+        "Sugars": 33.5,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2170,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Hazelnut Syrup 1x1 LT",
+        "EnergyKjoules": 880,
+        "EnergyKcal": 207,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 51.63,
+        "Salt": 0,
+        "Sugars": 51.02,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 2171,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci Gourmet Strawberry Flavoured Dessert Sauce 1x500 GM",
+        "EnergyKjoules": 1139,
+        "EnergyKcal": 268,
+        "Fat": 0.1,
+        "Protein": 0,
+        "Carbohydrates": 66.8,
+        "Salt": 0.2,
+        "Sugars": 51.1,
+        "Fibre": 0.2,
+        "Allergens": []
+    }
+}, {
+    "pk": 2172,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Monin Hazelnut Syrup 1x1 LT",
+        "EnergyKjoules": 1326.33,
+        "EnergyKcal": 317,
+        "Fat": 0,
+        "Protein": 0,
+        "Carbohydrates": 78.1,
+        "Salt": 0,
+        "Sugars": 78.1,
+        "Fibre": 0,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 2173,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Da Vinci White Belgian Chocolate Sauce 1x2.5 KG",
+        "EnergyKjoules": 1207,
+        "EnergyKcal": 284.3,
+        "Fat": 1,
+        "Protein": 0.9,
+        "Carbohydrates": 68,
+        "Salt": 0,
+        "Sugars": 58.3,
+        "Fibre": 0.2,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2174,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Carte D'or Mango Mousse 6x3x190 GM",
+        "EnergyKjoules": 549,
+        "EnergyKcal": 133,
+        "Fat": 5.2,
+        "Protein": 1.1,
+        "Carbohydrates": 0,
+        "Salt": 0.03,
+        "Sugars": 14,
+        "Fibre": 0.2,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2175,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ice Cream Wafer Double Fan 200x10 GM",
+        "EnergyKjoules": 1812,
+        "EnergyKcal": 433,
+        "Fat": 7.35,
+        "Protein": 6.64,
+        "Carbohydrates": 83.6,
+        "Salt": 0,
+        "Sugars": 31.3,
+        "Fibre": 0,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2176,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cadburys Ice Cream Flake 1x144'S",
+        "EnergyKjoules": 2225,
+        "EnergyKcal": 531,
+        "Fat": 30.8,
+        "Protein": 8.1,
+        "Carbohydrates": 55.6,
+        "Salt": 0.275,
+        "Sugars": 55.2,
+        "Fibre": 0.7,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 2177,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lotus Biscoff Topping Sauce 1x1 KG",
+        "EnergyKjoules": 2792,
+        "EnergyKcal": 673,
+        "Fat": 56,
+        "Protein": 2.6,
+        "Carbohydrates": 40,
+        "Salt": 0.48,
+        "Sugars": 22,
+        "Fibre": 0.7,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2178,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marie Annette Chocolate Cups 4cm 1x132'S",
+        "EnergyKjoules": 2103,
+        "EnergyKcal": 504,
+        "Fat": 33.4,
+        "Protein": 6.4,
+        "Carbohydrates": 46.3,
+        "Salt": 0.25,
+        "Sugars": 42.9,
+        "Fibre": 7.9,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 2179,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Crumb Base Mix 1x2.25 KG",
+        "EnergyKjoules": 1909,
+        "EnergyKcal": 455,
+        "Fat": 16.6,
+        "Protein": 7.4,
+        "Carbohydrates": 67,
+        "Salt": 0.9,
+        "Sugars": 17.6,
+        "Fibre": 3.8,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 2180,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mini Chocolate Covered Malt Ball Toppings 1x1 KG",
+        "EnergyKjoules": 2115,
+        "EnergyKcal": 507,
+        "Fat": 24.7,
+        "Protein": 6,
+        "Carbohydrates": 64.2,
+        "Salt": 0.45,
+        "Sugars": 49,
+        "Fibre": 2.7,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 2181,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Magnifico Wafer Hazelnut 30x25 GM",
+        "EnergyKjoules": 2330,
+        "EnergyKcal": 558,
+        "Fat": 33.3,
+        "Protein": 4.2,
+        "Carbohydrates": 59.7,
+        "Salt": 0.35,
+        "Sugars": 42.6,
+        "Fibre": 1.5,
+        "Allergens": [3, 1, 7, 8]
+    }
+}, {
+    "pk": 2182,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tiramisu Banquet Slabs 3x700 GM",
+        "EnergyKjoules": 1161.8,
+        "EnergyKcal": 277.6,
+        "Fat": 14.4,
+        "Protein": 4.5,
+        "Carbohydrates": 32.5,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7, 8, 5, 6]
+    }
+}, {
+    "pk": 2183,
+    "model": "home.products",
+    "fields": {
+        "product_name": "DGF Royal Dark Chocolate Couverture 72% 1x2.5 KG",
+        "EnergyKjoules": 2520.54,
+        "EnergyKcal": 803,
+        "Fat": 44,
+        "Protein": 8,
+        "Carbohydrates": 44,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2184,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Gem Custard Powder 1x3 KG",
+        "EnergyKjoules": 1490,
+        "EnergyKcal": 356,
+        "Fat": 0.2,
+        "Protein": 0.23,
+        "Carbohydrates": 87.6,
+        "Salt": 0.4,
+        "Sugars": 0.2,
+        "Fibre": 0.1,
+        "Allergens": []
+    }
+}, {
+    "pk": 2185,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Baked Vanilla Cheesecake 1x12 PTN",
+        "EnergyKjoules": 1118,
+        "EnergyKcal": 266,
+        "Fat": 17.4,
+        "Protein": 5.9,
+        "Carbohydrates": 21.6,
+        "Salt": 0.48,
+        "Sugars": 10.8,
+        "Fibre": 0.4,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2186,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marguerites Madeira Cake 3x540 GM",
+        "EnergyKjoules": 1514,
+        "EnergyKcal": 360,
+        "Fat": 15.3,
+        "Protein": 6.9,
+        "Carbohydrates": 51.4,
+        "Salt": 0.5,
+        "Sugars": 30.8,
+        "Fibre": 1,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2187,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Black Forest Gateau Pre-Cut 1x18 PTN",
+        "EnergyKjoules": 1292,
+        "EnergyKcal": 308,
+        "Fat": 13.3,
+        "Protein": 4,
+        "Carbohydrates": 42.4,
+        "Salt": 0.5,
+        "Sugars": 29,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7, 6, 12]
+    }
+}, {
+    "pk": 2188,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Black Forest Gateau Whole 1x1'S",
+        "EnergyKjoules": 1341,
+        "EnergyKcal": 320,
+        "Fat": 14.9,
+        "Protein": 4.2,
+        "Carbohydrates": 41.5,
+        "Salt": 0.5,
+        "Sugars": 26.9,
+        "Fibre": 1.6,
+        "Allergens": [3, 1, 7, 6]
+    }
+}, {
+    "pk": 2189,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pistachio Profiteroles 1.2kg 1x24'S",
+        "EnergyKjoules": 1250,
+        "EnergyKcal": 300,
+        "Fat": 19,
+        "Protein": 3.5,
+        "Carbohydrates": 27,
+        "Salt": 0.1,
+        "Sugars": 19,
+        "Fibre": 0,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 2190,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Torta Della Nonna Pretagliata 1x1.2 KG",
+        "EnergyKjoules": 1363,
+        "EnergyKcal": 325,
+        "Fat": 15,
+        "Protein": 5.2,
+        "Carbohydrates": 42,
+        "Salt": 0.4,
+        "Sugars": 25,
+        "Fibre": 0,
+        "Allergens": [3, 1, 7]
+    }
+}, {
+    "pk": 2191,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Strawberry Gateau Pre-Cut 1x18 PTN",
+        "EnergyKjoules": 1157,
+        "EnergyKcal": 277,
+        "Fat": 14.3,
+        "Protein": 4,
+        "Carbohydrates": 32.6,
+        "Salt": 0.4,
+        "Sugars": 21.9,
+        "Fibre": 0.8,
+        "Allergens": [3, 1, 7, 8, 5]
+    }
+}, {
+    "pk": 2192,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Coppa Bonet 18x120 GM",
+        "EnergyKjoules": 1273,
+        "EnergyKcal": 223,
+        "Fat": 16,
+        "Protein": 5.5,
+        "Carbohydrates": 34,
+        "Salt": 0.12,
+        "Sugars": 31,
+        "Fibre": 0,
+        "Allergens": [3, 7, 6]
+    }
+}, {
+    "pk": 2193,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate Coated Wafer Cone with Coloured Sprinkles 2 Scoop",
+        "EnergyKjoules": 2140,
+        "EnergyKcal": 507,
+        "Fat": 25.2,
+        "Protein": 4.8,
+        "Carbohydrates": 65.2,
+        "Salt": 0.2,
+        "Sugars": 35.2,
+        "Fibre": 1.9,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2194,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate Coated Wafer Cone Large 2 Scoop 17x4.4cm 1x192'S",
+        "EnergyKjoules": 2140,
+        "EnergyKcal": 507,
+        "Fat": 25.2,
+        "Protein": 4.9,
+        "Carbohydrates": 65.2,
+        "Salt": 207,
+        "Sugars": 35.2,
+        "Fibre": 1.9,
+        "Allergens": [1, 6]
+    }
+}, {
+    "pk": 2195,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Chocolate Fondant GF 1x20'S",
+        "EnergyKjoules": 2086,
+        "EnergyKcal": 37,
+        "Fat": 37,
+        "Protein": 5.1,
+        "Carbohydrates": 36.1,
+        "Salt": 0.09,
+        "Sugars": 31.8,
+        "Fibre": 2.3,
+        "Allergens": [3, 7, 6]
+    }
+}, {
+    "pk": 2196,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Pink Peppercorns 1x200 GM",
+        "EnergyKjoules": 1561,
+        "EnergyKcal": 376,
+        "Fat": 17.3,
+        "Protein": 12,
+        "Carbohydrates": 29.4,
+        "Salt": 0.025,
+        "Sugars": 10.3,
+        "Fibre": 27.2,
+        "Allergens": []
+    }
+}]

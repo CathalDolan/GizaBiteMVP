@@ -1,0 +1,2836 @@
+[{
+    "pk": 588,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel Red Sliced Cheddar 1x1 KG",
+        "EnergyKjoules": 1630,
+        "EnergyKcal": 390,
+        "Fat": 32,
+        "Protein": 26,
+        "Carbohydrates": 0.1,
+        "Salt": 1.5525,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 589,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Yamas Halloumi Cheese 1x250 GM",
+        "EnergyKjoules": 1330,
+        "EnergyKcal": 320,
+        "Fat": 24,
+        "Protein": 23,
+        "Carbohydrates": 2.6,
+        "Salt": 2.5,
+        "Sugars": 2.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 590,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mozzarella Grated 1x2 KG",
+        "EnergyKjoules": 1214,
+        "EnergyKcal": 294.4,
+        "Fat": 21.6,
+        "Protein": 24.1,
+        "Carbohydrates": 0.5,
+        "Salt": 3.5,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 591,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Grated Red Cheddar 1x2 KG",
+        "EnergyKjoules": 1630,
+        "EnergyKcal": 390,
+        "Fat": 32,
+        "Protein": 25.5,
+        "Carbohydrates": 1,
+        "Salt": 1.9,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 592,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Block & Barrel White Sliced Cheddar 1x1 KG",
+        "EnergyKjoules": 1630,
+        "EnergyKcal": 390,
+        "Fat": 32,
+        "Protein": 26,
+        "Carbohydrates": 0.1,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 593,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Blended Goats Cheese Log 1x850 GM",
+        "EnergyKjoules": 1208,
+        "EnergyKcal": 291,
+        "Fat": 23,
+        "Protein": 20,
+        "Carbohydrates": 1,
+        "Salt": 1.6,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 594,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dubliner Cheese Sliced 1x1 KG",
+        "EnergyKjoules": 1660,
+        "EnergyKcal": 396,
+        "Fat": 33,
+        "Protein": 26,
+        "Carbohydrates": 0.1,
+        "Salt": 2,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 595,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Grated White Cheddar 1x2 KG",
+        "EnergyKjoules": 1630,
+        "EnergyKcal": 390,
+        "Fat": 32,
+        "Protein": 26,
+        "Carbohydrates": 1,
+        "Salt": 0,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 596,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Compsey Set Sour Cream 20% Fat 1x2 KG",
+        "EnergyKjoules": 897,
+        "EnergyKcal": 217,
+        "Fat": 20,
+        "Protein": 3.4,
+        "Carbohydrates": 5.81,
+        "Salt": 0.025,
+        "Sugars": 3.9,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 597,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Philadelphia Cream Cheese Regular Tub 1x1.65 KG",
+        "EnergyKjoules": 1045,
+        "EnergyKcal": 255,
+        "Fat": 24,
+        "Protein": 5.9,
+        "Carbohydrates": 3.2,
+        "Salt": 1,
+        "Sugars": 3.2,
+        "Fibre": 0.2,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 598,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kerrymaid Coloured Grated Cheese 1x2 KG",
+        "EnergyKjoules": 1564,
+        "EnergyKcal": 378,
+        "Fat": 33,
+        "Protein": 15.6,
+        "Carbohydrates": 4.2,
+        "Salt": 2.25,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 599,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mozzarella Sliced 1x1 KG",
+        "EnergyKjoules": 1222,
+        "EnergyKcal": 294,
+        "Fat": 21,
+        "Protein": 25.3,
+        "Carbohydrates": 0.9,
+        "Salt": 1.25,
+        "Sugars": 0.8,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 600,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fivemiletown Cheese Goats Log Natural 1x1 KG",
+        "EnergyKjoules": 1196,
+        "EnergyKcal": 286,
+        "Fat": 22.8,
+        "Protein": 16.42,
+        "Carbohydrates": 3.62,
+        "Salt": 1.5,
+        "Sugars": 1.71,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 601,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brie 60% (1kg wheel approx) 1x1 KG",
+        "EnergyKjoules": 1399,
+        "EnergyKcal": 338,
+        "Fat": 30,
+        "Protein": 17,
+        "Carbohydrates": 0,
+        "Salt": 1.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 602,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brie 60% Cheese Wheel 1x3-3.5 KG",
+        "EnergyKjoules": 1554,
+        "EnergyKcal": 375,
+        "Fat": 33,
+        "Protein": 4.5,
+        "Carbohydrates": 0,
+        "Salt": 1.25,
+        "Sugars": 0,
+        "Fibre": 1.2,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 603,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cows Milk Mozzarella Balls 12x125 GM",
+        "EnergyKjoules": 1078,
+        "EnergyKcal": 260,
+        "Fat": 20,
+        "Protein": 18,
+        "Carbohydrates": 2,
+        "Salt": 0,
+        "Sugars": 2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 604,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Smoked Cheddar Cheese Slices 1x1 KG",
+        "EnergyKjoules": 1625,
+        "EnergyKcal": 389,
+        "Fat": 32,
+        "Protein": 24,
+        "Carbohydrates": 0.5,
+        "Salt": 1.9,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 605,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Yamas Feta Cheese 1x900 GM",
+        "EnergyKjoules": 1180,
+        "EnergyKcal": 282,
+        "Fat": 24,
+        "Protein": 16,
+        "Carbohydrates": 0.4,
+        "Salt": 3,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 606,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Buche de Chevre Goats Cheese Log 1x1 KG",
+        "EnergyKjoules": 1208,
+        "EnergyKcal": 291,
+        "Fat": 23,
+        "Protein": 20,
+        "Carbohydrates": 1,
+        "Salt": 1.5,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 607,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Yamas Sliced Halloumi Cheese 1x1 KG",
+        "EnergyKjoules": 1359,
+        "EnergyKcal": 327,
+        "Fat": 26,
+        "Protein": 22,
+        "Carbohydrates": 2.4,
+        "Salt": 2,
+        "Sugars": 2.4,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 608,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Shaved Hard Italian Cheese 1x1 KG",
+        "EnergyKjoules": 1471,
+        "EnergyKcal": 353,
+        "Fat": 24.8,
+        "Protein": 31.3,
+        "Carbohydrates": 0,
+        "Salt": 2.2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 609,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kerrymaid Burger Cheese Slices 1x1.4 KG (112 slices)",
+        "EnergyKjoules": 1358,
+        "EnergyKcal": 324,
+        "Fat": 25.2,
+        "Protein": 15.5,
+        "Carbohydrates": 10.1,
+        "Salt": 4.2,
+        "Sugars": 2.4,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 610,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mascarpone Cheese 1x500 GM",
+        "EnergyKjoules": 1463,
+        "EnergyKcal": 355,
+        "Fat": 36,
+        "Protein": 5.8,
+        "Carbohydrates": 3,
+        "Salt": 0.175,
+        "Sugars": 3,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 611,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cashel Blue Cheese 1x350 GM",
+        "EnergyKjoules": 1444,
+        "EnergyKcal": 348,
+        "Fat": 28.8,
+        "Protein": 20.4,
+        "Carbohydrates": 0.9,
+        "Salt": 2,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 612,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Compsey Cream Cheese Full Fat 30% 1x2 KG",
+        "EnergyKjoules": 1322,
+        "EnergyKcal": 320,
+        "Fat": 30,
+        "Protein": 9.14,
+        "Carbohydrates": 3.32,
+        "Salt": 0.86,
+        "Sugars": 3.2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 613,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Mexican Mix Grated Cheddar White Cheese 1x2 KG",
+        "EnergyKjoules": 1570,
+        "EnergyKcal": 375,
+        "Fat": 31.5,
+        "Protein": 21,
+        "Carbohydrates": 3.2,
+        "Salt": 2,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7, 12]
+    }
+}, {
+    "pk": 614,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Grana Padano Grated 1x1 KG",
+        "EnergyKjoules": 1654,
+        "EnergyKcal": 398,
+        "Fat": 29,
+        "Protein": 10.9,
+        "Carbohydrates": 0,
+        "Salt": 1.5,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 615,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kerrymaid Grated White Cheese 1x2 KG",
+        "EnergyKjoules": 1532,
+        "EnergyKcal": 366,
+        "Fat": 29,
+        "Protein": 22,
+        "Carbohydrates": 4.1,
+        "Salt": 2.295,
+        "Sugars": 0,
+        "Fibre": 0.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 616,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Grated Parmigiano Reggiano 1x1 KG",
+        "EnergyKjoules": 1633,
+        "EnergyKcal": 392,
+        "Fat": 28.4,
+        "Protein": 33,
+        "Carbohydrates": 0,
+        "Salt": 1.6,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 617,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sliced Emmental 1x1 KG",
+        "EnergyKjoules": 1603,
+        "EnergyKcal": 386,
+        "Fat": 30,
+        "Protein": 29,
+        "Carbohydrates": 0,
+        "Salt": 1.125,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 618,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cashel Blue Cheese Wheel 1x1.3-1.7 KG",
+        "EnergyKjoules": 1444,
+        "EnergyKcal": 348,
+        "Fat": 28.8,
+        "Protein": 20.4,
+        "Carbohydrates": 0.9,
+        "Salt": 2,
+        "Sugars": 0.2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 619,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flaked Parmigiano Reggiano 1x500 GM",
+        "EnergyKjoules": 1633,
+        "EnergyKcal": 392,
+        "Fat": 28.4,
+        "Protein": 33,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 620,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wholesome Farms Full Fat Milk 6x2 LT",
+        "EnergyKjoules": 282,
+        "EnergyKcal": 68,
+        "Fat": 3.5,
+        "Protein": 3.2,
+        "Carbohydrates": 4.7,
+        "Salt": 0.25,
+        "Sugars": 4.7,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 621,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Alpro Milk Almond For Barista 1x1 LT",
+        "EnergyKjoules": 100,
+        "EnergyKcal": 24,
+        "Fat": 1.2,
+        "Protein": 0.5,
+        "Carbohydrates": 2.6,
+        "Salt": 0.06,
+        "Sugars": 2.5,
+        "Fibre": 0.3,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 622,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wholesome Farms Low Fat Milk 6x2 LT",
+        "EnergyKjoules": 195,
+        "EnergyKcal": 48,
+        "Fat": 1.5,
+        "Protein": 3.3,
+        "Carbohydrates": 5,
+        "Salt": 0.25,
+        "Sugars": 5,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 623,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Full Fat Milk Poly 1x13.6 LT",
+        "EnergyKjoules": 268,
+        "EnergyKcal": 64,
+        "Fat": 3.6,
+        "Protein": 3.2,
+        "Carbohydrates": 4.7,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 624,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Alpro Milk Oat 1x1 LT",
+        "EnergyKjoules": 185,
+        "EnergyKcal": 44,
+        "Fat": 1.5,
+        "Protein": 0.3,
+        "Carbohydrates": 6.8,
+        "Salt": 0.1,
+        "Sugars": 3.3,
+        "Fibre": 1.4,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 625,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Alpro Milk Coconut Professional Or Barista 12x1 LT",
+        "EnergyKjoules": 139,
+        "EnergyKcal": 33,
+        "Fat": 1.4,
+        "Protein": 1.5,
+        "Carbohydrates": 3.3,
+        "Salt": 0.025,
+        "Sugars": 3,
+        "Fibre": 0.2,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 626,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Organic For Us Milk Whole 6x1.75 LT",
+        "EnergyKjoules": 265,
+        "EnergyKcal": 63,
+        "Fat": 3.5,
+        "Protein": 3.4,
+        "Carbohydrates": 4.6,
+        "Salt": 0.1,
+        "Sugars": 4.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 627,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lakeland Wholemilk Portions 120x12 ML",
+        "EnergyKjoules": 273,
+        "EnergyKcal": 65,
+        "Fat": 3.6,
+        "Protein": 3.4,
+        "Carbohydrates": 4.8,
+        "Salt": 0.1,
+        "Sugars": 4.8,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 628,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Alpro Milk Soya Professional Or Barista 12x1 LT",
+        "EnergyKjoules": 183,
+        "EnergyKcal": 44,
+        "Fat": 1.9,
+        "Protein": 3.3,
+        "Carbohydrates": 3,
+        "Salt": 0.025,
+        "Sugars": 2.9,
+        "Fibre": 0.6,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 629,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Poly Low Fat Milk 1x13.6 LT",
+        "EnergyKjoules": 195,
+        "EnergyKcal": 48,
+        "Fat": 1.5,
+        "Protein": 3.3,
+        "Carbohydrates": 5,
+        "Salt": 0.25,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 630,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strathroy Skimmed Milk 1x2 LT",
+        "EnergyKjoules": 206,
+        "EnergyKcal": 49,
+        "Fat": 1.7,
+        "Protein": 3.4,
+        "Carbohydrates": 5,
+        "Salt": 0,
+        "Sugars": 5,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 631,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flahavan's Barista Oat Drink 8x1 LT",
+        "EnergyKjoules": 221,
+        "EnergyKcal": 53,
+        "Fat": 1.7,
+        "Protein": 0.7,
+        "Carbohydrates": 8.7,
+        "Salt": 0.08,
+        "Sugars": 5.4,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 632,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Organic For Us Milk Low Fat 6x1.75 LT",
+        "EnergyKjoules": 195,
+        "EnergyKcal": 46,
+        "Fat": 1.5,
+        "Protein": 3.5,
+        "Carbohydrates": 4.7,
+        "Salt": 0.1,
+        "Sugars": 4.7,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 633,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Alpro Milk Soya Organic Unsweetened 1x1 LT",
+        "EnergyKjoules": 132,
+        "EnergyKcal": 32,
+        "Fat": 1.9,
+        "Protein": 3.3,
+        "Carbohydrates": 0.1,
+        "Salt": 0.03,
+        "Sugars": 0,
+        "Fibre": 0.6,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 634,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Alpro Milk Almond Unsweetened 8x1 LT",
+        "EnergyKjoules": 52,
+        "EnergyKcal": 13,
+        "Fat": 1.1,
+        "Protein": 0.4,
+        "Carbohydrates": 0,
+        "Salt": 0.325,
+        "Sugars": 0,
+        "Fibre": 0.4,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 635,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lakeland UHT Semi Skimmed Milk Portions 120x12 ML",
+        "EnergyKjoules": 198,
+        "EnergyKcal": 47,
+        "Fat": 1.5,
+        "Protein": 3.4,
+        "Carbohydrates": 4.8,
+        "Salt": 0.1,
+        "Sugars": 4.8,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 636,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Milburn Butter Milk 1x20 LT",
+        "EnergyKjoules": 140,
+        "EnergyKcal": 33,
+        "Fat": 0.1,
+        "Protein": 3.3,
+        "Carbohydrates": 5,
+        "Salt": 0.25,
+        "Sugars": 5,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 637,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strathroy Full Fat Milk 10x500 ML",
+        "EnergyKjoules": 197,
+        "EnergyKcal": 47,
+        "Fat": 1.7,
+        "Protein": 2.6,
+        "Carbohydrates": 5.3,
+        "Salt": 0.08,
+        "Sugars": 3.9,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 638,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Millac Classic Dried Skimmed Milk Powder 1x2.02 KG",
+        "EnergyKjoules": 491,
+        "EnergyKcal": 205,
+        "Fat": 24.2,
+        "Protein": 22,
+        "Carbohydrates": 46,
+        "Salt": 1.2,
+        "Sugars": 46,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 639,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Millac Maid Single Portion UHT Whitener for Tea & Coffee 480",
+        "EnergyKjoules": 275,
+        "EnergyKcal": 65,
+        "Fat": 4,
+        "Protein": 2.9,
+        "Carbohydrates": 4.8,
+        "Salt": 1.075,
+        "Sugars": 4.8,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 640,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Alpro Milk Almond Original 8x1 LT",
+        "EnergyKjoules": 93,
+        "EnergyKcal": 22,
+        "Fat": 1.1,
+        "Protein": 0.4,
+        "Carbohydrates": 2.4,
+        "Salt": 0.14,
+        "Sugars": 2.4,
+        "Fibre": 0.4,
+        "Allergens": [8]
+    }
+}, {
+    "pk": 641,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Brakes Skimmed Milk Powder 1x2 KG",
+        "EnergyKjoules": 2015,
+        "EnergyKcal": 480,
+        "Fat": 20,
+        "Protein": 12,
+        "Carbohydrates": 62,
+        "Salt": 0.98,
+        "Sugars": 62,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 642,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lakeland Dairies UHT Semi Skimmed Milk Sticks 240x10 ML",
+        "EnergyKjoules": 201,
+        "EnergyKcal": 48,
+        "Fat": 1.5,
+        "Protein": 3.6,
+        "Carbohydrates": 4.9,
+        "Salt": 0.1,
+        "Sugars": 4.9,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 643,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Springcool Milkshake Mix 1x5 LT",
+        "EnergyKjoules": 451,
+        "EnergyKcal": 107,
+        "Fat": 3.4,
+        "Protein": 3.9,
+        "Carbohydrates": 15.2,
+        "Salt": 0.15,
+        "Sugars": 15.2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 644,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Full Fat Milk 15x250 ML",
+        "EnergyKjoules": 261,
+        "EnergyKcal": 62,
+        "Fat": 3.6,
+        "Protein": 3.4,
+        "Carbohydrates": 4.5,
+        "Salt": 0.1,
+        "Sugars": 4.5,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 645,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Yazoo Milk Drink Chocolate 10x400 ML",
+        "EnergyKjoules": 280,
+        "EnergyKcal": 65,
+        "Fat": 1.5,
+        "Protein": 3.2,
+        "Carbohydrates": 10,
+        "Salt": 0.025,
+        "Sugars": 9.4,
+        "Fibre": 0.6,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 646,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Alpro Milk Soya Original UHT 15x250 ML",
+        "EnergyKjoules": 183,
+        "EnergyKcal": 44,
+        "Fat": 1.9,
+        "Protein": 3.3,
+        "Carbohydrates": 3,
+        "Salt": 0.2,
+        "Sugars": 2.9,
+        "Fibre": 0,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 647,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Yazoo Milk Drink Strawberry 10x400 ML",
+        "EnergyKjoules": 260,
+        "EnergyKcal": 60,
+        "Fat": 1.2,
+        "Protein": 3,
+        "Carbohydrates": 9.6,
+        "Salt": 0.025,
+        "Sugars": 9.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 648,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Viva Milk UHT Chocolate Flavoured Milk (tetrapack) 27x200 ML",
+        "EnergyKjoules": 252,
+        "EnergyKcal": 60,
+        "Fat": 1.6,
+        "Protein": 3,
+        "Carbohydrates": 8.5,
+        "Salt": 0.15,
+        "Sugars": 8.5,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 649,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Springcool Milkshake Mix 12x1 LT",
+        "EnergyKjoules": 615,
+        "EnergyKcal": 147,
+        "Fat": 6.2,
+        "Protein": 4,
+        "Carbohydrates": 18.8,
+        "Salt": 0.15,
+        "Sugars": 18.8,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 650,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strathroy Low Fat Milk 10x500 ML",
+        "EnergyKjoules": 197,
+        "EnergyKcal": 47,
+        "Fat": 1.7,
+        "Protein": 2.6,
+        "Carbohydrates": 5.3,
+        "Salt": 0.08,
+        "Sugars": 3.9,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 651,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kerrymaid Spread 1x2 KG",
+        "EnergyKjoules": 1983,
+        "EnergyKcal": 482,
+        "Fat": 54,
+        "Protein": 0.5,
+        "Carbohydrates": 0.5,
+        "Salt": 1.5,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 652,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dairygold Butter Portions 1x150x6.2 GM",
+        "EnergyKjoules": 3036,
+        "EnergyKcal": 738,
+        "Fat": 81,
+        "Protein": 0.6,
+        "Carbohydrates": 0.8,
+        "Salt": 1.9,
+        "Sugars": 0.8,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 653,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dromona Butter Portions Size 7 200x7 GM",
+        "EnergyKjoules": 3005,
+        "EnergyKcal": 728,
+        "Fat": 80.5,
+        "Protein": 0.6,
+        "Carbohydrates": 0.6,
+        "Salt": 1.8,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 654,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Stork Margarine 1x2 KG",
+        "EnergyKjoules": 2590,
+        "EnergyKcal": 627,
+        "Fat": 70,
+        "Protein": 0.5,
+        "Carbohydrates": 0.5,
+        "Salt": 1.4,
+        "Sugars": 0.5,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 655,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dairymaid Butter Spread 1x1.8 KG",
+        "EnergyKjoules": 2370,
+        "EnergyKcal": 587,
+        "Fat": 64,
+        "Protein": 0.7,
+        "Carbohydrates": 1,
+        "Salt": 1.125,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 656,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Summer County Spread 1x2 KG",
+        "EnergyKjoules": 2036,
+        "EnergyKcal": 614,
+        "Fat": 55,
+        "Protein": 0.5,
+        "Carbohydrates": 0.5,
+        "Salt": 1.4,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 657,
+    "model": "home.products",
+    "fields": {
+        "product_name": "North Cork Salted Butter 28x454 GM",
+        "EnergyKjoules": 2972,
+        "EnergyKcal": 723,
+        "Fat": 80,
+        "Protein": 0.4,
+        "Carbohydrates": 0.3,
+        "Salt": 1.75,
+        "Sugars": 0.3,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 658,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Low Low Mini Portions 1x96x7 GM",
+        "EnergyKjoules": 1981,
+        "EnergyKcal": 482,
+        "Fat": 53,
+        "Protein": 0.6,
+        "Carbohydrates": 0.6,
+        "Salt": 1.6,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 659,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dromona Crown Butter Blend 20x500 GM",
+        "EnergyKjoules": 2654,
+        "EnergyKcal": 646,
+        "Fat": 71.7,
+        "Protein": 0.1,
+        "Carbohydrates": 0.1,
+        "Salt": 0.8625,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 660,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Country Gold Soft Spread 1x2 KG",
+        "EnergyKjoules": 2654,
+        "EnergyKcal": 634,
+        "Fat": 71.6,
+        "Protein": 0.07,
+        "Carbohydrates": 0.1,
+        "Salt": 1.25,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 661,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Garlic Butter 1x1 KG",
+        "EnergyKjoules": 2154,
+        "EnergyKcal": 524,
+        "Fat": 57,
+        "Protein": 1.2,
+        "Carbohydrates": 2.2,
+        "Salt": 1.5,
+        "Sugars": 0.3,
+        "Fibre": 0.4,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 662,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dawn Phase Margarine 40x250 GM",
+        "EnergyKjoules": 2800,
+        "EnergyKcal": 669,
+        "Fat": 75,
+        "Protein": 0.5,
+        "Carbohydrates": 0.5,
+        "Salt": 1.5,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 663,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Marigold Soft Baking Margarine 1x2 KG",
+        "EnergyKjoules": 2600,
+        "EnergyKcal": 632,
+        "Fat": 70,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 664,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kerrymaid Premium Baking Block 40x250 GM",
+        "EnergyKjoules": 2776,
+        "EnergyKcal": 675,
+        "Fat": 75,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 1.1,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 665,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Unsalted Butter 40x250 GM",
+        "EnergyKjoules": 3005,
+        "EnergyKcal": 728,
+        "Fat": 82.5,
+        "Protein": 0.5,
+        "Carbohydrates": 0.7,
+        "Salt": 0,
+        "Sugars": 0.7,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 666,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flora Original Portions 100x10 GM",
+        "EnergyKjoules": 2589,
+        "EnergyKcal": 619,
+        "Fat": 70,
+        "Protein": 0.5,
+        "Carbohydrates": 0.5,
+        "Salt": 1.35,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 667,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Unsalted Butter 20x454 GM",
+        "EnergyKjoules": 3092,
+        "EnergyKcal": 752,
+        "Fat": 83.12,
+        "Protein": 0.09,
+        "Carbohydrates": 0.85,
+        "Salt": 39.175,
+        "Sugars": 0.69,
+        "Fibre": 0.09,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 668,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Dale Farm Butter 1x250 GM",
+        "EnergyKjoules": 2980,
+        "EnergyKcal": 725,
+        "Fat": 80.5,
+        "Protein": 0.6,
+        "Carbohydrates": 0.6,
+        "Salt": 1.8,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 669,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flora Plant Cream 1x1 LT",
+        "EnergyKjoules": 1211,
+        "EnergyKcal": 289,
+        "Fat": 31,
+        "Protein": 0.6,
+        "Carbohydrates": 2,
+        "Salt": 0.11,
+        "Sugars": 1.3,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 670,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kerrygold Butter Packs 30x454 GM",
+        "EnergyKjoules": 3059,
+        "EnergyKcal": 744,
+        "Fat": 80,
+        "Protein": 0.6,
+        "Carbohydrates": 0.6,
+        "Salt": 4.5,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 671,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kerrymaid Buttery 6x2 KG",
+        "EnergyKjoules": 1983,
+        "EnergyKcal": 482,
+        "Fat": 54,
+        "Protein": 0.5,
+        "Carbohydrates": 0.5,
+        "Salt": 1.5,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 672,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salted Butter 40x250 GM",
+        "EnergyKjoules": 2980,
+        "EnergyKcal": 725,
+        "Fat": 80.5,
+        "Protein": 0.6,
+        "Carbohydrates": 0.6,
+        "Salt": 4.5,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 673,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cream Margarine 1x10 KG",
+        "EnergyKjoules": 2960,
+        "EnergyKcal": 720,
+        "Fat": 80,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 674,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Garlic Butter 1x1.8 KG",
+        "EnergyKjoules": 2144,
+        "EnergyKcal": 514,
+        "Fat": 55.8,
+        "Protein": 0.6,
+        "Carbohydrates": 2.2,
+        "Salt": 1.25,
+        "Sugars": 0.7,
+        "Fibre": 0.4,
+        "Allergens": []
+    }
+}, {
+    "pk": 675,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Champion Margarine 1x12.5 KG",
+        "EnergyKjoules": 2872,
+        "EnergyKcal": 699,
+        "Fat": 78,
+        "Protein": 0,
+        "Carbohydrates": 0,
+        "Salt": 1.4,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 676,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Salted Butter Rosette Portions 5x1 KG",
+        "EnergyKjoules": 3019,
+        "EnergyKcal": 734,
+        "Fat": 81,
+        "Protein": 0.7,
+        "Carbohydrates": 0.6,
+        "Salt": 1.5,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 677,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flora Buttery 1x2 KG",
+        "EnergyKjoules": 2611,
+        "EnergyKcal": 626,
+        "Fat": 70,
+        "Protein": 0.5,
+        "Carbohydrates": 0.6,
+        "Salt": 1.38,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 678,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenilen Farm Farmhouse Butter 6x454 GM",
+        "EnergyKjoules": 3059,
+        "EnergyKcal": 744,
+        "Fat": 82,
+        "Protein": 0.6,
+        "Carbohydrates": 0.6,
+        "Salt": 2,
+        "Sugars": 0.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 679,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Unsalted Butter Block 1x25 KG",
+        "EnergyKjoules": 3005,
+        "EnergyKcal": 728,
+        "Fat": 82.5,
+        "Protein": 0.5,
+        "Carbohydrates": 0.6,
+        "Salt": 0,
+        "Sugars": 0.6,
+        "Fibre": 0.7,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 680,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flora Original 200x10 GM",
+        "EnergyKjoules": 2589,
+        "EnergyKcal": 619,
+        "Fat": 70,
+        "Protein": 0.5,
+        "Carbohydrates": 0.5,
+        "Salt": 1.35,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 681,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Flora Original 6x2 KG",
+        "EnergyKjoules": 2589,
+        "EnergyKcal": 619,
+        "Fat": 70,
+        "Protein": 0.5,
+        "Carbohydrates": 0.5,
+        "Salt": 1.35,
+        "Sugars": 0.5,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 682,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cuinneog Farmhouse Butter 8x227 GM",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 725,
+        "Fat": 80,
+        "Protein": 0.75,
+        "Carbohydrates": 0.6,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 683,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Medium Pre Pack Eggs Bord Bia 1x30'S",
+        "EnergyKjoules": 614,
+        "EnergyKcal": 148,
+        "Fat": 10.9,
+        "Protein": 12.4,
+        "Carbohydrates": 0,
+        "Salt": 0.35,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 684,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasteurised Egg Whites 1x1 LT",
+        "EnergyKjoules": 194,
+        "EnergyKcal": 46,
+        "Fat": 0.5,
+        "Protein": 10.3,
+        "Carbohydrates": 0.7,
+        "Salt": 0.975,
+        "Sugars": 0.7,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 685,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasteurised Egg Yolks 1x1 LT",
+        "EnergyKjoules": 1160,
+        "EnergyKcal": 260,
+        "Fat": 24.5,
+        "Protein": 15.6,
+        "Carbohydrates": 0.3,
+        "Salt": 0.39,
+        "Sugars": 0.5,
+        "Fibre": 0.1,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 686,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Annalitten Eggs Medium Free Range Eggs Bord Bia 1x2.5 DZ",
+        "EnergyKjoules": 614,
+        "EnergyKcal": 148,
+        "Fat": 10.9,
+        "Protein": 12.4,
+        "Carbohydrates": 0,
+        "Salt": 0.35,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 687,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballygarvey Eggs Medium Grade A 1x15 DZ",
+        "EnergyKjoules": 548.1,
+        "EnergyKcal": 131,
+        "Fat": 9,
+        "Protein": 12.6,
+        "Carbohydrates": 0,
+        "Salt": 0.385,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 688,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Liquid Egg Yolk 1x1 KG",
+        "EnergyKjoules": 1437,
+        "EnergyKcal": 347,
+        "Fat": 31.3,
+        "Protein": 16.4,
+        "Carbohydrates": 0,
+        "Salt": 0.13,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 689,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Peeled Hard Boiled Eggs 1x3 KG",
+        "EnergyKjoules": 633,
+        "EnergyKcal": 152,
+        "Fat": 10.9,
+        "Protein": 12,
+        "Carbohydrates": 1.2,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 690,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Riverview Mixed Eggs Bord Bia 1x15 DZ",
+        "EnergyKjoules": 627,
+        "EnergyKcal": 151,
+        "Fat": 11.2,
+        "Protein": 12.5,
+        "Carbohydrates": 0.1,
+        "Salt": 0.35,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 691,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Liquid Pasteurised Whole Egg 1x10 KG",
+        "EnergyKjoules": 546,
+        "EnergyKcal": 131,
+        "Fat": 8.7,
+        "Protein": 12.5,
+        "Carbohydrates": 1.2,
+        "Salt": 0.3575,
+        "Sugars": 0.1,
+        "Fibre": 0.7,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 692,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Whole Pasteurised Eggs 1x1 LT",
+        "EnergyKjoules": 602,
+        "EnergyKcal": 145,
+        "Fat": 10.3,
+        "Protein": 12.3,
+        "Carbohydrates": 0.7,
+        "Salt": 0.8,
+        "Sugars": 0.7,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 693,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Peeled Hard Boiled Eggs 1x6 KG",
+        "EnergyKjoules": 633,
+        "EnergyKcal": 152,
+        "Fat": 10.9,
+        "Protein": 12,
+        "Carbohydrates": 1.2,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 694,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballygarvey Eggs Large Grade A 1x15 DZ",
+        "EnergyKjoules": 548.1,
+        "EnergyKcal": 131,
+        "Fat": 9,
+        "Protein": 12.6,
+        "Carbohydrates": 0,
+        "Salt": 0.385,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 695,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Riverview Medium Loose Eggs Bord Bia1x15 DZ",
+        "EnergyKjoules": 647,
+        "EnergyKcal": 155,
+        "Fat": 10.6,
+        "Protein": 12.6,
+        "Carbohydrates": 1.12,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 696,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballygarvey Eggs Medium 2x30'S",
+        "EnergyKjoules": 599,
+        "EnergyKcal": 143,
+        "Fat": 9.9,
+        "Protein": 12.6,
+        "Carbohydrates": 0.8,
+        "Salt": 0.35,
+        "Sugars": 0.8,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 697,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballygarvey Eggs Mixed Grade A 1x15 DZ",
+        "EnergyKjoules": 548.1,
+        "EnergyKcal": 131,
+        "Fat": 9,
+        "Protein": 12.6,
+        "Carbohydrates": 0,
+        "Salt": 0.385,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 698,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Liquid Egg White 1x5 KG",
+        "EnergyKjoules": 153,
+        "EnergyKcal": 36,
+        "Fat": 0,
+        "Protein": 9,
+        "Carbohydrates": 0,
+        "Salt": 0.4,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 699,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasteurised Whole Egg 1x5 LT",
+        "EnergyKjoules": 614,
+        "EnergyKcal": 148,
+        "Fat": 8.7,
+        "Protein": 12.5,
+        "Carbohydrates": 1.2,
+        "Salt": 0.36,
+        "Sugars": 0.1,
+        "Fibre": 0.7,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 700,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Riverview Medium Eggs Bord Bia  4x2 DZ",
+        "EnergyKjoules": 627,
+        "EnergyKcal": 151,
+        "Fat": 11.2,
+        "Protein": 12.5,
+        "Carbohydrates": 0.1,
+        "Salt": 0.35,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 701,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Riverview Medium Free Range Eggs Bord Bia 1x15 DZ",
+        "EnergyKjoules": 518,
+        "EnergyKcal": 124,
+        "Fat": 8.2,
+        "Protein": 10.5,
+        "Carbohydrates": 2.1,
+        "Salt": 0.45,
+        "Sugars": 0.2,
+        "Fibre": 0.5,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 702,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Liquid Pasteurised Free Range Whole Egg 1x10 KG",
+        "EnergyKjoules": 546,
+        "EnergyKcal": 131,
+        "Fat": 8.7,
+        "Protein": 12.5,
+        "Carbohydrates": 1.2,
+        "Salt": 0.36,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 703,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballygarvey Eggs Medium 1x30 DZ",
+        "EnergyKjoules": 599,
+        "EnergyKcal": 143,
+        "Fat": 9.9,
+        "Protein": 12.6,
+        "Carbohydrates": 0.8,
+        "Salt": 0.35,
+        "Sugars": 0.8,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 704,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Connollys Organic Eggs Large 16x0.5 DZ",
+        "EnergyKjoules": 598.31,
+        "EnergyKcal": 143,
+        "Fat": 10,
+        "Protein": 13,
+        "Carbohydrates": 0.7,
+        "Salt": 0.355,
+        "Sugars": 0.4,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 705,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Liquid Egg White 1x1 KG",
+        "EnergyKjoules": 184,
+        "EnergyKcal": 43,
+        "Fat": 0,
+        "Protein": 10.8,
+        "Carbohydrates": 0,
+        "Salt": 0.46,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 706,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Annalitten Eggs Large Loose 1x15 DZ",
+        "EnergyKjoules": 614,
+        "EnergyKcal": 148,
+        "Fat": 10.9,
+        "Protein": 12.4,
+        "Carbohydrates": 0,
+        "Salt": 0.35,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 707,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Pasteurised Liquid Whole Egg 1x10 KG",
+        "EnergyKjoules": 547,
+        "EnergyKcal": 131,
+        "Fat": 9,
+        "Protein": 12.6,
+        "Carbohydrates": 0,
+        "Salt": 0.38,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 708,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Greenfields Medium Loose Eggs Bord Bia 12x2.5 DZ",
+        "EnergyKjoules": 598.312,
+        "EnergyKcal": 143,
+        "Fat": 10,
+        "Protein": 13,
+        "Carbohydrates": 1,
+        "Salt": 0.25,
+        "Sugars": 1,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 709,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Greenfields Mixed Eggs Bord Bia 1x15 DZ",
+        "EnergyKjoules": 547,
+        "EnergyKcal": 131,
+        "Fat": 9,
+        "Protein": 12.6,
+        "Carbohydrates": 0,
+        "Salt": 0.4,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 710,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Annalitten Eggs Medium Loose 1x15 DZ",
+        "EnergyKjoules": 614,
+        "EnergyKcal": 148,
+        "Fat": 10.9,
+        "Protein": 12.4,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0.14,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 711,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Annalitten Eggs Medium Loose 1x5 DZ",
+        "EnergyKjoules": 614,
+        "EnergyKcal": 147,
+        "Fat": 10.9,
+        "Protein": 12.4,
+        "Carbohydrates": 0,
+        "Salt": 0.35,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 712,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Annalitten Eggs Medium Loose Free Range 1x15 DZ",
+        "EnergyKjoules": 614,
+        "EnergyKcal": 148,
+        "Fat": 10.9,
+        "Protein": 12.4,
+        "Carbohydrates": 0,
+        "Salt": 0.35,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 713,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Ballygarvey Eggs Medium (Lion) 1x15 DZ",
+        "EnergyKjoules": 599,
+        "EnergyKcal": 143,
+        "Fat": 9.9,
+        "Protein": 12.6,
+        "Carbohydrates": 0.8,
+        "Salt": 0.35,
+        "Sugars": 0.8,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 714,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Annalitten Eggs Medium Loose Bord Bia 1x30 DZ",
+        "EnergyKjoules": 614,
+        "EnergyKcal": 148,
+        "Fat": 10.9,
+        "Protein": 12.4,
+        "Carbohydrates": 0,
+        "Salt": 0.35,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3]
+    }
+}, {
+    "pk": 715,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Compsey Greek Yogurt 10% Fat 1x2 KG",
+        "EnergyKjoules": 549,
+        "EnergyKcal": 132,
+        "Fat": 10.3,
+        "Protein": 6.1,
+        "Carbohydrates": 3.8,
+        "Salt": 0.25,
+        "Sugars": 3.3,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 716,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Compsey Natural Yogurt 3% Fat 1x2 KG",
+        "EnergyKjoules": 327,
+        "EnergyKcal": 78,
+        "Fat": 4,
+        "Protein": 5,
+        "Carbohydrates": 6.1,
+        "Salt": 0.175,
+        "Sugars": 3.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 717,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Yogurt Custard Style Thick & Creamy 24x125 GM",
+        "EnergyKjoules": 491,
+        "EnergyKcal": 117,
+        "Fat": 4.9,
+        "Protein": 4,
+        "Carbohydrates": 13.8,
+        "Salt": 0.2,
+        "Sugars": 13.8,
+        "Fibre": 0.9,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 718,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Yogurts Assorted Diet 24x125 GM",
+        "EnergyKjoules": 269,
+        "EnergyKcal": 64,
+        "Fat": 1.7,
+        "Protein": 5.1,
+        "Carbohydrates": 6.8,
+        "Salt": 0.25,
+        "Sugars": 6.1,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 719,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Muller Thick & Creamy Mixed Yogurts 12x110 GM",
+        "EnergyKjoules": 495,
+        "EnergyKcal": 118,
+        "Fat": 4.1,
+        "Protein": 5.1,
+        "Carbohydrates": 15.1,
+        "Salt": 0.25,
+        "Sugars": 14.3,
+        "Fibre": 0.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 720,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Frozen Low Fat Yogurt 1x4 LT",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 62,
+        "Fat": 0.9,
+        "Protein": 1.9,
+        "Carbohydrates": 11.5,
+        "Salt": 0.025,
+        "Sugars": 11.5,
+        "Fibre": 0.05,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 721,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Killowen Natural Yogurt 1x5 LT",
+        "EnergyKjoules": 340,
+        "EnergyKcal": 82,
+        "Fat": 5.07,
+        "Protein": 4.39,
+        "Carbohydrates": 4.56,
+        "Salt": 0,
+        "Sugars": 3,
+        "Fibre": 0.5,
+        "Allergens": []
+    }
+}, {
+    "pk": 722,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Killowen Strawberry Yogurt 1x2 LT",
+        "EnergyKjoules": 429,
+        "EnergyKcal": 97,
+        "Fat": 2.4,
+        "Protein": 4.3,
+        "Carbohydrates": 15.7,
+        "Salt": 0,
+        "Sugars": 13.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 723,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Killowen Mixed Yogurt Tray 24x125 GM",
+        "EnergyKjoules": 406,
+        "EnergyKcal": 97,
+        "Fat": 3.8,
+        "Protein": 3.2,
+        "Carbohydrates": 11.9,
+        "Salt": 0,
+        "Sugars": 9.5,
+        "Fibre": 0,
+        "Allergens": [7, 8]
+    }
+}, {
+    "pk": 724,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Killowen Mixed Yogurt (glass jar) 12x140 GM",
+        "EnergyKjoules": 126,
+        "EnergyKcal": 30,
+        "Fat": 8.4,
+        "Protein": 3,
+        "Carbohydrates": 14.8,
+        "Salt": 0.25,
+        "Sugars": 11.4,
+        "Fibre": 0.2,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 725,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Petit Filous Strawberry & Raspberry Yogurts 16x6x45 GM",
+        "EnergyKjoules": 401,
+        "EnergyKcal": 95,
+        "Fat": 2.3,
+        "Protein": 5.3,
+        "Carbohydrates": 12.4,
+        "Salt": 0.025,
+        "Sugars": 11.9,
+        "Fibre": 0.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 726,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Tipperary Low Fat Natural Yogurt 1x2 KG",
+        "EnergyKjoules": 235,
+        "EnergyKcal": 55.7,
+        "Fat": 0.6,
+        "Protein": 4.4,
+        "Carbohydrates": 5.9,
+        "Salt": 0.125,
+        "Sugars": 4.9,
+        "Fibre": 0.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 727,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Activia Natural Yogurt 6x4x125 GM",
+        "EnergyKjoules": 279,
+        "EnergyKcal": 67,
+        "Fat": 3.4,
+        "Protein": 3.9,
+        "Carbohydrates": 5.1,
+        "Salt": 0.15,
+        "Sugars": 5.1,
+        "Fibre": 0.06,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 728,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Sojade Natural Soya Yoghurt 6x400 GM",
+        "EnergyKjoules": 214,
+        "EnergyKcal": 51,
+        "Fat": 2.9,
+        "Protein": 4.8,
+        "Carbohydrates": 1.4,
+        "Salt": 0.025,
+        "Sugars": 0.8,
+        "Fibre": 0.1,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 729,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Killowen Natural Yogurt 1x2 LT",
+        "EnergyKjoules": 340,
+        "EnergyKcal": 82,
+        "Fat": 5.07,
+        "Protein": 4.39,
+        "Carbohydrates": 4.56,
+        "Salt": 0,
+        "Sugars": 3,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 730,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Yogurts Strawberry Granola 6x165 GM",
+        "EnergyKjoules": 756,
+        "EnergyKcal": 180,
+        "Fat": 4.8,
+        "Protein": 4.6,
+        "Carbohydrates": 28.8,
+        "Salt": 0.2,
+        "Sugars": 16.4,
+        "Fibre": 1.6,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 731,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Compsey Greek Yogurt 1x10 KG",
+        "EnergyKjoules": 547,
+        "EnergyKcal": 132,
+        "Fat": 9.6,
+        "Protein": 4.23,
+        "Carbohydrates": 7.07,
+        "Salt": 0.025,
+        "Sugars": 4.9,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 732,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Killowen Greek Style Natural Yogurt 6x140 GM",
+        "EnergyKjoules": 355,
+        "EnergyKcal": 85,
+        "Fat": 5.6,
+        "Protein": 3.8,
+        "Carbohydrates": 5.1,
+        "Salt": 0.1,
+        "Sugars": 5.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 733,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenisk Organic Greek Natural Yogurt 6x500 GM",
+        "EnergyKjoules": 500,
+        "EnergyKcal": 121,
+        "Fat": 11,
+        "Protein": 2.8,
+        "Carbohydrates": 3.3,
+        "Salt": 0.025,
+        "Sugars": 3.3,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 734,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Silver Pail Natural Frozen Bioactive Yogurt 1x4 LT",
+        "EnergyKjoules": 579,
+        "EnergyKcal": 138,
+        "Fat": 1.9,
+        "Protein": 5.7,
+        "Carbohydrates": 24.8,
+        "Salt": 0.25,
+        "Sugars": 24.8,
+        "Fibre": 0.1,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 735,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nomadic Strawberry Yogurt with Oat Clusters 6x169 GM",
+        "EnergyKjoules": 681,
+        "EnergyKcal": 163,
+        "Fat": 5.4,
+        "Protein": 5.7,
+        "Carbohydrates": 23,
+        "Salt": 0,
+        "Sugars": 11.2,
+        "Fibre": 2.3,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 736,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Yogurts Summer Fruits & Granola 6x165 GM",
+        "EnergyKjoules": 523,
+        "EnergyKcal": 125,
+        "Fat": 3.3,
+        "Protein": 4.2,
+        "Carbohydrates": 19.4,
+        "Salt": 0.25,
+        "Sugars": 12.8,
+        "Fibre": 1.1,
+        "Allergens": [1, 7]
+    }
+}, {
+    "pk": 737,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Alpro Soya Yoghurt Plain with Coconut 6x500 GM",
+        "EnergyKjoules": 231,
+        "EnergyKcal": 55,
+        "Fat": 3,
+        "Protein": 3.9,
+        "Carbohydrates": 2.3,
+        "Salt": 0,
+        "Sugars": 2.1,
+        "Fibre": 0.8,
+        "Allergens": [6]
+    }
+}, {
+    "pk": 738,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Nomadic Chocolate Yogurt with Oat Clusters 6x169 GM",
+        "EnergyKjoules": 0,
+        "EnergyKcal": 166,
+        "Fat": 6,
+        "Protein": 5.6,
+        "Carbohydrates": 22.9,
+        "Salt": 0,
+        "Sugars": 11.9,
+        "Fibre": 2.1,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 739,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Greek Style Yogurt 1x2 KG",
+        "EnergyKjoules": 539,
+        "EnergyKcal": 128,
+        "Fat": 8.5,
+        "Protein": 5.4,
+        "Carbohydrates": 7.8,
+        "Salt": 0.025,
+        "Sugars": 4.9,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 740,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Muller Crunch Corner Banana & Choc Flakes 12x124 GM",
+        "EnergyKjoules": 572,
+        "EnergyKcal": 136,
+        "Fat": 4.8,
+        "Protein": 4.5,
+        "Carbohydrates": 18,
+        "Salt": 0.22,
+        "Sugars": 15.2,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 741,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Muller Crunch Corner Assorted  12x124 GM",
+        "EnergyKjoules": 632,
+        "EnergyKcal": 150,
+        "Fat": 5.8,
+        "Protein": 4.5,
+        "Carbohydrates": 19.4,
+        "Salt": 0.23,
+        "Sugars": 15.6,
+        "Fibre": 0,
+        "Allergens": [1, 7, 6]
+    }
+}, {
+    "pk": 742,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenilen Mixed Yogurts (glass jar) 24x140 GM",
+        "EnergyKjoules": 346.5,
+        "EnergyKcal": 82.5,
+        "Fat": 2.875,
+        "Protein": 3.5,
+        "Carbohydrates": 9.775,
+        "Salt": 0.1,
+        "Sugars": 9.625,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 743,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Actimel Strawberry Yogurt Drink 24x100 ML",
+        "EnergyKjoules": 316,
+        "EnergyKcal": 75,
+        "Fat": 1.5,
+        "Protein": 2.7,
+        "Carbohydrates": 11.8,
+        "Salt": 0.025,
+        "Sugars": 11.6,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 744,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Irish Yogurts Low Fat Strawberry 1x2 LT",
+        "EnergyKjoules": 249,
+        "EnergyKcal": 59,
+        "Fat": 1.7,
+        "Protein": 4.8,
+        "Carbohydrates": 5.7,
+        "Salt": 0.125,
+        "Sugars": 4.3,
+        "Fibre": 0.9,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 745,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Activia Mixed Fruit Yogurt 6x8x115 GM",
+        "EnergyKjoules": 382,
+        "EnergyKcal": 91,
+        "Fat": 2.9,
+        "Protein": 3.9,
+        "Carbohydrates": 12,
+        "Salt": 0.14,
+        "Sugars": 12,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 746,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenisk Organic Natural Whole Milk Yogurt 6x500 GM",
+        "EnergyKjoules": 328,
+        "EnergyKcal": 78,
+        "Fat": 3.9,
+        "Protein": 5.2,
+        "Carbohydrates": 5.7,
+        "Salt": 0.275,
+        "Sugars": 5.7,
+        "Fibre": 0.5,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 747,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strathroy Fresh Cream 1x4 LT",
+        "EnergyKjoules": 1583,
+        "EnergyKcal": 375,
+        "Fat": 38,
+        "Protein": 2.9,
+        "Carbohydrates": 2.8,
+        "Salt": 0.025,
+        "Sugars": 2.8,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 748,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Wholesome Farm Fresh Cream 1x2 LT",
+        "EnergyKjoules": 1855,
+        "EnergyKcal": 443,
+        "Fat": 38,
+        "Protein": 1.9,
+        "Carbohydrates": 3,
+        "Salt": 0.025,
+        "Sugars": 3,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 749,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Debic Sweetened Spray Cream 1x700 ML",
+        "EnergyKjoules": 1410,
+        "EnergyKcal": 340,
+        "Fat": 34,
+        "Protein": 2,
+        "Carbohydrates": 6,
+        "Salt": 0.025,
+        "Sugars": 5.9,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 750,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Debic Long Life Cream 35% 1x2 LT",
+        "EnergyKjoules": 1300,
+        "EnergyKcal": 310,
+        "Fat": 32,
+        "Protein": 2.4,
+        "Carbohydrates": 3.2,
+        "Salt": 0.025,
+        "Sugars": 3.2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 751,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Fresh Pasteurised Double Cream (48%) 1x2 LT",
+        "EnergyKjoules": 2041,
+        "EnergyKcal": 496,
+        "Fat": 48,
+        "Protein": 1.9,
+        "Carbohydrates": 1.7,
+        "Salt": 0.1,
+        "Sugars": 1.7,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 752,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Meadowland Double 1x1 LT",
+        "EnergyKjoules": 1300,
+        "EnergyKcal": 310,
+        "Fat": 31,
+        "Protein": 2.5,
+        "Carbohydrates": 4,
+        "Salt": 0.225,
+        "Sugars": 3,
+        "Fibre": 0.5,
+        "Allergens": [7, 6]
+    }
+}, {
+    "pk": 753,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Debic Creme Anglaise 1x2 LT",
+        "EnergyKjoules": 518,
+        "EnergyKcal": 123,
+        "Fat": 4.5,
+        "Protein": 3,
+        "Carbohydrates": 17,
+        "Salt": 0.15,
+        "Sugars": 16,
+        "Fibre": 0,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 754,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Millac Gold Double Cream Alternative (Long Life) 12x1 LT",
+        "EnergyKjoules": 1373,
+        "EnergyKcal": 328,
+        "Fat": 33.5,
+        "Protein": 2.7,
+        "Carbohydrates": 4,
+        "Salt": 0.125,
+        "Sugars": 4,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 755,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kerrymaid Whipping Cream 12x1 LT",
+        "EnergyKjoules": 1371,
+        "EnergyKcal": 332,
+        "Fat": 35,
+        "Protein": 1.8,
+        "Carbohydrates": 2.8,
+        "Salt": 0.025,
+        "Sugars": 2.8,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 756,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Strathroy Fresh Cream 1x250 ML",
+        "EnergyKjoules": 1568,
+        "EnergyKcal": 381,
+        "Fat": 40.3,
+        "Protein": 2,
+        "Carbohydrates": 2.7,
+        "Salt": 0.025,
+        "Sugars": 2.7,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 757,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Debic Culinaire Vegetop Cream 1x1 LT",
+        "EnergyKjoules": 1409,
+        "EnergyKcal": 337,
+        "Fat": 35,
+        "Protein": 2.3,
+        "Carbohydrates": 3,
+        "Salt": 0.025,
+        "Sugars": 3,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 758,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Kerrymaid Double Cream 12x1 LT",
+        "EnergyKjoules": 1220,
+        "EnergyKcal": 296,
+        "Fat": 30.1,
+        "Protein": 2.2,
+        "Carbohydrates": 4,
+        "Salt": 0.125,
+        "Sugars": 3.3,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 759,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Glenilen Farm Clotted Cream 1x800 GM",
+        "EnergyKjoules": 2286,
+        "EnergyKcal": 555,
+        "Fat": 60,
+        "Protein": 1.6,
+        "Carbohydrates": 2.3,
+        "Salt": 0.025,
+        "Sugars": 2.3,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 760,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Lakeland Dairies Real Dairy Whipping Cream UHT 12x1 LT",
+        "EnergyKjoules": 1385,
+        "EnergyKcal": 336,
+        "Fat": 35,
+        "Protein": 2.1,
+        "Carbohydrates": 3.2,
+        "Salt": 0.1,
+        "Sugars": 3.2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 761,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Compsey Cream Cheese Full Fat 30% 1x10 KG",
+        "EnergyKjoules": 1322,
+        "EnergyKcal": 320,
+        "Fat": 30,
+        "Protein": 9.14,
+        "Carbohydrates": 3.32,
+        "Salt": 0.85,
+        "Sugars": 3.2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 762,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Debic Sugar Free Spray Cream 6x700 ML",
+        "EnergyKjoules": 1413,
+        "EnergyKcal": 338,
+        "Fat": 35,
+        "Protein": 2.2,
+        "Carbohydrates": 2.9,
+        "Salt": 0.75,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 763,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Debic Culinaire Original 20% Cream 6x1 LT",
+        "EnergyKjoules": 880,
+        "EnergyKcal": 210,
+        "Fat": 20,
+        "Protein": 3,
+        "Carbohydrates": 5,
+        "Salt": 0.025,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 764,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Violife Vegan Mature Cheese Alternative Slices 1x200 GM",
+        "EnergyKjoules": 1190,
+        "EnergyKcal": 285,
+        "Fat": 23,
+        "Protein": 0,
+        "Carbohydrates": 20,
+        "Salt": 5.75,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 765,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Grana Padano Block 1x1 KG",
+        "EnergyKjoules": 1654,
+        "EnergyKcal": 398,
+        "Fat": 29,
+        "Protein": 33,
+        "Carbohydrates": 0,
+        "Salt": 0,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [3, 7]
+    }
+}, {
+    "pk": 766,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Montery Jack Sliced 1x1 KG",
+        "EnergyKjoules": 1560,
+        "EnergyKcal": 375,
+        "Fat": 32,
+        "Protein": 25,
+        "Carbohydrates": 0.2,
+        "Salt": 0.75,
+        "Sugars": 0,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 767,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Applewood Smoke Flavoured Cheddar Cheese 1x1.5 KG",
+        "EnergyKjoules": 1701,
+        "EnergyKcal": 410,
+        "Fat": 34.5,
+        "Protein": 24.9,
+        "Carbohydrates": 0.1,
+        "Salt": 1.8,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 768,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Goats Cheese Log 1x1 KG",
+        "EnergyKjoules": 1131,
+        "EnergyKcal": 273,
+        "Fat": 23,
+        "Protein": 15,
+        "Carbohydrates": 2,
+        "Salt": 0.99,
+        "Sugars": 2,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 769,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Macroom Buffalo Buffaloumi  10x220 GM",
+        "EnergyKjoules": 1372.3,
+        "EnergyKcal": 331.3,
+        "Fat": 28.5,
+        "Protein": 17.3,
+        "Carbohydrates": 1.4,
+        "Salt": 2.4,
+        "Sugars": 0.2,
+        "Fibre": 1.13,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 770,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Carrigaline Truffle Cheese Wedge 1x120 GM",
+        "EnergyKjoules": 1441,
+        "EnergyKcal": 348,
+        "Fat": 28.7,
+        "Protein": 20.9,
+        "Carbohydrates": 1.4,
+        "Salt": 1.3,
+        "Sugars": 0.1,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 771,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Oatly Barista Edition Tetrapack 6x1 LT",
+        "EnergyKjoules": 247,
+        "EnergyKcal": 59,
+        "Fat": 3,
+        "Protein": 1,
+        "Carbohydrates": 6.6,
+        "Salt": 0.1,
+        "Sugars": 4,
+        "Fibre": 0,
+        "Allergens": [1]
+    }
+}, {
+    "pk": 772,
+    "model": "home.products",
+    "fields": {
+        "product_name": "TCC Coconut Milk 1x400 ML",
+        "EnergyKjoules": 711,
+        "EnergyKcal": 170,
+        "Fat": 17.1,
+        "Protein": 1.59,
+        "Carbohydrates": 2.37,
+        "Salt": 0.04,
+        "Sugars": 1.69,
+        "Fibre": 0,
+        "Allergens": []
+    }
+}, {
+    "pk": 773,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Buttermilk 1x1 LT",
+        "EnergyKjoules": 136,
+        "EnergyKcal": 32,
+        "Fat": 0.2,
+        "Protein": 3.4,
+        "Carbohydrates": 4.4,
+        "Salt": 0.025,
+        "Sugars": 4.4,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 774,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Milburn Butter Milk 10x1 LT",
+        "EnergyKjoules": 143,
+        "EnergyKcal": 34,
+        "Fat": 0.35,
+        "Protein": 3.4,
+        "Carbohydrates": 4.05,
+        "Salt": 0.025,
+        "Sugars": 4.05,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 775,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cuinneog Natural Buttermilk 10x1 LT",
+        "EnergyKjoules": 145,
+        "EnergyKcal": 34,
+        "Fat": 0.1,
+        "Protein": 3.4,
+        "Carbohydrates": 4.9,
+        "Salt": 0.06,
+        "Sugars": 4.9,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}, {
+    "pk": 776,
+    "model": "home.products",
+    "fields": {
+        "product_name": "Cuinneog Buttermilk 1x6 LT",
+        "EnergyKjoules": 143,
+        "EnergyKcal": 34,
+        "Fat": 0.1,
+        "Protein": 3.4,
+        "Carbohydrates": 4.9,
+        "Salt": 0.05,
+        "Sugars": 4.9,
+        "Fibre": 0,
+        "Allergens": [7]
+    }
+}]
