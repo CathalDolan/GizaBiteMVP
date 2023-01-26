@@ -41,3 +41,14 @@ hr.max_width_500 {
     margin-right: auto;
     max-width: 500px;
 }
+
+.form-control {
+    position: relative;
+}
+
+.suggestions-list {
+    position: absolute;
+    z-index: 2;
+    background-color: #fafafa;
+    width: inherit;
+}
