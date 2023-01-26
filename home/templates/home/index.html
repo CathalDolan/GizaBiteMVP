@@ -13,7 +13,7 @@
 
 {% block content %}
     <div class="container mx-auto">
-        <h1 class="text-center mt-3">GizaBite M.V.P.</h1>
+        <h1 class="heading text-center mt-3">GizaBite M.V.P.</h1>
         <!-- Start of Form -->
         <form action="" method="">
             {% csrf_token %}
@@ -44,58 +44,60 @@
                 <div class="page_banner mt-3">
                     <h2 class="ms-3">Ingredients</h2>
                 </div>
-                <div id="ingredient_group_1">
-                    <div class="container" id="add_ingredient_container_1">
-                        <!-- Ingredient Details -->
-                        <div class="row mx-2" id="add_ingredient_row_1">
-                            <div class="col-md-6 mt-3 col-12">
-                                <input type="text" class="form-control" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
-                            </div>
-                            <div class="col-md-2 mt-2 mt-md-3 col-5">
-                                <input type="number" class="form-control" name="number_of_portions" id="number_of_portions" placeholder="Batch" aria-label="BatchAmount"></input>
-                            </div>
-                            <div class="col-md-2 mt-2 mt-md-3 col-5">
-                                <input type="number" class="form-control" name="dish_name" placeholder="Portion" aria-label="PortionAmount"></input>
-                            </div>
-                            <div class="col-md-2 mt-2 mt-md-3 col-2 ps-0 ps-md-2">
-                                <select class="form-select pe-0" name="unit_select">
-                                    <option value="g">g</option>
-                                    <option value="kg">kg</option>
-                                    <option value="pcs">Pcs</option>
-                                </select>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Cooking Method -->
-                    <div class="container" id="add_cooking_method_container_1">
-                        <div class="row mx-2" id="add_cooking_method_row_1">
-                            <div class="col-md-6 mt-2 col-12">
-                                <select class="form-select" name="cooking_method">
-                                    <option value="" disabled selected>Cooking Method</option>
-                                    <option value="Boiled">Boiled</option>
-                                    <option value="Deep Fried">Deep Fried</option>
-                                    <option value="Baked">Baked</option>
-                                </select>
-                            </div>
-                            <div class="col-md-6 mt-2 col-12">
-                                <select class="form-select" name="substrate">
-                                    <option value="" disabled selected>Substrate</option>
-                                    <option value="Vegetable Oil">Vegetable Oil</option>
-                                    <option value="Stock">Stock</option>
-                                    <option value="Butter">Butter</option>
-                                </select>
+                <div id="ingredient_group_container">
+                    <div class="ingredient_group" id="ingredient_group_1">
+                        <div class="container ingredient_container">
+                            <!-- Ingredient Details -->
+                            <div class="row mx-2 ingredient_row">
+                                <div class="col-md-6 mt-3 col-12">
+                                    <input type="text" class="form-control" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
+                                </div>
+                                <div class="col-md-2 mt-2 mt-md-3 col-5">
+                                    <input type="number" class="form-control" name="number_of_portions" id="number_of_portions" placeholder="Batch" aria-label="BatchAmount"></input>
+                                </div>
+                                <div class="col-md-2 mt-2 mt-md-3 col-5">
+                                    <input type="number" class="form-control" name="dish_name" placeholder="Portion" aria-label="PortionAmount"></input>
+                                </div>
+                                <div class="col-md-2 mt-2 mt-md-3 col-2 ps-0 ps-md-2">
+                                    <select class="form-select pe-0" name="unit_select">
+                                        <option value="g">g</option>
+                                        <option value="kg">kg</option>
+                                        <option value="pcs">Pcs</option>
+                                    </select>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- Add Ingredients & Cooking Section -->
-                    <div class="container element-container mx-auto">
-                        <div class="row mt-3 mb-2 mx-2">
-                            <div class="col-2 col-md-1 col-css">
-                                <button id="add_ingredient_button_1" type="button" onclick="add_ingredient(this)">Add Ingredient</button>
+                        <!-- Cooking Method -->
+                        <div class="container" id="add_cooking_method_container_1">
+                            <div class="row mx-2" id="add_cooking_method_row_1">
+                                <div class="col-md-6 mt-2 col-12">
+                                    <select class="form-select" name="cooking_method">
+                                        <option value="" disabled selected>Cooking Method</option>
+                                        <option value="Boiled">Boiled</option>
+                                        <option value="Deep Fried">Deep Fried</option>
+                                        <option value="Baked">Baked</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-6 mt-2 col-12">
+                                    <select class="form-select" name="substrate">
+                                        <option value="" disabled selected>Substrate</option>
+                                        <option value="Vegetable Oil">Vegetable Oil</option>
+                                        <option value="Stock">Stock</option>
+                                        <option value="Butter">Butter</option>
+                                    </select>
+                                </div>
                             </div>
                         </div>
+                        <!-- Add Ingredients & Cooking Section -->
+                        <div class="container element-container mx-auto">
+                            <div class="row mt-3 mb-2 mx-2">
+                                <div class="col-2 col-md-1 col-css">
+                                    <button class="add_ingredient_button" type="button">Add Ingredient</button>
+                                </div>
+                            </div>
+                        </div>
+                        <hr class="max_width_500">
                     </div>
-                    <hr class="max_width_500">
                 </div>
             </div>
         </form>
@@ -105,7 +107,7 @@
     <div class="container element-container mx-auto">
         <div class="row mt-3 mb-2 mx-2">
             <div class="col-2 col-mb-1 col-css">
-                <button onclick="add_ingredient_group()">Add Ingredient Group</button>
+                <button class="add_ingredient_group_button">Add Ingredient Group</button>
             </div>
         </div>
     </div>
@@ -132,5 +134,6 @@
     </div>
     <hr class="max_width_500">
 
+    
 
 {% endblock %}
