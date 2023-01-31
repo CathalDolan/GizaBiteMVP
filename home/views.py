@@ -9,12 +9,15 @@ from . serializers import ProductsSerializer
 
 # Create your views here.
 def index(request):
-    product = Products.objects.all()[30:40].prefetch_related('Allergens')
+    # product = Products.objects.all()
     # print(product)
-    # for item in product:
-    #     print(item, item.Allergens.all())
+    # for index, item in enumerate(product, start=1):
+    #     if index % 50 == 0:
+    #         print(index)
+    #     if item.EnergyKcal is None:
+    #         print(item.pk, item, item.EnergyKcal)
     context = {
-        'product': product
+        # 'product': product
     }
     return render(request, "home/index.html", context)
 

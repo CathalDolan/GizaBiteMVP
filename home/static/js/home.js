@@ -2,7 +2,7 @@ $(document).ready(function(){
     
     console.log('hi, it works!');
     var PRODUCTS = {};
-    $(document).on('keyup', 'input', function() {
+    $(document).on('keyup', '.ingredient_name', function() {
         console.log(`KEYPRESSED`)
         var q = $(this).val();
         console.log(`q=${q}`);
@@ -14,23 +14,56 @@ $(document).ready(function(){
             console.log("Fetch fn fires");
             PRODUCTS = data.products;
             console.log("PRODUCTS : ", PRODUCTS);
-            console.log(`this = ${$(this)}`)
             $.each(PRODUCTS, function(index, item) {
                 const allergens = []
                 for(const [k, v] of Object.entries(item.Allergens)) {
                     // console.log(`allergen = ${v.index}`)
                     allergens.push(v.index)
                 }
-                $(field).next().append(`<li class="suggestion">${item['product_name']} ${allergens.length != 0 ? ' - [' + allergens + ']': ''}</li>`)
+                $(field).next().append(`<li class="suggestion" data-product='${JSON.stringify(item)}'>${item['product_name']} ${allergens.length != 0 ? ' - [' + allergens + ']': ''}</li>`)
             })      
         });
     })
     $(document).on('click', '.suggestion', function() {
-        $(this).parent().prev().val($(this).text());
+        // console.log(`product_id = ${$(this).data('product_id')}`)
+        $(this).parent().prev().val($(this).text()).data('product', $(this).data('product'));
         $('.suggestions-list').empty();
-        var product = PRODUCTS.filter(obj => obj.team__name == $(this).text());
-        console.log(`product = ${product}`)
+        // var product = PRODUCTS.filter(obj => obj.team__name == $(this).text());
+        // console.log(`product = ${product}`)
+        gatherNutrientInfo();
     })
+
+    $(document).on("change", "input:not('.ingredient_name'), select", function() {
+        console.log("CHANGED")
+        gatherNutrientInfo()
+    })
+
+    function gatherNutrientInfo() {
+        var EnergyKcals = 0;
+        const ingredient_groups = $('.ingredient_group');
+        console.log("ingredient_groups = ", ingredient_groups);
+        ingredient_groups.each(function(index, item) {
+            var cooking_method = $(item).find("[name='cooking_method']").val();
+            var substrate = $(item).find("[name='substrate']").val();
+            var ingredients = $(item).find('.ingredient_row');
+            console.log("ingredients = ", ingredients);
+            ingredients.each((index, element) => {
+                console.log("element = ", element)
+                var product = $(element).find(".ingredient_name").data('product');
+                console.log("product = ", product);
+                if(product != undefined) {
+                    var amount = Number($(element).find("[name='batch_amount']").val());
+                    var units = $(element).find("[name='unit_select']").val();
+                    console.log("ingredient_data['EnergyKcal'] = ", product.EnergyKcal);
+                    EnergyKcals += (product.EnergyKcal/100*amount);
+                    console.log("amount = ", amount);
+                    // console.log("units = ", units);
+                    $('#total_calories').text(EnergyKcals);
+                }
+                
+            })
+        })
+    }
 });
 
 $(document).ready(function() {
@@ -39,11 +72,11 @@ $(document).ready(function() {
 
         const html = `<div class="row mx-2 ingredient_row">
                         <div class="col-md-6 mt-2 col-12">
-                            <input type="text" class="form-control" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
+                            <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
                             <ul class="suggestions-list"></ul>
                         </div>
                         <div class="col-md-2 mt-2 col-5">
-                            <input type="number" class="form-control" name="number_of_portions" id="number_of_portions" placeholder="Batch" aria-label="BatchAmount"></input>
+                            <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch" aria-label="BatchAmount"></input>
                         </div>
                         <div class="col-md-2 mt-2 col-5">
                             <input type="number" class="form-control" name="dish_name" placeholder="Portion" aria-label="PortionAmount"></input>
@@ -74,7 +107,7 @@ $(document).ready(function() {
                         <!-- Ingredient Details -->
                         <div class="row mx-2 ingredient_row">
                             <div class="col-md-6 mt-3 col-12">
-                                <input type="text" class="form-control" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
+                                <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
                                 <ul class="suggestions-list"></ul>
                             </div>
                             <div class="col-md-2 mt-2 mt-md-3 col-5">
