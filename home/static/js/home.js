@@ -24,22 +24,21 @@ $(document).ready(function(){
             })      
         });
     })
+
     $(document).on('click', '.suggestion', function() {
-        // console.log(`product_id = ${$(this).data('product_id')}`)
         $(this).parent().prev().val($(this).text()).data('product', $(this).data('product'));
         $('.suggestions-list').empty();
-        // var product = PRODUCTS.filter(obj => obj.team__name == $(this).text());
-        // console.log(`product = ${product}`)
         gatherNutrientInfo();
     })
 
     $(document).on("change", "input:not('.ingredient_name'), select", function() {
-        console.log("CHANGED")
         gatherNutrientInfo()
     })
 
     function gatherNutrientInfo() {
+        var number_of_portions = $('#number_of_portions').val()
         var EnergyKcals = 0;
+        const allergen_list = []
         const ingredient_groups = $('.ingredient_group');
         console.log("ingredient_groups = ", ingredient_groups);
         ingredient_groups.each(function(index, item) {
@@ -48,17 +47,24 @@ $(document).ready(function(){
             var ingredients = $(item).find('.ingredient_row');
             console.log("ingredients = ", ingredients);
             ingredients.each((index, element) => {
-                console.log("element = ", element)
                 var product = $(element).find(".ingredient_name").data('product');
                 console.log("product = ", product);
                 if(product != undefined) {
                     var amount = Number($(element).find("[name='batch_amount']").val());
                     var units = $(element).find("[name='unit_select']").val();
-                    console.log("ingredient_data['EnergyKcal'] = ", product.EnergyKcal);
                     EnergyKcals += (product.EnergyKcal/100*amount);
-                    console.log("amount = ", amount);
-                    // console.log("units = ", units);
-                    $('#total_calories').text(EnergyKcals);
+                    var product_allergens = product.Allergens
+                    // console.log("product_allergens = ", typeof(product_allergens));
+                    product_allergens.forEach(function(el) {
+                        console.log("el = ", el.index)
+                        if(!allergen_list.includes(el.index)) {
+                            allergen_list.push(el.index)
+                        }
+                    })
+                    console.log("allergen_list = ", allergen_list);
+                    allergen_list.sort(function(a, b){return a-b});
+                    $('#total_allergens').text(allergen_list);
+                    $('#total_calories').text(Math.round(EnergyKcals/number_of_portions));
                 }
                 
             })
@@ -111,7 +117,7 @@ $(document).ready(function() {
                                 <ul class="suggestions-list"></ul>
                             </div>
                             <div class="col-md-2 mt-2 mt-md-3 col-5">
-                                <input type="number" class="form-control" name="number_of_portions" id="number_of_portions" placeholder="Batch" aria-label="BatchAmount"></input>
+                                <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch" aria-label="BatchAmount"></input>
                             </div>
                             <div class="col-md-2 mt-2 mt-md-3 col-5">
                                 <input type="number" class="form-control" name="dish_name" placeholder="Portion" aria-label="PortionAmount"></input>
