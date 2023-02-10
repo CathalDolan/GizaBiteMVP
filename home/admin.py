@@ -1,8 +1,6 @@
 from django.contrib import admin
-
-# Register your models here.
-from django.contrib import admin
 from .models import Allergens, Products
+from import_export.admin import ExportActionMixin
 
 
 # Register your models here.
@@ -22,7 +20,7 @@ class AllergensAdmin(admin.ModelAdmin):
     ordering = ('pk',)
 
 
-class ProductsAdmin(admin.ModelAdmin):
+class ProductsAdmin(ExportActionMixin, admin.ModelAdmin):
     list_display = (
         'pk',
         'product_name',

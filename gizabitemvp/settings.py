@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'home',
     'debug_toolbar',
     'rest_framework',
+    'import_export',
 ]
 
 MIDDLEWARE = [

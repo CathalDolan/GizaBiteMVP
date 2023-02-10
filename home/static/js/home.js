@@ -8,7 +8,7 @@ $(document).ready(function(){
         console.log(`q=${q}`);
         var field = $(this);
         $(this).next().empty()
-        fetch(`https://8000-cathaldolan-gizabitemvp-d7bejlihi03.ws-eu84.gitpod.io/get_products/${q}`)
+        fetch(`https://8000-cathaldolan-gizabitemvp-d7bejlihi03.ws-eu85.gitpod.io/get_products/${q}`)
         .then(response => response.json())
         .then(data => {
             console.log("Fetch fn fires");
