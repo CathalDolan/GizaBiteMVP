@@ -9,7 +9,9 @@ from . serializers import ProductsSerializer
 
 # Create your views here.
 def index(request):
-    # product = Products.objects.all()
+    product = Products.objects.all()
+    for products in product:
+        products.delete()
     # print(product)
     # for index, item in enumerate(product, start=1):
     #     if index % 50 == 0:
