@@ -47,6 +47,8 @@ INSTALLED_APPS = [
     'home',
     'debug_toolbar',
     'rest_framework',
+    'import_export',
+    'gsheets',
 ]
 
 MIDDLEWARE = [
@@ -80,6 +82,10 @@ TEMPLATES = [
         },
     },
 ]
+
+GSHEETS = {
+    'CLIENT_SECRETS': 'credentials.json'
+}
 
 AUTHENTICATION_BACKENDS = [
     # Needed to login by username in Django admin, regardless of `allauth`

@@ -8,7 +8,7 @@ $(document).ready(function(){
         console.log(`q=${q}`);
         var field = $(this);
         $(this).next().empty()
-        fetch(`https://8000-cathaldolan-gizabitemvp-d7bejlihi03.ws-eu84.gitpod.io/get_products/${q}`)
+        fetch(`https://8000-cathaldolan-gizabitemvp-2fe79spgt3d.ws-eu92.gitpod.io/get_products/${q}`)
         .then(response => response.json())
         .then(data => {
             console.log("Fetch fn fires");
@@ -73,10 +73,15 @@ $(document).ready(function(){
 });
 
 $(document).ready(function() {
+
+    // Add a New Ingredient Row Function
     $(document).on("click", ".add_ingredient_button", function(){
         console.log("Add Ingredient Function Fires");
 
         const html = `<div class="row mx-2 ingredient_row">
+                        <div class="col-md-1 mt-3 col-2">
+                            <button type="button" class="form-control delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">X</button>
+                        </div>
                         <div class="col-md-6 mt-2 col-12">
                             <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
                             <ul class="suggestions-list"></ul>
@@ -98,7 +103,7 @@ $(document).ready(function() {
         $(this).parents(".ingredient_group").children("div.ingredient_container").append(html);
     });
 
-
+    // Add a New Ingredient Group Function
     var ingredient_group_id_counter = 1;
     $(".add_ingredient_group_button").click(function(){
         console.log("add_ingredient_group Function Fires")
@@ -112,6 +117,9 @@ $(document).ready(function() {
                     <div class="container ingredient_container">
                         <!-- Ingredient Details -->
                         <div class="row mx-2 ingredient_row">
+                            <div class="col-md-1 mt-3 col-2">
+                                <button type="button" class="form-control delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">X</button>
+                            </div>
                             <div class="col-md-6 mt-3 col-12">
                                 <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
                                 <ul class="suggestions-list"></ul>
@@ -152,12 +160,15 @@ $(document).ready(function() {
                             </div>
                         </div>
                     </div>
-                    <!-- Add Ingredients & Cooking Section -->
-                    <div class="container element-container mx-auto">
-                        <div class="row mt-3 mb-2 mx-2">
-                            <div class="col-2 col-md-1 col-css">
-                                <button class="add_ingredient_button" type="button">Add Ingredient</button>
-                            </div>
+                    <!-- Add Ingredient and Remove Ingredient Group Buttons-->
+                    <div class="row">
+                        <!-- Add Ingredients & Cooking Section -->
+                        <div class="container mt-3 element-container mx-auto col-3 col-md-2 col-css">
+                            <button class="add_ingredient_button" type="button">Add Ingredient</button>
+                        </div>
+                        <!-- Remove Ingredient Group -->
+                        <div class="container mt-3 element-container mx-auto col-3 col-md-2 col-css">
+                            <button class="remove_ingredient_group_button" type="button">Delete Group</button>
                         </div>
                     </div>
                     <hr class="max_width_500">
@@ -166,4 +177,16 @@ $(document).ready(function() {
         $("#ingredient_group_container").append(html);
     })
 
+    // Remove an Ingredient Row Function.
+    $(document).on("click", ".delete_ingredient", function(){
+    // $(".ingredient_row").on("click", ".delete_ingredient", function() {
+        console.log("Delete_ingredient_row Function Fires");
+        $(this).parents(".ingredient_row").remove();
+    });
+
+    // Remove an Ingredient Group Function
+    $(document).on("click", ".remove_ingredient_group_button", function(){
+        console.log("Remove_ingredient_group Function Fires");
+        $(this).parents(".ingredient_group").remove();
+    });
 });
