@@ -67,13 +67,13 @@
                  possible to use them in JS when we need to append and add new ingredient groups -->
             <div>
                 <div class="page_banner mt-3">
-                    <h2 class="ms-3">Ingredients</h2>
+                    <h2 class="ms-3">Recipe</h2>
                 </div>
 
                 <div id="ingredient_group_container">
                     <div class="ingredient_group" id="ingredient_group_1">
+                        <!-- Ingredient Details -->
                         <div class="container ingredient_container">
-                            <!-- Ingredient Details -->
                             <div class="row mx-2 ingredient_row">
                                 <div class="col-md-2 mt-3 col-5">
                                     <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch Amount" aria-label="BatchAmount"></input>
@@ -92,7 +92,7 @@
                                     <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
                                     <ul class="suggestions-list"></ul>
                                 </div>
-                                <div class="col-md-1 mt-2 mt-md-3 col-1">
+                                <div class="mt-2 mt-md-3 col-1 px-0 delete_ingredient_icon_div">
                                     <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
                                         <i class="fa-solid fa-trash-can"></i>
                                     </div>
@@ -100,9 +100,10 @@
                             </div>
                         </div>
                         <!-- Cooking Method -->
+                        <hr class="half-hr mx-auto">
                         <div class="container" id="add_cooking_method_container_1">
                             <div class="row mx-2" id="add_cooking_method_row_1">
-                                <div class="col-md-6 mt-2 col-12">
+                                <div class="col-md-6 mt-3 mt-md-2 col-12">
                                     <select class="form-select" name="cooking_method">
                                         <option value="" disabled selected>Cooking Method</option>
                                         <option value="Boiled">Boiled</option>
@@ -123,15 +124,15 @@
                         <!-- Add Ingredient and Remove Ingredient Group Buttons-->
                         <div class="row">
                             <!-- Add Ingredients & Cooking Section -->
-                            <div class="container mt-3 element-container mx-auto col-6 col-css text-center">
+                            <div class="container mt-3 element-container mx-auto col-6 col-css pe-2 text-end">
                                 <button class="add_ingredient_button" type="button">Add Ingredient</button>
                             </div>
                             <!-- Remove Ingredient Group -->
-                            <div class="container mt-3 element-container mx-auto col-6 col-css text-center">
+                            <div class="container mt-3 element-container mx-auto col-6 col-css ps-2 text-start">
                                 <button class="remove_ingredient_group_button" type="button">Delete Group</button>
                             </div>
                         </div>
-                        <hr class="max_width_500">
+                        <hr class="max_width_500 mb-0">
                     </div>
                 </div>
             </div>

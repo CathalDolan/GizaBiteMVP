@@ -60,3 +60,21 @@ hr.max_width_500 {
         background-image: none;
     }
 }
+
+@media only screen and (min-width: 481px) {
+    .delete_ingredient {
+        text-align: center;
+    }
+}
+
+.delete_ingredient_icon_div {
+    font-size: 1.5rem;
+}
+
+.third-hr {
+    width: 33.3%;
+}
+.half-hr {
+    width: 60%;
+    margin-bottom: 0;
+}

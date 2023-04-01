@@ -78,30 +78,29 @@ $(document).ready(function() {
     $(document).on("click", ".add_ingredient_button", function(){
         console.log("Add Ingredient Function Fires");
 
-        const html = `<div class="row mx-2 ingredient_row">
-                        <div class="col-md-1 mt-3 col-2">
-                            <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
-                                <i class="fa-solid fa-trash-can"></i>
-                            </div>
+        const html = `<hr class="third-hr mx-auto mb-0 mt-2 p-0">
+                    <div class="row mx-2 ingredient_row">
+                        <div class="col-md-2 mt-2 col-5">
+                            <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch Amount" aria-label="BatchAmount"></input>
                         </div>
-                        <div class="col-md-5 mt-3 col-10 ps-0">
-                            <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
-                            <ul class="suggestions-list"></ul>
+                        <div class="col-md-2 mt-2 col-5 ps-0">
+                            <input type="number" class="form-control" name="dish_name" placeholder="Portion Amount" aria-label="PortionAmount"></input>
                         </div>
-
-                        <div class="col-md-2 mt-2 mt-md-3 col-5">
-                            <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch" aria-label="BatchAmount"></input>
-
-                        </div>
-                        <div class="col-md-2 mt-2 mt-md-3 col-5 pe-0">
-                            <input type="number" class="form-control" name="dish_name" placeholder="Portion" aria-label="PortionAmount"></input>
-                        </div>
-                        <div class="col-md-2 mt-2 mt-md-3 col-2 ps-0 ps-md-2">
-                            <select class="form-select pe-0" name="unit_select">
+                        <div class="col-md-2 mt-2 col-2 ps-0">
+                            <select class="form-select custom-select-icon pe-0" name="unit_select">
                                 <option value="g">g</option>
                                 <option value="kg">kg</option>
                                 <option value="pcs">Pcs</option>
                             </select>
+                        </div>
+                        <div class="col-md-5 mt-2 col-11">
+                            <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
+                            <ul class="suggestions-list"></ul>
+                        </div>
+                        <div class="mt-2 col-1 px-0 delete_ingredient_icon_div">
+                            <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
+                                <i class="fa-solid fa-trash-can"></i>
+                            </div>
                         </div>
                     </div>`
         $(this).parents(".ingredient_group").children("div.ingredient_container").append(html);
@@ -118,39 +117,38 @@ $(document).ready(function() {
         console.log("Click Count: ", clickcount);
         
         html = `<div class="ingredient_group" id="ingredient_group_${clickcount}">
+                    <!-- Ingredient Details -->
                     <div class="container ingredient_container">
-                        <!-- Ingredient Details -->
                         <div class="row mx-2 ingredient_row">
-                            <div class="col-md-1 mt-3 col-2">
-                                <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
-                                <i class="fa-solid fa-trash-can"></i>
+                            <div class="col-md-2 mt-3 col-5">
+                                <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch Amount" aria-label="BatchAmount"></input>
                             </div>
+                            <div class="col-md-2 mt-3 col-5 ps-0">
+                                <input type="number" class="form-control" name="dish_name" placeholder="Portion Amount" aria-label="PortionAmount"></input>
                             </div>
-                            <div class="col-md-5 mt-3 col-10 ps-0">
-                                <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
-                                <ul class="suggestions-list"></ul>
-                            </div>
-
-                            <div class="col-md-2 mt-2 mt-md-3 col-5">
-                                <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch" aria-label="BatchAmount"></input>
-
-                            </div>
-                            <div class="col-md-2 mt-2 mt-md-3 col-5 pe-0">
-                                <input type="number" class="form-control" name="dish_name" placeholder="Portion" aria-label="PortionAmount"></input>
-                            </div>
-                            <div class="col-md-2 mt-2 mt-md-3 col-2 ps-0 ps-md-2">
-                                <select class="form-select pe-0" name="unit_select">
+                            <div class="col-md-2 mt-3 col-2 ps-0">
+                                <select class="form-select custom-select-icon pe-0" name="unit_select">
                                     <option value="g">g</option>
                                     <option value="kg">kg</option>
                                     <option value="pcs">Pcs</option>
                                 </select>
                             </div>
+                            <div class="col-md-5 mt-2 mt-md-3 col-11">
+                                <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
+                                <ul class="suggestions-list"></ul>
+                            </div>
+                            <div class="mt-2 mt-md-3 col-1 px-0 delete_ingredient_icon_div">
+                                <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
+                                    <i class="fa-solid fa-trash-can"></i>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <!-- Cooking Method -->
+                    <hr class="half-hr mx-auto">
                     <div class="container" id="add_cooking_method_container_1">
                         <div class="row mx-2" id="add_cooking_method_row_1">
-                            <div class="col-md-6 mt-2 col-12">
+                            <div class="col-md-6 mt-3 mt-md-2 col-12">
                                 <select class="form-select" name="cooking_method">
                                     <option value="" disabled selected>Cooking Method</option>
                                     <option value="Boiled">Boiled</option>
@@ -171,15 +169,15 @@ $(document).ready(function() {
                     <!-- Add Ingredient and Remove Ingredient Group Buttons-->
                     <div class="row">
                         <!-- Add Ingredients & Cooking Section -->
-                        <div class="container mt-3 element-container mx-auto col-6 col-css text-center">
+                        <div class="container mt-3 element-container mx-auto col-6 col-css pe-2 text-end">
                             <button class="add_ingredient_button" type="button">Add Ingredient</button>
                         </div>
                         <!-- Remove Ingredient Group -->
-                        <div class="container mt-3 element-container mx-auto col-6 col-css text-center">
+                        <div class="container mt-3 element-container mx-auto col-6 col-css ps-2 text-start">
                             <button class="remove_ingredient_group_button" type="button">Delete Group</button>
                         </div>
                     </div>
-                    <hr class="max_width_500">
+                    <hr class="max_width_500 mb-0">
                 </div>`
 
         $("#ingredient_group_container").append(html);
