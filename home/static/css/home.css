@@ -52,3 +52,11 @@ hr.max_width_500 {
     background-color: #fafafa;
     width: inherit;
 }
+
+/*----- Hides the arrow on unit of measurement dropdown selector on small screens -----*/
+/*--- https://javascript.plainenglish.io/how-to-customize-the-select-icon-in-bootstrap-87080e3d3ad2 --- */
+@media only screen and (max-width: 481px) {
+    .custom-select-icon {
+        background-image: none;
+    }
+}

@@ -35,6 +35,7 @@
 {% endfor %} -->
     <div class="container mx-auto">
         <h1 class="heading text-center mt-3">GizaBite M.V.P.</h1>
+
         <!-- Start of Form -->
         <form action="" method="">
             {% csrf_token %}
@@ -60,7 +61,10 @@
                     </div>
                 </div>
             </div>
-            <!-- Ingredients Section -->
+
+            <!-- Ingredients Group -->
+            <!-- NOTE: Ideally this would be done using Include and Snippets. However, it's not
+                 possible to use them in JS when we need to append and add new ingredient groups -->
             <div>
                 <div class="page_banner mt-3">
                     <h2 class="ms-3">Ingredients</h2>
@@ -71,27 +75,27 @@
                         <div class="container ingredient_container">
                             <!-- Ingredient Details -->
                             <div class="row mx-2 ingredient_row">
-                                <div class="col-md-1 mt-3 col-2">
-                                    <button type="button" class="form-control delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">X</button>
+                                <div class="col-md-2 mt-3 col-5">
+                                    <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch Amount" aria-label="BatchAmount"></input>
                                 </div>
-                                <div class="col-md-5 mt-3 col-10 ps-0">
-                                    <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
-                                    <ul class="suggestions-list"></ul>
+                                <div class="col-md-2 mt-3 col-5 ps-0">
+                                    <input type="number" class="form-control" name="dish_name" placeholder="Portion Amount" aria-label="PortionAmount"></input>
                                 </div>
-
-                                <div class="col-md-2 mt-2 mt-md-3 col-5">
-                                    <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch" aria-label="BatchAmount"></input>
-
-                                </div>
-                                <div class="col-md-2 mt-2 mt-md-3 col-5">
-                                    <input type="number" class="form-control" name="dish_name" placeholder="Portion" aria-label="PortionAmount"></input>
-                                </div>
-                                <div class="col-md-2 mt-2 mt-md-3 col-2 ps-0 ps-md-2">
-                                    <select class="form-select pe-0" name="unit_select">
+                                <div class="col-md-2 mt-3 col-2 ps-0">
+                                    <select class="form-select custom-select-icon pe-0" name="unit_select">
                                         <option value="g">g</option>
                                         <option value="kg">kg</option>
                                         <option value="pcs">Pcs</option>
                                     </select>
+                                </div>
+                                <div class="col-md-5 mt-2 mt-md-3 col-11">
+                                    <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
+                                    <ul class="suggestions-list"></ul>
+                                </div>
+                                <div class="col-md-1 mt-2 mt-md-3 col-1">
+                                    <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
+                                        <i class="fa-solid fa-trash-can"></i>
+                                    </div>
                                 </div>
                             </div>
                         </div>

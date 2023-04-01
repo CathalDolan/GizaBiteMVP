@@ -80,7 +80,9 @@ $(document).ready(function() {
 
         const html = `<div class="row mx-2 ingredient_row">
                         <div class="col-md-1 mt-3 col-2">
-                            <button type="button" class="form-control delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">X</button>
+                            <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
+                                <i class="fa-solid fa-trash-can"></i>
+                            </div>
                         </div>
                         <div class="col-md-5 mt-3 col-10 ps-0">
                             <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
@@ -91,7 +93,7 @@ $(document).ready(function() {
                             <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch" aria-label="BatchAmount"></input>
 
                         </div>
-                        <div class="col-md-2 mt-2 mt-md-3 col-5">
+                        <div class="col-md-2 mt-2 mt-md-3 col-5 pe-0">
                             <input type="number" class="form-control" name="dish_name" placeholder="Portion" aria-label="PortionAmount"></input>
                         </div>
                         <div class="col-md-2 mt-2 mt-md-3 col-2 ps-0 ps-md-2">
@@ -120,7 +122,9 @@ $(document).ready(function() {
                         <!-- Ingredient Details -->
                         <div class="row mx-2 ingredient_row">
                             <div class="col-md-1 mt-3 col-2">
-                                <button type="button" class="form-control delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">X</button>
+                                <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
+                                <i class="fa-solid fa-trash-can"></i>
+                            </div>
                             </div>
                             <div class="col-md-5 mt-3 col-10 ps-0">
                                 <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
@@ -131,7 +135,7 @@ $(document).ready(function() {
                                 <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch" aria-label="BatchAmount"></input>
 
                             </div>
-                            <div class="col-md-2 mt-2 mt-md-3 col-5">
+                            <div class="col-md-2 mt-2 mt-md-3 col-5 pe-0">
                                 <input type="number" class="form-control" name="dish_name" placeholder="Portion" aria-label="PortionAmount"></input>
                             </div>
                             <div class="col-md-2 mt-2 mt-md-3 col-2 ps-0 ps-md-2">
@@ -144,8 +148,8 @@ $(document).ready(function() {
                         </div>
                     </div>
                     <!-- Cooking Method -->
-                    <div class="container">
-                        <div class="row mx-2">
+                    <div class="container" id="add_cooking_method_container_1">
+                        <div class="row mx-2" id="add_cooking_method_row_1">
                             <div class="col-md-6 mt-2 col-12">
                                 <select class="form-select" name="cooking_method">
                                     <option value="" disabled selected>Cooking Method</option>
@@ -167,11 +171,11 @@ $(document).ready(function() {
                     <!-- Add Ingredient and Remove Ingredient Group Buttons-->
                     <div class="row">
                         <!-- Add Ingredients & Cooking Section -->
-                        <div class="container mt-3 element-container mx-auto col-3 col-md-2 col-css">
+                        <div class="container mt-3 element-container mx-auto col-6 col-css text-center">
                             <button class="add_ingredient_button" type="button">Add Ingredient</button>
                         </div>
                         <!-- Remove Ingredient Group -->
-                        <div class="container mt-3 element-container mx-auto col-3 col-md-2 col-css">
+                        <div class="container mt-3 element-container mx-auto col-6 col-css text-center">
                             <button class="remove_ingredient_group_button" type="button">Delete Group</button>
                         </div>
                     </div>
