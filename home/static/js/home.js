@@ -82,17 +82,19 @@ $(document).ready(function() {
                         <div class="col-md-1 mt-3 col-2">
                             <button type="button" class="form-control delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">X</button>
                         </div>
-                        <div class="col-md-6 mt-2 col-12">
+                        <div class="col-md-5 mt-3 col-10 ps-0">
                             <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
                             <ul class="suggestions-list"></ul>
                         </div>
-                        <div class="col-md-2 mt-2 col-5">
+
+                        <div class="col-md-2 mt-2 mt-md-3 col-5">
                             <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch" aria-label="BatchAmount"></input>
+
                         </div>
-                        <div class="col-md-2 mt-2 col-5">
+                        <div class="col-md-2 mt-2 mt-md-3 col-5">
                             <input type="number" class="form-control" name="dish_name" placeholder="Portion" aria-label="PortionAmount"></input>
                         </div>
-                        <div class="col-md-2 mt-2 col-2 ps-0 ps-md-2">
+                        <div class="col-md-2 mt-2 mt-md-3 col-2 ps-0 ps-md-2">
                             <select class="form-select pe-0" name="unit_select">
                                 <option value="g">g</option>
                                 <option value="kg">kg</option>
@@ -120,12 +122,14 @@ $(document).ready(function() {
                             <div class="col-md-1 mt-3 col-2">
                                 <button type="button" class="form-control delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">X</button>
                             </div>
-                            <div class="col-md-6 mt-3 col-12">
+                            <div class="col-md-5 mt-3 col-10 ps-0">
                                 <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
                                 <ul class="suggestions-list"></ul>
                             </div>
+
                             <div class="col-md-2 mt-2 mt-md-3 col-5">
                                 <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch" aria-label="BatchAmount"></input>
+
                             </div>
                             <div class="col-md-2 mt-2 mt-md-3 col-5">
                                 <input type="number" class="form-control" name="dish_name" placeholder="Portion" aria-label="PortionAmount"></input>
