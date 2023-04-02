@@ -71,6 +71,23 @@ hr.max_width_500 {
     font-size: 1.5rem;
 }
 
+.button:focus {
+    outline-color: transparent;
+    outline-style: solid;
+    box-shadow: none;
+    background-color: black;
+    color: white;
+}
+
+.input:focus {
+    outline-color: transparent;
+    outline-style: solid;
+    border: 1px solid black;
+    box-shadow: 1px 1px black;
+}
+
+/*--------------- HR STyling Start ---------------*/
+
 .third-hr {
     width: 33.3%;
 }
@@ -78,3 +95,5 @@ hr.max_width_500 {
     width: 60%;
     margin-bottom: 0;
 }
+
+/*--------------- HR STyling End ---------------*/

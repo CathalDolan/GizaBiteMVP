@@ -78,28 +78,30 @@ $(document).ready(function() {
     $(document).on("click", ".add_ingredient_button", function(){
         console.log("Add Ingredient Function Fires");
 
-        const html = `<hr class="third-hr mx-auto mb-0 mt-2 p-0">
-                    <div class="row mx-2 ingredient_row">
-                        <div class="col-md-2 mt-2 col-5">
-                            <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch Amount" aria-label="BatchAmount"></input>
-                        </div>
-                        <div class="col-md-2 mt-2 col-5 ps-0">
-                            <input type="number" class="form-control" name="dish_name" placeholder="Portion Amount" aria-label="PortionAmount"></input>
-                        </div>
-                        <div class="col-md-2 mt-2 col-2 ps-0">
-                            <select class="form-select custom-select-icon pe-0" name="unit_select">
-                                <option value="g">g</option>
-                                <option value="kg">kg</option>
-                                <option value="pcs">Pcs</option>
-                            </select>
-                        </div>
-                        <div class="col-md-5 mt-2 col-11">
-                            <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
-                            <ul class="suggestions-list"></ul>
-                        </div>
-                        <div class="mt-2 col-1 px-0 delete_ingredient_icon_div">
-                            <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
-                                <i class="fa-solid fa-trash-can"></i>
+        const html = `<div class="ingredient_row">
+                        <hr class="third-hr mx-auto mb-0 mt-2 p-0">
+                        <div class="row mx-2">
+                            <div class="col-md-2 mt-2 col-5">
+                                <input type="number" class="form-control input" name="batch_amount" id="batch_amount" placeholder="Batch Amount" aria-label="BatchAmount"></input>
+                            </div>
+                            <div class="col-md-2 mt-2 col-5 ps-0">
+                                <input type="number" class="form-control input" name="dish_name" placeholder="Portion Amount" aria-label="PortionAmount"></input>
+                            </div>
+                            <div class="col-md-2 mt-2 col-2 ps-0">
+                                <select class="form-select custom-select-icon pe-0 input" name="unit_select">
+                                    <option value="g">g</option>
+                                    <option value="kg">kg</option>
+                                    <option value="pcs">Pcs</option>
+                                </select>
+                            </div>
+                            <div class="col-md-5 mt-2 col-11">
+                                <input type="text" class="form-control ingredient_name input" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
+                                <ul class="suggestions-list"></ul>
+                            </div>
+                            <div class="mt-2 col-1 px-0 delete_ingredient_icon_div">
+                                <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
+                                    <i class="fa-solid fa-trash-can"></i>
+                                </div>
                             </div>
                         </div>
                     </div>`
@@ -121,20 +123,20 @@ $(document).ready(function() {
                     <div class="container ingredient_container">
                         <div class="row mx-2 ingredient_row">
                             <div class="col-md-2 mt-3 col-5">
-                                <input type="number" class="form-control" name="batch_amount" id="batch_amount" placeholder="Batch Amount" aria-label="BatchAmount"></input>
+                                <input type="number" class="form-control input" name="batch_amount" id="batch_amount" placeholder="Batch Amount" aria-label="BatchAmount"></input>
                             </div>
                             <div class="col-md-2 mt-3 col-5 ps-0">
-                                <input type="number" class="form-control" name="dish_name" placeholder="Portion Amount" aria-label="PortionAmount"></input>
+                                <input type="number" class="form-control input" name="dish_name" placeholder="Portion Amount" aria-label="PortionAmount"></input>
                             </div>
                             <div class="col-md-2 mt-3 col-2 ps-0">
-                                <select class="form-select custom-select-icon pe-0" name="unit_select">
+                                <select class="form-select custom-select-icon pe-0 input" name="unit_select">
                                     <option value="g">g</option>
                                     <option value="kg">kg</option>
                                     <option value="pcs">Pcs</option>
                                 </select>
                             </div>
                             <div class="col-md-5 mt-2 mt-md-3 col-11">
-                                <input type="text" class="form-control ingredient_name" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
+                                <input type="text" class="form-control ingredient_name input" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
                                 <ul class="suggestions-list"></ul>
                             </div>
                             <div class="mt-2 mt-md-3 col-1 px-0 delete_ingredient_icon_div">
@@ -149,7 +151,7 @@ $(document).ready(function() {
                     <div class="container" id="add_cooking_method_container_1">
                         <div class="row mx-2" id="add_cooking_method_row_1">
                             <div class="col-md-6 mt-3 mt-md-2 col-12">
-                                <select class="form-select" name="cooking_method">
+                                <select class="form-select input" name="cooking_method">
                                     <option value="" disabled selected>Cooking Method</option>
                                     <option value="Boiled">Boiled</option>
                                     <option value="Deep Fried">Deep Fried</option>
@@ -157,7 +159,7 @@ $(document).ready(function() {
                                 </select>
                             </div>
                             <div class="col-md-6 mt-2 col-12">
-                                <select class="form-select" name="substrate">
+                                <select class="form-select input" name="substrate">
                                     <option value="" disabled selected>Substrate</option>
                                     <option value="Vegetable Oil">Vegetable Oil</option>
                                     <option value="Stock">Stock</option>
