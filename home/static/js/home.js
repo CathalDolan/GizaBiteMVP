@@ -8,7 +8,7 @@ $(document).ready(function(){
         console.log(`q=${q}`);
         var field = $(this);
         $(this).next().empty()
-        fetch(`https://8000-cathaldolan-gizabitemvp-2fe79spgt3d.ws-eu92.gitpod.io/get_products/${q}`)
+        fetch(`https://8000-cathaldolan-gizabitemvp-2fe79spgt3d.ws-eu93.gitpod.io/get_products/${q}`)
         .then(response => response.json())
         .then(data => {
             console.log("Fetch fn fires");
@@ -197,4 +197,41 @@ $(document).ready(function() {
         console.log("Remove_ingredient_group Function Fires");
         $(this).parents(".ingredient_group").remove();
     });
+
+    // Functions to calculate the portion or batch size
+    $("#number_of_portions").keyup(function(){
+        console.log("Calc fires");
+        const number_of_portions = parseInt($("#number_of_portions").val());
+        const batch_amount = parseInt($(".batch_amount").val() || 0);
+        const portion_amount = parseInt($(".portion_amount").val() || 0);
+        const batch_amount_calc = (number_of_portions*portion_amount);
+        const portion_amount_calc = (batch_amount/number_of_portions);
+        // if batch and portion amount are 0 or "", highlight batch field
+        // if only batch amount is 0, fill batch amount with batch_amount_calc
+        // if only portion amount is 0, fill portion amount with portion_amount_calc
+        // if neither are 0, fill batch amount with batch_amount_calc
+        if (batch_amount == 0 && portion_amount == 0) {
+            // if batch and portion amount are 0 or "", highlight batch field
+        } else if (batch_amount > 0 && portion_amount == 0) {
+            $(".portion_amount").val(portion_amount_calc);
+        } else if (portion_amount > 0) {
+            $(".batch_amount").val(batch_amount_calc);
+        }
+        
+    })
+    $(".batch_amount").keyup(function(){
+        console.log("Calc fires");
+        const number_of_portions = parseInt($("#number_of_portions").val());
+        const batch_amount = parseInt($(".batch_amount").val());
+        const portion_amount_calc = (batch_amount/number_of_portions);
+        $(".portion_amount").val(portion_amount_calc);
+    })
+    $(".portion_amount").keyup(function(){
+        console.log("Calc fires");
+        const number_of_portions = parseInt($("#number_of_portions").val());
+        const portion_amount = parseInt($(".portion_amount").val());
+        const batch_amount_calc = (number_of_portions*portion_amount);
+        $(".batch_amount").val(batch_amount_calc);
+    })
+    
 });
