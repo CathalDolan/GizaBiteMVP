@@ -1,21 +1,4 @@
 from django.db import models
-# from gsheets import mixins
-# from uuid import uuid4
-
-
-# class DummySpreadSheet(mixins.SheetPullableMixin, models.Model):
-#     spreadsheet_id = '1z1wufrAIa2xE6tXW4MIW6c2rTkyBYgkCqhgxDWHYdmY'
-#     model_id_field = 'guid'
-
-#     guid = models.CharField(primary_key=True, max_length=255, default=uuid4)
-
-#     first_name = models.CharField(max_length=127)
-#     last_name = models.CharField(max_length=127)
-#     email = models.CharField(max_length=127, null=True, blank=True, default=None)
-#     phone = models.CharField(max_length=127, null=True, blank=True, default=None)
-
-#     def __str__(self):
-#         return f'{self.first_name} {self.last_name} // {self.email} ({self.guid})'
 
 
 class MainCategories(models.Model):
@@ -67,24 +50,29 @@ class Allergens(models.Model):
     class Meta:
         verbose_name_plural = 'Allergens'
     name = models.CharField(max_length=254,
-                            null=False,
-                            blank=False)
-
-    def __str__(self):
-        return self.name
-
-
-class AllergenGroup(models.Model):
-    class Meta:
-        verbose_name_plural = 'Allergen Group'
-    name = models.CharField(max_length=254,
-                            null=False,
-                            blank=False)
+                            null=True,
+                            blank=True)
+    group = models.CharField(max_length=254,
+                             null=True,
+                             blank=True)
     index = models.IntegerField(null=True,
                                 blank=True)
 
     def __str__(self):
-        return self.name
+        return self.group
+
+
+# class AllergenGroup(models.Model):
+#     class Meta:
+#         verbose_name_plural = 'Allergen Group'
+#     name = models.CharField(max_length=254,
+#                             null=False,
+#                             blank=False)
+#     index = models.IntegerField(null=True,
+#                                 blank=True)
+
+#     def __str__(self):
+#         return self.name
 
 
 class Products(models.Model):
@@ -111,9 +99,9 @@ class Products(models.Model):
                                on_delete=models.PROTECT,
                                null=True,
                                blank=True)
-    product_name = models.CharField(max_length=254,
-                                    null=False,
-                                    blank=False)
+    name = models.CharField(max_length=254,
+                            null=False,
+                            blank=False)
     portion_size = models.CharField(max_length=254,
                                     null=True,
                                     blank=True)
@@ -145,21 +133,38 @@ class Products(models.Model):
                                 blank=True,
                                 max_digits=10,
                                 decimal_places=2)
-    allergens = models.ManyToManyField(Allergens,
-                                       through="ProductAllergens")
+    allergen = models.ManyToManyField(Allergens)
     deep_frying_index = models.IntegerField(null=True,
                                             blank=True)
 
     def __str__(self):
-        return self.product_name
+        return self.name
 
 
-class ProductAllergens(models.Model):
-    class Meta:
-        verbose_name_plural = 'Product Allergens'
-    product = models.ForeignKey(Products,
-                                on_delete=models.CASCADE)
-    allergen = models.ForeignKey(Allergens,
-                                 on_delete=models.CASCADE)
-    allergen_group = models.ForeignKey(AllergenGroup,
-                                       on_delete=models.CASCADE)
+# class ProductAllergens(models.Model):
+#     class Meta:
+#         verbose_name_plural = 'Product Allergens'
+#     product = models.ForeignKey(Products,
+#                                 on_delete=models.CASCADE)
+#     allergen = models.ForeignKey(Allergens,
+#                                  on_delete=models.CASCADE)
+#     allergen_group = models.ForeignKey(AllergenGroup,
+#                                        on_delete=models.CASCADE)
+
+#     # def __str__(self):
+#     #     return self.allergen.name
+
+
+class AllergenTest(models.Model):
+    name = models.CharField(max_length=254)
+    group = models.CharField(max_length=254,
+                             null=True,
+                             blank=True)
+    index = models.CharField(max_length=254,
+                             null=True,
+                             blank=True)
+
+
+class ProductTest(models.Model):
+    name = models.CharField(max_length=254)
+    allergen = models.ManyToManyField(AllergenTest)

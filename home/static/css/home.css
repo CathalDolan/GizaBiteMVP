@@ -52,3 +52,11 @@ hr.max_width_500 {
     background-color: #fafafa;
     width: inherit;
 }
+
+#total_allergens p {
+    margin-bottom: 0;
+}
+.allergens-footnote {
+    font-size: .7rem;
+    text-align: right;
+}
