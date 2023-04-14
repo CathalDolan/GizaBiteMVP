@@ -12,19 +12,18 @@
 {% endblock %}
 
 {% block content %}
-<!-- {% for item in product %}
+<!-- {% for item in products %}
 <h5>Product</h5>
 <ul>
-    <li>Name: {{ item.product_name }}</li>
-    <li>EnergyKjoules: {{ item.EnergyKjoules }}</li>
-    <li>EnergyKcal: {{ item.EnergyKcal }}</li>
-    <li>Fat: {{ item.Fat }}</li>
-    <li>Protein: {{ item.Protein }}</li>
-    <li>Carbohydrates: {{ item.Carbohydrates }}</li>
-    <li>Salt: {{ item.Salt }}</li>
-    <li>Sugars: {{ item.Sugars }}</li>
-    <li>Fibre: {{ item.Fibre }}</li>
-    <li>Allergens: 
+    <li>Name: {{ item.name }}</li>
+    <li>EnergyKcal: {{ item.energy_kcal }}</li>
+    <li>fat: {{ item.Fat }}</li>
+    <li>protein: {{ item.Protein }}</li>
+    <li>carbohydrates: {{ item.Carbohydrates }}</li>
+    <li>salt: {{ item.Salt }}</li>
+    <li>sugars: {{ item.Sugars }}</li>
+    <li>fibre: {{ item.Fibre }}</li>
+    <li>allergens: 
         <ul>
             {% for allergen in item.Allergens.all %}
             <li>{{ allergen.index }}, </li> 
@@ -166,20 +165,17 @@
     <hr class="max_width_500">
     <div class="container mx-auto max_width_500">
         <div class="row mx-2">
-            <div class="col-8">
-                <h4>Calories per Serving:</h4>
-            </div>
-            <div class="col-4">
-                <h4 id="total_calories"></h4>
+            <div class="col">
+                <h5>Calories per Serving:</h5>
+                <div id="total_calories"></div>
             </div>
         </div>
         <div class="row mx-2">
-            <div class="col-8">
-                <h4>Allergens:</h4>
+            <div class="col">
+                <h5>Allergens:</h5>
+                <div id="total_allergens"></div>
             </div>
-            <div class="col-4">
-                <h4 id="total_allergens"></h4>
-            </div>
+            
         </div>
     </div>
     <hr class="max_width_500">

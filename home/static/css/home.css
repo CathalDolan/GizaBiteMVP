@@ -171,4 +171,10 @@ select.did-floating-select::-ms-expand {
     top:-9px;
     font-size:11px;
     background: #fff;
+#total_allergens p {
+    margin-bottom: 0;
+}
+.allergens-footnote {
+    font-size: .7rem;
+    text-align: right;
 }
