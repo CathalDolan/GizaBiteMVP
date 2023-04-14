@@ -25,6 +25,6 @@ class AllergenTestSerializer(serializers.ModelSerializer):
 class ProductTestSerializer(serializers.ModelSerializer):
     allergen = AllergenTestSerializer(many=True)
 
-    class Meta:
-        model = Products
-        fields = '__all__'
+#     class Meta:
+#         model = Products
+#         fields = '__all__'

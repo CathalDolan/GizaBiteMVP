@@ -1,4 +1,6 @@
 from django.db import models
+# from gsheets import mixins
+# from uuid import uuid4
 
 
 class MainCategories(models.Model):

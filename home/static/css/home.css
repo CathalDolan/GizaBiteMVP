@@ -20,13 +20,42 @@ a {
 
 /*----- Colours - End -----*/
 
+/*-------------- Buttons Start ----------------*/
+
+.measure_system_button {
+    border-radius: 0px;
+}
+.measure_system_button:active {
+    background-color: black;
+    color: white;
+}
+
+.add_ingredient_button,
+.remove_ingredient_group_button,
+.add_ingredient_group_button {
+    border-radius: 5px;
+    background-color: white;
+}
+
+.add_ingredient_button:hover,
+.remove_ingredient_group_button:hover,
+.add_ingredient_group_button:hover {
+    background-color: black;
+    color: white;
+}
+
+.add_ingredient_button:focus,
+.remove_ingredient_group_button:focus,
+.add_ingredient_group_button:focus {
+    background-color: white;
+    color: black;
+}
+
+/*----- Buttons - End -----*/
+
 .container {
     margin: 0;
     padding: 0;
-}
-
-.button {
-    border-radius: 0px;
 }
 
 .page_banner {
@@ -53,6 +82,95 @@ hr.max_width_500 {
     width: inherit;
 }
 
+/*----- Hides the arrow on unit of measurement dropdown selector on small screens -----*/
+/*--- https://javascript.plainenglish.io/how-to-customize-the-select-icon-in-bootstrap-87080e3d3ad2 --- */
+@media only screen and (max-width: 481px) {
+    [name~="unit_of_measurement"] {
+        background-image: none;
+      }
+}
+
+@media only screen and (min-width: 481px) {
+    .delete_ingredient {
+        text-align: center;
+    }
+}
+
+.delete_ingredient_icon_div {
+    font-size: 1.5rem;
+}
+
+.button:focus {
+    outline-color: transparent;
+    outline-style: solid;
+    box-shadow: none;
+    background-color: black;
+    color: white;
+}
+
+.input:focus {
+    outline-color: transparent;
+    outline-style: solid;
+    border: 1px solid black;
+    box-shadow: 1px 1px black;
+}
+
+/*--------------- HR STyling Start ---------------*/
+
+.third-hr {
+    width: 33.3%;
+}
+.half-hr {
+    width: 60%;
+    margin-bottom: 0;
+}
+
+/*--------------- HR Styling End ---------------*/
+
+/*--------------- Floating Label Start ----------------*/
+/*-----Taken from https://codepen.io/devesh8/pen/MWYEJEP -----------*/
+.did-floating-label-content { 
+    position:relative; 
+}
+.did-floating-label {
+    position:absolute;
+    pointer-events:none;
+    left:15px;
+    top:7px;
+    padding:0 5px;
+    background:#fff;
+    transition:0.2s ease all; 
+    -moz-transition:0.2s ease all; 
+    -webkit-transition:0.2s ease all;
+}
+.did-floating-label.unit_of_measure_label {
+    left:5px;
+}
+.did-floating-input, .did-floating-select {
+    display:block;
+    width:100%;
+    height:36px;
+    padding: 0.375rem 0.75rem;
+    padding: 0 20px;
+    color: #323840;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+select.did-floating-select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+select.did-floating-select::-ms-expand {
+    display: none;
+}
+
+.did-floating-input:not(:placeholder-shown) ~ .did-floating-label,
+.did-floating-select:not([value=""]):valid ~ .did-floating-label {
+    top:-9px;
+    font-size:11px;
+    background: #fff;
 #total_allergens p {
     margin-bottom: 0;
 }

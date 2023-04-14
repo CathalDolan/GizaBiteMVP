@@ -7,10 +7,8 @@ from import_export.admin import ExportActionMixin
 class AllergensInline(admin.TabularInline):
     model = Products.allergen.through
 
-
 class AllergenTestInline(admin.TabularInline):
     model = ProductTest.allergen.through
-
 
 class MainCategoriesAdmin(admin.ModelAdmin):
     list_display = (
