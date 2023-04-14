@@ -81,24 +81,31 @@ $(document).ready(function() {
         const html = `<div class="ingredient_row">
                         <hr class="third-hr mx-auto mb-0 mt-2 p-0">
                         <div class="row mx-2">
-                            <div class="col-md-2 mt-2 col-5">
-                                <input type="number" class="form-control input" name="batch_amount" id="batch_amount" placeholder="Batch Amount" aria-label="BatchAmount"></input>
+                            <div class="col-md-2 mt-3 col-5 did-floating-label-content">
+                                <input type="number" class="form-control input batch_amount did-floating-input" name="batch_amount" placeholder=" " aria-label="BatchAmount"></input>
+                                <label class="did-floating-label">Batch Amount</label>
                             </div>
-                            <div class="col-md-2 mt-2 col-5 ps-0">
-                                <input type="number" class="form-control input" name="dish_name" placeholder="Portion Amount" aria-label="PortionAmount"></input>
+                            <div class="col-md-2 mt-3 col-5 ps-0 did-floating-label-content">
+                                <input type="number" class="form-control input portion_amount did-floating-input" name="dish_name" placeholder=" " aria-label="PortionAmount"></input>
+                                <label class="did-floating-label">Portion Amount</label>
                             </div>
-                            <div class="col-md-2 mt-2 col-2 ps-0">
-                                <select class="form-select custom-select-icon pe-0 input" name="unit_select">
-                                    <option value="g">g</option>
-                                    <option value="kg">kg</option>
-                                    <option value="pcs">Pcs</option>
+                            <div class="col-md-2 mt-3 col-2 ps-0 did-floating-label-content">
+                                <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
+                                    <option value=" "></option>
+                                    <option value="1">g</option>
+                                    <option value="2">kg</option>
+                                    <option value="3">ml</option>
+                                    <option value="4">l</option>
+                                    <option value="5">pcs</option>
                                 </select>
+                                <label class="did-floating-label unit_of_measure_label">Unit</label>
                             </div>
-                            <div class="col-md-5 mt-2 col-11">
-                                <input type="text" class="form-control ingredient_name input" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
+                            <div class="col-md-5 mt-2 mt-md-3 col-11 did-floating-label-content">
+                                <input type="text" class="form-control input ingredient_name did-floating-input" name="dish_name" placeholder=" " aria-label="IngredientName"></input>
+                                <label class="did-floating-label">Ingredient Name</label>
                                 <ul class="suggestions-list"></ul>
                             </div>
-                            <div class="mt-2 col-1 px-0 delete_ingredient_icon_div">
+                            <div class="mt-2 mt-md-3 col-1 px-0 delete_ingredient_icon_div">
                                 <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
                                     <i class="fa-solid fa-trash-can"></i>
                                 </div>
@@ -122,21 +129,29 @@ $(document).ready(function() {
                     <!-- Ingredient Details -->
                     <div class="container ingredient_container">
                         <div class="row mx-2 ingredient_row">
-                            <div class="col-md-2 mt-3 col-5">
-                                <input type="number" class="form-control input" name="batch_amount" id="batch_amount" placeholder="Batch Amount" aria-label="BatchAmount"></input>
+                            <div class="col-md-2 mt-3 col-5 did-floating-label-content">
+                                <input type="number" class="form-control input batch_amount did-floating-input" name="batch_amount" placeholder=" " aria-label="BatchAmount"></input>
+                                <label class="did-floating-label">Batch Amount</label>
                             </div>
-                            <div class="col-md-2 mt-3 col-5 ps-0">
-                                <input type="number" class="form-control input" name="dish_name" placeholder="Portion Amount" aria-label="PortionAmount"></input>
+                            <div class="col-md-2 mt-3 col-5 ps-0 did-floating-label-content">
+                                <input type="number" class="form-control input portion_amount did-floating-input" name="dish_name" placeholder=" " aria-label="PortionAmount"></input>
+                                <label class="did-floating-label">Portion Amount</label>
                             </div>
-                            <div class="col-md-2 mt-3 col-2 ps-0">
-                                <select class="form-select custom-select-icon pe-0 input" name="unit_select">
-                                    <option value="g">g</option>
-                                    <option value="kg">kg</option>
-                                    <option value="pcs">Pcs</option>
+                            <div class="col-md-2 mt-3 col-2 ps-0 did-floating-label-content">
+                                <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
+                                    <option value=" "></option>
+                                    <option value="1">g</option>
+                                    <option value="2">kg</option>
+                                    <option value="3">ml</option>
+                                    <option value="4">l</option>
+                                    <option value="5">pcs</option>
                                 </select>
+                                <label class="did-floating-label unit_of_measure_label">Unit</label>
                             </div>
-                            <div class="col-md-5 mt-2 mt-md-3 col-11">
-                                <input type="text" class="form-control ingredient_name input" name="dish_name" placeholder="Ingredient Name" aria-label="IngredientName"></input>
+                            <!-- Line 10 in home.js preventing this from working: $(this).next().empty() -->
+                            <div class="col-md-5 mt-2 mt-md-3 col-11 did-floating-label-content">
+                                <input type="text" class="form-control input ingredient_name did-floating-input" name="dish_name" placeholder=" " aria-label="IngredientName"></input>
+                                <label class="did-floating-label">Ingredient Name</label>
                                 <ul class="suggestions-list"></ul>
                             </div>
                             <div class="mt-2 mt-md-3 col-1 px-0 delete_ingredient_icon_div">
@@ -150,21 +165,25 @@ $(document).ready(function() {
                     <hr class="half-hr mx-auto">
                     <div class="container" id="add_cooking_method_container_1">
                         <div class="row mx-2" id="add_cooking_method_row_1">
-                            <div class="col-md-6 mt-3 mt-md-2 col-12">
-                                <select class="form-select input" name="cooking_method">
-                                    <option value="" disabled selected>Cooking Method</option>
+                            <div class="col-md-6 mt-3 mt-md-2 col-12 did-floating-label-content">
+                                <select class="form-select custom-select-icon pe-0 input did-floating-select" name="cooking_method" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
+                                    <option value=" "></option>
                                     <option value="Boiled">Boiled</option>
                                     <option value="Deep Fried">Deep Fried</option>
                                     <option value="Baked">Baked</option>
                                 </select>
+                                <label class="did-floating-label cooking_method_label">Cooking Method</label>
                             </div>
-                            <div class="col-md-6 mt-2 col-12">
-                                <select class="form-select input" name="substrate">
-                                    <option value="" disabled selected>Substrate</option>
+                            <div class="col-md-6 mt-2 col-12 did-floating-label-content">
+                                <select class="form-select custom-select-icon pe-0 input did-floating-select"  name="substrate" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
+                                    <option value=" "></option>
                                     <option value="Vegetable Oil">Vegetable Oil</option>
-                                    <option value="Stock">Stock</option>
+                                    <option value="Animal Fat">Animal Fat</option>
                                     <option value="Butter">Butter</option>
+                                    <option value="Stock">Stock</option>
+                                    <option value="Butter">Water</option>
                                 </select>
+                                <label class="did-floating-label substrate_label">Substrate</label>
                             </div>
                         </div>
                     </div>
@@ -206,18 +225,11 @@ $(document).ready(function() {
         const portion_amount = parseInt($(".portion_amount").val() || 0);
         const batch_amount_calc = (number_of_portions*portion_amount);
         const portion_amount_calc = (batch_amount/number_of_portions);
-        // if batch and portion amount are 0 or "", highlight batch field
-        // if only batch amount is 0, fill batch amount with batch_amount_calc
-        // if only portion amount is 0, fill portion amount with portion_amount_calc
-        // if neither are 0, fill batch amount with batch_amount_calc
-        if (batch_amount == 0 && portion_amount == 0) {
-            // if batch and portion amount are 0 or "", highlight batch field
-        } else if (batch_amount > 0 && portion_amount == 0) {
+        if (batch_amount > 0 && portion_amount == 0) {
             $(".portion_amount").val(portion_amount_calc);
         } else if (portion_amount > 0) {
             $(".batch_amount").val(batch_amount_calc);
         }
-        
     })
     $(".batch_amount").keyup(function(){
         console.log("Calc fires");
