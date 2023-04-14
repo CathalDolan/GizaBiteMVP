@@ -55,8 +55,10 @@ class Allergens(models.Model):
     group = models.CharField(max_length=254,
                              null=True,
                              blank=True)
-    index = models.IntegerField(null=True,
-                                blank=True)
+    eu_index = models.IntegerField(null=True,
+                                   blank=True)
+    us_index = models.IntegerField(null=True,
+                                   blank=True)
 
     def __str__(self):
         return self.group

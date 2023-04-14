@@ -4,8 +4,8 @@ from import_export.admin import ExportActionMixin
 
 
 # Register your models here.
-# class AllergensInline(admin.TabularInline):
-#     model = Products.allergens.through
+class AllergensInline(admin.TabularInline):
+    model = Products.allergen.through
 
 
 class AllergenTestInline(admin.TabularInline):
@@ -58,12 +58,13 @@ class AllergensAdmin(admin.ModelAdmin):
         'pk',
         'name',
         'group',
-        'index',
+        'eu_index',
+        'us_index',
     )
-    # inlines = [
-    #         AllergensInline,
-    #     ]
-    ordering = ('index',)
+    inlines = [
+            AllergensInline,
+        ]
+    ordering = ('eu_index',)
 
 
 class ProductsAdmin(ExportActionMixin, admin.ModelAdmin):
@@ -85,9 +86,9 @@ class ProductsAdmin(ExportActionMixin, admin.ModelAdmin):
         'fibre',
         'deep_frying_index',
     )
-    # inlines = [
-    #     AllergensInline,
-    # ]
+    inlines = [
+        AllergensInline,
+    ]
     ordering = ('sub_category',)
 
 

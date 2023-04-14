@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% load static %}
+{% block extra_css %}
+<link rel="stylesheet" href="{% static 'css/product-admin.css' %}">
+{% endblock %}
+{% block page_header %}
+<div class="container header-container">
+    <div class="row">
+        <div class="col">
+        
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid mx-auto">
+    <div class="row">
+        <div class="col">
+            <h1>Product Admin</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <p>Main Categories: {{ main_categories }}</p>
+            <a href="{% url 'product_admin' %}?task=delete_all_main_categories"><button type="button" class="btn btn-danger">Delete</button></a>
+            <a href="{% url 'product_admin' %}?task=add_all_main_categories"><button type="button" class="btn btn-success">Load</button></a>
+        </div>
+        <div class="col">
+            <p>Sub Categories: {{ sub_categories }}</p>
+            <a href="{% url 'product_admin' %}?task=delete_all_sub_categories"><button type="button" class="btn btn-danger">Delete</button></a>
+            <a href="{% url 'product_admin' %}?task=add_all_sub_categories"><button type="button" class="btn btn-success">Load</button></a>
+        </div>
+        <div class="col">
+            <p>Sources: {{ sources }}</p>
+            <a href="{% url 'product_admin' %}?task=delete_all_sources"><button type="button" class="btn btn-danger">Delete</button></a>
+            <a href="{% url 'product_admin' %}?task=add_all_sources"><button type="button" class="btn btn-success">Load</button></a>
+        </div>
+        <div class="col">
+            <p>Cooked / Raw: {{ cooked_raw }}</p>
+            <a href="{% url 'product_admin' %}?task=delete_all_cooked_raw"><button type="button" class="btn btn-danger">Delete</button></a>
+            <a href="{% url 'product_admin' %}?task=add_all_cooked_raw"><button type="button" class="btn btn-success">Load</button></a>
+        </div>
+        <div class="col">
+            <p>Allergens: {{ allergens }}</p>
+            <a href="{% url 'product_admin' %}?task=delete_all_allergens"><button type="button" class="btn btn-danger">Delete</button></a>
+            <a href="{% url 'product_admin' %}?task=add_all_allergens"><button type="button" class="btn btn-success">Load</button></a>
+        </div>
+        <div class="col">
+            <p>All Products: {{ total_items }}</p>
+            <a href="{% url 'product_admin' %}?task=delete_all_products"><button type="button" class="btn btn-danger">Delete</button></a>
+            <a href="{% url 'product_admin' %}?task=add_all_products"><button type="button" class="btn btn-success">Load</button></a>
+        </div>
+    </div>
+</div>
+{% endblock %}

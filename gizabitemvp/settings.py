@@ -44,6 +44,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     'allauth',
+    'allauth.account',
+    'allauth.socialaccount',
     'home',
     'debug_toolbar',
     'rest_framework',
@@ -99,7 +101,7 @@ SITE_ID = 1
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
-LOGIN_REDIRECT_URL = '/success'
+LOGIN_REDIRECT_URL = '/'
 
 WSGI_APPLICATION = 'gizabitemvp.wsgi.application'
 

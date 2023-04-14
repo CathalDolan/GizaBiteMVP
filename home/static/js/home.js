@@ -20,7 +20,7 @@ $(document).ready(function(){
             SEARCH_STRING = $(this).val();
             var field = $(this);
             $(this).next().empty()
-            fetch(`https://8000-cathaldolan-gizabitemvp-d7bejlihi03.ws-eu93.gitpod.io/get_products/${q}`)
+            fetch(`https://8000-cathaldolan-gizabitemvp-d7bejlihi03.ws-eu94.gitpod.io/get_products/${q}`)
             .then(response => response.json())
             .then(data => {
                 PRODUCTS = data.products;
