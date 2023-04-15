@@ -19,8 +19,8 @@ $(document).ready(function(){
             var q = $(this).val();
             SEARCH_STRING = $(this).val();
             var field = $(this);
-            $(this).next().empty()
-            fetch(`https://8000-cathaldolan-gizabitemvp-d7bejlihi03.ws-eu94.gitpod.io/get_products/${q}`)
+            $(this).next(".suggestions-list").empty()
+            fetch(`https://8000-cathaldolan-gizabitemvp-2fe79spgt3d.ws-eu94.gitpod.io/get_products/${q}`)
             .then(response => response.json())
             .then(data => {
                 PRODUCTS = data.products;
@@ -34,7 +34,7 @@ $(document).ready(function(){
                             // console.log(`allergen = ${v["allergen"]}`)
                             allergens.push(v.index)
                         }
-                        $(field).next().append(`<li class="suggestion" data-product='${JSON.stringify(item)}'>${item['name']} ${allergens.length != 0 ? ' - [' + allergens + ']': ''}</li>`)
+                        $(field).next(".suggestions-list").append(`<li class="suggestion" data-product='${JSON.stringify(item)}'>${item['name']} ${allergens.length != 0 ? ' - [' + allergens + ']': ''}</li>`)
                     }) 
                 }
                      
