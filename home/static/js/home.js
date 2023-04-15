@@ -32,9 +32,9 @@ $(document).ready(function(){
                         const allergens = []
                         for(const [k, v] of Object.entries(item.allergen)) {
                             // console.log(`allergen = ${v["allergen"]}`)
-                            allergens.push(v.index)
+                            allergens.push(v.eu_index)
                         }
-                        $(field).next(".suggestions-list").append(`<li class="suggestion" data-product='${JSON.stringify(item)}'>${item['name']} ${allergens.length != 0 ? ' - [' + allergens + ']': ''}</li>`)
+                        $(field).siblings('.suggestions-list').append(`<li class="suggestion" data-product='${JSON.stringify(item)}'>${item['name']} ${allergens.length != 0 ? ' - [' + allergens + ']': ''}</li>`)
                     }) 
                 }
                      
@@ -43,7 +43,7 @@ $(document).ready(function(){
     })
 
     $(document).on('click', '.suggestion', function() {
-        $(this).parent().prev().val($(this).text()).data('product', $(this).data('product'));
+        $(this).parent().siblings('input').val($(this).text()).data('product', $(this).data('product'));
         $('.suggestions-list').empty();
         gatherNutrientInfo();
     })

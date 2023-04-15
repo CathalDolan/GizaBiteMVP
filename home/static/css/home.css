@@ -79,7 +79,7 @@ hr.max_width_500 {
     position: absolute;
     z-index: 2;
     background-color: #fafafa;
-    width: inherit;
+    width: 100%;
 }
 
 /*----- Hides the arrow on unit of measurement dropdown selector on small screens -----*/
@@ -171,6 +171,8 @@ select.did-floating-select::-ms-expand {
     top:-9px;
     font-size:11px;
     background: #fff;
+}
+
 #total_allergens p {
     margin-bottom: 0;
 }
