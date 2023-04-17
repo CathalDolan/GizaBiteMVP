@@ -208,7 +208,7 @@ $(document).ready(function() {
                         </div>
                         <div class="col-lg-2 mt-3 col-5 ps-0 did-floating-label-content">
                             <input type="number" class="form-control input portion_amount did-floating-input" name="portion_amount" placeholder=" " aria-label="PortionAmount"></input>
-                            <label class="did-floating-label">Portion Amount</label>
+                            <label class="did-floating-label portion_amount_label">Portion Amount</label>
                         </div>
                         <div class="col-lg-2 mt-3 col-2 ps-0 did-floating-label-content">
                             <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
@@ -251,16 +251,13 @@ $(document).ready(function() {
                     <!-- Ingredient Details -->
                     <div class="container ingredient_container">
                         <div class="row mx-2 ingredient_row">
-                            <div class="col-12">
-                                <hr class="third-hr mx-auto mb-0">
-                            </div>
                             <div class="col-lg-2 mt-3 col-5 did-floating-label-content">
                                 <input type="number" class="form-control input batch_amount did-floating-input" name="batch_amount" placeholder=" " aria-label="BatchAmount"></input>
                                 <label class="did-floating-label">Batch Amount</label>
                             </div>
                             <div class="col-lg-2 mt-3 col-5 ps-0 did-floating-label-content">
                                 <input type="number" class="form-control input portion_amount did-floating-input" name="portion_amount" placeholder=" " aria-label="PortionAmount"></input>
-                                <label class="did-floating-label">Portion Amount</label>
+                                <label class="did-floating-label portion_amount_label">Portion Amount</label>
                             </div>
                             <div class="col-lg-2 mt-3 col-2 ps-0 did-floating-label-content">
                                 <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">

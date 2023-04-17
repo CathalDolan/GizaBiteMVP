@@ -143,6 +143,9 @@ hr.max_width_500 {
     -moz-transition:0.2s ease all; 
     -webkit-transition:0.2s ease all;
 }
+.did-floating-label.portion_amount_label {
+    left:5px;
+}
 .did-floating-label.unit_of_measure_label {
     left:5px;
 }
