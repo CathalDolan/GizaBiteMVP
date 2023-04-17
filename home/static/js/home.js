@@ -191,44 +191,46 @@ $(document).ready(function(){
 $(document).ready(function() {
 
     // Add a New Ingredient Row Function
+    var ingredient_row_id_counter = 1;
     $(document).on("click", ".add_ingredient_button", function(){
         console.log("Add Ingredient Function Fires");
 
-        const html = `<div class="ingredient_row">
-                        <hr class="third-hr mx-auto mb-0 mt-2 p-0">
-                        <div class="row mx-2">
-                            <div class="col-md-2 mt-3 col-5 did-floating-label-content">
-                                <input type="number" class="form-control input batch_amount did-floating-input" name="batch_amount" placeholder=" " aria-label="BatchAmount"></input>
-                                <label class="did-floating-label">Batch Amount</label>
-                            </div>
-                            <div class="col-md-2 mt-3 col-5 ps-0 did-floating-label-content">
-                                <input type="number" class="form-control input portion_amount did-floating-input" name="dish_name" placeholder=" " aria-label="PortionAmount"></input>
-                                <label class="did-floating-label">Portion Amount</label>
-                            </div>
-                            <div class="col-md-2 mt-3 col-2 ps-0 did-floating-label-content">
-                                <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
-                                    <option value=" "></option>
-                                    <option value="1">g</option>
-                                    <option value="2">kg</option>
-                                    <option value="3">ml</option>
-                                    <option value="4">l</option>
-                                    <option value="5">pcs</option>
-                                </select>
-                                <label class="did-floating-label unit_of_measure_label">Unit</label>
-                            </div>
-                            <div class="col-md-5 mt-2 mt-md-3 col-11 did-floating-label-content">
-                                <input type="text" class="form-control input ingredient_name did-floating-input" name="dish_name" placeholder=" " aria-label="IngredientName"></input>
-                                <label class="did-floating-label">Ingredient Name</label>
-                                <ul class="suggestions-list"></ul>
-                            </div>
-                            <div class="mt-2 mt-md-3 col-1 px-0 delete_ingredient_icon_div">
-                                <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
-                                    <i class="fa-solid fa-trash-can"></i>
-                                </div>
+        ingredient_row_id_counter+=1
+        localStorage.setItem("clickcount", ingredient_row_id_counter);
+
+        const html = `<div class="row mx-2 ingredient_row">
+                        <div class="col-md-2 mt-3 col-5 did-floating-label-content">
+                            <input type="number" class="form-control input batch_amount did-floating-input" name="batch_amount" placeholder=" " aria-label="BatchAmount"></input>
+                            <label class="did-floating-label">Batch Amount</label>
+                        </div>
+                        <div class="col-md-2 mt-3 col-5 ps-0 did-floating-label-content">
+                            <input type="number" id="portion_amount" class="form-control input portion_amount did-floating-input" name="portion_amount" placeholder=" " aria-label="PortionAmount"></input>
+                            <label class="did-floating-label">Portion Amount</label>
+                        </div>
+                        <div class="col-md-2 mt-3 col-2 ps-0 did-floating-label-content">
+                            <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
+                                <option value=" "></option>
+                                <option value="1">g</option>
+                                <option value="2">kg</option>
+                                <option value="3">ml</option>
+                                <option value="4">l</option>
+                                <option value="5">pcs</option>
+                            </select>
+                            <label class="did-floating-label unit_of_measure_label">Unit</label>
+                        </div>
+                        <div class="col-md-5 mt-2 mt-md-3 col-11 did-floating-label-content">
+                            <input type="text" class="form-control input ingredient_name did-floating-input" name="dish_name" placeholder=" " aria-label="IngredientName"></input>
+                            <label class="did-floating-label">Ingredient Name</label>
+                            <ul class="suggestions-list"></ul>
+                        </div>
+                        <div class="mt-2 mt-md-3 col-1 px-0 delete_ingredient_icon_div">
+                            <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
+                                <i class="fa-solid fa-trash-can"></i>
                             </div>
                         </div>
                     </div>`
-        $(this).parents(".ingredient_group").children("div.ingredient_container").append(html);
+        $(this).parents(".ingredient_group").children(".ingredient_container").append(html);
+        // console.log("233 = ", $(this).parents(".ingredient_container"));
     });
 
     // Add a New Ingredient Group Function
@@ -245,37 +247,36 @@ $(document).ready(function() {
                     <!-- Ingredient Details -->
                     <div class="container ingredient_container">
                         <div class="row mx-2 ingredient_row">
-                            <div class="col-md-2 mt-3 col-5 did-floating-label-content">
-                                <input type="number" class="form-control input batch_amount did-floating-input" name="batch_amount" placeholder=" " aria-label="BatchAmount"></input>
-                                <label class="did-floating-label">Batch Amount</label>
-                            </div>
-                            <div class="col-md-2 mt-3 col-5 ps-0 did-floating-label-content">
-                                <input type="number" class="form-control input portion_amount did-floating-input" name="dish_name" placeholder=" " aria-label="PortionAmount"></input>
-                                <label class="did-floating-label">Portion Amount</label>
-                            </div>
-                            <div class="col-md-2 mt-3 col-2 ps-0 did-floating-label-content">
-                                <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
-                                    <option value=" "></option>
-                                    <option value="1">g</option>
-                                    <option value="2">kg</option>
-                                    <option value="3">ml</option>
-                                    <option value="4">l</option>
-                                    <option value="5">pcs</option>
-                                </select>
-                                <label class="did-floating-label unit_of_measure_label">Unit</label>
-                            </div>
-                            <!-- Line 10 in home.js preventing this from working: $(this).next().empty() -->
-                            <div class="col-md-5 mt-2 mt-md-3 col-11 did-floating-label-content">
-                                <input type="text" class="form-control input ingredient_name did-floating-input" name="dish_name" placeholder=" " aria-label="IngredientName"></input>
-                                <label class="did-floating-label">Ingredient Name</label>
-                                <ul class="suggestions-list"></ul>
-                            </div>
-                            <div class="mt-2 mt-md-3 col-1 px-0 delete_ingredient_icon_div">
-                                <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
-                                    <i class="fa-solid fa-trash-can"></i>
-                                </div>
+                        <div class="col-md-2 mt-3 col-5 did-floating-label-content">
+                            <input type="number" class="form-control input batch_amount did-floating-input" name="batch_amount" placeholder=" " aria-label="BatchAmount"></input>
+                            <label class="did-floating-label">Batch Amount</label>
+                        </div>
+                        <div class="col-md-2 mt-3 col-5 ps-0 did-floating-label-content">
+                            <input type="number" id="portion_amount" class="form-control input portion_amount did-floating-input" name="portion_amount" placeholder=" " aria-label="PortionAmount"></input>
+                            <label class="did-floating-label">Portion Amount</label>
+                        </div>
+                        <div class="col-md-2 mt-3 col-2 ps-0 did-floating-label-content">
+                            <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
+                                <option value=" "></option>
+                                <option value="1">g</option>
+                                <option value="2">kg</option>
+                                <option value="3">ml</option>
+                                <option value="4">l</option>
+                                <option value="5">pcs</option>
+                            </select>
+                            <label class="did-floating-label unit_of_measure_label">Unit</label>
+                        </div>
+                        <div class="col-md-5 mt-2 mt-md-3 col-11 did-floating-label-content">
+                            <input type="text" class="form-control input ingredient_name did-floating-input" name="dish_name" placeholder=" " aria-label="IngredientName"></input>
+                            <label class="did-floating-label">Ingredient Name</label>
+                            <ul class="suggestions-list"></ul>
+                        </div>
+                        <div class="mt-2 mt-md-3 col-1 px-0 delete_ingredient_icon_div">
+                            <div class="delete_ingredient" name="delete_ingredient" aria-label="delete_ingredient">
+                                <i class="fa-solid fa-trash-can"></i>
                             </div>
                         </div>
+                    </div>
                     </div>
                     <!-- Cooking Method -->
                     <hr class="half-hr mx-auto">
@@ -335,7 +336,7 @@ $(document).ready(function() {
 
     // Functions to calculate the portion or batch size
     $("#number_of_portions").keyup(function(){
-        console.log("Calc fires");
+        console.log("Calc 1 fires");
         const number_of_portions = parseInt($("#number_of_portions").val());
         const batch_amount = parseInt($(".batch_amount").val() || 0);
         const portion_amount = parseInt($(".portion_amount").val() || 0);
@@ -347,19 +348,18 @@ $(document).ready(function() {
             $(".batch_amount").val(batch_amount_calc);
         }
     })
-    $(".batch_amount").keyup(function(){
-        console.log("Calc fires");
-        const number_of_portions = parseInt($("#number_of_portions").val());
-        const batch_amount = parseInt($(".batch_amount").val());
-        const portion_amount_calc = (batch_amount/number_of_portions);
-        $(".portion_amount").val(portion_amount_calc);
+    $("#ingredient_group_container").on("keyup", ".batch_amount", function(){
+        let number_of_portions = parseInt($("#number_of_portions").val());
+        let batch_amount = parseInt($(this).val());
+        let portion_amount_calc = (batch_amount/number_of_portions);
+        $(this).closest(".ingredient_row").find("input[name='portion_amount']").val(portion_amount_calc);
     })
-    $(".portion_amount").keyup(function(){
+    $("#ingredient_group_container").on("keyup", ".portion_amount", function(){
         console.log("Calc fires");
         const number_of_portions = parseInt($("#number_of_portions").val());
-        const portion_amount = parseInt($(".portion_amount").val());
+        const portion_amount = parseInt($(this).closest(".ingredient_row").find("input[name='portion_amount']").val());
         const batch_amount_calc = (number_of_portions*portion_amount);
-        $(".batch_amount").val(batch_amount_calc);
+        $(this).closest(".ingredient_row").find("input[name='batch_amount']").val(batch_amount_calc);
     })
     
 });
