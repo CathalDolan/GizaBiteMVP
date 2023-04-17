@@ -334,7 +334,7 @@ $(document).ready(function() {
         $(this).parents(".ingredient_group").remove();
     });
 
-    // Functions to calculate the portion or batch size
+    // Functions to calculate the portion and batch size
     $("#number_of_portions").keyup(function(){
         console.log("Calc 1 fires");
         const number_of_portions = parseInt($("#number_of_portions").val());
@@ -347,19 +347,30 @@ $(document).ready(function() {
         } else if (portion_amount > 0) {
             $(".batch_amount").val(batch_amount_calc);
         }
-    })
+    });
+    // Function to calculate Portion Amount
     $("#ingredient_group_container").on("keyup", ".batch_amount", function(){
-        let number_of_portions = parseInt($("#number_of_portions").val());
-        let batch_amount = parseInt($(this).val());
-        let portion_amount_calc = (batch_amount/number_of_portions);
-        $(this).closest(".ingredient_row").find("input[name='portion_amount']").val(portion_amount_calc);
-    })
+        if ($("#number_of_portions").val() > 0) {
+            let number_of_portions = parseInt($("#number_of_portions").val());
+            let batch_amount = parseInt($(this).val());
+            let portion_amount_calc = (batch_amount/number_of_portions);
+            $(this).closest(".ingredient_row").find("input[name='portion_amount']").val(portion_amount_calc);
+        } else {
+            $(this).val("");
+            alert("Please add number of portions");
+        }
+    });
+    // Function to calculate Batch Amount
     $("#ingredient_group_container").on("keyup", ".portion_amount", function(){
-        console.log("Calc fires");
-        const number_of_portions = parseInt($("#number_of_portions").val());
-        const portion_amount = parseInt($(this).closest(".ingredient_row").find("input[name='portion_amount']").val());
-        const batch_amount_calc = (number_of_portions*portion_amount);
-        $(this).closest(".ingredient_row").find("input[name='batch_amount']").val(batch_amount_calc);
-    })
-    
-});
+        if ($("#number_of_portions").val() > 0) {
+            const number_of_portions = parseInt($("#number_of_portions").val());
+            const portion_amount = parseInt($(this).closest(".ingredient_row").find("input[name='portion_amount']").val());
+            const batch_amount_calc = (number_of_portions*portion_amount);
+            $(this).closest(".ingredient_row").find("input[name='batch_amount']").val(batch_amount_calc);
+        } else {
+            $(this).val("");
+            alert("Please add number of portions");
+        }
+    });
+
+})
