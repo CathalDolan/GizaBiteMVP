@@ -12,91 +12,40 @@
 {% endblock %}
 
 {% block content %}
-<!-- {% for item in products %}
-<h5>Product</h5>
-<ul>
-    <li>Name: {{ item.name }}</li>
-    <li>EnergyKcal: {{ item.energy_kcal }}</li>
-    <li>fat: {{ item.Fat }}</li>
-    <li>protein: {{ item.Protein }}</li>
-    <li>carbohydrates: {{ item.Carbohydrates }}</li>
-    <li>salt: {{ item.Salt }}</li>
-    <li>sugars: {{ item.Sugars }}</li>
-    <li>fibre: {{ item.Fibre }}</li>
-    <li>allergens: 
-        <ul>
-            {% for allergen in item.Allergens.all %}
-            <li>{{ allergen.index }}, </li> 
-            {% endfor %}
-        </ul>
-    </li>
-</ul>
-{% endfor %} -->
     <div class="container mx-auto">
         <div class="row mx-2">
             <div class="col-12">
-                <h1 class="heading text-center mt-3">How To</h1>
+                <h1 class="heading text-center mt-3">How To Use GizaBite</h1>
             </div>
             <div class="col-12 mb-0">
-                <p class="mb-0">Gizabite provides easy way to identify allergens in your recipes and count the calories per serving. 
-                                Please register your interest to be nitified of the next release</p>
-                <!-- <p class="ms-3 mb-0">&#x2022; Add the number of portions</p>
-                <p class="ms-3 mb-0">&#x2022; Add the batch amount or individual portion Size</p>
-                <p class="ms-3 mb-0">&#x2022; Start typing your ingredient and select from the list provided</p> -->
-            </div>
-            <div class="col-12">
-                <h2 class="heading mt-3 mb-0">Allergens</h2>
-            </div>
-            <div class="col-12">
                 <p class="mb-0">
-                    To indentify allergens only, weights are not required only the ingredients.
+                    In order to identify allergens it is necessary to provide all ingredients. To calculate
+                    calories, it is necessary to indicate the amounts of those ingredients. 
+                    <br><br>
+                    <b>Ingredient Groups:</b> An ingredient group is primarily dictated by the cooking method
+                        employed. Each one requires its own Cooking Method. For example: Fish and Chips 
+                        with Mushy Peas. In this instance, the mushy peas will be cooked separately from the Deep
+                        fried fish and chips and therefore require two ingredient groups. 
+                    <br><br>
+                    <b>Instructions for Use:</b>
+                    <br><br>
+                    <ol>
+                        <li>Add Dish Name (Optional)</li>
+                        <li>Add Number of Portions</li>
+                        <li>If not already selected, choose your system of measurement</li>
+                        <li>Add batch weight</li>
+                        <li>Individual portion weight will populate automatically. However, you can make adjustments 
+                            to it which will automatically update the Batch Amount field</li>
+                        <li>Select the unit of measurement</li>
+                        <li>Begin typing your ingredient and select from the options provided</li>
+                        <li>Choose your cooking method and substrate</li>
+                        <li>Click the "Add Ingredient" button and repeat steps 4 to 7 if required</li>
+                        <li>CLick the "Add Ingredient Group" button and repeat steps 4 to 8 if required</li>
+                    </ol>
                 </p>
             </div>
-            <div class="col-12">
-                <h2 class="heading mt-3 mb-0">Calories per Serving</h2>
-            </div>
-            <div class="col-12">
-                <p class="mb-0">
-                    To calculate the calories per serving, please include the number of portions, the batch or portion amount and the ingredients.
-                </p>
-            </div>
         </div>
-        <!-- <hr class="half-hr mx-auto"> -->
-        <div class="page_banner mt-3">
-            <h3 class="ms-4 pt-1 pt-sm-0">Step 1 - Number of Portions</h3>
-        </div>
-    </div>
-
-    <!-- Add New Ingredient Group Button -->
-    <div class="container element-container mx-auto">
-        <div class="row mt-3 mb-2 mx-2">
-            <div class="col-8 col-css mx-auto text-center">
-                <button class="add_ingredient_group_button">Add Ingredient Group</button>
-            </div>
-        </div>
-    </div>
-
-    <!-- Results Section -->
-    <hr class="max_width_500">
-    <div class="container mx-auto max_width_500">
-        <div class="row mx-2">
-            <div class="col">
-                <h5>Calories per Serving:</h5>
-                <div id="total_calories"></div>
-            </div>
-        </div>
-        <div class="row mx-2">
-            <div class="col">
-                <h5>Allergens:</h5>
-                <div id="total_allergens"></div>
-            </div>
-            
-        </div>
-    </div>
-    <hr class="max_width_500">
-
-    <div class="container">
-        
+        <hr class="half-hr mx-auto">
     </div>
 
 {% endblock %}

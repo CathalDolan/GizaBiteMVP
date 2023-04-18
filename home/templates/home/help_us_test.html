@@ -38,65 +38,49 @@
                 <h1 class="heading text-center mt-3">Help Us Test</h1>
             </div>
             <div class="col-12 mb-0">
-                <p class="mb-0">Gizabite provides easy way to identify allergens in your recipes and count the calories per serving. 
-                                Please register your interest to be nitified of the next release</p>
-                <!-- <p class="ms-3 mb-0">&#x2022; Add the number of portions</p>
-                <p class="ms-3 mb-0">&#x2022; Add the batch amount or individual portion Size</p>
-                <p class="ms-3 mb-0">&#x2022; Start typing your ingredient and select from the list provided</p> -->
-            </div>
-            <div class="col-12">
-                <h2 class="heading mt-3 mb-0">Allergens</h2>
-            </div>
-            <div class="col-12">
-                <p class="mb-0">
-                    To indentify allergens only, weights are not required only the ingredients.
+                <p class="mb-0">Would you like to help us test GizaBite? We'd love for you to help with testing by 
+                                using it on a daily basis and giving us your feedback and suggestions. If you'd 
+                                like to help, just send us your name and email address.
+
+                                Going forward functionality will include being able to save dishes, create menus
+                                and generate PO's for your suppliers. 
                 </p>
             </div>
-            <div class="col-12">
-                <h2 class="heading mt-3 mb-0">Calories per Serving</h2>
-            </div>
-            <div class="col-12">
-                <p class="mb-0">
-                    To calculate the calories per serving, please include the number of portions, the batch or portion amount and the ingredients.
-                </p>
-            </div>
-        </div>
-        <!-- <hr class="half-hr mx-auto"> -->
-        <div class="page_banner mt-3">
-            <h3 class="ms-4 pt-1 pt-sm-0">Step 1 - Number of Portions</h3>
-        </div>
-    </div>
-
-    <!-- Add New Ingredient Group Button -->
-    <div class="container element-container mx-auto">
-        <div class="row mt-3 mb-2 mx-2">
-            <div class="col-8 col-css mx-auto text-center">
-                <button class="add_ingredient_group_button">Add Ingredient Group</button>
-            </div>
-        </div>
-    </div>
-
-    <!-- Results Section -->
-    <hr class="max_width_500">
-    <div class="container mx-auto max_width_500">
-        <div class="row mx-2">
-            <div class="col">
-                <h5>Calories per Serving:</h5>
-                <div id="total_calories"></div>
+            <div class="col-12 mb-0 mt-3">
+                <form action="" method="">
+                    {% csrf_token %}
+                    <div class="row">
+                        <div class="mb-3 col-12 col-md-4 did-floating-label-content">
+                            <input type="text" class="form-control input did-floating-input" id="name"  placeholder=" " aria-label="name" required>
+                            <label for="name" class="form-label did-floating-label">First Name, Surname</label>
+                        </div>
+                        <div class="mb-3 col-12 col-md-4 did-floating-label-content">
+                            <input type="text" class="form-control input did-floating-input" id="establishment"  placeholder=" " aria-label="name">
+                            <label for="establishment" class="form-label did-floating-label">Establishment Name, City</label>
+                        </div>
+                        <div class="mb-3 col-12 col-md-4 did-floating-label-content">
+                            <input type="email" class="form-control input did-floating-input" id="EmailAddress"  placeholder=" " aria-label="EmailAddress" required>
+                            <label for="EmailAddress" class="form-label did-floating-label">Email address</label>
+                            <!-- <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div> -->
+                        </div>
+                    </div>
+                    <div class="mb-3 form-check">
+                        <input type="checkbox" class="form-check-input" id="like_to_help_check">
+                        <label class="form-check-label" for="like_to_help_check">I'd Like to Help</label>
+                    </div>
+                    <div class="mb-3 form-check">
+                        <input type="checkbox" class="form-check-input" id="notify_me_check">
+                        <label class="form-check-label" for="notify_me_check">Notify Me When Blah</label>
+                      </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
             </div>
         </div>
-        <div class="row mx-2">
-            <div class="col">
-                <h5>Allergens:</h5>
-                <div id="total_allergens"></div>
-            </div>
-            
-        </div>
-    </div>
-    <hr class="max_width_500">
-
-    <div class="container">
         
+        <!-- <hr class="half-hr mx-auto"> -->
     </div>
+
+    
+    <hr class="max_width_500">
 
 {% endblock %}
