@@ -26,6 +26,22 @@ def about(request):
     return render(request, "home/about.html", context)
 
 
+def how_to(request):
+    print("HOW TO")
+    context = {
+        # 'products': products
+    }
+    return render(request, "home/how_to.html", context)
+
+
+def help_us_test(request):
+    print("HELP US TEST")
+    context = {
+        # 'products': products
+    }
+    return render(request, "home/help_us_test.html", context)
+
+
 def get_products(request, q):
     print("getProducts = ", q)
     products = Products.objects.all().filter(Q(name__icontains=q))
