@@ -18,6 +18,14 @@ def index(request):
     return render(request, "home/index.html", context)
 
 
+def about(request):
+    print("ABOUT")
+    context = {
+        # 'products': products
+    }
+    return render(request, "home/about.html", context)
+
+
 def get_products(request, q):
     print("getProducts = ", q)
     products = Products.objects.all().filter(Q(name__icontains=q))

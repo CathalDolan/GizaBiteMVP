@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block page_header %}
+<div class="container header-container">
+    <div class="row">
+        <div class="col">
+        
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block content %}
+<!-- {% for item in products %}
+<h5>Product</h5>
+<ul>
+    <li>Name: {{ item.name }}</li>
+    <li>EnergyKcal: {{ item.energy_kcal }}</li>
+    <li>fat: {{ item.Fat }}</li>
+    <li>protein: {{ item.Protein }}</li>
+    <li>carbohydrates: {{ item.Carbohydrates }}</li>
+    <li>salt: {{ item.Salt }}</li>
+    <li>sugars: {{ item.Sugars }}</li>
+    <li>fibre: {{ item.Fibre }}</li>
+    <li>allergens: 
+        <ul>
+            {% for allergen in item.Allergens.all %}
+            <li>{{ allergen.index }}, </li> 
+            {% endfor %}
+        </ul>
+    </li>
+</ul>
+{% endfor %} -->
+    <div class="container mx-auto">
+        <div class="row mx-2">
+            <div class="col-12">
+                <h1 class="heading text-center mt-3">Count Calories & Identify Allergens</h1>
+            </div>
+            <div class="col-12 mb-0">
+                <p class="mb-0">Gizabite provides easy way to identify allergens in your recipes and count the calories per serving. 
+                                Please register your interest to be nitified of the next release</p>
+                <!-- <p class="ms-3 mb-0">&#x2022; Add the number of portions</p>
+                <p class="ms-3 mb-0">&#x2022; Add the batch amount or individual portion Size</p>
+                <p class="ms-3 mb-0">&#x2022; Start typing your ingredient and select from the list provided</p> -->
+            </div>
+            <div class="col-12">
+                <h2 class="heading mt-3 mb-0">Allergens</h2>
+            </div>
+            <div class="col-12">
+                <p class="mb-0">
+                    To indentify allergens only, weights are not required only the ingredients.
+                </p>
+            </div>
+            <div class="col-12">
+                <h2 class="heading mt-3 mb-0">Calories per Serving</h2>
+            </div>
+            <div class="col-12">
+                <p class="mb-0">
+                    To calculate the calories per serving, please include the number of portions, the batch or portion amount and the ingredients.
+                </p>
+            </div>
+        </div>
+        <!-- <hr class="half-hr mx-auto"> -->
+        <div class="page_banner mt-3">
+            <h3 class="ms-4 pt-1 pt-sm-0">Step 1 - Number of Portions</h3>
+        </div>
+    </div>
+
+    <!-- Add New Ingredient Group Button -->
+    <div class="container element-container mx-auto">
+        <div class="row mt-3 mb-2 mx-2">
+            <div class="col-8 col-css mx-auto text-center">
+                <button class="add_ingredient_group_button">Add Ingredient Group</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Results Section -->
+    <hr class="max_width_500">
+    <div class="container mx-auto max_width_500">
+        <div class="row mx-2">
+            <div class="col">
+                <h5>Calories per Serving:</h5>
+                <div id="total_calories"></div>
+            </div>
+        </div>
+        <div class="row mx-2">
+            <div class="col">
+                <h5>Allergens:</h5>
+                <div id="total_allergens"></div>
+            </div>
+            
+        </div>
+    </div>
+    <hr class="max_width_500">
+
+    <div class="container">
+        
+    </div>
+
+{% endblock %}

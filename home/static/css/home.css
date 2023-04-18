@@ -8,11 +8,11 @@ main {
     margin-right: auto;
 }
 
-/*---------------------- Colours - Start ---------------------*/
-
-h1 {
-    color: red;
+h2 {
+    font-size: 20px;
 }
+
+/*---------------------- Colours - Start ---------------------*/
 
 a {
     color: black;
@@ -115,7 +115,7 @@ hr.max_width_500 {
     box-shadow: 1px 1px black;
 }
 
-/*--------------- HR STyling Start ---------------*/
+/*--------------- HR Styling Start ---------------*/
 
 .third-hr {
     width: 33.3%;
@@ -183,3 +183,4 @@ select.did-floating-select::-ms-expand {
     font-size: .7rem;
     text-align: right;
 }
+/*--- Floating Label End ---*/
