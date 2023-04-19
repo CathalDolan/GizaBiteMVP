@@ -22,7 +22,9 @@ def get_products(request, q):
     print("getProducts = ", q)
     products = Products.objects.all().filter(Q(name__icontains=q))
     json_products = ProductsSerializer(products, many=True).data
-    return JsonResponse({"products": json_products, "q": q}, safe=False)
+    # return JsonResponse({"products": json_products, "q": q}, safe=False)
+    qr_json = json.dumps(list(json_products), ensure_ascii=False, default=str)
+    return JsonResponse({"products": qr_json, "q": q}, safe=False)
 
 
 def get_test_products(request):
