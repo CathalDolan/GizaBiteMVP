@@ -46,21 +46,21 @@
                                 and generate PO's for your suppliers. 
                 </p>
             </div>
-            <div class="col-12 mb-0 mt-3">
+            <div class="col-12 mb-0 mt-3 text mx-auto" id="help_us_form_div">
                 <form action="" method="">
                     {% csrf_token %}
                     <div class="row">
-                        <div class="mb-3 col-12 col-md-4 did-floating-label-content">
+                        <div class="mb-3 col-12 did-floating-label-content">
                             <input type="text" class="form-control input did-floating-input" id="name"  placeholder=" " aria-label="name" required>
-                            <label for="name" class="form-label did-floating-label">First Name, Surname</label>
+                            <label for="name" class="form-label did-floating-label">First Name*, Surname</label>
                         </div>
-                        <div class="mb-3 col-12 col-md-4 did-floating-label-content">
+                        <div class="mb-3 col-12 did-floating-label-content">
                             <input type="text" class="form-control input did-floating-input" id="establishment"  placeholder=" " aria-label="name">
                             <label for="establishment" class="form-label did-floating-label">Establishment Name, City</label>
                         </div>
-                        <div class="mb-3 col-12 col-md-4 did-floating-label-content">
+                        <div class="mb-3 col-12 did-floating-label-content">
                             <input type="email" class="form-control input did-floating-input" id="EmailAddress"  placeholder=" " aria-label="EmailAddress" required>
-                            <label for="EmailAddress" class="form-label did-floating-label">Email address</label>
+                            <label for="EmailAddress" class="form-label did-floating-label">Email Address*</label>
                             <!-- <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div> -->
                         </div>
                     </div>

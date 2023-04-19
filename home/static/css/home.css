@@ -12,6 +12,15 @@ h2 {
     font-size: 20px;
 }
 
+nav {
+    background-color: black;
+    color: white;
+}
+.nav-link,
+.navbar-brand {
+    color: white;
+}
+
 /*---------------------- Colours - Start ---------------------*/
 
 a {
@@ -184,3 +193,7 @@ select.did-floating-select::-ms-expand {
     text-align: right;
 }
 /*--- Floating Label End ---*/
+
+#help_us_form_div {
+    max-width: 500px;
+}
