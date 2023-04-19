@@ -10,6 +10,22 @@ class AllergensSerializer(serializers.ModelSerializer):
 
 class ProductsSerializer(serializers.ModelSerializer):
     allergen = AllergensSerializer(read_only=True, many=True)
+    category = serializers.SlugRelatedField(
+        read_only=True,
+        slug_field='name'
+    )
+    sub_category = serializers.SlugRelatedField(
+        read_only=True,
+        slug_field='name'
+    )
+    cooked_or_raw = serializers.SlugRelatedField(
+        read_only=True,
+        slug_field='name'
+    )
+    source = serializers.SlugRelatedField(
+        read_only=True,
+        slug_field='name'
+    )
 
     class Meta:
         model = Products

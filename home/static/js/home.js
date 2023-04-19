@@ -25,52 +25,165 @@ $(document).ready(function(){
             .then(data => {
                 PRODUCTS = data.products;
                 // console.log("q : ", q)
-                // console.log("SEARCH_STRING : ", SEARCH_STRING)
-                // console.log("PRODUCTS : ", PRODUCTS);
+                console.log("SEARCH_STRING : ", SEARCH_STRING)
+                
+                
                 if(data.q === SEARCH_STRING) {
-                    $.each(PRODUCTS, function(index, item) {
+                    var prod = JSON.parse(PRODUCTS)
+                    console.log("prod : ", prod);
+                    $.each(prod, function(item) {
+                        // console.log("ITEM = ", prod[item])
                         const allergens = []
-                        for(const [k, v] of Object.entries(item.allergen)) {
-                            // console.log(`allergen = ${v["allergen"]}`)
+                        for(const [k, v] of Object.entries(prod[item].allergen)) {
+                            // console.log("allergen = ", v.eu_index)
                             allergens.push(v.eu_index)
                         }
-                        $(field).siblings('.suggestions-list').append(`<li class="suggestion" data-product='${JSON.stringify(item)}'>${item['name']} ${allergens.length != 0 ? ' - [' + allergens + ']': ''}</li>`)
+                        var target_element = $(field).siblings('.suggestions-list')
+                        target_element.append(`<li class="suggestion">${prod[item]['name']} ${allergens.length != 0 ? ' - [' + allergens + ']': ''}</li>`)
+                        var target_element_last_child = target_element.children('li:last-child')
+                        // console.log(target_element_last_child)
+                        target_element_last_child.data('product', prod[item])
                     }) 
-                }
-                     
+                }  
             });
         }
     })
 
     $(document).on('click', '.suggestion', function() {
         $(this).parent().siblings('input').val($(this).text()).data('product', $(this).data('product'));
+        console.log($(this).data('product'))
+        group = $(this).parents('.ingredient_group')
         $('.suggestions-list').empty();
+        
+        populateCookingMethodsList(group)
         gatherNutrientInfo();
     })
 
     $(document).on("change", "input:not('.ingredient_name'), select", function() {
+        // console.log("this = ", this.value)
+        if(this.name == 'cooking_method') {
+            var substrate_element = $(this).parents('.cooking-method-container').next().children(":first");
+            if(this.value == 1) {
+                console.log("substrate_element = ", $(substrate_element).children(":first"));
+                $(substrate_element).empty().append(
+                    `<option value=0>Water</option>
+                    <option value=0>Stock</option>
+                    <option value=0>Bouillon</option>`)
+            }
+            if(this.value == 2) {
+                $(substrate_element).empty().append(
+                    `<option value=0>None</option>
+                    <option value=36.6>Butter</option>
+                    <option value=44.9>Vegetable Oil</option>
+                    <option value=44.7>Nut Oil</option>
+                    <option value=44.8>Animal Fat</option>
+                    <option value=1>1 Kcal Spray</option>
+                    <option value=43.9>Ghee</option>`)
+            }
+            if(this.value == 3) {
+                $(substrate_element).empty().append(`<option value=1>None</option>
+                            `)
+            }
+            if(this.value == 4) {
+                $(substrate_element).empty().append(
+                    `
+                    <option value=0>None</option>
+                    <option value=44.9>Vegetable Oil</option>
+                    <option value=44.7>Nut Oil</option>
+                    <option value=44.8>Animal Fat</option>
+                    <option value=1>1 Kcal Spray</option>
+                    <option value=43.9>Ghee</option>
+                    `)
+            }
+        }
         gatherNutrientInfo()
     })
+    function populateCookingMethodsList(group) {
+        console.log("populateCookingMethodsList()", group);
+        var liquids = false;
+        var flour = false;
+        var egg = false;
+        var bread = false;
+        var coating = false;
+        ingredients = [...$(group).find('.ingredient_name')];
+        // console.log("ingredients = ", ingredients)
+        ingredients.forEach(item => {
+            var product = $(item).data('product')
+            console.log("product = ", product)
+            if(product.sub_category == 'Root Vegetables') {
+                var cooking_method_element = $(group).find('.cooking-method-container')
+                console.log("cooking_method_element = ", cooking_method_element)
+                $(cooking_method_element).children(":first").empty().append(
+                    `<option value="">None</option>
+                    <option value=1>Boiled</option>
+                    <option value=1>Poached</option>
+                    <option value=1>Simmered / Stewed</option>
+                    <option value=1>Steamed</option>
+                    <option value=2>Sauteed / Pan Fried</option>
+                    <option value=2>Grilled / Broiled</option>
+                    <option value=3>Baked</option>
+                    <option value=2>Roasted</option>
+                    <option value=2>Braised</option>
+                    <option value=4>Shallow Fried</option>
+                    <option value=4>Deep Fried</option>`
+                )
+            }
+            if(product.sub_category == 'Soft Drinks' || product.sub_category.includes('Beer') || product.sub_category == 'Milk') {
+                liquids = true;
+            }
+            if(product.sub_category.includes('Flour')) {
+                flour = true;
+            }
+            if(product.sub_category == 'Egg') {
+                egg = true;
+            }
+            if(product.sub_category.includes('Bread')) {
+                bread = true;
+            }
 
+            if(flour == true && (liquids == true || (bread == true && egg == true))) {
+                coating = true;
+                
+            }
+        })
+        console.log("liquids = ", liquids);
+        console.log("flour = ", flour);
+        console.log("egg = ", egg);
+        console.log("bread = ", bread);
+        console.log("coating = ", coating);
+    }
     function gatherNutrientInfo() {
-        var number_of_portions = $('#number_of_portions').val()
+        console.log("gatherNutrientInfo")
+        var number_of_portions = $('#number_of_portions').val();
+        console.log("number_of_portions = ", number_of_portions);
         var EnergyKcals = 0;
         const possible_allergens_list = []
         const def_allergens_list = []
         const ingredient_groups = $('.ingredient_group');
 
         ingredient_groups.each(function(index, item) {
+            console.log("group ", index)
             var cooking_method = $(item).find("[name='cooking_method']").val();
             var substrate = $(item).find("[name='substrate']").val();
+            console.log("cooking_method = ", cooking_method);
+            console.log("substrate = ", substrate);
             var ingredients = $(item).find('.ingredient_row');
             // console.log("ingredients = ", ingredients);
             ingredients.each((index, element) => {
+                console.log("ingredient ", index)
                 var product = $(element).find(".ingredient_name").data('product');
                 // console.log("product = ", product);
                 if(product != undefined) {
-                    var amount = Number($(element).find("[name='batch_amount']").val());
-                    var units = $(element).find("[name='unit_select']").val();
-                    EnergyKcals += (product.energy_kcal*(amount/100));
+                    var portion_amount = $(element).find("[name='portion_amount']").val();
+                    var batch_amount = Number($(element).find("[name='batch_amount']").val());
+                    var unit_of_measurement = $(element).find("[name='unit_of_measurement']").val();
+                    var deep_frying_index = product.deep_frying_index;
+                    console.log("product_name = ", product.name);
+                    console.log("deep_frying_index = ", deep_frying_index);
+                    console.log("portion_amount = ", portion_amount);
+                    console.log("batch_amount = ", batch_amount);
+                    console.log("unit_of_measurement = ", unit_of_measurement);
+                    EnergyKcals += (product.energy_kcal*(batch_amount/100));
                     var product_allergens = product.allergen
                     // console.log("product_allergens = ", product_allergens);
                     product_allergens.forEach(function(el) {
@@ -87,7 +200,7 @@ $(document).ready(function(){
             })
         })
         
-        console.log("possible_allergens_list = ", possible_allergens_list);
+        // console.log("possible_allergens_list = ", possible_allergens_list);
         const filtered_possible_allergens = possible_allergens_list.map(function(item) {
             var allergen_group = def_allergens_list.filter(obj => obj.group == item.group.slice(1));
             if(!allergen_group[0]) {
@@ -96,7 +209,6 @@ $(document).ready(function(){
             else {
                 for(i=0; i<allergen_group.length; i++) {
                     if(allergen_group[i].name == item.name) {
-                        console.log("==")
                         return {'group': item.group, 'name':''};
                     }
                 }
@@ -106,17 +218,17 @@ $(document).ready(function(){
         const possible_allergen_groups = [];
         const possible_allergens = [];
         filtered_possible_allergens.forEach(item => {
-            console.log("item = ", item);
+            // console.log("item = ", item);
             if(item != undefined && !possible_allergen_groups.includes(item.group)) {
                 possible_allergen_groups.push(item.group)
             }
         })
         for(i=0; i<possible_allergen_groups.length; i++) {
             const possible_allergen_group = filtered_possible_allergens.filter(obj => obj.group == possible_allergen_groups[i]);
-            console.log("possible_allergen_group = ", possible_allergen_group);
+            // console.log("possible_allergen_group = ", possible_allergen_group);
             var allergen = {'group':'', 'name':''};
             possible_allergen_group.forEach(obj => {
-                console.log("obj = ", obj.name);
+                // console.log("obj = ", obj.name);
                 allergen.group = obj.group;
                 if(!allergen.name.includes(obj.name)) {
                     allergen.name += obj.name + '/'
@@ -124,7 +236,7 @@ $(document).ready(function(){
             })
             possible_allergens.push(allergen)
         }
-        console.log("def_allergens_list = ", def_allergens_list);   
+        // console.log("def_allergens_list = ", def_allergens_list);   
         const definite_allergen_groups = [];
         const definite_allergens = [];
         def_allergens_list.forEach(item => {
@@ -143,10 +255,6 @@ $(document).ready(function(){
             });
             definite_allergens.push(allergen);
         }
-        console.log("possible_allergens = ", possible_allergens);
-        console.log("definite_allergens = ", definite_allergens)
-        var allergen_list_refined = [];
-
         
         $('#total_allergens').empty();
         
@@ -165,9 +273,6 @@ $(document).ready(function(){
         })
         possible_allergens.forEach(item => {
             if(item.name[0] == '/') {
-                console.log("YES IF")
-                console.log("item.name = ", item.name)
-                console.log("item.name.split(1,-1) = ", item.name.slice(1,-1))
                 item.name = item.name.slice(1,-1)
             }
             else {
@@ -182,13 +287,8 @@ $(document).ready(function(){
         if(possible_allergens.length > 1) {
             $("#total_allergens").append(`<p class="allergens-footnote">* denotes recipe may contain these items.</p>`)
         }
-        // console.log("allergen_list = ", allergen_list);
-        // $('#total_allergens').text(allergen_list);
         $('#total_calories').text(Math.round(EnergyKcals/number_of_portions));
     }
-});
-
-$(document).ready(function() {
 
     // Add a New Ingredient Row Function
     var ingredient_row_id_counter = 1;
@@ -287,12 +387,18 @@ $(document).ready(function() {
                     <hr class="half-hr mx-auto">
                     <div class="container" id="add_cooking_method_container_1">
                         <div class="row mx-2" id="add_cooking_method_row_1">
-                            <div class="col-md-6 mt-3 mt-md-2 col-12 did-floating-label-content">
+                            <div class="col-md-6 mt-3 mt-md-2 col-12 did-floating-label-content cooking-method-container">
                                 <select class="form-select custom-select-icon pe-0 input did-floating-select" name="cooking_method" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
-                                    <option value=" "></option>
-                                    <option value="Boiled">Boiled</option>
-                                    <option value="Deep Fried">Deep Fried</option>
-                                    <option value="Baked">Baked</option>
+                                    <option value="">None</option>
+                                        <option value=1>Boiled</option>
+                                        <option value=1>Poached</option>
+                                        <option value=1>Simmered / Stewed</option>
+                                        <option value=1>Steamed</option>
+                                        <option value=2>Sauteed / Pan Fried</option>
+                                        <option value=2>Grilled / Broiled</option>
+                                        <option value=3>Baked</option>
+                                        <option value=2>Roasted </option>
+                                        <option value=4>Braised </option>
                                 </select>
                                 <label class="did-floating-label cooking_method_label">Cooking Method</label>
                             </div>
@@ -330,13 +436,17 @@ $(document).ready(function() {
     $(document).on("click", ".delete_ingredient", function(){
     // $(".ingredient_row").on("click", ".delete_ingredient", function() {
         console.log("Delete_ingredient_row Function Fires");
+        group = $(this).parents('.ingredient_group')
         $(this).parents(".ingredient_row").remove();
+        populateCookingMethodsList(group)
+        gatherNutrientInfo();
     });
 
     // Remove an Ingredient Group Function
     $(document).on("click", ".remove_ingredient_group_button", function(){
         console.log("Remove_ingredient_group Function Fires");
         $(this).parents(".ingredient_group").remove();
+        gatherNutrientInfo();
     });
 
     // Function to calculate the portion and batch size
