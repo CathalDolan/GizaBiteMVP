@@ -12,26 +12,6 @@
 {% endblock %}
 
 {% block content %}
-<!-- {% for item in products %}
-<h5>Product</h5>
-<ul>
-    <li>Name: {{ item.name }}</li>
-    <li>EnergyKcal: {{ item.energy_kcal }}</li>
-    <li>fat: {{ item.Fat }}</li>
-    <li>protein: {{ item.Protein }}</li>
-    <li>carbohydrates: {{ item.Carbohydrates }}</li>
-    <li>salt: {{ item.Salt }}</li>
-    <li>sugars: {{ item.Sugars }}</li>
-    <li>fibre: {{ item.Fibre }}</li>
-    <li>allergens: 
-        <ul>
-            {% for allergen in item.Allergens.all %}
-            <li>{{ allergen.index }}, </li> 
-            {% endfor %}
-        </ul>
-    </li>
-</ul>
-{% endfor %} -->
     <div class="container mx-auto">
         <div class="row mx-2">
             <div class="col-12">
@@ -76,7 +56,7 @@
                         <label class="did-floating-label">Dish Name</label>
                     </div>
                     <div class="col-md-4 col-12 mt-md-0 mt-3 did-floating-label-content">
-                        <input type="number" class="form-control input did-floating-input" id="number_of_portions" name="number_of_portions" placeholder=" " aria-label="NumberOfPortions">
+                        <input type="number" class="form-control input did-floating-input" id="number_of_portions" name="number_of_portions" placeholder=" " aria-label="NumberOfPortions" value="1">
                         <label class="did-floating-label">Number of Portions</label>
                     </div>
                 </div>
@@ -103,20 +83,21 @@
 
                 <div id="ingredient_group_container">
                     <div class="ingredient_group" id="ingredient_group_1">
+                        <p class="mx-2 group-index"></p>
                         <!-- Ingredient Details -->
                         <div class="container ingredient_container">
                             <div class="row mx-2 ingredient_row">
-                                <div class="col-lg-2 mt-3 col-5 did-floating-label-content">
+                                <div class="col-1 col-lg-1 ingredient-index text-center mt-3 p-0"></div>
+                                <div class="col-lg-2 mt-3 col did-floating-label-content">
                                     <input type="number" class="form-control input batch_amount did-floating-input" name="batch_amount" placeholder=" " aria-label="BatchAmount"></input>
                                     <label class="did-floating-label">Batch Amount</label>
                                 </div>
-                                <div class="col-lg-2 mt-3 col-5 ps-0 did-floating-label-content">
+                                <div class="col-lg-2 mt-3 col ps-0 did-floating-label-content">
                                     <input type="number" class="form-control input portion_amount did-floating-input" name="portion_amount" placeholder=" " aria-label="PortionAmount"></input>
                                     <label class="did-floating-label portion_amount_label">Portion Amount</label>
                                 </div>
                                 <div class="col-lg-2 mt-3 col-2 ps-0 did-floating-label-content">
-                                    <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
-                                        <option value=" "></option>
+                                    <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="1">
                                         <option value="1">g</option>
                                         <option value="1000">kg</option>
                                         <option value="1">ml</option>
@@ -126,7 +107,7 @@
                                     <label class="did-floating-label unit_of_measure_label">Unit</label>
                                 </div>
                                 <!-- Line 10 in home.js preventing this from working: $(this).next().empty() -->
-                                <div class="col-lg-5 mt-2 mt-md-3 col-11 did-floating-label-content">
+                                <div class="col-lg-4 mt-2 mt-md-3 col-11 did-floating-label-content">
                                     <input type="text" class="form-control input ingredient_name did-floating-input" name="dish_name" placeholder=" " aria-label="IngredientName"></input>
                                     <label class="did-floating-label">Ingredient Name</label>
                                     <ul class="suggestions-list"></ul>
@@ -152,9 +133,10 @@
                                         <option value=2>Sauteed / Pan Fried</option>
                                         <option value=2>Grilled / Broiled</option>
                                         <option value=3>Baked</option>
-                                        <option value=2>Roasted </option>
-                                        <option value=4>Braised </option>
-                                        
+                                        <option value=2>Roasted</option>
+                                        <option value=2>Braised</option>
+                                        <option value=4>Shallow Fried</option>
+                                        <option value=4>Deep Fried</option>
                                     </select>
                                     <label class="did-floating-label cooking_method_label">Cooking Method</label>
                                 </div>
@@ -184,7 +166,7 @@
             </div>
         </form>
     </div>
-
+    
     <!-- Add New Ingredient Group Button -->
     <div class="container element-container mx-auto">
         <div class="row mt-3 mb-2 mx-2">
@@ -200,13 +182,13 @@
         <div class="row mx-2">
             <div class="col">
                 <h5>Calories per Serving:</h5>
-                <div id="total_calories"></div>
+                <!-- <div id="total_calories"></div> -->
             </div>
         </div>
         <div class="row mx-2">
             <div class="col">
                 <h5>Allergens:</h5>
-                <div id="total_allergens"></div>
+                <!-- <div id="total_allergens"></div> -->
             </div>
             
         </div>
@@ -214,7 +196,10 @@
     <hr class="max_width_500">
 
     <div class="container">
-        
+        <div class="row fixed-footer">
+            <div class="col-6">Calories: <span id="total_calories"></span> </div>
+            <div class="col-6">Allergens: <span id="total_allergens"></span></div>
+        </div>
     </div>
 
 {% endblock %}
