@@ -413,10 +413,10 @@ $(document).ready(function(){
                         <div class="col-lg-2 mt-3 col-2 ps-0 did-floating-label-content">
                             <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="1">
                                 <option value="1">g</option>
-                                <option value="2">kg</option>
-                                <option value="3">ml</option>
-                                <option value="4">l</option>
-                                <option value="5">pcs</option>
+                                <option value="1000">kg</option>
+                                <option value="1">ml</option>
+                                <option value="1000">l</option>
+                                <option value="pcs">pcs</option>
                             </select>
                             <label class="did-floating-label unit_of_measure_label">Unit</label>
                         </div>
@@ -463,11 +463,11 @@ $(document).ready(function(){
                             </div>
                             <div class="col-lg-2 mt-3 col-2 ps-0 did-floating-label-content">
                                 <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="1">
-                                    <option value="1">g</option>
-                                    <option value="2">kg</option>
-                                    <option value="3">ml</option>
-                                    <option value="4">l</option>
-                                    <option value="5">pcs</option>
+                                <option value="1">g</option>
+                                <option value="1000">kg</option>
+                                <option value="1">ml</option>
+                                <option value="1000">l</option>
+                                <option value="pcs">pcs</option>
                                 </select>
                                 <label class="did-floating-label unit_of_measure_label">Unit</label>
                             </div>
@@ -500,6 +500,8 @@ $(document).ready(function(){
                                         <option value=3>Baked</option>
                                         <option value=2>Roasted </option>
                                         <option value=4>Braised </option>
+                                        <option value=4>Shallow Fried</option>
+                                        <option value=4>Deep Fried</option>
                                 </select>
                                 <label class="did-floating-label cooking_method_label">Cooking Method</label>
                             </div>

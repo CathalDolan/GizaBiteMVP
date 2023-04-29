@@ -44,7 +44,7 @@ def help_us_test(request):
 
 def get_products(request, q):
     print("getProducts = ", q)
-    products = Products.objects.all().filter(Q(name__icontains=q))
+    products = Products.objects.all().filter(Q(name__icontains=q)).select_related('category', 'sub_category', 'cooked_or_raw', 'source').prefetch_related('allergen')
     json_products = ProductsSerializer(products, many=True).data
     # return JsonResponse({"products": json_products, "q": q}, safe=False)
     qr_json = json.dumps(list(json_products), ensure_ascii=False, default=str)
@@ -88,6 +88,7 @@ def product_admin(request):
                     # print(record)
                     category = MainCategories.objects.get(name=record['Main_Category'])
                     sub_category = SubCategories.objects.get(name=record['Sub_Category'])
+                    name = record['Product_Name'].title()
                     if record['Cooked_or_Raw'] == '':
                         cooked_raw = None
                     else:
@@ -113,7 +114,7 @@ def product_admin(request):
                         sub_category=sub_category,
                         cooked_or_raw=cooked_raw,
                         source=source,
-                        name=record['Product_Name'],
+                        name=name,
                         portion_size=record['Portion_Size'],
                         energy_kcal=record['Energy_Kcal_decimal_point'],
                         fat=record['Fat_with_decimal_point'],
