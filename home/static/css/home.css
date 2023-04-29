@@ -88,7 +88,45 @@ hr.max_width_500 {
     position: absolute;
     z-index: 2;
     background-color: #fafafa;
+    /* width: 100%; */
+}
+
+.suggestion {
+    font-size: .85rem;
+}
+
+.ingredient_group {
+    margin: 2px 0;
+    border: 2px solid black;
+}
+
+.ingredient_group:nth-child(odd) {
+    background-color: #dddddd;
+}
+
+.ingredient_group:nth-child(even) {
+    background-color: #ebebeb;
+}
+
+.ingredient_group p {
+    margin-bottom: 0;
+}
+
+.ingredient-index {
+    align-self: center;
+}
+
+.ingredient_row {
+
+}
+
+.fixed-footer {
+    position: fixed;
+    bottom: 0;
     width: 100%;
+    background-color: silver;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*----- Hides the arrow on unit of measurement dropdown selector on small screens -----*/
@@ -127,7 +165,8 @@ hr.max_width_500 {
 /*--------------- HR Styling Start ---------------*/
 
 .third-hr {
-    width: 33.3%;
+    /* width: 33.3%; */
+    color: #000;
 }
 .half-hr {
     width: 60%;
@@ -142,6 +181,7 @@ hr.max_width_500 {
     position:relative; 
 }
 .did-floating-label {
+    font-size: .85rem;
     position:absolute;
     pointer-events:none;
     left:15px;
@@ -182,7 +222,8 @@ select.did-floating-select::-ms-expand {
 .did-floating-select:not([value=""]):valid ~ .did-floating-label {
     top:-9px;
     font-size:11px;
-    background: #fff;
+    background: #dddddd;
+    border-radius: 4px;
 }
 
 #total_allergens p {

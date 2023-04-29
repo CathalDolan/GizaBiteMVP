@@ -74,7 +74,13 @@ def product_admin(request):
             sources = Source.objects.count()
             cooked_raw = CookedOrRaw.objects.count()
             allergens = Allergens.objects.count()
+            print("main_categories = ", main_categories)
+            print("sub_categories = ", sub_categories)
+            print("sources = ", sources)
+            print("cooked_raw = ", cooked_raw)
+            print("allergens = ", allergens)
             if main_categories > 0 and sub_categories > 0 and sources > 0 and cooked_raw > 0 and allergens > 0:
+                print("Add products start")
                 products = Products.objects.all()
                 for product in products:
                     product.delete()

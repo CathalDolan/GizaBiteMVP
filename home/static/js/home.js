@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    gatherNutrientInfo();
     // counter = 0;
     // setInterval(displayHello, 5000);
 
@@ -6,7 +7,7 @@ $(document).ready(function(){
     //     counter+=5;
     //     console.log(counter)
     // }
-    // fetch(`https://8000-cathaldolan-gizabitemvp-d7bejlihi03.ws-eu93.gitpod.io/get_test_products`)
+    // fetch(`https://8000-cathaldolan-gizabitemvp-2fe79spgt3d.ws-eu96.gitpod.io/get_test_products`)
     // .then(response => response.json())
     // .then(data => {
     //     console.log("data")
@@ -20,7 +21,7 @@ $(document).ready(function(){
             SEARCH_STRING = $(this).val();
             var field = $(this);
             $(this).next(".suggestions-list").empty()
-            fetch(`https://8000-cathaldolan-gizabitemvp-2fe79spgt3d.ws-eu94.gitpod.io/get_products/${q}`)
+            fetch(`https://8000-cathaldolan-gizabitemvp-2fe79spgt3d.ws-eu96.gitpod.io/get_products/${q}`)
             .then(response => response.json())
             .then(data => {
                 PRODUCTS = data.products;
@@ -31,6 +32,8 @@ $(document).ready(function(){
                 if(data.q === SEARCH_STRING) {
                     var prod = JSON.parse(PRODUCTS)
                     console.log("prod : ", prod);
+                    var target_element = $(field).siblings('.suggestions-list');
+                    target_element.empty();
                     $.each(prod, function(item) {
                         // console.log("ITEM = ", prod[item])
                         const allergens = []
@@ -38,7 +41,6 @@ $(document).ready(function(){
                             // console.log("allergen = ", v.eu_index)
                             allergens.push(v.eu_index)
                         }
-                        var target_element = $(field).siblings('.suggestions-list')
                         target_element.append(`<li class="suggestion">${prod[item]['name']} ${allergens.length != 0 ? ' - [' + allergens + ']': ''}</li>`)
                         var target_element_last_child = target_element.children('li:last-child')
                         // console.log(target_element_last_child)
@@ -54,50 +56,55 @@ $(document).ready(function(){
         console.log($(this).data('product'))
         group = $(this).parents('.ingredient_group')
         $('.suggestions-list').empty();
-        
-        populateCookingMethodsList(group)
+        // populateCookingMethodsList(group)
         gatherNutrientInfo();
     })
 
+    $(document).on("change", ".cooking-method-container", function() {
+        console.log("COOKING METHOD CHANGED");
+        console.log("this = ", $(this).children('select').val());
+        var cooking_method = $(this).children('select').val();
+        if(cooking_method == 1) {
+            console.log("this.next = ",$(this).next().children('select').children(":first"));
+            $(this).next().children('select').empty().append(
+                        `<option value=""></option>
+                        <option value=0>Water</option>
+                        <option value=0>Stock</option>
+                        <option value=0>Bouillon</option>`)
+        }
+        if(cooking_method == 2) {
+            $(this).next().children('select').empty().append(
+                `<option value=""></option>
+                <option value=0>None</option>
+                <option value=36.6>Butter</option>
+                <option value=44.9>Vegetable Oil</option>
+                <option value=44.7>Nut Oil</option>
+                <option value=44.8>Animal Fat</option>
+                <option value=1>1 Kcal Spray</option>
+                <option value=43.9>Ghee</option>`)
+        }
+        if(cooking_method == 3) {
+            $(this).next().children('select').empty().append(`<option value=1>None</option>
+                        `)
+        }
+        if(cooking_method == 4) {
+            $(this).next().children('select').empty().append(
+                `<option value=""></option>
+                <option value=0>None</option>
+                <option value=44.9>Vegetable Oil</option>
+                <option value=44.7>Nut Oil</option>
+                <option value=44.8>Animal Fat</option>
+                <option value=1>1 Kcal Spray</option>
+                <option value=43.9>Ghee</option>
+                `).val(2)
+        }
+        gatherNutrientInfo();
+    })
     $(document).on("change", "input:not('.ingredient_name'), select", function() {
         // console.log("this = ", this.value)
-        if(this.name == 'cooking_method') {
-            var substrate_element = $(this).parents('.cooking-method-container').next().children(":first");
-            if(this.value == 1) {
-                console.log("substrate_element = ", $(substrate_element).children(":first"));
-                $(substrate_element).empty().append(
-                    `<option value=0>Water</option>
-                    <option value=0>Stock</option>
-                    <option value=0>Bouillon</option>`)
-            }
-            if(this.value == 2) {
-                $(substrate_element).empty().append(
-                    `<option value=0>None</option>
-                    <option value=36.6>Butter</option>
-                    <option value=44.9>Vegetable Oil</option>
-                    <option value=44.7>Nut Oil</option>
-                    <option value=44.8>Animal Fat</option>
-                    <option value=1>1 Kcal Spray</option>
-                    <option value=43.9>Ghee</option>`)
-            }
-            if(this.value == 3) {
-                $(substrate_element).empty().append(`<option value=1>None</option>
-                            `)
-            }
-            if(this.value == 4) {
-                $(substrate_element).empty().append(
-                    `
-                    <option value=0>None</option>
-                    <option value=44.9>Vegetable Oil</option>
-                    <option value=44.7>Nut Oil</option>
-                    <option value=44.8>Animal Fat</option>
-                    <option value=1>1 Kcal Spray</option>
-                    <option value=43.9>Ghee</option>
-                    `)
-            }
-        }
         gatherNutrientInfo()
     })
+
     function populateCookingMethodsList(group) {
         console.log("populateCookingMethodsList()", group);
         var liquids = false;
@@ -110,24 +117,6 @@ $(document).ready(function(){
         ingredients.forEach(item => {
             var product = $(item).data('product')
             console.log("product = ", product)
-            if(product.sub_category == 'Root Vegetables') {
-                var cooking_method_element = $(group).find('.cooking-method-container')
-                console.log("cooking_method_element = ", cooking_method_element)
-                $(cooking_method_element).children(":first").empty().append(
-                    `<option value="">None</option>
-                    <option value=1>Boiled</option>
-                    <option value=1>Poached</option>
-                    <option value=1>Simmered / Stewed</option>
-                    <option value=1>Steamed</option>
-                    <option value=2>Sauteed / Pan Fried</option>
-                    <option value=2>Grilled / Broiled</option>
-                    <option value=3>Baked</option>
-                    <option value=2>Roasted</option>
-                    <option value=2>Braised</option>
-                    <option value=4>Shallow Fried</option>
-                    <option value=4>Deep Fried</option>`
-                )
-            }
             if(product.sub_category == 'Soft Drinks' || product.sub_category.includes('Beer') || product.sub_category == 'Milk') {
                 liquids = true;
             }
@@ -152,53 +141,164 @@ $(document).ready(function(){
         console.log("bread = ", bread);
         console.log("coating = ", coating);
     }
+
     function gatherNutrientInfo() {
-        console.log("gatherNutrientInfo")
+        console.log("--------gatherNutrientInfo--------")
         var number_of_portions = $('#number_of_portions').val();
-        console.log("number_of_portions = ", number_of_portions);
         var EnergyKcals = 0;
         const possible_allergens_list = []
         const def_allergens_list = []
         const ingredient_groups = $('.ingredient_group');
 
-        ingredient_groups.each(function(index, item) {
-            console.log("group ", index)
-            var cooking_method = $(item).find("[name='cooking_method']").val();
-            var substrate = $(item).find("[name='substrate']").val();
+        ingredient_groups.each(function(index, group) {
+            console.log("group ", index + 1, group);
+            $(group).find('.group-index').empty().append("Ingredient Group " + Number(index + 1))
+            var cooking_method = $(group).find("[name='cooking_method']").val();
             console.log("cooking_method = ", cooking_method);
+            var substrate = Number($(group).find("[name='substrate']").val());
             console.log("substrate = ", substrate);
-            var ingredients = $(item).find('.ingredient_row');
-            // console.log("ingredients = ", ingredients);
-            ingredients.each((index, element) => {
-                console.log("ingredient ", index)
-                var product = $(element).find(".ingredient_name").data('product');
-                // console.log("product = ", product);
-                if(product != undefined) {
-                    var portion_amount = $(element).find("[name='portion_amount']").val();
-                    var batch_amount = Number($(element).find("[name='batch_amount']").val());
-                    var unit_of_measurement = $(element).find("[name='unit_of_measurement']").val();
-                    var deep_frying_index = product.deep_frying_index;
-                    console.log("product_name = ", product.name);
-                    console.log("deep_frying_index = ", deep_frying_index);
-                    console.log("portion_amount = ", portion_amount);
-                    console.log("batch_amount = ", batch_amount);
-                    console.log("unit_of_measurement = ", unit_of_measurement);
-                    EnergyKcals += (product.energy_kcal*(batch_amount/100));
-                    var product_allergens = product.allergen
-                    // console.log("product_allergens = ", product_allergens);
-                    product_allergens.forEach(function(el) {
-                        if(el.group[0] == '*') {
-                            possible_allergens_list.push(el)
+            var ingredients = $(group).find('.ingredient_row');
+            // cooking_method = "" : No cooking method option chosen
+            // cooking_method = 1 : Boiled, steamed, poached, Simmered / Stewed
+            // cooking_method = 2 : Sauteed / Pan Fried, Grilled / Broiled, Roasted, Braised
+            // cooking_method = 3 : Baked
+            // cooking_method = 4 : Shallow Fried, Deep Fried
+            if(cooking_method == "" || cooking_method == 1 || cooking_method == 3) {
+                console.log("cooking_method == '' || cooking_method == 1 || cooking_method == 3)")
+                ingredients.each((index, ingredient) => {
+                    $(ingredient).find('.ingredient-index').empty().append(index + 1);
+                    var product = $(ingredient).find(".ingredient_name").data('product');
+                    console.log("ingredient ", index + 1, product);
+                    if(product != undefined) {
+                        var portion_amount = Number($(ingredient).find("[name='portion_amount']").val());
+                        var batch_amount = Number($(ingredient).find("[name='batch_amount']").val());
+                        var unit_of_measurement = Number($(ingredient).find("[name='unit_of_measurement']").val());
+                        console.log("portion_amount = ", portion_amount);
+                        console.log("unit_of_measurement = ", unit_of_measurement);
+                        EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100));
+                        console.log("EnergyKcals = ", EnergyKcals);
+                        var product_allergens = product.allergen
+                        product_allergens.forEach(function(el) {
+                            if(el.group[0] == '*') {
+                                possible_allergens_list.push(el);
+                            }
+                            else {
+                                def_allergens_list.push(el);
+                            }
+                        })
+                    }
+                })
+            }
+            if(cooking_method == 2) {
+                console.log("cooking_method == 2")
+                ingredients.each((index, ingredient) => {
+                    var product = $(ingredient).find(".ingredient_name").data('product');
+                    console.log("ingredient ", index + 1, product);
+                    if(product != undefined) {
+                        var portion_amount = $(ingredient).find("[name='portion_amount']").val();
+                        var batch_amount = Number($(ingredient).find("[name='batch_amount']").val());
+                        var unit_of_measurement = $(ingredient).find("[name='unit_of_measurement']").val();
+                        console.log("portion_amount = ", portion_amount);
+                        console.log("unit_of_measurement = ", unit_of_measurement);
+                        console.log("substrate = ", substrate);
+                        EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100));
+                        console.log("EnergyKcals = ", EnergyKcals);
+                        var product_allergens = product.allergen;
+                        // console.log("product_allergens = ", product_allergens);
+                        product_allergens.forEach(function(el) {
+                            if(el.group[0] == '*') {
+                                possible_allergens_list.push(el);
+                            }
+                            else {
+                                def_allergens_list.push(el);
+                            }
+                        })
+                    }
+                })
+                EnergyKcals += substrate
+                console.log("EnergyKcals + substrate= ", EnergyKcals)
+            }
+            if(cooking_method == 4) {
+                console.log("cooking_method == 4")
+                // Check for custom made coating ingredients
+                console.log("Check for custom made coating ingredients")
+                var liquids = false;
+                var flour = false;
+                var egg = false;
+                var bread = false;
+                var coating = false;
+                ingredients.each((index, ingredient) => {
+                    console.log("Custom made ingredient check", ingredient);
+                    var product = $(ingredient).find(".ingredient_name").data('product');
+                    if(product != undefined) {
+                        if(product.sub_category == 'Soft Drinks' || product.sub_category.includes('Beer') || product.sub_category == 'Milk') {
+                            liquids = true;
+                        }
+                        if(product.sub_category.includes('Flour')) {
+                            flour = true;
+                        }
+                        if(product.sub_category == 'Egg') {
+                            egg = true;
+                        }
+                        if(product.sub_category.includes('Bread')) {
+                            bread = true;
+                        }
+                        if(flour == true && (liquids == true || (bread == true && egg == true))) {
+                            coating = true;  
+                        }
+                    } 
+                    console.log("liquids = ", liquids);
+                    console.log("flour = ", flour);
+                    console.log("egg = ", egg);
+                    console.log("bread = ", bread);
+                    console.log("coating = ", coating); 
+                })
+                ingredients.each((index, ingredient) => {
+                    var product = $(ingredient).find(".ingredient_name").data('product');       
+                    console.log("ingredient ", index + 1, product);
+                    if(product != undefined) {
+                        console.log("product.deep_frying_index = ", product.deep_frying_index);
+                        var portion_amount = $(ingredient).find("[name='portion_amount']").val();
+                        var batch_amount = Number($(ingredient).find("[name='batch_amount']").val());
+                        var unit_of_measurement = $(ingredient).find("[name='unit_of_measurement']").val();
+                        if(coating === true || product.deep_frying_index == 4) {
+                            console.log("coating === true || product.deep_frying_index == 4");
+                            EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100)*1.935);
+                            console.log("EnergyKcals = ", EnergyKcals);
                         }
                         else {
-                            def_allergens_list.push(el)
+                            if(product.deep_frying_index == 1) {
+                                console.log("product.deep_frying_index == 1");
+                                EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100)*2.5121);
+                                console.log("EnergyKcals = ", EnergyKcals);
+                            }
+                            if(product.deep_frying_index == 2) {
+                                console.log("product.deep_frying_index == 2");
+                                EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100)*1.4265);
+                                console.log("EnergyKcals = ", EnergyKcals);
+                            }
+                            if(product.deep_frying_index == 3) {
+                                console.log("product.deep_frying_index == 3");
+                                EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100)*1.2624);
+                                console.log("EnergyKcals = ", EnergyKcals);
+                            }
                         }
-                    })
-                    
-                }
-                
-            })
+                        var product_allergens = product.allergen
+                        // console.log("product_allergens = ", product_allergens);
+                        product_allergens.forEach(function(el) {
+                            if(el.group[0] == '*') {
+                                possible_allergens_list.push(el);
+                            }
+                            else {
+                                def_allergens_list.push(el);
+                            }
+                        })
+                    }
+                })
+            }
         })
+        
+        $('#total_calories').text(Math.round(EnergyKcals));
         
         // console.log("possible_allergens_list = ", possible_allergens_list);
         const filtered_possible_allergens = possible_allergens_list.map(function(item) {
@@ -287,7 +387,6 @@ $(document).ready(function(){
         if(possible_allergens.length > 1) {
             $("#total_allergens").append(`<p class="allergens-footnote">* denotes recipe may contain these items.</p>`)
         }
-        $('#total_calories').text(Math.round(EnergyKcals/number_of_portions));
     }
 
     // Add a New Ingredient Row Function
@@ -302,17 +401,17 @@ $(document).ready(function(){
                         <div class="col-12">
                             <hr class="third-hr mx-auto mb-0">
                         </div>
-                        <div class="col-lg-2 mt-3 col-5 did-floating-label-content">
+                        <div class="col-1 col-lg-1 ingredient-index text-center mt-3 p-0"></div>
+                        <div class="col-lg-2 mt-3 col did-floating-label-content">
                             <input type="number" class="form-control input batch_amount did-floating-input" name="batch_amount" placeholder=" " aria-label="BatchAmount"></input>
                             <label class="did-floating-label">Batch Amount</label>
                         </div>
-                        <div class="col-lg-2 mt-3 col-5 ps-0 did-floating-label-content">
+                        <div class="col-lg-2 mt-3 col ps-0 did-floating-label-content">
                             <input type="number" class="form-control input portion_amount did-floating-input" name="portion_amount" placeholder=" " aria-label="PortionAmount"></input>
                             <label class="did-floating-label portion_amount_label">Portion Amount</label>
                         </div>
                         <div class="col-lg-2 mt-3 col-2 ps-0 did-floating-label-content">
-                            <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
-                                <option value=" "></option>
+                            <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="1">
                                 <option value="1">g</option>
                                 <option value="2">kg</option>
                                 <option value="3">ml</option>
@@ -322,7 +421,7 @@ $(document).ready(function(){
                             <label class="did-floating-label unit_of_measure_label">Unit</label>
                         </div>
                         <!-- Line 10 in home.js preventing this from working: $(this).next().empty() -->
-                        <div class="col-lg-5 mt-2 mt-md-3 col-11 did-floating-label-content">
+                        <div class="col-lg-4 mt-2 mt-md-3 col-11 did-floating-label-content">
                             <input type="text" class="form-control input ingredient_name did-floating-input" name="dish_name" placeholder=" " aria-label="IngredientName"></input>
                             <label class="did-floating-label">Ingredient Name</label>
                             <ul class="suggestions-list"></ul>
@@ -335,6 +434,7 @@ $(document).ready(function(){
                     </div>`
         $(this).parents(".ingredient_group").children(".ingredient_container").append(html);
         // console.log("233 = ", $(this).parents(".ingredient_container"));
+        gatherNutrientInfo();
     });
 
     // Add a New Ingredient Group Function
@@ -348,20 +448,21 @@ $(document).ready(function(){
         console.log("Click Count: ", clickcount);
         
         html = `<div class="ingredient_group" id="ingredient_group_${clickcount}">
+                    <p class="mx-2 group-index"></p>
                     <!-- Ingredient Details -->
                     <div class="container ingredient_container">
                         <div class="row mx-2 ingredient_row">
-                            <div class="col-lg-2 mt-3 col-5 did-floating-label-content">
+                            <div class="col-1 col-lg-1 ingredient-index text-center mt-3 p-0"></div>
+                            <div class="col-lg-2 mt-3 col did-floating-label-content">
                                 <input type="number" class="form-control input batch_amount did-floating-input" name="batch_amount" placeholder=" " aria-label="BatchAmount"></input>
                                 <label class="did-floating-label">Batch Amount</label>
                             </div>
-                            <div class="col-lg-2 mt-3 col-5 ps-0 did-floating-label-content">
+                            <div class="col-lg-2 mt-3 col ps-0 did-floating-label-content">
                                 <input type="number" class="form-control input portion_amount did-floating-input" name="portion_amount" placeholder=" " aria-label="PortionAmount"></input>
                                 <label class="did-floating-label portion_amount_label">Portion Amount</label>
                             </div>
                             <div class="col-lg-2 mt-3 col-2 ps-0 did-floating-label-content">
-                                <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
-                                    <option value=" "></option>
+                                <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="1">
                                     <option value="1">g</option>
                                     <option value="2">kg</option>
                                     <option value="3">ml</option>
@@ -371,7 +472,7 @@ $(document).ready(function(){
                                 <label class="did-floating-label unit_of_measure_label">Unit</label>
                             </div>
                             <!-- Line 10 in home.js preventing this from working: $(this).next().empty() -->
-                            <div class="col-lg-5 mt-2 mt-md-3 col-11 did-floating-label-content">
+                            <div class="col-lg-4 mt-2 mt-md-3 col-11 did-floating-label-content">
                                 <input type="text" class="form-control input ingredient_name did-floating-input" name="dish_name" placeholder=" " aria-label="IngredientName"></input>
                                 <label class="did-floating-label">Ingredient Name</label>
                                 <ul class="suggestions-list"></ul>
@@ -430,6 +531,7 @@ $(document).ready(function(){
                 </div>`
 
         $("#ingredient_group_container").append(html);
+        gatherNutrientInfo();
     })
 
     // Remove an Ingredient Row Function.
@@ -438,7 +540,7 @@ $(document).ready(function(){
         console.log("Delete_ingredient_row Function Fires");
         group = $(this).parents('.ingredient_group')
         $(this).parents(".ingredient_row").remove();
-        populateCookingMethodsList(group)
+        // populateCookingMethodsList(group)
         gatherNutrientInfo();
     });
 
