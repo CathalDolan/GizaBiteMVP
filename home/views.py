@@ -44,6 +44,8 @@ def help_us_test(request):
 
 def get_products(request, q):
     print("getProducts = ", q)
+    keywords = q.split()
+    print("keywords = ", keywords)
     products = Products.objects.all().filter(Q(name__icontains=q)).select_related('category', 'sub_category', 'cooked_or_raw', 'source').prefetch_related('allergen')
     json_products = ProductsSerializer(products, many=True).data
     # return JsonResponse({"products": json_products, "q": q}, safe=False)

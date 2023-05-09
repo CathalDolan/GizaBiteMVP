@@ -21,7 +21,7 @@ $(document).ready(function(){
             SEARCH_STRING = $(this).val();
             var field = $(this);
             $(this).next(".suggestions-list").empty()
-            fetch(`https://8000-cathaldolan-gizabitemvp-d7bejlihi03.ws-eu95.gitpod.io/get_products/${q}`)
+            fetch(`https://8000-cathaldolan-gizabitemvp-d7bejlihi03.ws-eu96b.gitpod.io/get_products/${q}`)
             .then(response => response.json())
             .then(data => {
                 PRODUCTS = data.products;
@@ -60,6 +60,11 @@ $(document).ready(function(){
         gatherNutrientInfo();
     })
 
+    $('input').click(function() {
+        console.log("this = ", $(this))
+        this.focus()
+    })
+
     $(document).on("change", ".cooking-method-container", function() {
         console.log("COOKING METHOD CHANGED");
         console.log("this = ", $(this).children('select').val());
@@ -75,7 +80,6 @@ $(document).ready(function(){
         if(cooking_method == 2) {
             $(this).next().children('select').empty().append(
                 `<option value=""></option>
-                <option value=0>None</option>
                 <option value=36.6>Butter</option>
                 <option value=44.9>Vegetable Oil</option>
                 <option value=44.7>Nut Oil</option>
@@ -90,7 +94,6 @@ $(document).ready(function(){
         if(cooking_method == 4) {
             $(this).next().children('select').empty().append(
                 `<option value=""></option>
-                <option value=0>None</option>
                 <option value=44.9>Vegetable Oil</option>
                 <option value=44.7>Nut Oil</option>
                 <option value=44.8>Animal Fat</option>
@@ -98,6 +101,10 @@ $(document).ready(function(){
                 <option value=43.9>Ghee</option>
                 `).val(2)
         }
+        // $(this).next().children('select').val("")
+        var select_field = $(this).next().children('select');
+        select_field.selectedIndex = -1;
+        console.log("select_field = ", select_field)
         gatherNutrientInfo();
     })
     $(document).on("change", "input:not('.ingredient_name'), select", function() {
@@ -411,7 +418,8 @@ $(document).ready(function(){
                             <label class="did-floating-label portion_amount_label">Portion Amount</label>
                         </div>
                         <div class="col-lg-2 mt-3 col-2 ps-0 did-floating-label-content">
-                            <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="1">
+                            <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
+                                <option></option>
                                 <option value="1">g</option>
                                 <option value="1000">kg</option>
                                 <option value="1">ml</option>
@@ -462,7 +470,8 @@ $(document).ready(function(){
                                 <label class="did-floating-label portion_amount_label">Portion Amount</label>
                             </div>
                             <div class="col-lg-2 mt-3 col-2 ps-0 did-floating-label-content">
-                                <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="1">
+                                <select class="form-select custom-select-icon pe-0 input did-floating-select" name="unit_of_measurement" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
+                                <option></option>
                                 <option value="1">g</option>
                                 <option value="1000">kg</option>
                                 <option value="1">ml</option>
@@ -569,6 +578,7 @@ $(document).ready(function(){
     });
     // Function to calculate Portion Amount
     $("#ingredient_group_container").on("keyup", ".batch_amount", function(){
+        console.log("batch amount changed")
         if ($("#number_of_portions").val() > 0) {
             let number_of_portions = parseInt($("#number_of_portions").val());
             let batch_amount = parseInt($(this).val());
