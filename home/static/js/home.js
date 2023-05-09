@@ -16,7 +16,8 @@ $(document).ready(function(){
     var PRODUCTS = {};
     var SEARCH_STRING;
     $(document).on('keyup', '.ingredient_name', function() {
-        if($(this).val().length > 2) {
+        console.log("$(this).val().length = ", $(this).val().length)
+        if($(this).val().length > 0) {
             var q = $(this).val();
             SEARCH_STRING = $(this).val();
             var field = $(this);
@@ -27,8 +28,6 @@ $(document).ready(function(){
                 PRODUCTS = data.products;
                 // console.log("q : ", q)
                 console.log("SEARCH_STRING : ", SEARCH_STRING)
-                
-                
                 if(data.q === SEARCH_STRING) {
                     var prod = JSON.parse(PRODUCTS)
                     console.log("prod : ", prod);
@@ -48,6 +47,9 @@ $(document).ready(function(){
                     }) 
                 }  
             });
+        }
+        else {
+            $(".suggestions-list").empty()
         }
     })
 
