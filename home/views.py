@@ -51,7 +51,6 @@ def get_products(request, q):
         if char in q:
             q = q.replace(char, replacement)
     keywords = q.split()
-    print("keywords = ", keywords)
     for word in keywords:
         if len(word) > 1:
             if word.endswith('s') or word.endswith('d'):
