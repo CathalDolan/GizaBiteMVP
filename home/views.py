@@ -52,9 +52,14 @@ def get_products(request, q):
             q = q.replace(char, replacement)
     keywords = q.split()
     for word in keywords:
+        print("word = ", word)
+        if word == '&' or word == '+':
+            print("IF")
+            word = 'and'
         if len(word) > 1:
             if word.endswith('s') or word.endswith('d'):
                 word = word[:-1]
+        print("word = ", word)
         products = products.filter(Q(name__icontains=word))
     json_products = ProductsSerializer(products, many=True).data
     # return JsonResponse({"products": json_products, "q": q}, safe=False)

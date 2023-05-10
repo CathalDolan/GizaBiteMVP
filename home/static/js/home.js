@@ -22,7 +22,7 @@ $(document).ready(function(){
             SEARCH_STRING = $(this).val();
             var field = $(this);
             $(this).next(".suggestions-list").empty()
-            fetch(`https://8000-cathaldolan-gizabitemvp-d7bejlihi03.ws-eu96b.gitpod.io/get_products/${q}`)
+            fetch(`https://8000-cathaldolan-gizabitemvp-d7bejlihi03.ws-eu97.gitpod.io/get_products/${q}`)
             .then(response => response.json())
             .then(data => {
                 PRODUCTS = data.products;
@@ -62,22 +62,17 @@ $(document).ready(function(){
         gatherNutrientInfo();
     })
 
-    $('input').click(function() {
-        console.log("this = ", $(this))
-        this.focus()
-    })
-
     $(document).on("change", ".cooking-method-container", function() {
         console.log("COOKING METHOD CHANGED");
         console.log("this = ", $(this).children('select').val());
+        // $(this).next().children('select').val("")
         var cooking_method = $(this).children('select').val();
         if(cooking_method == 1) {
-            console.log("this.next = ",$(this).next().children('select').children(":first"));
             $(this).next().children('select').empty().append(
                         `<option value=""></option>
-                        <option value=0>Water</option>
-                        <option value=0>Stock</option>
-                        <option value=0>Bouillon</option>`)
+                        <option value=1>Water</option>
+                        <option value=2>Stock</option>
+                        <option value=3>Bouillon</option>`)
         }
         if(cooking_method == 2) {
             $(this).next().children('select').empty().append(
@@ -99,14 +94,9 @@ $(document).ready(function(){
                 <option value=44.9>Vegetable Oil</option>
                 <option value=44.7>Nut Oil</option>
                 <option value=44.8>Animal Fat</option>
-                <option value=1>1 Kcal Spray</option>
-                <option value=43.9>Ghee</option>
-                `).val(2)
+                `)
         }
-        // $(this).next().children('select').val("")
-        var select_field = $(this).next().children('select');
-        select_field.selectedIndex = -1;
-        console.log("select_field = ", select_field)
+        $(this).next().children('select').attr("value", "")
         gatherNutrientInfo();
     })
     $(document).on("change", "input:not('.ingredient_name'), select", function() {
@@ -272,20 +262,28 @@ $(document).ready(function(){
                         var unit_of_measurement = $(ingredient).find("[name='unit_of_measurement']").val();
                         if(coating === true || product.deep_frying_index == 4) {
                             console.log("coating === true || product.deep_frying_index == 4");
-                            EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100)*1.935);
+                            if(liquids == true || flour == true || egg  == true || bread == true) {
+                                EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100)*1.935);
+                            }
+                            else {
+                                EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100));
+                            }
                             console.log("EnergyKcals = ", EnergyKcals);
                         }
                         else {
+                            //deep_frying_index == 1 == Absorption rate @ +151.21% -------- Substrate not factored
                             if(product.deep_frying_index == 1) {
                                 console.log("product.deep_frying_index == 1");
                                 EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100)*2.5121);
                                 console.log("EnergyKcals = ", EnergyKcals);
                             }
+                            //deep_frying_index == 2 == Absorption rate @ +42.65%
                             if(product.deep_frying_index == 2) {
                                 console.log("product.deep_frying_index == 2");
                                 EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100)*1.4265);
                                 console.log("EnergyKcals = ", EnergyKcals);
                             }
+                            //deep_frying_index == 1 == Absorption rate @ +26.24%
                             if(product.deep_frying_index == 3) {
                                 console.log("product.deep_frying_index == 3");
                                 EnergyKcals += (product.energy_kcal*((portion_amount*unit_of_measurement)/100)*1.2624);
@@ -517,7 +515,7 @@ $(document).ready(function(){
                                 <label class="did-floating-label cooking_method_label">Cooking Method</label>
                             </div>
                             <div class="col-md-6 mt-2 col-12 did-floating-label-content">
-                                <select class="form-select custom-select-icon pe-0 input did-floating-select"  name="substrate" onclick="this.setAttribute('value', this.value);" onchange="this.setAttribute('value', this.value);" value="">
+                                <select class="form-select custom-select-icon pe-0 input did-floating-select"  name="substrate" onclick="this.setAttribute('value', this.value);"onchange="this.setAttribute('value', this.value);" value="">
                                     <option value=" "></option>
                                     <option value="Vegetable Oil">Vegetable Oil</option>
                                     <option value="Animal Fat">Animal Fat</option>
@@ -577,6 +575,7 @@ $(document).ready(function(){
         } else if (portion_amount > 0) {
             $(".batch_amount").val(batch_amount_calc);
         }
+        gatherNutrientInfo()
     });
     // Function to calculate Portion Amount
     $("#ingredient_group_container").on("keyup", ".batch_amount", function(){
@@ -590,6 +589,7 @@ $(document).ready(function(){
             $(this).val("");
             alert("Please add number of portions");
         }
+        gatherNutrientInfo()
     });
     // Function to calculate Batch Amount
     $("#ingredient_group_container").on("keyup", ".portion_amount", function(){
@@ -602,6 +602,7 @@ $(document).ready(function(){
             $(this).val("");
             alert("Please add number of portions");
         }
+        gatherNutrientInfo()
     });
 
 })
