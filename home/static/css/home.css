@@ -219,6 +219,15 @@ hr.max_width_500 {
     color: #323840;
     border-radius: 4px;
     box-sizing: border-box;
+    &:focus{
+        outline:none;
+        ~ .did-floating-label{
+            top:-9px;
+            font-size:11px;
+            background: #dddddd;
+            border-radius: 4px;
+        }
+    }
 }
 
 select.did-floating-select {
@@ -226,6 +235,7 @@ select.did-floating-select {
     -moz-appearance: none;
     appearance: none;
 }
+
 select.did-floating-select::-ms-expand {
     display: none;
 }
@@ -241,12 +251,13 @@ select.did-floating-select::-ms-expand {
 #total_allergens p {
     margin-bottom: 0;
 }
+
 .allergens-footnote {
     font-size: .7rem;
     text-align: right;
 }
-/*--- Floating Label End ---*/
 
+/*--- Floating Label End ---*/
 #help_us_form_div {
     max-width: 500px;
 }

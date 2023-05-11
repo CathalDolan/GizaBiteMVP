@@ -44,9 +44,23 @@ def help_us_test(request):
 
 def get_products(request, q):
     print("getProducts = ", q)
+    products = Products.objects.all().select_related('category', 'sub_category', 'cooked_or_raw', 'source').prefetch_related('allergen')
+    # products = Products.objects.all().filter(Q(name__icontains=q)).select_related('category', 'sub_category', 'cooked_or_raw', 'source').prefetch_related('allergen')
+    replacements = [("'", ""), ("-", "")]
+    for char, replacement in replacements:
+        if char in q:
+            q = q.replace(char, replacement)
     keywords = q.split()
-    print("keywords = ", keywords)
-    products = Products.objects.all().filter(Q(name__icontains=q)).select_related('category', 'sub_category', 'cooked_or_raw', 'source').prefetch_related('allergen')
+    for word in keywords:
+        print("word = ", word)
+        if word == '&' or word == '+':
+            print("IF")
+            word = 'and'
+        if len(word) > 1:
+            if word.endswith('s') or word.endswith('d'):
+                word = word[:-1]
+        print("word = ", word)
+        products = products.filter(Q(name__icontains=word))
     json_products = ProductsSerializer(products, many=True).data
     # return JsonResponse({"products": json_products, "q": q}, safe=False)
     qr_json = json.dumps(list(json_products), ensure_ascii=False, default=str)
