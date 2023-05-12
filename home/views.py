@@ -98,8 +98,8 @@ def product_admin(request):
             if main_categories > 0 and sub_categories > 0 and sources > 0 and cooked_raw > 0 and allergens > 0:
                 print("Add products start")
                 products = Products.objects.all()
-                for product in products:
-                    product.delete()
+                # for product in products:
+                #     product.delete()
                 for record in records:
                     # print(record)
                     category = MainCategories.objects.get(name=record['Main_Category'])
