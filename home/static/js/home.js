@@ -22,7 +22,7 @@ $(document).ready(function(){
             SEARCH_STRING = $(this).val();
             var field = $(this);
             $(this).next(".suggestions-list").empty()
-            fetch(`https://8000-cathaldolan-gizabitemvp-2fe79spgt3d.ws-eu96b.gitpod.io/get_products/${q}`)
+            fetch(`https://gizabitemvp.herokuapp.com/get_products/${q}`)
             .then(response => response.json())
             .then(data => {
                 PRODUCTS = data.products;
