@@ -7,8 +7,10 @@ from import_export.admin import ExportActionMixin
 class AllergensInline(admin.TabularInline):
     model = Products.allergen.through
 
+
 class AllergenTestInline(admin.TabularInline):
     model = ProductTest.allergen.through
+
 
 class MainCategoriesAdmin(admin.ModelAdmin):
     list_display = (
@@ -87,7 +89,7 @@ class ProductsAdmin(ExportActionMixin, admin.ModelAdmin):
     inlines = [
         AllergensInline,
     ]
-    ordering = ('sub_category',)
+    ordering = ('pk',)
 
 
 # class ProductAllergensAdmin(admin.ModelAdmin):
