@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 
 from pathlib import Path
 import os
+import dj_database_url
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -109,12 +110,17 @@ WSGI_APPLICATION = 'gizabitemvp.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+if 'DATABASE_URL' in os.environ:
+    DATABASES = {
+        'default': dj_database_url('postgres://kkynpafaovwtev:2a734ea21abee117f9c6a6ab64913634dd64f661aeaae8dda7f0bf69cd4b2e09@ec2-54-73-22-169.eu-west-1.compute.amazonaws.com:5432/d6kur20mum7hdj')
     }
-}
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': BASE_DIR / 'db.sqlite3',
+            }
+    }
 
 
 # Password validation
@@ -174,3 +180,7 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
     ]
 }
+
+# Configure Django App for Heroku.
+import django_on_heroku
+django_on_heroku.settings(locals())
