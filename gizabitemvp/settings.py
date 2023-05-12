@@ -30,6 +30,7 @@ DEBUG = 'DEVELOPMENT' in os.environ
 ALLOWED_HOSTS = [
     "gitpod.io",
     "localhost",
+    "gizabitemvp.herokuapp.com",
 ]
 
 CSRF_TRUSTED_ORIGINS = ["https://*.gitpod.io"]
