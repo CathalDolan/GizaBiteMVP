@@ -114,7 +114,7 @@ WSGI_APPLICATION = 'gizabitemvp.wsgi.application'
 
 if 'DATABASE_URL' in os.environ:
     DATABASES = {
-        'default': dj_database_url('postgres://kkynpafaovwtev:2a734ea21abee117f9c6a6ab64913634dd64f661aeaae8dda7f0bf69cd4b2e09@ec2-54-73-22-169.eu-west-1.compute.amazonaws.com:5432/d6kur20mum7hdj')
+        'default': dj_database_url.parse(os.environ.get('DATABASE_URL'))
     }
 else:
     DATABASES = {
